@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "name": "Sample title - big data solutions",
+        "image": "images/s1.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "Web design",
+                "url": "#"
+            },
+            {
+                "name": "Wordpress",
+                "url": "#"
+            },
+            {
+                "name": "Logotype",
+                "url": "#"
+            }
+        ]
+    }
+]
