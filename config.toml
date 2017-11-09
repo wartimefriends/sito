@@ -5,23 +5,19 @@ defaultContentLanguage = "it"
 # theme = "hugo-initio"
 title = "Wartime Friends"
 
-[Languages]
+[languages]
 
-[Languages.it]
+[languages.it]
 title = "Associazione Culturale \"Wartime Friends\""
 weight = 1
-[Languages.it.params]
-linkedin = "italiano"
-[Languages.it.navigation]
+
+[languages.it.navigation]
 help  = "Aiuto"
 
 
-[Languages.en]
+[languages.en]
 title = "Cultural Association Wartime Friends"
 weight = 2
-[Languages.en.params]
-linkedin = "english-link"
-
 
 
 [params]
@@ -32,8 +28,8 @@ linkedin = "english-link"
 #   address = "234 Hidden Pond Road, Ashland City, TN 37015"
     year = 2017
     background = ""
-    favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"
+    favicon = "images/gt_favicon.png"
 
     showSubheader = true
     showServices = false
@@ -42,21 +38,84 @@ linkedin = "english-link"
     showClients = false
 
 
-[[menu.main]]
-    name = "home"
+
+
+[[languages.it.menu.main]]
+    name = "inizio"
     url = "/"
     weight = 1
-[[menu.main]]
-    name = "blog"
-    url = "/post/"
-    weight = 5
+[[languages.it.menu.main]]
+    name = "chi siamo"
+    url = "/about/"
+    weight = 2
+[[languages.it.menu.main]]
+    name = "storia"
+    url = "/history/"
+    weight = 3
+[[languages.it.menu.main]]
+    name = "amici"
+    url = "/friends/"
+    weight = 4
+[[languages.it.menu.main]]
+    name = "ricerche"
+    url = "/research/"
+    weight = 6
+[[languages.it.menu.main]]
+    name = "mostre"
+    url = "/exibitions/"
+    weight = 7
+[[languages.it.menu.main]]
+    name = "cimiteri di guerra"
+    url = "/cemeteries/"
+    weight = 8
 
-[params.disqus]
-    site = "hugo-initio-site.disqus.com"
 
-[params.sharethis]
-    property = "123456789012345678901234"
-    custom = true
+
+[[languages.en.menu.main]]
+    name = "home"
+    url = "/en/"
+    weight = 1
+[[languages.en.menu.main]]
+    name = "about us"
+    url = "/en/about/"
+    weight = 2
+[[languages.en.menu.main]]
+    name = "history"
+    url = "/en/history/"
+    weight = 3
+[[languages.en.menu.main]]
+    name = "friends"
+    url = "/en/friends/"
+    weight = 4
+[[languages.en.menu.main]]
+    name = "research"
+    url = "/en/research/"
+    weight = 6
+[[languages.en.menu.main]]
+    name = "exibitions"
+    url = "/en/exibitions/"
+    weight = 7
+[[languages.en.menu.main]]
+    name = "war cemeteries"
+    url = "/en/cemeteries/"
+    weight = 8
+
+
+
+# [[menu.main]]
+#     name = "blog"
+#     url = "/post/"
+#     weight = 5
+
+
+
+
+# [params.disqus]
+#     site = "hugo-initio-site.disqus.com"
+
+# [params.sharethis]
+#     property = "123456789012345678901234"
+#     custom = true
 
 # [params.google.analytics]
 #     trackerID = "GA-000000000-0"
