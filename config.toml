@@ -1,5 +1,6 @@
 # baseURL = "https://wartimefriends.org/"
 baseURL = ""
+relativeurls = true
 # languageCode = "en-us"
 # languageCode = "it-it"
 defaultContentLanguage = "it"
