@@ -1,5 +1,5 @@
 # baseURL = "https://wartimefriends.org/"
-baseURL = "https://wartimefriends.netlify.com"
+baseURL = "https://wartimefriends.netlify.com/"
 # relativeurls = true
 # languageCode = "en-us"
 # languageCode = "it-it"
