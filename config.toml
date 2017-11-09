@@ -1,4 +1,5 @@
-baseURL = "https://wartimefriends.org/"
+# baseURL = "https://wartimefriends.org/"
+baseURL = ""
 # languageCode = "en-us"
 # languageCode = "it-it"
 defaultContentLanguage = "it"
