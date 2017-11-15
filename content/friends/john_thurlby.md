@@ -2,6 +2,8 @@
 title = "John Thurlby"
 +++
 
+<img src="/images/files/John Thurlby.jpg" width="125" height="169" title="John Thurlby">
+
 
 Nato il 17 febbraio 1924 a Elston, vicino a Newark-on-Trent, Notts.
 
@@ -17,5 +19,25 @@ Al suo rientro in Patria, John si congeda e sposa la dolcissima Mary. Grazie ai 
 
 Egli ha fornito al nostro gruppo una grande quantità di materiale, notizie, chiarimenti, tutti molto utili per la nostra ricerca ed inoltre ci ha fatto conoscere le vignette umoristiche che venivano pubblicate sul giornale dell’Ottava Armata, dando così un prezioso contributo, insieme a molti altri, per la realizzazione della mostra “Wartime Cartoons”.
 
-John non è mai più ritornato in Italia, ma molti bagnacavallesi sono andati a Stone per incontrarlo ed ancora oggi rimangono molti forti e frequenti i contatti con lui e la moglie Mary. Il Comune di Bagnacavallo, in occasione del 60° Anniversario della Liberazione della Città ha conferito a John Thurlby la Cittadinanza Onoraria.
+John non è mai più ritornato in Italia, ma molti bagnacavallesi sono andati a Stone per incontrarlo mantenendo forti e frequenti  contatti con lui e la moglie Mary. 
+
+Il Comune di Bagnacavallo, in occasione del 60° Anniversario della Liberazione della Città ha conferito a John Thurlby la Cittadinanza Onoraria.
+
 John è morto il 20 febbraio 2010 a Stone, pochi giorni dopo il suo 86.mo compleanno.
+
+<table >
+    <tr>
+<td >
+<a href="/images/files/Rose.jpg" target=_blank><img src="/images/files/Rose.jpg" title="Rose di John"></a>
+</td>
+<td>
+<a href="/images/files/Targa_Rose.jpg" target=_blank><img src="/static/docs//files/Targa_Rose.jpg"  width="300" height="225"title="targa giardino delle rose -John Thurlby">
+</td>
+<td ><img src="/images/files/Rose2.jpg" title="Rose di John">
+</td>
+
+   </tr>
+ </table>
+
+<hr>  
+[Intervista ai veterani John Thurlby e Alan Corlett Woods](./interview/)

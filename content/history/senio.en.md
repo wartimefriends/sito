@@ -30,7 +30,6 @@ Fall brought more rain to northern Italy and in October the First Canadian Divis
 
 Later that month, the Canadians were once again placed in reserve for a rest after 10 weeks of fighting, then rejoined the fight as the Eighth Army continued the battle for the Lombardy Plain against increasingly desperate German defenders who stopped the Allies at the Senio River. The winter again brought a stalemate. In February 1945, the Canadian Corps was withdrawn from Italy to join the advance in Europe against Germany.
 
-[![From Lamone to Senio](https://img.youtube.com/vi/OB09QpB0z10/0.jpg)](https://www.youtube.com/watch?v=OB09QpB0z10)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OB09QpB0z10" frameborder="0" allowfullscreen></iframe>

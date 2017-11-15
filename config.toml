@@ -64,7 +64,7 @@ weight = 2
     weight = 6
 [[languages.it.menu.main]]
     name = "mostre"
-    url = "/exibitions/"
+    url = "/exhibitions/"
     weight = 7
 [[languages.it.menu.main]]
     name = "cimiteri di guerra"
@@ -94,8 +94,8 @@ weight = 2
     url = "/en/research/"
     weight = 6
 [[languages.en.menu.main]]
-    name = "exibitions"
-    url = "/en/exibitions/"
+    name = "exhibitions"
+    url = "/en/exhibitions/"
     weight = 7
 [[languages.en.menu.main]]
     name = "war cemeteries"
