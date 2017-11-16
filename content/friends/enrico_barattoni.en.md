@@ -21,8 +21,9 @@ Enrico oggi ha 88 anni compiuti, gli occhi ancora vispi, fa ginnastica ed è app
 Enrico Barattoni racconta così con parole semplici la sua guerra, il suo ritorno a casa, l’abbraccio con la madre, la madrina di guerra ritrovata con la quale oggi, entrambi ultra ottantenni si scrivono e si telefonano dandosi conforto come allora.
  
 <img src="/images/files/Barattoni.JPG" border="1" bordercolor="black" width="248" height="360"> 
-[La copertina del libro](/docs/Barattoni_copertina.pdf)
-[Scarica il libro in formato PDF (37 Mb)](https://github.com/wartimefriends/sito/raw/master/resources/docs/Barattoni_libro.pdf)
+
+- [La copertina del libro](/docs/Barattoni_copertina.pdf)
+- [Scarica il libro in formato PDF (37 Mb)](https://github.com/wartimefriends/sito/raw/master/resources/docs/Barattoni_libro.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mHi3bs49XBg" frameborder="0" allowfullscreen></iframe>
 

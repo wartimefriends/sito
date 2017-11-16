@@ -20,9 +20,10 @@ Enrico oggi ha 88 anni compiuti, gli occhi ancora vispi, fa ginnastica ed è app
  Io ce l’ho fatta a tornare a casa, distrutto, affamato, 49 chili dilaniati dall’intercolite sanguinosa ma sono tornato, ho lavorato tutta la vita, ho cercato di non pensare a quella giovinezza bruciata ma non volevo dimenticare e oggi a 88 anni ho chiesto a mia figlia Fulgida e a mio nipote Gianandrea se potevano accompagnarmi ad El Alamein perché avevo una promessa da mantenere. Era una promessa che avevo fatto tanti anni fa quando estraevo i miei compagni dalle buche perché il Ghibli non li imprigionasse e soffocasse… a volte ce la facevo… a volte no…. La guerra è una cosa brutta...”.
 Enrico Barattoni racconta così con parole semplici la sua guerra, il suo ritorno a casa, l’abbraccio con la madre, la madrina di guerra ritrovata con la quale oggi, entrambi ultra ottantenni si scrivono e si telefonano dandosi conforto come allora.
  
-<img src="/images/files/Barattoni.JPG" border="1" bordercolor="black" width="248" height="360"> 
-[La copertina del libro](/docs/Barattoni_copertina.pdf)
-[Scarica il libro in formato PDF (37 Mb)](https://github.com/wartimefriends/sito/raw/master/resources/docs/Barattoni_libro.pdf)
+<img src="/images/files/Barattoni.JPG" border="1" bordercolor="black" width="248" height="360">
+
+- [La copertina del libro](/docs/Barattoni_copertina.pdf)
+- [Scarica il libro in formato PDF (37 Mb)](https://github.com/wartimefriends/sito/raw/master/resources/docs/Barattoni_libro.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mHi3bs49XBg" frameborder="0" allowfullscreen></iframe>
 
