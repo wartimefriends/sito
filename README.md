@@ -9,7 +9,7 @@ Netlify è configurato per usare la versione 0.30.2 di Hugo (netlify.toml), quin
 > hugo --cleanDestinationDir --verbose --watch
 
 #### 'server' (con 'watch')
-> hugo server --cleanDestinationDir --baseURL homer.local --bind 0.0.0.0 --verbose --watch
+> hugo server --cleanDestinationDir --baseURL localhost --bind 0.0.0.0 --verbose --watch
 
 
 ## Parametri extra per vedere 
