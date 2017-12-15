@@ -9,7 +9,7 @@ Il lavoro autunnale del 2006, ha portato alla realizzazione di una serie di 15 p
 
 ![Sunny Italy](/images/files/sunnyitaly.jpg)
 
-# [I pannelli della Mostra][pannelli]  
+**[I pannelli della Mostra][pannelli]**
                                   
 **Inaugurazione Dicembre 2006** - La prima esibizione si è svolta a partire dal 16 dicembre 2006 all'interno della **[Chiesa del Suffragio][bagnacavallo]** di Bagnacavallo (clicca sul link per vedere alcuni video). 
 

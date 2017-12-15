@@ -11,21 +11,14 @@ La guerra portò Fred dall’Italia in Europa e quando la guerra finì nel 1945 
 A sessant’anni Fred si ritirò nel cottage di famiglia nel nord Ontario dove visse per il resto della sua vita.
  Morì nel marzo del 1999. La moglie Mary ed i suoi cinque figli, Kirk, Gord, Mike, Mary-Katherine e Hal ed i dieci nipoti, con i quali siamo in contatto, ci hanno fornito queste informazioni.
 
-<table >
-    <tr>
-       <td > <a href="/images/files/Fred Cederberg in europe.jpg"  target=_blank><img src="/images/files/Fred Cederberg in europe.jpg" width="300" height="465" title="Fred Cederberg con i suoi commilitoni" ></a>
+<a href="/images/files/Fred Cederberg in europe.jpg"  target=_blank><img src="/images/files/Fred Cederberg in europe.jpg" width="300" height="465" title="Fred Cederberg con i suoi commilitoni" ></a>
 
-</td>
- <td >
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4FfrOIvowgg" frameborder="0" allowfullscreen></iframe>
 
-</td>
-   </tr>
- </table>
 ___
 
-##THE LONG ROAD HOME
+**THE LONG ROAD HOME**
 Sottratti a culture diverse e a diverse parti del paese, tre giovani canadesi entrarono in guerra oltreoceano con ben poco in comune tra loro, oltre alla loro nazionalità e il loro mix di eccitazione e trepidazione. Ma durante la formazione militare e al fronte, nacque una stretta amicizia che sosterrà  loro nei momenti più bui  e “The Long Road Home” è la loro storia. Sulla base delle esperienze dell’ autore, Fred Cederberg, questo libro è un classico canadese, che racconta la storia di un giovane dei “Capo Breton” inviato a combattere contro le potenze dell'Asse nella lontana Italia.
 <br>
 <img src="/images/files/cederberg Fred.jpeg" alt="The long Road Home" ><br>

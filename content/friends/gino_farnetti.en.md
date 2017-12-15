@@ -2,7 +2,7 @@
 title= "Gino Farnetti Bragaglia"
 +++
 
-<img src="/files/Gino_bambino.jpg" width="105" height="169" title="Gino Farnetti Bragaglia">
+<img src="/images/files/Gino_bambino.jpg" width="105" height="169" title="Gino Farnetti Bragaglia">
 
 #GINO
 

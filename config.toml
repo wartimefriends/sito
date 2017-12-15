@@ -59,6 +59,10 @@ weight = 2
     url = "/friends/"
     weight = 4
 [[languages.it.menu.main]]
+    name = "notizie"
+    url = "/news/"
+    weight = 5
+[[languages.it.menu.main]]
     name = "ricerche"
     url = "/research/"
     weight = 6
@@ -89,6 +93,10 @@ weight = 2
     name = "friends"
     url = "/en/friends/"
     weight = 4
+[[languages.en.menu.main]]
+    name = "news"
+    url = "/en/news/"
+    weight = 5
 [[languages.en.menu.main]]
     name = "research"
     url = "/en/research/"

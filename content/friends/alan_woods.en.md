@@ -19,4 +19,6 @@ On December 21st 2004, 60th Anniversary of the Liberation of Bagnacavallo, Alan 
 <hr>  
 [Interview with Veterans John Thurlby and Alan Corlett Woods](/en/friends/interview/)
 
-<a href="/images/files/BBC Radio Stoke.mp3" >BBC Radio Stoke interview   </a>  <img src="/images/files/radio.gif"  
+<a href="/images/files/BBC Radio Stoke.mp3" >BBC Radio Stoke interview </a> 
+<img src="/images/files/radio.gif">
+

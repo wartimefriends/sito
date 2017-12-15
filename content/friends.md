@@ -5,7 +5,7 @@ title = "Amici"
 Questa pagina contiene racconti, biografie e altro ancora di amici conosciuti durante le noste ricerche:
 
 - [John Thurlby](/friends/john_thurlby/)
-- [Alan Corlett Woods](/frineds/alan_woods/)
+- [Alan Corlett Woods](/friends/alan_woods/)
 - [Alberto Toni POW](/friends/alberto_toni/)
 - [Rosalia Fantoni](/friends/rosalia_fantoni/)
 - [Enrico Barattoni](/friends/enrico_barattoni/)

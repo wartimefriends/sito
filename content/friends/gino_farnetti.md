@@ -2,9 +2,9 @@
 title= "Gino Farnetti Bragaglia"
 +++
 
-<img src="/files/Gino_bambino.jpg" width="105" height="169" title="Gino Farnetti Bragaglia">
+<img src="/images/files/Gino_bambino.jpg" width="105" height="169" title="Gino Farnetti Bragaglia">
 
-#STORIA DI GINO
+**STORIA DI GINO**
 
 Quel calcio al fondoschiena di Gino fu decisamente inopportuno. Se il soldato avesse appena riflettuto prima di attivare il suo arto inferiore a danno del bambino, questi non avrebbe contestualmente maturato una profonda avversione per lui e per quegli in divisa come lui e l’esercito tedesco non avrebbe visto ingrossare la schiera di coloro che lo avevano in odio.
  È, presumibilmente, la tarda primavera del 1944. Pare certo, invece, che lo scenario fosse quell’alternarsi di colline e piccole valli che si aprono a sud di Frosinone, verso Torrice, più o meno in prossimità della via Casilina.
@@ -57,7 +57,7 @@ Costantino Jadecola
 <iframe width="640" height="360" src="http://www.youtube.com/embed/wZ4aKkMFfU8" frameborder="0" allowfullscreen></iframe>
 ___
 
-##Cerimonia di conferimento della Cittadianza Onoraria di Torrice:
+**Cerimonia di conferimento della Cittadianza Onoraria di Torrice:**
 
 <table>
 <tr>
@@ -68,10 +68,10 @@ ___
 <a href="/images/files/GinocittOnoraria2.JPG" target=_blank><img src="/images/files/GinocittOnoraria2.JPG"  width="200" height="150"title="WELCOME Gino"> </a>
 </td>
 <td>
-<a href="/images/files/GinocittOnoraria3.JPG" target=_blank><img src="/files/GinocittOnoraria3.JPG"  width="200" height="150"title="Attaché militaire and Gino"></a>
+<a href="/images/files/GinocittOnoraria3.JPG" target=_blank><img src="/images/files/GinocittOnoraria3.JPG"  width="200" height="150"title="Attaché militaire and Gino"></a>
 </td>
 <td>
-<a href="/images/files/GinocittOnoraria4.JPG" target=_blank><img src="/files/GinocittOnoraria4.JPG"  width="200" height="150"title="Autorità"></a>
+<a href="/images/files/GinocittOnoraria4.JPG" target=_blank><img src="/images/files/GinocittOnoraria4.JPG"  width="200" height="150"title="Autorità"></a>
 </td>
 </tr>
 </table>
@@ -79,7 +79,7 @@ ___
 <table>
 <tr>
 <td>
-<a href="/images/files/GinocittOnoraria5.JPG" target=_blank><img src="/files/GinocittOnoraria5.JPG" width="200" height="150" title="Autorità"></a>
+<a href="/images/files/GinocittOnoraria5.JPG" target=_blank><img src="/images/files/GinocittOnoraria5.JPG" width="200" height="150" title="Autorità"></a>
 </td>
 <td>
 <a href="/images/files/GinocittOnoraria6.JPG" target=_blank><img src="/images/files/GinocittOnoraria6.JPG"  width="200" height="150"title="Autorità"> </a>
