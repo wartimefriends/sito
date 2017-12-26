@@ -2,7 +2,7 @@
 title= "Cimiteri di guerra"
 +++
 
-#I Caduti di Guerra del Commonwealth in Italia#
+**I Caduti di Guerra del Commonwealth in Italia**
 
 
 Sono circa 50.000 i caduti delle due Guerre Mondiali sepolti o commemorati In Italia.
@@ -36,11 +36,16 @@ I Cimiteri hanno due monumenti in comune:
 
 I cimiteri di guerra più prossimi a noi sono:
 
-[Cimitero di Villanova di Bagnacavallo](/cemeteries/villanova)
-[Cimitero di Ravenna](/cemeteries/ravenna/)  
+[Cimitero di Villanova di Bagnacavallo](/cemeteries/villanova/)
+
+[Cimitero di Ravenna](/cemeteries/ravenna/) 
+
 [Cimitero di Argenta](/cemeteries/argenta/)
+
 [Cimitero di Faenza](/cemeteries/faenza/)
+
 [Cimitero di Bologna](/cemeteries/bologna/)
 
 
-##[Visite e Commemorazioni](/cemeteries/visits/)
+
+**[Visite e Commemorazioni](/cemeteries/visits/)**

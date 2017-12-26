@@ -35,9 +35,9 @@ To our great regret, John Thurlby died on  February 20th 2010, a few days after 
 <a href="/images/files/Rose.jpg" target=_blank><img src="/images/files/Rose.jpg" title="Rose di John"></a>
 </td>
 <td>
-<a href="/images/files/Targa_Rose.jpg" target=_blank><img src="/images/files/Targa_Rose.jpg"  width="300" height="225"title="targa giardino delle rose -John Thurlby">
+<a href="/images/files/Targa_Rose.jpg" target=_blank><img src="/images/files/Targa_Rose.jpg"  width="300" height="225"title="targa giardino delle rose -John Thurlby"></a>
 </td>
-<td ><img src="/images/files/Rose2.jpg" title="Rose di John">
+<td ><a href="/images/files/Rose2.jpg" target=_blank><img src="/images/files/Rose2.jpg" title="Rose di John"></a>
 </td>
 
    </tr>
@@ -46,4 +46,4 @@ To our great regret, John Thurlby died on  February 20th 2010, a few days after 
 <hr>  
 [Interview with Veterans John Thurlby and Alan Corlett Woods](/en/friends/interview/)
 
-<a href="/images/files/BBC Radio Stoke.mp3" >BBC Radio Stoke interview   </a>  <img src="/images/files/radio.gif"  
+<a href="/images/files/BBC Radio Stoke.mp3" >BBC Radio Stoke interview   </a>  <img src="/images/files/radio.gif"></a> 

@@ -1,22 +1,16 @@
 [
     {
         "id": 0,
-        "name": "Sample title - big data solutions",
-        "image": "images/s1.jpg",
-        "url": "#",
+        "name": "A NEW LIFE UNDER THE BOMBS",
+        "image": "/images/files/Newlife.jpg",
+        "url": "/research/newlife/",
         "items": [
             {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Wordpress",
-                "url": "#"
-            },
-            {
-                "name": "Logotype",
-                "url": "#"
+                "name": "see more...",
+                "url": "/research/newlife/"
             }
+            
         ]
-    }
+     }
+      
 ]

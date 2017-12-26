@@ -2,7 +2,7 @@
 title= "War cemeteries"
 +++
 
-##The Commonwealth War Dead in Italy##
+**The Commonwealth War Dead in Italy**
 
 Nearly 50,000 Commonwealth dead of the two world wars are buried or commemorated in Italy.
 Most of the Commonwealth dead of the First World War, numbering approximately 4,000, are buried in seventeen war cemeteries or plots in the north of Italy.
@@ -33,11 +33,16 @@ Two monuments are common to the cemeteries: the Cross of Sacrifice, set usually 
 Among the Commonwealth War Cemeteries the following are those which are in our area or very close to it:
 
 
-[Villanova Canadian War Cemetery](/en/cemeteries/villanova)
-[Ravenna War Cemetery](/en/cemeteries/ravenna/)  
+[Villanova Canadian War Cemetery](/en/cemeteries/villanova/)
+
+[Ravenna War Cemetery](/en/cemeteries/ravenna/) 
+
 [Argenta Gap War Cemetery](/en/cemeteries/argenta/)
+
 [Faenza War Cemetery](/en/cemeteries/faenza/)
+
 [Bologna War Cemetery](/en/cemeteries/bologna/)
 
 
-##[Visits and Commemorations](/en/cemeteries/visits/)
+
+**[Visits and Commemorations](/en/cemeteries/visits/)**

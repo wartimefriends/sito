@@ -33,11 +33,10 @@ John è morto il 20 febbraio 2010 a Stone, pochi giorni dopo il suo 86.mo comple
 <td>
 <a href="/images/files/Targa_Rose.jpg" target=_blank><img src="/images/files/Targa_Rose.jpg"  width="300" height="225"title="targa giardino delle rose -John Thurlby">
 </td>
-<td ><img src="/images/files/Rose2.jpg" title="Rose di John">
+<td ><a href="/images/files/Rose2.jpg" target=_blank><img src="/images/files/Rose2.jpg" title="Rose di John">
 </td>
-
-   </tr>
+</tr>
  </table>
 
 <hr>  
-[Intervista ai veterani John Thurlby e Alan Corlett Woods](./interview/)
+[Intervista ai veterani John Thurlby e Alan Corlett Woods](/friends/interview/)
