@@ -1,5 +1,6 @@
 +++
 title= "Villanova Canadian War Cemetery"
++++
 
 has 212 burials.
 
