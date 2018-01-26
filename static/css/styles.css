@@ -201,6 +201,7 @@ a:hover {
   font-weight: 300;
   font-size: 21px;
   font-size: 1.3125rem;
+  color:#666;
 }
 .text-msg {
   line-height: 1.7em;
