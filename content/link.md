@@ -2,9 +2,9 @@
 title= "links"
 +++
 
-[Università per Adulti di Lugo](http://www.racine.ra.it/unilugo/  "Unilugo")
+[Università per Adulti di Lugo](http://www.unilugo.it/  "Unilugo")
   
-[Museo della Battaglia del Senio-Istituto Storico della Resistenza](http://http://www.istorico.ra.it/)
+[Museo della Battaglia del Senio-Istituto Storico della Resistenza](http://www.istoricora.it/ "Istituto Storico")
   
 [Imperial War Museum](http://www.iwm.org.uk/)
 

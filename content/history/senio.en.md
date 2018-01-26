@@ -34,3 +34,6 @@ Later that month, the Canadians were once again placed in reserve for a rest aft
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OB09QpB0z10" frameborder="0" allowfullscreen></iframe>
 
+
+<BR>
+<center><b><a href="/images/files/Mappa.pdf">Map</a><b> </center><br>
