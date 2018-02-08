@@ -33,7 +33,7 @@ Sanzio Guerrini beautifully played “Amazing Grace” with his bagpipes.
 <a href="/images/files/8-4-17_discorso.jpg" target=_blank><img src="/images/files/8-4-17_discorso.jpg"  width="150" height="200"title="Gérard Dupuis e Claire Lama"></a>
 </td>
 <td>
-<a href="/images/files/8-4-17_Tonino.jpg" target=_blank><img src="images//files/8-4-17_Tonino.jpg"  width="150" height="200"title=" il signor e la signora Dupuis con Tonino"></a>
+<a href="/images/files/8-4-17_Tonino.jpg" target=_blank><img src="/images/files/8-4-17_Tonino.jpg"  width="150" height="200"title=" il signor e la signora Dupuis con Tonino"></a>
 </td>
 
 </tr>
