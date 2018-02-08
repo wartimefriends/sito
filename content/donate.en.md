@@ -8,7 +8,9 @@ Puoi contribuire inviando una donazione via bonifico o sottoscrivendo la quota a
 Contributi e donazioni con bonifico, su conto corrente bancario intestato a:
 
     Wartimefriends Associazione culturale di promozione sociale
-    Via Donizetti 13 – 48012 Bagnacavallo (RA) CF: 91021130397
+    Via Donizetti 13
+    48012 Bagnacavallo (RA)
+    CF: 91021130397
     IBAN IT10N0335967684510700280139
 
 specificando  il tuo nome e come causale “contributo per Wartimefriends”
