@@ -7,7 +7,7 @@ title= "Visits and Commemorations"
 </b><br>
 <table><tr><td>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v7W3UAI0C2g" frameborder="0" allowfullscreen></iframe>
-</td><td> <h1> <a href="/en/8-aprile-2017"> Other content </a> </h1></td><tr>
+</td><td> <h1> <a href="/cemeteries/en/8-aprile-2017"> Other content </a> </h1></td><tr>
 </table>
 <br><hr><br>
 <b>December 11th 1944/December 11th 2012 - 68th Anniversary of the liberation of Villanova.   

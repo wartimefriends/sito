@@ -7,7 +7,7 @@ title= "visite e commemorazioni"
 </b><br>
 <table><tr><td>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v7W3UAI0C2g" frameborder="0" allowfullscreen></iframe>
-</td><td> <h1> <a href="/8-aprile-2017"> Vedi altro </a> </h1></td><tr>
+</td><td> <h1> <a href="/cemeteries/8-aprile-2017"> Vedi altro </a> </h1></td><tr>
 </table>
 <br><hr><br>
 <b>11 Dicembre 2012 - 68mo anniversario della liberazione di Villanova di Bagnacavallo.   
