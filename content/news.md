@@ -2,9 +2,13 @@
 title= "articoli"
 +++
 
+[Io. infoibato e sopravvissuto, da Famiglia Cristiana del 18-2-2018](/docs/IO, INFOIBATO E SOPRAVVISSUTO_10-2-18.pdf)
+
 [Soldato canadese dona la divisa al museo, da Il Resto del Carlino del 11-7-2017](/images/files/Carlino 11 7 2017.jpg)
 
 [La verità nascosta delle Marocchinate..., da LaStampaCultura del 16-3-2017](/docs/Marocchinate_la_stampa.pdf)
+
+[Quando arrivarono i Marocchini, da Lundici.it del 16-2-2016](/docs/Quando arrivarono i marocchini_16-2-16.pdf)
 
 [Il pallone di Weisz e la riconoscibilità del male, da Lundici.it del  1-2017](/docs/Il pallone di Weisz.pdf)
 

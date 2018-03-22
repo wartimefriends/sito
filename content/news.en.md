@@ -2,6 +2,12 @@
 title= "Press & News in English"
 +++
 
+[Eagles over Husky, from wordpress.com, Jan 27th 2018](/docs/EAGLES OVER HUSKY_27-01-18.pdf)
+
+[The battle of Ortona, from warhistoryonline.com,  Jan 8th 2018](/docs/The Battle of Ortona_8-1-18.pdf)
+
+[When Iran and America were allies, dailymail.co.uk,  May  23th 2016](/docs/When Iran and America were allies23-5-17.pdf)
+
 [Truro’s Walter Perrin had his share of narrow escapes... , www.trurodaily.com  May 2nd 2017](/docs/Truro Walter Perrin.pdf)
 
 [Piper Bill Millin, telegraph.co.uk  Mar 19th 2016](/docs/Piper Bill Millin.pdf)
@@ -9,6 +15,8 @@ title= "Press & News in English"
 [Into a valley of death - Winnipeg Free Press,  Dec 11th  2015](/docs/Into a valley of death - Winnipeg Free Press 11_12_2016.pdf)
 
 [The Great Escape_ Every Advantage for Every Need,  Apr  2015](/docs/Grantian Florilegium_ The Great Escape_ Every Advantage for Every Need.pdf)
+
+[The fighting Ballendines, from elinorflorence.com/blog,  Jun 25th 2014](/docs/The Fighting Ballendines_25-6-14.pdf)
 
 [The Silent Hero of Castel di Sangro,  Nov 25th 2013](/docs/The Silent Hero of Castel di Sangro.pdf)
 
