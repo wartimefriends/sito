@@ -50,11 +50,11 @@ Sta di fatto che il positivo esito della ricerca lo si poteva comunicare, con qu
 
 Costantino Jadecola
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/xHjPkdMRQpk?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/xHjPkdMRQpk?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/bau0fG904Eg?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/wZ4aKkMFfU8" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/wZ4aKkMFfU8" frameborder="0" allowfullscreen></iframe>
 ___
 
 **Cerimonia di conferimento della Cittadianza Onoraria di Torrice:**

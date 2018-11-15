@@ -12,7 +12,7 @@ title= "visite e commemorazioni"
 <br><hr><br>
 <b>11 Dicembre 2012 - 68mo anniversario della liberazione di Villanova di Bagnacavallo.   
 </b><br>
-<iframe width="560" height="315" src="http://www.youtube.com/embed/GgAAX2yr1hg?list=UUTopHeFwUPWxXs4CYVu0Tiw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GgAAX2yr1hg?list=UUTopHeFwUPWxXs4CYVu0Tiw" frameborder="0" allowfullscreen></iframe>
 
 <br><hr><br>
 <b>Tour europeo di una squadra di hockey canadese, che visita i cimiteri di Villanova e Montecchio e "Quota 204" a Tavullia.   

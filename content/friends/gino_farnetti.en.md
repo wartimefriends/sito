@@ -22,10 +22,10 @@ GINO
 
 Mariangela Rondinelli 
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/xHjPkdMRQpk?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/xHjPkdMRQpk?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/bau0fG904Eg?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/wZ4aKkMFfU8" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/wZ4aKkMFfU8" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="640" height="360" src="http://www.cbc.ca/news/canada/toronto/italian-man-rescued-as-a-boy-in-ww2-thanks-soldiers-families-decades-later-1.2683162"   frameborder="0" allowfullscreen></iframe>

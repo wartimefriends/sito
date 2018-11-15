@@ -30,11 +30,11 @@ ___
 
 ## [IL C.M. ALBERTO TONI COMPIE CENTO ANNI](/docs/art CaricatVoloire.wordpress.com_13_12_2015.pdf)
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/AbRxQQ98xe4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AbRxQQ98xe4" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/e0GL4yyNNc0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e0GL4yyNNc0" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/0ZLNgB7Wvew" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0ZLNgB7Wvew" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yVg2Lxh8fbI" frameborder="0" allowfullscreen></iframe></td>
 
