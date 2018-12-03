@@ -2,9 +2,6 @@
 title= "Il Bambino in Divisa"
 +++
 
-
-<h1>IL BAMBINO IN DIVISA</h1>
-<br>
 con la prefazione di Nevio Casadio
 <br>
 <img src="/images/files/Copertina_gino.jpg" border="1" bordercolor="black" width="290" height="418"> 
