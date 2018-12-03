@@ -1,11 +1,11 @@
 +++
-title= "donations"
+title= "DONATIONS AND MEMBERSHIP FEES"
 +++
 
-Wartimefriends It is non-profit-association and lives on the contribution of its members and the support of those who consider their work as important.
-You can contribute by sending a donation by bank transfer or by subscribing the annual membership fee of 10 euro.
+Wartimefriends is a non-profit association. It is supported by its members and by those who consider their work important. You can contribute by sending a donation 
+or by becoming a member for an annual fee of 10 euros.
  
-Contributions and donations by bank transfer to this bank account:
+Donations and membership fees can be sent by bank transfer to:
 
     Wartimefriends Associazione culturale di promozione sociale
     Via Donizetti 13
@@ -13,10 +13,12 @@ Contributions and donations by bank transfer to this bank account:
     CF: 91021130397
     IBAN IT10N0335967684510700280139
 
-specifying your name and as a causal "contribution for Wartimefriends"
+Please specify your name and the reason for the payment, i.e. donation or annual membership fee for Wartimefriends.
 
-For extra E.U. donations, please, use  this bank account:
+For bank transfers from outside the European Union, please use these details:
 SWIFT/BIC:  ICRAITRRF20
 Account number: IT62Y0854267490005000052472
 Bank: Credito Cooperativo in Bagnacavallo
-Owner: Giancarlo Tramonti for Wartimefriends
+Account holder: Giancarlo Tramonti for Wartimefriends
+
+Thank you.
