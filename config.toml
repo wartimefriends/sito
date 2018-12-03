@@ -67,13 +67,17 @@ weight = 2
     url = "/research/"
     weight = 6
 [[languages.it.menu.main]]
+    name = "libri"
+    url = "/books/"
+    weight = 7
+[[languages.it.menu.main]]
     name = "mostre"
     url = "/exhibitions/"
-    weight = 7
+    weight = 8
 [[languages.it.menu.main]]
     name = "cimiteri di guerra"
     url = "/cemeteries/"
-    weight = 8
+    weight = 9
 
 
 
@@ -102,13 +106,17 @@ weight = 2
     url = "/en/research/"
     weight = 6
 [[languages.en.menu.main]]
+    name = "books"
+    url = "/en/books/"
+    weight = 7
+[[languages.en.menu.main]]
     name = "exhibitions"
     url = "/en/exhibitions/"
-    weight = 7
+    weight = 8
 [[languages.en.menu.main]]
     name = "war cemeteries"
     url = "/en/cemeteries/"
-    weight = 8
+    weight = 9
 
 
 
