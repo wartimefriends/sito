@@ -2,7 +2,6 @@
 title= "Il Bambino in Divisa"
 +++
 
-E'  in vendita il nostro libro
 <h1>IL BAMBINO IN DIVISA</h1>
 <br>
 con la prefazione di Nevio Casadio
@@ -10,7 +9,7 @@ con la prefazione di Nevio Casadio
 <img src="/images/files/Copertina_gino.jpg" border="1" bordercolor="black" width="290" height="418"> 
 
 <br>
-Pubblicato nel 2014 - Prezzo 15,00 euro.
+Pubblicato nel 2014 - Esaurito.
 
 1944: tra Alleati e Nazifascisti infuriano i combattimenti intorno
 a Cassino. Un bimbo di appena 5 anni si trova solo

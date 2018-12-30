@@ -59,7 +59,7 @@ weight = 2
     url = "/friends/"
     weight = 4
 [[languages.it.menu.main]]
-    name = "notizie"
+    name = "stampa"
     url = "/news/"
     weight = 5
 [[languages.it.menu.main]]
