@@ -42,22 +42,8 @@ Una delle pagine più intense dell’intera Seconda Guerra Mondiale, rimasta sep
 
 [Operation Husky: Then and Now, and The Story of Gino Farnetti-Bragaglia](http://www.carleton.ca/npsia/cu-events/operation-husky-gino-farnetti-bragaglia/)
 
-[Statement - Minister of Veterans Affairs Celebrates the Story of Gino Farnetti-Bragaglia](http://www.newswire.ca/en/story/1375991/statement-minister-of-veterans-affairs-celebrates-the-story-of-gino-farnetti-bragaglia)
-
-[Minister of Veterans Affairs Celebrates the Story of Gino Farnetti-Bragaglia](http://www.newswire.ca/en/story/1377295/minister-of-veterans-affairs-celebrates-the-story-of-gino-farnetti-bragaglia)
-
-[Welcoming Gino Farnetti-Bragaglia to Canada!](http://www.donplett.ca/blog.asp?blogID=46)
-
-[CBC- The Gino Farnetti-Bragaglia Story](http://www.cbc.ca/m/touch/video/clips/ys_2466869605.html?st=news&ln=topstories&pid=2466869605)
-
 [Dinner Honouring Gino Farnetti-Bragaglia’s story](http://peacethroughvalour.wordpress.com/events/dinner-honouring-gino-farnetti-bragaglias-story/)
-
-[CORRIERE ITALIANO (CANADA)/ L’IDENTITÀ RITROVATA: L'INCREDIBILE STORIA DI GINO FARNETTI-BRAGAGLIA – di Fabrizio Intravaia](http://www.wartimefriends.org/home/rassegna-stampa/177135-corriere-italiano-canada-lidentita-ritrovata-lincredibile-storia-di-gino-farnetti-bragaglia--di-fabrizio-intravaia.html)
-
-[Gino Farnetti – Bragaglia: Tutto ha inizio nel Giugno 1944](http://www.gdmed.it/paginaNotizia.php?idNotiziaDaAprire=15233)
 
 [Campagne d’Italie: 70 ans plus tard, l’orphelin italien arrive au Canada (PHOTOS/VIDÉO)](http://www.45enord.ca/2014/06/campagne-ditalie-70-ans-plus-tard-lorphelin-italien-arrive-au-canada/)
 
 [Canadians honoured for WW II rescue of Italian boy](http://www.yellowbullet.com/forum/showthread.php?p=21223698)
-
-[Operation Remembrance](http://www.icff.ca/2014/05/26/operation-remembrance/)
