@@ -4,8 +4,10 @@ title= "Vignette del tempo di guerra"
 
 
 con la prefazione di Giuseppe Masetti e Gordie Bannerman
+
+
 <br>
-<img src="/images/files/wartimecartoons.jpg" border="1" bordercolor="black" width="290" height="418"> 
+<img src="/images/files/wartimecartoons.jpg" border="1" bordercolor="black" width="290" height="280"> 
 
 <br>
 Pubblicato nel 2006
