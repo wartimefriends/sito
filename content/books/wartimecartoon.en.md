@@ -3,6 +3,8 @@ title= "Wartime cartoons"
 +++
 
 Preface by Giuseppe Masetti and Gordie Bannerman
+
+
 <br>
 <img src="/images/files/wartimecartoons.jpg" border="1" bordercolor="black" width="290" height="280"> 
 
