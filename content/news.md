@@ -2,6 +2,8 @@
 title= "articoli"
 +++
 
+[La nostra guerra, da CostrantinoIadecola blog del 28-12-2018](/docs/art 28-12-2018 LA NOSTRA GUERRA.pdf)
+
 [Io. infoibato e sopravvissuto, da Famiglia Cristiana del 18-2-2018](/docs/IO, INFOIBATO E SOPRAVVISSUTO_10-2-18.pdf)
 
 [Soldato canadese dona la divisa al museo, da Il Resto del Carlino del 11-7-2017](/images/files/Carlino 11 7 2017.jpg)

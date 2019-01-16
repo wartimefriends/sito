@@ -2,6 +2,8 @@
 title= "Press & News in English"
 +++
 
+[Awakening after two decades in Italy, from Martha Sarmatiuk, Sep 27th 2018](/images/files/art Mowat.jpg)
+
 [Eagles over Husky, from wordpress.com, Jan 27th 2018](/docs/EAGLES OVER HUSKY_27-01-18.pdf)
 
 [The battle of Ortona, from warhistoryonline.com,  Jan 8th 2018](/docs/The Battle of Ortona_8-1-18.pdf)
