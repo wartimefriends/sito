@@ -1,7 +1,7 @@
 +++
 title= "In Sunny Italy"
 +++
-<h1>Vignette del tempo di guerra</h1>
+<h2>Vignette del tempo di guerra</h2>
 
 con la prefazione di Giuseppe Masetti e Gordie Bannerman
 
