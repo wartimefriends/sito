@@ -1,6 +1,7 @@
 +++
-title= "Wartime cartoons"
+title= "In Sunny Italy"
 +++
+<h1>Wartime cartoons</h1>
 
 Preface by Giuseppe Masetti and Gordie Bannerman
 
