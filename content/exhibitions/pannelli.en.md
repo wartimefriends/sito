@@ -2,16 +2,8 @@
 title= "IN SUNNY ITALY"
 +++
 
-**La mostra**
+**The exhibition**
     
-    
-I pannelli hanno dimensioni fisiche
- ragguardevoli (1000 x 700 mm.).
-
-Di conseguenza anche i relativi PDF non
- saranno propriamente leggeri.
-
-I file hanno dimensioni da 750 KB a 3.7 MB.  
     
     
     

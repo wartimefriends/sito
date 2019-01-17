@@ -43,12 +43,12 @@ I file hanno dimensioni da 750 KB a 3.7 MB.
 <p>PN #03</p>
 </center>
 </td>
-<td><a href="/docs/pdf/PAGE_04.pdf"><img src="/images/files/th-pdf_04.jpg" width="128" height="180"></a>
+<td><a href="/docs/PAGE_04.pdf"><img src="/images/files/th-pdf_04.jpg" width="128" height="180"></a>
 <br><center>
 <p>PN #04</p>
 </center>
 </td>
-<td><a href="/docs/pdf/PAGE_05.pdf"><img src="/images/files/th-pdf_05.jpg" width="128" height="180"></a>
+<td><a href="/docs/PAGE_05.pdf"><img src="/images/files/th-pdf_05.jpg" width="128" height="180"></a>
 <br><center>
 <p>PN #05</p>
 </center>
@@ -56,17 +56,17 @@ I file hanno dimensioni da 750 KB a 3.7 MB.
 </tr>
 
 <tr>
-<td><a href="/docs/pdf/PAGE_06.pdf"><img src="/images/files/th-pdf_06.jpg" width="128" height="180"></a>
+<td><a href="/docs/PAGE_06.pdf"><img src="/images/files/th-pdf_06.jpg" width="128" height="180"></a>
 <br><center>
 <p>PN #06</p>
 </center>
 </td>
-<td><a href="/docs/pdf/PAGE_07.pdf"><img src="/images/files/th-pdf_07.jpg" width="128" height="180"></a>
+<td><a href="/docs/PAGE_07.pdf"><img src="/images/files/th-pdf_07.jpg" width="128" height="180"></a>
 <br><center>
 <p>PN #07</p>
 </center>
 </td>
-<td><a href="/docs/pdf/PAGE_08.pdf"><img src="/images/files/th-pdf_08.jpg" width="128" height="180"></a>
+<td><a href="/docs/PAGE_08.pdf"><img src="/images/files/th-pdf_08.jpg" width="128" height="180"></a>
 <br><center>
 <p>PN #08</p>
 </center>
