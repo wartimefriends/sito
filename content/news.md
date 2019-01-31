@@ -2,6 +2,8 @@
 title= "articoli"
 +++
 
+[La lezione del prof sulla Shoah, da La Repubblica del 25-1-2019](/docs/art laRepubblica La lezione del prof sulla shoah.pdf)
+
 [La nostra guerra, da CostrantinoIadecola blog del 28-12-2018](/docs/art 28-12-2018 LA NOSTRA GUERRA.pdf)
 
 [Io. infoibato e sopravvissuto, da Famiglia Cristiana del 18-2-2018](/docs/IO, INFOIBATO E SOPRAVVISSUTO_10-2-18.pdf)
