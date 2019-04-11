@@ -29,3 +29,5 @@ Mariangela Rondinelli
 <iframe width="640" height="360" src="https://www.youtube.com/embed/wZ4aKkMFfU8" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="640" height="360" src="http://www.cbc.ca/news/canada/toronto/italian-man-rescued-as-a-boy-in-ww2-thanks-soldiers-families-decades-later-1.2683162"   frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/6QQROJ1f5T4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
