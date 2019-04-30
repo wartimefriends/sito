@@ -5,35 +5,28 @@ title= "Mostre"
 <!-- img src="/images/files/sunnyitaly.jpg" WIDTH="100" HEIGHT="100" -->
 
 
-Il lavoro autunnale del 2006, ha portato alla realizzazione di una serie di 15 pannelli, con i quali è stata allestita una Mostra intitolata **[In Sunny Italy][sunny]**
+The autumn work of 2006 led to the creation of a series of 15 panels, with which an exhibition entitled In Sunny Italy was set up **[In Sunny Italy][sunny]**
 
 ![Sunny Italy](/images/files/sunnyitaly.jpg)
 
-# [I pannelli della Mostra][pannelli]  
+# [The panels of the exhibition][pannelli]  
                                   
-**Inaugurazione Dicembre 2006** - La prima esibizione si è svolta a partire dal 16 dicembre 2006 all'interno della **[Chiesa del Suffragio][bagnacavallo]** di Bagnacavallo (clicca sul link per vedere alcuni video). 
+**Inauguration December 2006 ** - The first performance took place from December 16th 2006 in the  **[Church of the Suffragio ][bagnacavallo]** in Bagnacavallo (click on link to see some videos). 
 
-Nella **primavera 2007**, la mostra si è trasferita a Lugo, prima nei locali del 
-Liceo Trisi , poi, tra Aprile e Maggio, in quelli della Biblioteca Trisi 
+In **spring 2007**, the exhibition moved to Lugo, first in the premises of the Liceo Trisi, then, between April and May, in those of the Biblioteca Trisi. 
 
-Il **5 maggio 2007**, in diretta televisiva, dagli studi di Canale 11 di Imola, alcuni
-componenti del gruppo di ricerca hanno potuto illustrare i dettagli delle attività che
-questo svolge nell'ambito dell'Università degli Adulti di Lugo, soffermandosi ovviamente
-sulla Mostra Itinerante. 
+On **May 5, 2007**, live on television, from the studios of Canale 11 in Imola, some members of the research group were able to illustrate the details of the activities carried out by the University of Adults in Lugo, focusing on the traveling exhibition. 
 
-Dal **18 Maggio 2007** è stato possibile visionarla a Villanova nell'ambito
-dei festeggiamenti in onore dei veterani canadesi in visita nella nostra provincia
+From **May 18, 2007** it has been possible to view it in Villanova as part of the celebrations in honor of Canadian veterans visiting our province.
 
-Ma è nel **Novembre 2007** che la Mostra Itinerante, sfruttando la natura bi-linguistica
-dei testi dei pannelli, varca i confini nazionali per approdare nel Regno Unito, più
-precisamente nelle città di  Stone e Stafford.
+But it is in **November 2007**  that the Itinerant Exhibition, taking advantage of the bi-linguistic nature of the texts of the panels, crosses the national borders to arrive in the United Kingdom, more precisely in the cities of Stone and Stafford.
 
-Dopo il rientro in italia, **nel 2009** i pannelli sono stati utilizzati per una mostra nella città di Cervia.
+After returning to Italy, **in 2009** the panels were used for an exhibition in the city of Cervia.
 
-Qui sotto un'intervista presso gli studi di Canale 11 che presenta la mostra e il lavoro di ricerca da noi svolto.
+Below an interview at the Canale 11 studios presenting the exhibition and the research work we carried out.
 
 
-VIDEO - Prima parte  | VIDEO - Seconda parte
+VIDEO - Part one  | VIDEO - Part two
 ---------------------|----------------------------
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z891Qm4asUI" frameborder="0" allowfullscreen></iframe> | <iframe width="560" height="315" src="https://www.youtube.com/embed/aF5_cbBl8bE" frameborder="0" allowfullscreen></iframe>
 
