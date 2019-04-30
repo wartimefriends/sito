@@ -34,5 +34,15 @@
         "items": [
             
         ]
+     },
+ 
+     {
+        "id": 3,
+        "name": "ROSE PER LA PACE",
+        "image": "/images/files/rosepace_1.jpg",
+        "url": "/research/giardinosemplici/",
+        "items": [
+            
+        ]
      }
 ]
