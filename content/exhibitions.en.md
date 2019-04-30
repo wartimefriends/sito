@@ -1,5 +1,5 @@
 +++
-title= "Mostre"
+title= "Exhibitions"
 +++
 
 <!-- img src="/images/files/sunnyitaly.jpg" WIDTH="100" HEIGHT="100" -->
@@ -9,9 +9,9 @@ The autumn work of 2006 led to the creation of a series of 15 panels, with which
 
 ![Sunny Italy](/images/files/sunnyitaly.jpg)
 
-# [The panels of the exhibition][pannelli]  
+**[The panels of the exhibition][pannelli]**
                                   
-**Inauguration December 2006 ** - The first performance took place from December 16th 2006 in the  **[Church of the Suffragio ][bagnacavallo]** in Bagnacavallo (click on link to see some videos). 
+**Inauguration December 2006** - The first performance took place from December 16th 2006 in the  **[Church of the Suffragio ][bagnacavallo]** in Bagnacavallo (click on link to see some videos). 
 
 In **spring 2007**, the exhibition moved to Lugo, first in the premises of the Liceo Trisi, then, between April and May, in those of the Biblioteca Trisi. 
 
