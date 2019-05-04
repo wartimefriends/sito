@@ -2,7 +2,7 @@
 title= "Roses for peace"
 +++
 
-<img src="/images/files/rosepace_1.jpeg" WIDTH="320" HEIGHT="233" >
+<a href="/images/files/rosepace_1.jpg" target=_blank><img src="/images/files/rosepace_1.jpg" title="Roses"></a>
 
 
 The students of the fifth grade of the Berti primary school in Bagnacavallo participated, on Wednesday 17 April, in the final moment of a project dedicated to the memory of the Second World War in our country. At the Giardino dei Semplici, coordinated by the Wartime Friends Association and accompanied by teachers, girls and boys have planted some "Roses for peace" supported by the Search for the Moon volunteers.
@@ -11,7 +11,6 @@ The initiative is part of a broader project on the theme of peace dedicated to s
 
 The president of the twinning association Amici di Neresheim, the mayor of Bagnacavallo and the councilor for educational policies were present at the initiative.
 
-<img src="/images/files/rosepace_2.jpeg" WIDTH="320" HEIGHT="233" >
+<a href="/images/files/rosepace_2.jpeg" target=_blank><img src="/images/files/rosepace_2.jpeg" title="Roses"></a>
 
-
-<img src="/images/files/rosepace_3.jpeg" WIDTH="320" HEIGHT="233" >
+<a href="/images/files/rosepace_3.jpeg" target=_blank><img src="/images/files/rosepace_2.jpeg" title="Roses"></a>
