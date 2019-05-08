@@ -1,4 +1,6 @@
-+++ title= "Testimonianze di Cervia in guerra con i murales di Jon“ +++
++++ 
+title= "Testimonianze di Cervia in guerra con i murales di Jon“ 
++++
 
 I murales della seconda guerra mondiale si fanno ammirare nella mostra "Cervia in guerra"
 
