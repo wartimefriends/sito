@@ -25,7 +25,8 @@ title= "Press & News in English"
 [Story of a true hero,  Nov 11th 2013](/docs/Story of a true hero.pdf)
 
 [Eerie Happenstance-Part I from http://www.timminstimes.com](/docs/Eerie Happenstance 1.pdf)
-[Eerie Happenstance-Part II from http://www.timminstimes.com](/docs/Eerie Happenstance 2.pdf)
+
+[I will never forget Italy, from calgaryjournal.ca, Jun 6th 2013](/images/files/Io_Non_Dimentichero_Mai.jpg)
 
 [Diary brought back to life, from Midweek, Jul 6th 2011](/docs/art Midweek 6-7-11.pdf)
 
