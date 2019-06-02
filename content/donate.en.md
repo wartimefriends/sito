@@ -1,5 +1,5 @@
 +++
-title= "DONATIONS AND MEMBERSHIP FEES"
+title="DONATIONS AND MEMBERSHIP FEES"
 +++
 
 Wartimefriends is a non-profit association.

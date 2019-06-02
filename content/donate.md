@@ -1,10 +1,10 @@
 +++
-title= "sottoscrizioni"
+title="sottoscrizioni"
 +++
 
 Wartimefriends non ha scopo di lucro e vive del contributo dei soci e del sostegno di chi ritiene importante la sua opera.
 Si può contribuire inviando una donazione via bonifico o sottoscrivendo la quota associativa annuale pari a 10 euro.
- 
+
 Contributi e donazioni con bonifico, su conto corrente bancario intestato a:
 
     Wartimefriends Associazione culturale di promozione sociale
