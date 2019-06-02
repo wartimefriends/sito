@@ -13,4 +13,4 @@ Contributi e donazioni con bonifico, su conto corrente bancario intestato a:
     Codice Fiscale: 91021130397
     IBAN IT69X0306967684510749165140
 
-specificando  nome e come e, come causale, “contributo per Wartimefriends” 
+specificando  nome e come e, come causale, “contributo per Wartimefriends”
