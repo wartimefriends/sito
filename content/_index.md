@@ -1,5 +1,5 @@
 +++
-title = "Wartime Friends"
+title="Wartime Friends"
 contentClass = "home"
 +++
 
