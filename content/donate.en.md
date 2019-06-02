@@ -4,7 +4,7 @@ title="DONATIONS AND MEMBERSHIP FEES"
 
 Wartimefriends is a non-profit association.
 It is supported by its members and by those who consider their work important. You can contribute by sending a donation or by becoming a member for an annual fee of 10 euros.
- 
+
 Donations and membership fees can be sent by bank transfer to:
 
     Wartimefriends Associazione culturale di promozione sociale

@@ -44,5 +44,14 @@
         "items": [
             
         ]
+     },
+     {
+        "id": 4,
+        "name": "ROSE PER LA PACE",
+        "image": "/images/Mostra_murales.jpg",
+        "url": "/exhibitions/cervia/",
+        "items": [
+            
+        ]
      }
 ]
