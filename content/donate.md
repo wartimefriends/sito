@@ -11,6 +11,6 @@ Contributi e donazioni con bonifico, su conto corrente bancario intestato a:
     Via Donizetti 13
     48012 Bagnacavallo (RA)
     Codice Fiscale: 91021130397
-    IBAN IT10N0335967684510700280139
+    IBAN IT69X0306967684510749165140
 
 specificando  nome e come e, come causale, “contributo per Wartimefriends” 
