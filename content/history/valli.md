@@ -4,4 +4,4 @@ title= "L'ARMATA DELLE VALLI"
 
 Da "DIARIO DI UN CRONISTA" di Sergio Zavoli
 
-<iframe src="https://player.vimeo.com/video/173467814" width="640" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lI0GtrQlwRs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
