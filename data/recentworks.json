@@ -27,7 +27,16 @@
      },
  
      {
-        "id": 2,
+      "id": 2,
+      "name": "PROGETTO SCUOLE ELEMENTARI",
+      "image": "/images/files/Papaveri-2.jpg",
+      "url": "/research/elementari/",
+      "items": [
+          
+      ]
+   },
+     {
+        "id": 5,
         "name": "L'ARMATA DELLE VALLI",
         "image": "/images/files/armatavalli.jpg",
         "url": "/history/valli/",
