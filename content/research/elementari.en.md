@@ -8,5 +8,5 @@ Progetto e archivio storico a cura di: Wartime friends.
 
 Produzione video: Biroke studio.
 
-<a href="/images/files/elementariBllo.jpg" target=_blank><img src="/images/files/elementariBllo.jpg" title="Rose di John"></a>
+<a href="/images/files/elementariBllo.jpg" target=_blank><img src="/images/files/elementariBllo.jpg" title="elementari"></a>
 
