@@ -2,6 +2,8 @@
 title= "articoli"
 +++
 
+[L'omaggio ai liberatori canadesi, da Corriere Frosinone del 30-5-2019](/docs/art Frosinone_31_5_2019.pdf)
+
 [La lezione del prof sulla Shoah, da La Repubblica del 25-1-2019](/docs/art laRepubblica La lezione del prof sulla shoah.pdf)
 
 [La nostra guerra, da CostrantinoIadecola blog del 28-12-2018](/docs/art 28-12-2018 LA NOSTRA GUERRA.pdf)
@@ -37,6 +39,8 @@ title= "articoli"
 [Ritrovò il suo diario di guerra..., da Ravenna24ore del 15-12-2015](/docs/art Ravenna24ore.it_15_12_2015.pdf)
 
 [Cento anni di Alberto Toni Cavaliere della Repubblica, da Pavaglionelugo.net del 15-12-2015](/docs/art PavaglioneLugo.net_15_12_2015.pdf)
+
+[art Carabinieri_7_10_2015, da Grignetti del 7-10-2015](/docs/art Carabinieri_7_10_2015.pdf)
 
 [Esperia Maggio 1944, da La Lucerna del 11-5-2015](/images/files/Esperia maggio 1944.jpg)
 
