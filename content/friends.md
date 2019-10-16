@@ -2,7 +2,7 @@
 title = "Amici"
 +++
 
-Questa pagina contiene racconti, biografie e altro ancora di amici conosciuti durante le noste ricerche:
+Questa pagina contiene racconti, biografie e altro ancora di amici conosciuti durante le nostre ricerche:
 
 - [John Thurlby](/friends/john_thurlby/)
 - [Alan Corlett Woods](/friends/alan_woods/)

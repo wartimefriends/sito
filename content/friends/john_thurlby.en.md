@@ -23,7 +23,7 @@ The Bailey bridge erected by the Engineers enabled the regiment to advance to th
 
 It was a very touching moment. His mates had made him a sort of birthday card by signing their names on one of the airmail forms used for messages home. John remained in that place until late April 1945, when his regiment moved north. His comrades in 48th Royal Tank Regiment liberated Venice and John’s unit took Pontecchio. Thus ended the campaign in Italy.
 
-Back in England he met and married his sweetheart Mary. Thanks to the links established between Bagnacavallo and Stone, where John and Mary live, John was able, after some 60 years, to meet Pasquina. John has never returned to Italy, but clearly remembers loads of details of the time he spent in our country.
+Back in England he met and married his sweetheart Mary. Thanks to the links established between Bagnacavallo and Stone, where John and Mary lived, John was able, after some 60 years, to meet Pasquina. John has never returned to Italy, but clearly remembers loads of details of the time he spent in our country.
 
 On the 60th anniversary of the Liberation of Bagnacavallo, the town Council bestowed on him and on Alan Woods the Honorary Citizenship. John presented Bagnacavallo with 24 plants of ancient English roses for a Garden of Peace, which has been located at the Herb Garden, in the centre of the town.
 
