@@ -2,6 +2,8 @@
 title= "articoli"
 +++
 
+[Bruno Neri, il calciatore-partigiano che rifiutò di fare il saluto fascista, da Corriere della Sera del 15-10-2019](/docs/art Bruno Neri.pdf)
+
 [L'omaggio ai liberatori canadesi, da Corriere Frosinone del 30-5-2019](/docs/art Frosinone_31_5_2019.pdf)
 
 [La lezione del prof sulla Shoah, da La Repubblica del 25-1-2019](/docs/art laRepubblica La lezione del prof sulla shoah.pdf)

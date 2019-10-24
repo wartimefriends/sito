@@ -2,7 +2,10 @@
 title= "Press & News in English"
 +++
 
+
 [The Chippewas of Nawash and the Italian Campaign of WWII, from ParticK Lavalley,  Oct 17th 2019](/docs/art The Chippewas.pdf)
+
+[Bletchley Park, from Facebook,  Oct 14th 2019](/docs/art Bletchley Park.pdf)
 
 [Awakening after two decades in Italy, from Martha Sarmatiuk, Sep 27th 2018](/images/files/art Mowat.jpg)
 
