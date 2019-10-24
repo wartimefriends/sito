@@ -2,6 +2,8 @@
 title= "Press & News in English"
 +++
 
+[The Chippewas of Nawash and the Italian Campaign of WWII, from ParticK Lavalley,  Oct 17th 2019](/docs/art The Chippewas.pdf)
+
 [Awakening after two decades in Italy, from Martha Sarmatiuk, Sep 27th 2018](/images/files/art Mowat.jpg)
 
 [Eagles over Husky, from wordpress.com, Jan 27th 2018](/docs/EAGLES OVER HUSKY_27-01-18.pdf)
@@ -26,19 +28,17 @@ title= "Press & News in English"
 
 [Eerie Happenstance-Part I from http://www.timminstimes.com](/docs/Eerie Happenstance 1.pdf)
 
-[I will never forget Italy, from calgaryjournal.ca, Jun 6th 2013](/images/files/Io_Non_Dimentichero_Mai.jpg)
+[I will never forget Italy, from calgaryjournal.ca, Jun 6th 2013](/docs/art Io_Non_Dimentichero_Mai.pdf)
 
 [Diary brought back to life, from Midweek, Jul 6th 2011](/docs/art Midweek 6-7-11.pdf)
 
 [Lost soldier's letters find their way home after 70 years, from Yorkshire evening post, Apr. 15th 2011](/docs/art Yorkshire evening post.pdf)
 
-[A Story of Love and Death and War, 65 years ago, by Ken Mc Leod](http://www.cbc.ca/canada/story/2010/05/07/f-canada-second-world-war-gildersleeve.html)
-
 [Wartime Memories on the Net, from Veterans on the Web](/images/files/art Veteran on the web.jpg)
 
 [Letters from the Frontline: The Mystery of Missing Leeds Soldier, from Evening Post, Mar. 11th, 2010](/docs/art Evening Post.pdf)
 
-[Canadians Shivered, Bled and Won in Fierce 1943 Battle, by Martha Sarmatiuk, from Winnipeg Free Press, Dec. 28th, 2008](/images/files/Winnipeg free press.pdf)
+[Canadians Shivered, Bled and Won in Fierce 1943 Battle, by Martha Sarmatiuk, from Winnipeg Free Press, Dec. 28th, 2008](/docs/Winnipeg free press.pdf)
 
 [A Story of Sacrifice to Remember, from LOD- Line of Defence, Nov. 10th, 2008](/images/files/LOD20081110.pdf)
 

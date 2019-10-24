@@ -1,7 +1,7 @@
 [
     {
         "id": 0,
-        "name": "A NEW LIFE UNDER THE BOMBS",
+        "name": "UNA NUOVA VITA SOTTO LE BOMBE",
         "image": "/images/files/Newlife.jpg",
         "url": "/research/newlife/",
         "items": [
@@ -18,7 +18,11 @@
         "image": "/images/files/8-4-17_ingresso.jpg",
         "url": "/cemeteries/8-aprile-2017/",
         "items": [
-            
+         {
+            "name": "VISIT TO THE CEMETERY ALLIED IN PIANGIPANE ",
+            "url": "/en/cemeteries/8-aprile-2017/"
+        }
+         
         ]
      },
  
@@ -28,7 +32,12 @@
       "image": "/images/files/Papaveri-2.jpg",
       "url": "/research/elementari/",
       "items": [
-          
+       
+         {
+            "name": "ELEMENTARY SCHOOL PROJECT",
+            "url": "/en/research/elementari/"
+        }
+
       ]
    },
      {
@@ -37,7 +46,10 @@
         "image": "/images/files/armatavalli.jpg",
         "url": "/history/valli/",
         "items": [
-            
+        {
+            "name": "THE ARMY OF THE VALLEYS",
+            "url": "/en/history/valli/"
+        }     
         ]
      },
  
@@ -47,7 +59,10 @@
         "image": "/images/files/rosepace_1.jpg",
         "url": "/research/giardinosemplici/",
         "items": [
-            
+         {
+            "name": "ROSES FOR PEACE",
+            "url": "/en/research/giardinosemplici/"
+        }     
         ]
      },
      {
@@ -56,7 +71,10 @@
         "image": "/images/Mostra_murales.jpg",
         "url": "/exhibitions/cervia/",
         "items": [
-            
+         {
+            "name": "MURALS IN CERVIA",
+            "url": "/en/exhibitions/cervia/"
+        }     
         ]
      }
 ]
