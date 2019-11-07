@@ -9,4 +9,4 @@ Progetto e archivio storico a cura di: Wartime friends.
 
 Produzione video: Biroke studio.
 
-<a href="/images/files/elementariBllo.jpg" target=_blank><img src="/images/files/elementariBllo.jpg" title="elementari"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sw5nqKm5iEg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

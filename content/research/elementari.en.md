@@ -1,12 +1,13 @@
 +++
-title= "Gesti di umanità in tempo di guerra"
+title= "Acts of humanity in times of war"
 +++
 
-Documentario dedicato al percorso formativo seguito durante l'anno scolastico 2018-2019 dagli studenti delle classi 5° elementari dell'istituto comprensivo Berti di Bagnacavallo. Un viaggio nella memoria storica del loro paese attraverso i nomi, i racconti e i volti di persone che hanno vissuto in tempo di guerra, quando anche il più piccolo gesto può fare la differenza e diventare un momento indelebile e fondamentale di umanità.
+This documentary is a project carried out in 2018-19  with the four final year elementary school classes of Istituto Comprensivo Berti, Bagnacavallo.
+A journey through the history of their town usin the names, stories and faces of those who lived during the Second World War, when even the smallest gesture can make a difference and becon an enduring and significant moment for mankind.
 
-Progetto e archivio storico a cura di: Wartime friends.
+Project by Wartime friends.
 
-Produzione video: Biroke studio.
+Video production: Biroke studio.
 
-<a href="/images/files/elementariBllo.jpg" target=_blank><img src="/images/files/elementariBllo.jpg" title="elementari"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DVuP5_qCyM0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
