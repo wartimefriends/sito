@@ -11,14 +11,8 @@ Donations and membership fees can be sent by bank transfer to:
     Via Donizetti 13
     48012 Bagnacavallo (RA)
     CF: 91021130397
-    IBAN IT69X0306967684510749165140
+    IBAN IT68F0306909606100000169227
 
 Please specify your name and the reason for the payment, i.e. donation or annual membership fee for Wartimefriends.
-
-For bank transfers from outside the European Union, please use these details:
-SWIFT/BIC:  ICRAITRRF20
-Account number: IT62Y0854267490005000052472.
-Bank: Credito Cooperativo in Bagnacavallo.
-Account holder: Giancarlo Tramonti for Wartimefriends.
 
 Thank you.
