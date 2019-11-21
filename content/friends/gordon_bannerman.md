@@ -4,7 +4,9 @@ title= "Gordon Bannerman"
 
 <img src="/images/files/Gordon Bannerman.jpg" width="115" height="150" title="Gordon Bannerman">
 
-Sono nato in una fattoria nel sud del Saskatchwan, in Canada, il 13 settembre del 1921. I miei genitori erano scozzesi che si erano stabiliti in quel paese. Mio padre arrivò in Canada per primo nel 1905. Si arruolò volontario nel 1916 e andò oltremare a combattere per la libertà. Il babbo e la mamma si sposarono nel 1917 in Scozia e tornarono insieme in Canada nel 1919. Negli anni successivi crebbero una famiglia con cinque figli. Il babbo e la mamma non ci sono più, ma i loro cinque figli sono ancora tutti vivi. 
+Nato in una fattoria nel sud del Saskatchwan, in Canada, il 13 settembre del 1921. I suoi genitori erano scozzesi che si erano stabiliti in quel paese. Suo padre arrivò in Canada per primo nel 1905. Si arruolò volontario nel 1916 e andò oltremare a combattere per la libertà. I suoi genitori si sposarono nel 1917 in Scozia e tornarono insieme in Canada nel 1919. Negli anni successivi crebbero una famiglia con cinque figli. 
+
+Gordon racconta:
 
 Trascorsi una bella infanzia e all’età di 18 anni, nel 1940, mi arruolai come volontario nell’esercito. Seguì un periodo di addestramento in Canada, poi in Inghilterra e, nel 1940, il nostro reggimento e la divisione salparono per l’Italia. Arrivammo a Napoli nel 1943. Eravamo in una terra straniera, con nessuna idea a proposito della sua cultura e della sua lingua. Non c’è voluto molto per scoprire che gli Italiani erano persone calorose e amorevoli, che avevano un’alta considerazione della famiglia, anche in momenti così duri. Noi, giovani canadesi, facevamo amicizia con i bambini italiani e poi i loro genitori ci invitavano a entrare in casa. Era in queste occasioni che la famiglia ci dimostrava il suo affetto. Nel sud dell’Italia ci pareva che, generalmente, fosse la madre a tenere insieme la famiglia. Se ci offrivano da mangiare, il padre era orgoglioso di come la moglie aveva cucinato per gli ospiti e dopo cena continuava a lodare le qualità culinarie della moglie. Chiedeva poi alle figlie di cantare per noi e la moglie, in un angolo, sorrideva tutta soddisfatta per una serata riuscita e perché i Canadesi non erano dei selvaggi. Bei momenti per noi che eravamo così lontani da casa! 
 
@@ -22,4 +24,6 @@ Con il proseguire della guerra, incontrammo sempre più di frequente persone mer
 
 Sono tornato in Italia tre volte dopo la guerra e ho apprezzato l’affetto rivolto a noi veterani. Quando torniamo in Italia, l’amore e l’amicizia nei nostri confronti ci fanno sentire come quando eravamo giovani, tanti anni fa. Essere considerato un amico è qualcosa che custodisco nel mio cuore, perché voi, cari amici, avete dato a Edith e a me qualcosa da ricordare per tutta la nostra vita. Voglio ringraziarvi tutti. Edith e io continuiamo a sperare di potere ancora una volta tornare in Italia.
 
-##[Memorie di Gordon Bannerman ](http://www.vac-acc.gc.ca/remembers/sub.cfm?source=collections/diary/2diary/bannerman)
+##[Memorie di Gordon Bannerman ](https://www.veterans.gc.ca/eng/remembrance/those-who-served/diaries-letters-stories/second-world-war/bannerman)
+
+Gordon è morto i 5 maggio 2018.

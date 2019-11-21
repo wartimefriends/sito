@@ -23,4 +23,6 @@ I have been back to Italy three times since the war and cherish the love given, 
 
  AMICI. That word has a wonderful sound and to be considered AMICI by the wonderful folk that keep gathering in Remembrance for all the young men who lost their lives and remain forever in Italy, I feel very honoured. 
 
-**[Memoirs of Gordie Bannerman]**(http://www.vac-acc.gc.ca/remembers/sub.cfm?source=collections/diary/2diary/bannerman)
+**[Memoirs of Gordie Bannerman]**(https://www.veterans.gc.ca/eng/remembrance/those-who-served/diaries-letters-stories/second-world-war/bannerman)
+
+Gordon died on May 5th 2018.
