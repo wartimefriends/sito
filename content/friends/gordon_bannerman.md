@@ -19,11 +19,11 @@ La guerra continuava e io ricordo la fiumana di rifugiati che scendeva lungo le 
 Con il proseguire della guerra, incontrammo sempre più di frequente persone meravigliose, da Rimini in poi. Qui i nostri incontri avvenivano prevalentemente con gli agricoltori, poiché molto spesso installavamo i nostri cannoni nelle aie delle case di campagna. Ci capitava, a volte, di ritornare in una fattoria dove ci eravamo fermati in precedenza e di scoprire che tutta la famiglia aveva richiuso le trincee e le buche dei cannoni, aveva tirato fuori un po’ di semente da un qualche ripostiglio e aveva seminato. La vita e la famiglia continuavano. Al momento di lasciare l’Italia, mi sentii triste e fra tutti i pensieri quello più triste era che lasciavamo sul suolo italiano 5000 nostri compagni, che lì sarebbero rimasti per sempre. Ma ho potuto verificare negli anni successivi che i nostri soldati sono onorati, e di loro si occupano con premura e affetto i cari amici di Bagnacavallo e Villanova. 
 
 
-#RICORDÀTI PER SEMPRE.##
+<h2>RICORDÀTI PER SEMPRE.</h2>
 
 
 Sono tornato in Italia tre volte dopo la guerra e ho apprezzato l’affetto rivolto a noi veterani. Quando torniamo in Italia, l’amore e l’amicizia nei nostri confronti ci fanno sentire come quando eravamo giovani, tanti anni fa. Essere considerato un amico è qualcosa che custodisco nel mio cuore, perché voi, cari amici, avete dato a Edith e a me qualcosa da ricordare per tutta la nostra vita. Voglio ringraziarvi tutti. Edith e io continuiamo a sperare di potere ancora una volta tornare in Italia.
 
-##[Memorie di Gordon Bannerman ](https://www.veterans.gc.ca/eng/remembrance/those-who-served/diaries-letters-stories/second-world-war/bannerman)##
+<h2>[Memorie di Gordon Bannerman ](https://www.veterans.gc.ca/eng/remembrance/those-who-served/diaries-letters-stories/second-world-war/bannerman)</h2>
 
 Gordon è morto i 5 maggio 2018.
