@@ -1,6 +1,9 @@
 +++
 title= "Alberto Toni POW"
 +++
+Bagnacavallo, 13/12/1915 - 11/2/2016
+
+Questo è il racconto di Alberto Toni sulla sua esperienza di guerra:
 
 Ho fatto 8 anni di soldato. 
 
@@ -38,5 +41,3 @@ ___
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yVg2Lxh8fbI" frameborder="0" allowfullscreen></iframe></td>
 
-
-Alberto Toni 13/12/1915 - 11/2/2016
