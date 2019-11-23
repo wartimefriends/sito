@@ -850,3 +850,20 @@ h1#logo span.tagline, h1#logo span.tagline a {
   color: white;
   text-shadow: black 0px 0px 20px;
 }
+
+
+.entry-content img {
+  object-fit: cover;
+}
+
+@media (min-width: 992px) {
+  .recentworks .col-md-4 {
+      width: 32.0%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .recentworks .col-lg-4 {
+      width: 28.0%;
+  }
+}
