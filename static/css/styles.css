@@ -867,3 +867,16 @@ h1#logo span.tagline, h1#logo span.tagline a {
       width: 28.0%;
   }
 }
+
+#main .container .lead h1 {
+  color: #555;
+  font-size: 2rem;
+  text-align: center;
+}
+#main .container .lead p {
+  /* color: #666;
+  font-weight: 300;
+  font-size: 1.3125rem;
+  text-align: center; */
+  text-align: center;
+}

@@ -4,9 +4,12 @@
 
 	<div class="container">
 
+        <!--
         {{ if .Site.Params.showSubheader }}
             {{ partial "subheader.html" . }}
         {{ end }}
+        -->
+        <div class="lead">{{ .Content }}</div>
 
         {{ if .Site.Params.showServices }}
             {{ partial "services.html" . }}
