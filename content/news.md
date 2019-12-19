@@ -2,6 +2,8 @@
 title= "articoli"
 +++
 
+[Una scuola elementare ... in cerca della memoria, da La Repubblica del 16-12-2019](/docs/art Repubblica 16-12-19.pdf)
+
 [Bruno Neri, il calciatore-partigiano che rifiutò di fare il saluto fascista, da Corriere della Sera del 15-10-2019](/docs/art Bruno Neri.pdf)
 
 [L'omaggio ai liberatori canadesi, da Corriere Frosinone del 30-5-2019](/docs/art Frosinone_31_5_2019.pdf)
