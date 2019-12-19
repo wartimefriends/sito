@@ -12,7 +12,7 @@ title= "Libri e pubblicazioni"
 
  
  <img src="/images/files/CopertinaBagnacavalloWWII.jpg" border="1" bordercolor="black" width="97" height="139"> 
- <b><a href="/books/bagnacavalloWWII/">La Seconfa Guerra Mondiale a Bagnacavallo</a></b>
+ <b><a href="/books/bagnacavalloWWII/">La Seconda Guerra Mondiale a Bagnacavallo</a></b>
  
  
  
