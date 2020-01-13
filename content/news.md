@@ -2,6 +2,8 @@
 title= "articoli"
 +++
 
+[Payette: lo spazio insegna il dialogo, da Corriede della Sera del 4-1-2020](/docs/art Payette_corriere 4-1-2020.pdf)
+
 [Una scuola elementare ... in cerca della memoria, da La Repubblica del 16-12-2019](/docs/art Repubblica 16-12-19.pdf)
 
 [Bruno Neri, il calciatore-partigiano che rifiutò di fare il saluto fascista, da Corriere della Sera del 15-10-2019](/docs/art Bruno Neri.pdf)

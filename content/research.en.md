@@ -33,3 +33,7 @@ all'argine del Senio, dove la nostra biciclettata si conclude vicino al monument
 durante una breve licenza nel Natale 1944, tre soldati canadesi erano acquartierati a Ravenna e la madre di  <b><a href="/en/friends/fred_cederberg" >Fred Cederberg</a></b> inviò dal lontano Canada al figlio, oltre che regali per loro tre, anche un pacco di regali da offrire a qualche bambino per fargli trascorrere una festività felice, essendo a conoscenza delle sofferenze che stava creando la guerra da noi.
 
 ***
+
+<img src="/images/files/ElementariDVD_r.jpg" title="Gesti di Umanità in Tempo di Guerra">  Documentario dedicato al percorso formativo seguito durante l’anno scolastico 2018-2019 dagli studenti delle classi 5° elementari dell’istituto comprensivo Berti di Bagnacavallo. Un viaggio nella memoria storica del loro paese attraverso i nomi, i racconti e i volti di persone che hanno vissuto in tempo di guerra, quando anche il più piccolo gesto può fare la differenza e diventare un momento indelebile e fondamentale di umanità. Produzione: Biroke studio.
+
+***

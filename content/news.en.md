@@ -14,6 +14,8 @@ title= "Press & News in English"
 
 [The battle of Ortona, from warhistoryonline.com,  Jan 8th 2018](/docs/The Battle of Ortona_8-1-18.pdf)
 
+[Veteran Bob McDonald recalls darkness of WWII, Powell River Peak,  Nov  10th 2017](/docs/art Veteran Bob MacDonald.pdf)
+
 [When Iran and America were allies, dailymail.co.uk,  May  23th 2016](/docs/When Iran and America were allies23-5-17.pdf)
 
 [Truro’s Walter Perrin had his share of narrow escapes... , www.trurodaily.com  May 2nd 2017](/docs/Truro Walter Perrin.pdf)
