@@ -4,14 +4,14 @@ title= "visite e commemorazioni"
 
 <br><hr><br>
 <table><tr><td>
- <h1> <a href="/cemeteries/75mocanadesi"> 75mo anniversario della liberazione di Ravenna - 3 e 4 Dicembre 2019 </a> </h1></td><tr>
+ <h3> <a href="/cemeteries/75mocanadesi"> 75mo anniversario della liberazione di Ravenna - 3 e 4 Dicembre 2019 </a> </h3></td><tr>
 </table>
 <br><hr><br>
 <b>8 aprile 2017 -Visita al cimitero alleato di Piangipane di Ravenna.   
 </b><br>
 <table><tr><td>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v7W3UAI0C2g" frameborder="0" allowfullscreen></iframe>
-</td><td> <h1> <a href="/cemeteries/8-aprile-2017"> Vedi altro </a> </h1></td><tr>
+</td><td> <h2> <a href="/cemeteries/8-aprile-2017"> ... Vedi altro </a> </h2></td><tr>
 </table>
 <br><hr><br>
 <b>11 Dicembre 2012 - 68mo anniversario della liberazione di Villanova di Bagnacavallo.   
