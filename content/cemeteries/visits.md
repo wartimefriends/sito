@@ -3,6 +3,10 @@ title= "visite e commemorazioni"
 +++
 
 <br><hr><br>
+<table><tr><td>
+ <h1> <a href="/cemeteries/75mocanadesi"> 75mo anniversario della liberazione di Ravenna - 3 e 4 Dicembre 2019 </a> </h1></td><tr>
+</table>
+<br><hr><br>
 <b>8 aprile 2017 -Visita al cimitero alleato di Piangipane di Ravenna.   
 </b><br>
 <table><tr><td>
