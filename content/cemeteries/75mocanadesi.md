@@ -14,4 +14,5 @@ La liberazione di Ravenna - 1944:
 
 
 Video dell'intera cerimonia del 4 dicembre 2019 al Cimitero di Guerra di Piangipane (Ravenna)
-https://www.facebook.com/CanadaRemembers/videos/2578612838926842/
+
+<a href="https://www.facebook.com/CanadaRemembers/videos/2578612838926842/" target=_blank><img src="/images/files/3DEC2019.jpg"  width="200" height="150" ></a>

@@ -25,20 +25,7 @@
          
         ]
      },
-     {
-      "id": 6,
-      "name": "VISITA AL CIMITERO ALLEATO DI PIANGIPANE",
-      "image": "/images/files/8-4-17_ingresso.jpg",
-      "url": "/cemeteries/8-aprile-2017/",
-      "items": [
-       {
-          "name": "VISIT TO THE CEMETERY ALLIED IN PIANGIPANE ",
-          "url": "/en/cemeteries/8-aprile-2017/"
-      }
-       
-      ]
-   },
-     {
+          {
       "id": 2,
       "name": "PROGETTO SCUOLE ELEMENTARI",
       "image": "/images/files/Papaveri-2.jpg",
@@ -88,5 +75,18 @@
             "url": "/en/exhibitions/cervia/"
         }     
         ]
-     }
+     },
+     {
+      "id": 6,
+      "name": "VISITA AL CIMITERO ALLEATO DI PIANGIPANE",
+      "image": "/images/files/8-4-17_ingresso.jpg",
+      "url": "/cemeteries/8-aprile-2017/",
+      "items": [
+       {
+          "name": "VISIT TO THE CEMETERY ALLIED IN PIANGIPANE ",
+          "url": "/en/cemeteries/8-aprile-2017/"
+      }
+       
+      ]
+      }
 ]
