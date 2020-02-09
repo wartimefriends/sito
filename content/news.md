@@ -2,11 +2,23 @@
 title= "articoli"
 +++
 
-[Payette: lo spazio insegna il dialogo, da Corriede della Sera del 4-1-2020](/docs/art Payette_corriere 4-1-2020.pdf)
+[Storia di Cotignola paese dei Giusti, da Repubblica del 27-1-2020](static\images\files\art cotignolagiusti.jpg)
+
+[Morigi Gino, art del 27-1-2020](/docs/art MORIGI GINO.pdf)
+
+[Genocidio dei rom da parte dei nazisti, da Napoli Magazine del 27-1-2020](/docs/art rom.pdf)
+
+[Omocausto, da BLMAGAZINE.IT del 27-1-2020](/docs/art Omocausto.pdf)
+
+[Eugenio Ravenna deportato di Ferrara, da Facebook del 27-1-2020](/docs/Eugenio Ravenna deportato di Ferrara.pdf)
+
+[Payette: lo spazio insegna il dialogo, da Corriere della Sera del 4-1-2020](/docs/art Payette_corriere 4-1-2020.pdf)
 
 [Una scuola elementare ... in cerca della memoria, da La Repubblica del 16-12-2019](/docs/art Repubblica 16-12-19.pdf)
 
 [Bruno Neri, il calciatore-partigiano che rifiutò di fare il saluto fascista, da Corriere della Sera del 15-10-2019](/docs/art Bruno Neri.pdf)
+
+[Enrica Calabresi, il coraggio di una scienziata ebrea che rifiutò fino alla morte di nascondersi, da BonCulture del 3-12-2019](/docs/Enrica Calabresi, il coraggio di una scienziata ebrea che rifiutò fino alla morte di nascondersi _ BonCulture.pdf)
 
 [L'omaggio ai liberatori canadesi, da Corriere Frosinone del 30-5-2019](/docs/art Frosinone_31_5_2019.pdf)
 
