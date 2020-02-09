@@ -14,18 +14,30 @@
      },
      {
         "id": 1,
-        "name": "VISITA AL CIMITERO ALLEATO DI PIANGIPANE",
-        "image": "/images/files/8-4-17_ingresso.jpg",
-        "url": "/cemeteries/8-aprile-2017/",
+        "name": "75MO ANNIVERSARIO DELLA LIBERAZIONE DI RAVENNA",
+        "image": "/images/files/medal.jpg",
+        "url": "/cemeteries/75mocanadesi/",
         "items": [
          {
-            "name": "VISIT TO THE CEMETERY ALLIED IN PIANGIPANE ",
-            "url": "/en/cemeteries/8-aprile-2017/"
+            "name": "THE 75TH ANNIVERSARY OF THE ITALIAN CAMPAIGN",
+            "url": "/en/cemeteries/75mocanadesi/"
         }
          
         ]
      },
- 
+     {
+      "id": 7,
+      "name": "VISITA AL CIMITERO ALLEATO DI PIANGIPANE",
+      "image": "/images/files/8-4-17_ingresso.jpg",
+      "url": "/cemeteries/8-aprile-2017/",
+      "items": [
+       {
+          "name": "VISIT TO THE CEMETERY ALLIED IN PIANGIPANE ",
+          "url": "/en/cemeteries/8-aprile-2017/"
+      }
+       
+      ]
+   },
      {
       "id": 2,
       "name": "PROGETTO SCUOLE ELEMENTARI",
