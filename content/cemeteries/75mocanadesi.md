@@ -20,4 +20,4 @@ Video dell'intera cerimonia del 4 dicembre 2019 al Cimitero di Guerra di Piangip
 
 Cerimonia dell'11 dicembre 2019 al Cimitero di Villanova:
 
-{{< gallery dir="images/11dec2019/" />  }} {{< load-photoswipe >}}
+{{< gallery dir="/images/11dec2019/" />  }} {{< load-photoswipe >}}
