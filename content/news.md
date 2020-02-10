@@ -2,7 +2,7 @@
 title= "articoli"
 +++
 
-[Storia di Cotignola paese dei Giusti, da Repubblica del 27-1-2020](static\images\files\art cotignolagiusti.jpg)
+[Storia di Cotignola paese dei Giusti, da Repubblica del 27-1-2020](/images/files/art cotignolagiusti.jpg)
 
 [Morigi Gino, art del 27-1-2020](/docs/art MORIGI GINO.pdf)
 
