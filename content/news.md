@@ -6,7 +6,7 @@ title= "articoli"
 
 [Morigi Gino, art del 27-1-2020](/docs/art MORIGI GINO.pdf)
 
-[Genocidio dei rom da parte dei nazisti, da Napoli Magazine del 27-1-2020](/docs/art rom.pdf)
+[Genocidio dei rom da parte dei nazisti, da NapoliMagazine del 27-1-2020](/docs/art rom.pdf)
 
 [Omocausto, da BLMAGAZINE.IT del 27-1-2020](/docs/art Omocausto.pdf)
 
