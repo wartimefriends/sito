@@ -2,6 +2,8 @@
 title= "Press & News in English"
 +++
 
+[Anderson Shelter, from Facebook](/docs/Anderson Shelter.pdf)
+
 [Canadian WW II vets to visit Italy to commemorate the Italian Campaign, from CBC News,  Nov 23rd 2019](/docs/Canadian WW II vets to visit Italy to commemorate the Italian Campaign.pdf)
 
 [The Chippewas of Nawash and the Italian Campaign of WWII, from ParticK Lavalley,  Oct 17th 2019](/docs/art The Chippewas.pdf)
