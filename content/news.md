@@ -2,6 +2,8 @@
 title= "articoli"
 +++
 
+[Teresa Vergalli nel cuore dei ragazzi, art del 10-2-2020](/docs/art TERESA VERGALLI.pdf)
+
 [Storia di Cotignola paese dei Giusti, da Repubblica del 27-1-2020](/images/files/art cotignolagiusti.jpg)
 
 [Morigi Gino, art del 27-1-2020](/docs/art MORIGI GINO.pdf)
@@ -26,13 +28,16 @@ title= "articoli"
 
 [La nostra guerra, da CostrantinoIadecola blog del 28-12-2018](/docs/art 28-12-2018 LA NOSTRA GUERRA.pdf)
 
+[Ameglia 26 marzo 1944, da La Repubblica del 29-6-2018](/docs/art AMEGLIA 26 marzo 1944.pdf)
+
 [Io. infoibato e sopravvissuto, da Famiglia Cristiana del 18-2-2018](/docs/IO, INFOIBATO E SOPRAVVISSUTO_10-2-18.pdf)
+
+[Il soldato eroe di Salerno, da alganews.it del 5-1-2018](/docs/art il soldato-eroe di Salerno.pdf)
 
 [Soldato canadese dona la divisa al museo, da Il Resto del Carlino del 11-7-2017](/images/files/Carlino 11 7 2017.jpg)
 
 [La verità nascosta delle Marocchinate..., da LaStampaCultura del 16-3-2017](/docs/Marocchinate_la_stampa.pdf)
 
-[Quando arrivarono i Marocchini, da Lundici.it del 16-2-2016](/docs/Quando arrivarono i marocchini_16-2-16.pdf)
 
 [Il pallone di Weisz e la riconoscibilità del male, da Lundici.it del  1-2017](/docs/Il pallone di Weisz.pdf)
 
@@ -47,6 +52,8 @@ title= "articoli"
 [UCRAINA: La tragedia dimenticata dei pugliesi di Crimea, da Eastjournal.net del  5-7-2016](/docs/art UCRAINA_5_7_2016.pdf)
 
 [Testimoni speciali, da Pavaglionelugo.net del 29-4-2016](/docs/art 29-4-2016 Testimoni speciali_Pavaglionelugo.net.pdf)
+
+[Quando arrivarono i Marocchini, da Lundici.it del 16-2-2016](/docs/Quando arrivarono i marocchini_16-2-16.pdf)
 
 [Dall'Australia un filmato inedito..., da Il Resto del Carlino del 17-12-2015](/docs/art 17-12-2015 Carlino Cotignola.pdf)
 
