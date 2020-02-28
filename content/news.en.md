@@ -2,6 +2,8 @@
 title= "Press & News in English"
 +++
 
+[Mariangela Rondinelli, from Veteran affairs CA,  feb 7th 2020](/docs/art 7-2-2020 Mariangela Rondinelli.pdf)
+
 [Anderson Shelter, from Facebook](/docs/Anderson Shelter.pdf)
 
 [Canadian WW II vets to visit Italy to commemorate the Italian Campaign, from CBC News,  Nov 23rd 2019](/docs/Canadian WW II vets to visit Italy to commemorate the Italian Campaign.pdf)
