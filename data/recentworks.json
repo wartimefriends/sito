@@ -39,19 +39,7 @@
 
       ]
    },
-     {
-        "id": 5,
-        "name": "L'ARMATA DELLE VALLI",
-        "image": "/images/files/armatavalli.jpg",
-        "url": "/history/valli/",
-        "items": [
-        {
-            "name": "THE ARMY OF THE VALLEYS",
-            "url": "/en/history/valli/"
-        }     
-        ]
-     },
- 
+     
      {
         "id": 3,
         "name": "ROSE PER LA PACE",
@@ -77,16 +65,40 @@
         ]
      },
      {
-      "id": 6,
-      "name": "VISITA AL CIMITERO ALLEATO DI PIANGIPANE",
+      "id": 5,
+      "name": "VISITA AL CIMITERO ALLEATO DI RAVENNA",
       "image": "/images/files/8-4-17_ingresso.jpg",
       "url": "/cemeteries/8-aprile-2017/",
       "items": [
        {
-          "name": "VISIT TO THE CEMETERY ALLIED IN PIANGIPANE ",
+          "name": "VISIT TO THE CEMETERY ALLIED IN  ",
           "url": "/en/cemeteries/8-aprile-2017/"
       }
        
       ]
+      },
+      {
+         "id": 6,
+         "name": "L'ARMATA DELLE VALLI",
+         "image": "/images/files/armatavalli.jpg",
+         "url": "/history/valli/",
+         "items": [
+         {
+             "name": "THE ARMY OF THE VALLEYS",
+             "url": "/en/history/valli/"
+         }     
+         ]
+      },
+      {
+         "id": 7,
+         "name": "LA LIBERAZIONE DI RAVENNA",
+         "image": "/images/files/lib_ravenna.jpg",
+         "url": "/history/ravenna/",
+         "items": [
+         {
+             "name": "THE LIBERATION OF RAVENNA",
+             "url": "/en/history/ravenna/"
+         }     
+         ]
       }
 ]
