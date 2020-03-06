@@ -40,6 +40,7 @@ title= "articoli"
 
 [La verità nascosta delle Marocchinate..., da LaStampaCultura del 16-3-2017](/docs/Marocchinate_la_stampa.pdf)
 
+[L'inferno nascosto di Dora, il lager nazista più segreto, da Avvenire.it del  24-1-2017](/docs/art inferno nascosto di Dora 24-1-2017.pdf)
 
 [Il pallone di Weisz e la riconoscibilità del male, da Lundici.it del  1-2017](/docs/Il pallone di Weisz.pdf)
 
