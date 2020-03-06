@@ -16,7 +16,7 @@ title= "articoli"
 
 [Payette: lo spazio insegna il dialogo, da Corriere della Sera del 4-1-2020](/docs/art Payette_corriere 4-1-2020.pdf)
 
-[L'opera di Orsini donata alla governatrice del Canada, da Il Resto del Carlino del 29-12-2019](/images/files/art opera di Orsini.pdf)
+[L'opera di Orsini donata alla governatrice del Canada, da Il Resto del Carlino del 29-12-2019](/images/files/art opera di Orsini.jpg)
 
 [Una scuola elementare ... in cerca della memoria, da La Repubblica del 16-12-2019](/docs/art Repubblica 16-12-19.pdf)
 
