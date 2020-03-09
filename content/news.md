@@ -28,7 +28,7 @@ title= "articoli"
 
 [La lezione del prof sulla Shoah, da La Repubblica del 25-1-2019](/docs/art laRepubblica La lezione del prof sulla shoah.pdf)
 
-[La nostra guerra, da CostrantinoIadecola blog del 28-12-2018](/docs/art 28-12-2018 LA NOSTRA GUERRA.pdf)
+[La nostra guerra, da Costantino Iadecola blog del 28-12-2018](/docs/art 28-12-2018 LA NOSTRA GUERRA.pdf)
 
 [Ameglia 26 marzo 1944, da La Repubblica del 29-6-2018](/docs/art AMEGLIA 26 marzo 1944.pdf)
 
