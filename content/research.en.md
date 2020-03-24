@@ -38,7 +38,7 @@ Electronic catalog of comics and documents of the exhibition 'IN SUNNY ITALY'
 
 ***
 
-<img src="/images/files/ElementariDVD_r.jpg" title="Gesti di Umanità in Tempo di Guerra"> Gestures of humanity in wartime:
+<img src="/images/files/ElementariDVD_r.jpg" title="Gesti di Umanità in Tempo di Guerra"> Acts of humanity in times of war:
 Documentary dedicated to the training course followed during the 2018-2019 school year by students of the 5th grade classes of the Berti di Bagnacavallo comprehensive school. A journey into the historical memory of their country through the names, stories and faces of people who lived in wartime, when even the smallest gesture can make the difference to become an ingrained and fundamental moment of humanity. Production: Biroke Studio.
  <br><i>Available in Italian with English subtitles.</i> 
 
