@@ -2,16 +2,16 @@
 title= "Visit to the RAVENNA WAR CEMETERY"
 +++
 
-On April 8th, 2017, a large group of visitors participated in a guided tour of the Ravenna War Cemetery. <br>
+On April 8th, 2017, a large group of visitors participated in a guided tour of the Commonwealth War Cemetery in Piangipane, Ravenna. <br>
 
-There were, among others, representatives of the Argyll Romagna Group with Sanzio Guerrini, a bagpiper, and of the Wartime Friend Association accompanying Mr and Mrs Dupuis who came from Canada to honor two relatives of theirs: <br>
+There were, among others, representatives of the Argyll Romagna Group with Sanzio Guerrini, a bagpiper, and of the Wartime Friend Association accompanying Mr and Mrs Dupuis who came from Canada to honor two of their relatives: <br>
 P.te Adelard Maillet, E/4189. Royal 22e Regiment, R.C.I.C.. 12th December 1944. Age 24. Son of Marie J. Maillet, of Buctouche Bay, Kent Co., New Brunswick, Canada. V. C. 9. P.te Arsene Allain, G/27652. Royal 22e Regiment, R.C.I.C.. 22nd January 1945.
 Age 29. Son of Davis and Beatrice Allain, of Buctouche Bay, New Brunswick, Canada; husband of Lea Allain, of Buctouche Bay. II. C. 7.
 Private A. Maillet lost his life at the Fosso Vetro; Private A. Allain at the Senio River. <br>
 
-In front of the Cross, Gérard Dupuis read, in English and French, the prayer “They shall Grow not Old” from Laurence Binyon’s poem “For the Fallen” and Claire Lama, the daughter of a British airman who fought in Italy during WWII, read “In Flanders Fields”.
+In front of the Cross, Gérard Dupuis read, in English and French, the prayer “They Shall Grow Not Old” from Laurence Binyon’s poem “For the Fallen” and Claire Lama, the daughter of a British airman who fought in Italy during WWII, read “In Flanders Fields”.
  <br>
-Sanzio Guerrini beautifully played “Amazing Grace” with his bagpipes.
+Sanzio Guerrini, with his bagpipes, beautifully played “Amazing Grace” as a poignant melody.
 <table >
     <tr>
        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/v4B0W_y0pQg" frameborder="0" allowfullscreen></iframe></td>
