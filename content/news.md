@@ -18,17 +18,23 @@ title= "articoli"
 
 [L'opera di Orsini donata alla governatrice del Canada, da Il Resto del Carlino del 29-12-2019](/images/files/art opera di Orsini.jpg)
 
+[Cicci Vandone e il Natale 1945, da Corriere.it del 23-12-2019](/docs/art Cicci Vandone e il Natale 1945 - Corriere.it 23-12-19.pdf)
+
 [Una scuola elementare ... in cerca della memoria, da La Repubblica del 16-12-2019](/docs/art Repubblica 16-12-19.pdf)
 
 [Bruno Neri, il calciatore-partigiano che rifiutò di fare il saluto fascista, da Corriere della Sera del 15-10-2019](/docs/art Bruno Neri.pdf)
 
 [Enrica Calabresi, il coraggio di una scienziata ebrea che rifiutò fino alla morte di nascondersi, da BonCulture del 3-12-2019](/docs/Enrica Calabresi, il coraggio di una scienziata ebrea che rifiutò fino alla morte di nascondersi _ BonCulture.pdf)
 
+[Sant'Anna di Stazzema, da La Repubblica del 12-8-2019](/docs/art Sant'Anna di Stazzema 12-8-2019.pdf)
+
 [L'omaggio ai liberatori canadesi, da Corriere Frosinone del 30-5-2019](/docs/art Frosinone_31_5_2019.pdf)
 
 [La lezione del prof sulla Shoah, da La Repubblica del 25-1-2019](/docs/art laRepubblica La lezione del prof sulla shoah.pdf)
 
 [La nostra guerra, da Costantino Iadecola blog del 28-12-2018](/docs/art 28-12-2018 LA NOSTRA GUERRA.pdf)
+
+[Il plotone perduto, da La Repubblica del 29-6-2018](/docs/art 20180629 - IL PLOTONE PERDUTO.pdf)
 
 [Ameglia 26 marzo 1944, da La Repubblica del 29-6-2018](/docs/art AMEGLIA 26 marzo 1944.pdf)
 
