@@ -2,6 +2,10 @@
 title= "articoli"
 +++
 
+[25 Aprile, se libertà vuol dire sacrificio, da www.magzine.it del 25-4-2020](/docs/art 25 APRILE 2020.pdf)
+
+[Oltre 55mila donne..., da thevision.com del 24-4-2020](/docs/art OLTRE 55MILA DONNE.pdf)
+
 [Teresa Vergalli nel cuore dei ragazzi, art del 10-2-2020](/docs/art TERESA VERGALLI.pdf)
 
 [Storia di Cotignola paese dei Giusti, da Repubblica del 27-1-2020](/images/files/art cotignolagiusti.jpg)
@@ -33,6 +37,8 @@ title= "articoli"
 [La lezione del prof sulla Shoah, da La Repubblica del 25-1-2019](/docs/art laRepubblica La lezione del prof sulla shoah.pdf)
 
 [La nostra guerra, da Costantino Iadecola blog del 28-12-2018](/docs/art 28-12-2018 LA NOSTRA GUERRA.pdf)
+
+[Incinta di nove mesi, fu sventrata e il suo feto usato come bersaglio, da voceapuana.com del 24-8-2018](/docs/art eccidio di Vinca.pdf)
 
 [Il plotone perduto, da La Repubblica del 29-6-2018](/docs/art 20180629 - IL PLOTONE PERDUTO.pdf)
 
