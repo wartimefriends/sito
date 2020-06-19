@@ -2,6 +2,8 @@
 title= "articoli"
 +++
 
+[I pellerossa contro il nazifascismo, da Lara Maria Ferrari del 9-6-2020](/images/files/art I pellerossa contro.jpg)
+
 [25 Aprile, se libertà vuol dire sacrificio, da www.magzine.it del 25-4-2020](/docs/art 25 APRILE 2020.pdf)
 
 [Oltre 55mila donne..., da thevision.com del 24-4-2020](/docs/art OLTRE 55MILA DONNE.pdf)

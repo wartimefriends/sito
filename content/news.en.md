@@ -28,6 +28,8 @@ title= "Press & News in English"
 
 [Piper Bill Millin - obituary from www.telegraph.co.uk, Mar 19th 2016](/docs/Piper Bill Millin.pdf)
 
+[Henry Beaudry veteran, war hero, artist, from newsoptimist.ca, Feb 9th 2016](/docs/art Henry Beaudry.pdf)
+
 [Into a valley of death - Winnipeg Free Press,  Dec 11th  2015](/docs/Into a valley of death - Winnipeg Free Press 11_12_2016.pdf)
 
 [The Great Escape_ Every Advantage for Every Need,  Apr  2015](/docs/Grantian Florilegium_ The Great Escape_ Every Advantage for Every Need.pdf)
