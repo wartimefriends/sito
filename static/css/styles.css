@@ -857,14 +857,8 @@ h1#logo span.tagline, h1#logo span.tagline a {
 }
 
 @media (min-width: 992px) {
-  .recentworks .col-md-4 {
-      width: 32.0%;
-  }
-}
-
-@media (min-width: 1200px) {
-  .recentworks .col-lg-4 {
-      width: 28.0%;
+  .thumbnails > .col-md-4 {
+    min-height: 300px;
   }
 }
 
