@@ -27,3 +27,7 @@ title= "links"
 [Gordon Bannerman](http://gordiebannerman.com/)
 
 [Fred Cederberg](http://www.capebretonmilitaryhistory.com/collections/personal-profile-collections/cederberg-john-frederic-fred/)
+
+[Monte San Martino Trust](https://msmtrust.org.uk)
+
+[WW2 Escape Lines Memorial Society](https://ww2escapelines.co.uk/)

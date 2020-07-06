@@ -80,5 +80,7 @@ title= "Press & News in English"
 
 [Where One Oan Found Faith, Fope and Charity, from The Sunday Sentinel June 6th, 2004](/images/files/art the sunday sentinel 6-6-2004.jpg)
 
+[Joseph Kitchen - A hero from Cassino, from www.dalvolturnoacassino.it Nov.11th 2003](/docs/JOSEPH KITCHEN - Un eroe di Cassino ENG.pdf)
+
 [Cape Breton Highlanders Reunite at Victoria Park Friday, Saturday, from Cape Breton, Sept.16th, 1999](/images/files/art CapeBreton.jpg)
 
