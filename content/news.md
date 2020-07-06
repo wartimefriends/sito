@@ -182,4 +182,7 @@ title= "articoli"
 
 [Incontro tra i Canadesi e gli alunni della scuola media di Villanova, da Il Giornale di Bagnacavallo del 12-2003](/images/files/art dic 2003 - Giornale di Bagnacavallo.jpg)
 
+[Joseph Kitchen - Un eroe di Cassino da www.dalvolturnoacassino.it del 11-10-2003](/docs/JOSEPH KITCHEN - Un eroe di Cassino ITA.pdf)
+
 [Quegli ufficiali Italiani ... da la Repubblica.it 11-6-1995](/docs/art QUEGLI UFFICIALI ITALIANI-la Repubblica 11_6_1995.pdf)
+

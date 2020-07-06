@@ -28,6 +28,8 @@ title= "links"
 
 [Fred Cederberg](http://www.capebretonmilitaryhistory.com/collections/personal-profile-collections/cederberg-john-frederic-fred/)
 
+[Kingsmill - CA](https://themilitarymuseums.ca/mmural/101-150/107/m107.html?fbclid=IwAR0FpuArMVtkH-uZnY4hq4WaOuaS2J173pV4biZsy27m1fW9QIjaIzl6uOs)
+
 [Monte San Martino Trust](https://msmtrust.org.uk)
 
 [WW2 Escape Lines Memorial Society](https://ww2escapelines.co.uk/)
