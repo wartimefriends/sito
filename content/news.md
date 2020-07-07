@@ -2,7 +2,11 @@
 title= "articoli"
 +++
 
+[I solsdati pellerossa protagonisti della liberazione, da Corriede di Parma del 22-6-2020](/images/files/art Berceto 22-6-20.jpg)
+
 [I pellerossa contro il nazifascismo, da Lara Maria Ferrari del 9-6-2020](/images/files/art I pellerossa contro.jpg)
+
+[Indiani d’America e d’Italia, da il Corriede della Sera dell' 8-6-2020](/docs/art Indiani d’America e d’Italia 8-6-20.pdf)
 
 [25 Aprile, se libertà vuol dire sacrificio, da www.magzine.it del 25-4-2020](/docs/art 25 APRILE 2020.pdf)
 
