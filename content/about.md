@@ -14,16 +14,15 @@ Il gruppo ha prodotto lavori multimediali in DVD su aspetti della guerra nel nos
 
 ## Fanno parte del gruppo:
 
-nomi                   | foto
------------------------|--------------------------------------------------------
-Mariangela Rondinelli  | ![Mariangela Rondinelli](/images/people/mariangela.jpg)
-Imerio Montebello      | ![Imerio Montebello](/images/people/imerio.jpg)
-Giancarlo Tramonti     | ![Giancarlo Tramonti](/images/people/giancarlo.jpg)
-Nicoletta Graziani     | ![Nicoletta Graziani](/images/people/nicoletta.jpg)
-Bruno Morelli          | ![Bruno Morelli](/images/people/bruno.jpg)
-Matteo Zaccarini       | ![Matteo Zaccarini](/images/people/matteo.jpg)
-Ruth Allen             | ![Ruth Allen](/images/people/ruth.jpg)
-Vienna Pezzi           | ![Vienna Pezzi](/images/people/vienna.jpg)
-Bill Dooligan          | ![Bill Dooligan](/images/people/Bill.jpg)
-Giorgina Dooligan      | ![Giorgina Dooligan](/images/people/Giorgina.jpg)
-Andrea Tondini         | ![Andrea Tondini](/images/people/andrea.jpg)
+nomi                       | foto
+---------------------------|----------------------------------------------------
+Mariangela Rondinelli      | ![Mariangela Rondinelli](/images/people/mariangela.jpg)
+Imerio Montebello          | ![Imerio Montebello](/images/people/imerio.jpg)
+Giancarlo Tramonti         | ![Giancarlo Tramonti](/images/people/giancarlo.jpg)
+Nicoletta Graziani         | ![Nicoletta Graziani](/images/people/nicoletta.jpg)
+Matteo Zaccarini           | ![Matteo Zaccarini](/images/people/matteo.jpg)
+Ruth Allen                 | ![Ruth Allen](/images/people/ruth.jpg)
+Raffaella Cortese de Bosis | ![Raffaella Cortese de Bosis](/images/people/raffaella.jpg)
+Bill Dooligan              | ![Bill Dooligan](/images/people/Bill.jpg)
+Giorgina Dooligan          | ![Giorgina Dooligan](/images/people/Giorgina.jpg)
+Andrea Tondini             | ![Andrea Tondini](/images/people/andrea.jpg)
