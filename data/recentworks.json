@@ -1,5 +1,18 @@
 [
-    {
+   {
+      "id": 10,
+      "name": "LA FOGLIA BIANCA DELL'ACERO",
+      "image": "/images/brade_hope/cover.png",
+      "url": "/research/brade_hope/",
+      "items": [
+          {
+              "name": "THE WHITE MAPLE LEAF",
+              "url": "/en/research/brade_hope/"
+          }
+         
+      ]
+   },
+  {
         "id": 0,
         "name": "UNA NUOVA VITA SOTTO LE BOMBE",
         "image": "/images/files/Newlife.jpg",

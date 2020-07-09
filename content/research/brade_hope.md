@@ -1,0 +1,111 @@
++++
+title= "LA FOGLIA BIANCA DELL’ACERO"
++++
+
+**LA STORIA DI THOMAS BRADE HOPE, Esercito Canadese**<br>**(Scozia, 3 giugno 1915 - Italia, 13 dicembre 1944)**
+
+*Raffaella Cortese de Bosis, Roma*
+
+![Thomas Brade Hope](/images/brade_hope/thomas_brade_hope.png)
+
+
+Un tappeto di foglie di tutti i colori si estende a perdita d’occhio: un immenso mosaico dove le minuscole tessere ricoprono ogni centimetro di quella terra. Il silenzio del bosco si interrompe solo al rumore sordo dei rami che cadono. Un ragazzo si asciuga il sudore misto a segatura e si siede su un piccolo tronco. Lo ha appena tagliato. Per lui è come un trofeo: ha 14 anni, attrezzi rudimentali ed è solo.
+
+Il sole sta calando su questa parte dell’entroterra scozzese. Si direbbe che è ora di tornare a casa ma Tommy Hope una casa non ce l’ha più. La mamma Christina muore nel 1922 e il papà James appena due anni dopo. Tommy è il sesto di 10 fratelli, nato il 3 giugno 1915 a Biggar.
+
+I bambini vengono quindi mandati in orfanotrofio, non lontano dalla loro casa, a Bridge of Weir: abiteranno nel Quarrier’s Orphan Homes of Scotland. Quarrier, un mercante di calzature scozzese,  nel 1876 acquista un terreno a Nittinhshill Farm, vi fa costruire i primi due cottage che presto diventano oltre 40, con scuole, laboratori, la chiesa di Monte Zion, molto grande. C’erano una trentina di ragazzi che vivevano in ogni casa e solo due persone che si occupavano di loro. Studiano, praticano sport, sono impegnati in lavori manuali.
+
+Tommy passa 6 anni in questo posto, andrà a scuola ma a 14 anni decide di lasciare gli studi per trovarsi un lavoro. Con il tempo si pentirà di questa scelta. E’ forte, energico, non teme i lavori pesanti. E’ uno tosto, all’apparenza forse ruvido ma con intelligenza superiore alla media. Ha una corporatura media ma è ben piazzato. Occhi grigi, buoni, sguardo a volte sornione.  Taciturno e posato, con la testa sulle spalle. Il suo sense of humor lo sostiene nel far fronte ad una vita da sempre contraddistinta da abbandono, durezza, rigore. Tommy lavora nei campi, impara a guidare trattore e camion. E’ uno che non si ferma, che non si lascia spaventare e che vive a testa alta: solo una cosa scoprirà di non poter tollerare e cioè gli spazi chiusi. E’ claustrofobico, ha bisogno di vivere all’aria aperta. La passione per la meccanica si mescola con quella per la pesca e il calcio, nel ruolo di attaccante.
+
+## 1930
+E’ l’inizio del 1930. Tommy ha 15 anni appena, ma il conto che la vita gli ha presentato è già salatissimo. E’ cresciuto costruendosi una corazza contro i dispiaceri e il suo carattere lo aiuta a non mollare. Ora però c’è un altro abbandono alle porte: sarà mandato in Canada dalla Quarrier’s Orphan Home, che aveva instaurato un programma di invio di bambini dell’orfanotrofio iniziato nel 1872 con i primi 35 bambini fatti emigrare e terminato nel 1933 quando il numero di partenze aveva superato la cifra di 7000.
+
+La sera del 27 marzo 1930 è l’ultima che Tommy passa presso la struttura. La notte è più scura di qualunque altra per lui. Non sa a che cosa andrà incontro, dovrà salire su una nave e rimanerci tanti giorni, da solo e poi … il Canada, ma dov’è questo Canada e … perché? Il vento gelido sferza la campagna scozzese, il sibilo si confonde con lo stridore degli incubi fino all’arrivo dell’alba. Il 28 infatti, con 24 ragazzi ed alcuni accompagnatori arrivano a Glasgow. Gli sguardi incollati alle strade della città, per loro è tutto nuovo. Alcuni si comportano come piccoli automi, altri più spavaldi e scanzonati sgarrano un po’. C’è Letitia ad aspettare questo gruppo così spaurito e sparuto. Ma Letitia non è una figura femminile affettuosa,  pronta a rassicurare i ragazzi con abbracci e carezze, è un gigante dei mari: la nave che li porterà via dalla Scozia, forse anche per sempre. A bordo salgono oltre 300 passeggeri. I ragazzi portano con sé un piccolo baule di legno, dentro è riposto un po’ di vestiario, spartano. E’ tutto il loro bagaglio. Arrivati sul ponte della nave, così alti su quell’acqua gelida, si aggrappano alla speranza. 
+
+La grande nave lascia gli ormeggi. Il mare avvolge i ricordi dei ragazzi come un guscio liquido. Se anche i ricordi svaniscono per loro resta solo un nome su un documento.
+
+La navigazione è iniziata e Tommy passa molto tempo per conto suo, soprattutto sul ponte. Immagina il suo futuro: a 15 anni il futuro dura tanto! Si chiede cosa farà, chi incontrerà, dove passerà il suo tempo. La claustrofobia gli impedisce di stare nei piccoli spazi della nave e così cerca di prendere confidenza con l’astratta serie di novità che lo aspettano. Le onde dell’oceano si alzano minacciose e di notte sembrano scaraventare delle secchiate di vernice nera sulla nave. Sono tanti i giorni di viaggio e tra i ragazzi c’è chi cede alla disperazione, chi soffre di mal di mare, chi riesce a incoraggiare l’amico. Arrivati nei pressi della Baia di Quinte si scatena una tempesta spaventosa tanto che, una volta toccata terra qualcuno sentirà  il Capitano della nave che diceva di aver creduto di non farcela.
+
+E’ il 6 aprile quando finalmente Tommy avvista le coste del Canada. Attraccano nel porto di Halifax. Una volta sceso, e dopo aver risposto alle 24 domande previste per ottenere lo status di immigrato, i ragazzi vengono presi in carico dalla Fairknowe Home di Brockville in Ontario: una “distributing home” come veniva chiamata, per poi essere mandati a lavorare nelle campagne affiancando i contadini. Altri 900 km per raggiungere Brockville. Stanchi e disorientati si mettono ancora una volta in viaggio, questa volta sul treno della Canadian National Railway. Il freddo si fa sentire, gli abiti non li proteggono e c’è ancora la neve. 
+
+Quando finalmente raggiungono Brockville si trovano di fronte una bella villa grande sulla First Avenue, non lontano dal fiume San Lorenzo. Appartiene a William Quarrier che l’ha trasformata in punto di accoglienza per i ragazzi provenienti dalle sedi scozzesi degli orfanotrofi da lui aperti. La figlia Agnes con il marito James Burgess gestiscono la struttura. 
+
+La storia racconta di maltrattamenti e abusi su tanti ragazzi, schiavizzati e umiliati dalle famiglie di contadini alle quali venivano assegnati. Racconta anche di altri che se la sono cavata e hanno avuto una sorte migliore.
+
+Tommy Hope saluta William, Archibald, Sydney, Hugh e i tanti altri ragazzi che avevano viaggiato sul Letitia. Si avvia, ancora una volta, verso l’ignoto. Viene assegnato ad aziende agricole nella zona di Beckwith poi vicino a Toronto. Per cinque interminabili anni passa gli inverni a fare il taglialegna. Faggi, querce, aceri. Ogni tanto gli scoiattoli volanti gli si avvicinano sospettosi. E poi il falco, tra un ramo e l’altro sembra sorvegliare il suo lavoro. Ha le mani consumate dalla fatica, la pelle che si spacca e si riempie di neve. I minuti di pausa che si concede sono sempre più brevi, con temperature di parecchio sotto lo zero stare fermi è un rischio enorme. 
+
+Pensa a William, William Cameron, che aveva viaggiato con lui. Non sa che è stato mandato a Kingston dove per sette anni è stato trattato peggio di uno schiavo, dormendo spesso nella stalla. Esausto da questa condizione disperata, un giorno, anziché tornare nella stalla ha proseguito a piedi camminando per diverso tempo finché un vicino non l’ha fatto entrare in casa sua e questo ha cambiato la sua vita: il vicino gli ha trovato un lavoro presso il camposanto di Belleville per passare poi all’Ontario e successivamente all’Ontario Hydro.
+
+Pensa a Hugh Blair, anche lui compagno di viaggio. Dopo la sua scomparsa la figlia Peg Blair di Carp, Ontario, già direttore delle Operazioni Informatiche per il Dipartimento dell’Immigrazione Canadese,  ha ritrovato un quaderno che teneva accanto alla sua poltrona preferita. Dentro, appunti sulla sua vita al Quarriers, la sua trepidazione per la partenza e anche il ricordo della Salvation Army che suonava “God be with you till we meet again”. In Canada è stato accolto da una famiglia molto gentile che lo ha considerato proprio come un loro figlio. E’ stata la cosa migliore che poteva capitargli.
+
+Pensa a Robert, Robert Robertson, arruolatosi poi con I Stormont, Dundas and Glengarry Highlanders durante la guerra. Ha lavorato alla Phillips Plant fino a poco prima di morire nel 1969. Sua figlia Melanie Robertson King è una scrittrice molto conosciuta. Ha pubblicato romanzi e saggi ed è molto attiva nella ricerca che riguarda i Quarriers Home Children, promuovendo incontri e partecipando a conferenze.
+
+In mezzo a questa natura gelata, Tommy cresce, si fa conoscere e apprezzare. E’ affidabile e infaticabile. Ha tanti amici. Alla fine di un inverno la sua strada si interseca con quella della famiglia Coleman, allevatori di bestiame a Beckwith Township, a circa un’ora da Ottawa. Tom un giorno bussa alla loro porta in cerca di lavoro e viene accolto con affetto da subito. I Coleman diventano la famiglia di Tom, la sua casa, trova calore che non ha mai conosciuto. Elisha Coleman, il capo famiglia, lo prende a lavorare con sé, per la tosatura delle pecore, il taglio della legna e la cura dell’orto. Si appassiona anche alla produzione dello sciroppo d’acero, non poteva essere che così! 
+
+## 1942
+Tommy è un ragazzo di 27 anni. Decide di arruolarsi, pensa sia meglio farlo, con la Guerra che si sta combattendo in Europa. La sua famiglia canadese però ricorda che in cuor suo arruolarsi significava poter rivedere i fratelli.
+
+Il 21 ottobre di quell’anno, a Toronto, entra nell’Esercito Canadese Dopo una permanenza in Canada da militare, parte con destinazione UK il 14 maggio 1943 per entrare nel 2nd Armoured Regiment, Lord Strathcona Horse. E’ in questo periodo che riesce a rivedere alcuni dei fratelli, recandosi in Scozia. 
+
+E’ qui che matura il desiderio di portare la sorellina Anna con sé in Canada alla fine della guerra. 
+
+Scrive a casa parlando del suo dislocamento in Africa e poi in Italia, dove arriva il 13 novembre 1943 con il 48th Highlanders. Il suo numero di matricola: B134707. 
+
+Torna presto in servizio attivo.
+
+E’ un soldato in gamba. Ha meritato la Canadian Volunteer Service Medal with Clasp, la 1939-45 Star, la Italy Star, la Defence Medal, e la War Medal. 
+
+
+![](/images/brade_hope/Picture1.png)
+
+![](/images/brade_hope/Picture2.png)
+
+
+
+
+
+
+Descrive l’orrore che ha provato nel vedere tutta quella distruzione: Napoli con il suo porto disseminato di navi fatte affondare, rovine ovunque e poi man mano, verso nord, Cassino rasa al suolo, i paesini dell’entroterra sventrati ma con le persone del posto che li accoglievano con grandissimo affetto ringraziandoli per tutti i sacrifici e l’aiuto ricevuto, l’attraversamento del fiume Melfa tra il 24 e il 25 maggio è stato un massacro, la reazione dei tedeschi furibonda. Il prezzo in perdite umane altissimo.  E’ qui che il Maggiore John Mahoney ha meritato la Victoria Cross per atti eroici.
+
+Siamo nella zona di Pofi, in provincia di Frosinone, poco più di cento km da Roma. Pofi, borgo medievale arroccato su un colle, farà da sfondo al Lord Strathcona Horse Regiment per qualche giorno.
+
+## 3 giugno 1944
+Per Tommy è un grande giorno. Compie 29 anni. In guerra festeggia più nell’animo che con pranzi e regali ma oggi tutto questo fa eccezione: per lui oggi il regalo ci sarà e sarà quanto di più inaspettato possa immaginare. Lance Corp. Robert Greene (dopo la guerra diventerà prete anglicano) fa parte dell’equipaggio di un carro armato e con Tommy aveva condiviso alcune operazioni. Stando uno accanto all’altro, anche sotto attacchi feroci dei tedeschi, Greene si era accorto che Tommy aveva una forte fobia per gli spazi chiusi: immaginiamoci cosa poteva provare in un carro armato. Si adopera quindi per farlo trasferire ad altro reparto. Ci riesce e glielo comunica.  Tommy non ci può credere, si sente libero e euforico. E’ molto più di un regalo per lui! Si sdraia sull’amaca, felice. 
+
+La guerra è ancora lunga, i pericoli si moltiplicano, il  Lanark and Renfrew Scottish  avanza verso nord. L’estate torrida lascia il posto a pioggia incessante: le stradine secondarie che fino a poco prima erano battute dai canadesi si sono trasformate improvvisamente in lingue di fango impraticabili. I rigagnoli diventati torrenti impetuosi. Questo purtroppo farà gioco al nemico. 
+
+Nei primi giorni di dicembre 1944 il suo reggimento è impegnato a Mezzano per bonificare la riva est del Lamone. Nebbia e pioggia non danno tregua e le operazioni sono rese ancora più estenuanti. Il fango è ovunque. La notte tra il 10 e l’11 attraversano il fiume. La Divisione stabilisce una testa di ponte sul Lamone. Riescono a catturare una quarantina di prigionieri poi altri 50. Le perdite sono tante. 
+
+Tommy scrive a casa: grazie delle vostre preghiere, mi stanno aiutando molto. Accenna anche alla sua fidanzata, rimpiangendo di non averla sposata e che al suo ritorno in Canada sarebbe stato un vecchio signore … 
+
+In mezzo a tutto questo orrore, arriva da parte della famiglia un regalo per l’imminente Natale. Tommy scrive subito a casa per ringraziare e fare gli auguri e la sua lettera, da tutto questo orrore, arriva nelle mani della famiglia.
+
+Ora è il Canale Naviglio l’obiettivo dei canadesi. L’assalto ha inizio nella notte del 12. Lungo gli argini i contrattacchi sono feroci, tanto da determinare lo spaccamento in gruppi isolati. Il fuoco nemico impedisce alle riserve perfino di avvicinarsi al canale. A peggiorare la situazione, la scarsa visibilità che non consente la copertura aerea. Nel solo arco di quella notte ci sono state 21 vittime. Dalle case requisite dai tedeschi la pioggia di proiettili blocca i Lanark and Renfrew. Resistono due interminabili giorni, impantanati e stremati. Le vittime sono 38.
+
+*Sono 580 giorni che è impegnato a combattere. E’ stato in Africa, poi ha risalito lo Stivale ed è arrivato nel Ravennate, prima nel Lord Strathcona Horse, poi nel 48th Highlanders, poi ancora nel Light Anti Aircraft ed ora nel Lanark and Renfrew Scottish Regiment..*
+
+Si avvicina il 13 dicembre 1944. Il giorno più corto dell’anno. Sarà l’ultimo su questa terra, per Tommy.
+
+La furia della battaglia è inarrestabile: un mostro di ferro incandescente dagli enormi denti sporchi di fango che strappa il tappeto di foglie di tutti i colori; la sua forza distruttrice le brucia,  le trincia,  le rende irriconoscibili. Quando finalmente la belva si ferma, precipita al suolo la cortina di polvere che aveva sollevato. Torna il silenzio. Le foglie sono sparite sotto ai detriti.
+
+Tutte tranne una: è di pietra bianchissima ed è incisa sulla lapide di Tommy B Hope nel cimitero militare canadese di Villanova di Bagnacavallo
+
+Mary Campbell, la sorella riceve una lettera in cui le si comunica che Tom è stato colpito da una pallottola e morto all’istante, che era apprezzato ed aveva tanti amici. In un’altra lettera legge che: è stato ucciso mentre era impegnato in una delle operazioni più difficili di questa guerra e che il tuo attaccamento al dovere e la sua affidabilità lo rendevano una persona valorosa. Ci mancherà.
+
+Il Mag. Gen. A E Walford del Ministero della Difesa scrive a Elisha Coleman. Lo informa che Thomas ha dato la vita per servire il suo Paese e rende omaggio al sacrificio che ha compiuto con tanto coraggio. I Coleman sono distrutti ed avranno sempre dei ricordi tanto cari di lui.
+
+Strato dopo strato la storia segue il suo corso e ci porta ad oggi. Dopo più di 75 anni la famiglia naturale di Tommy e la sua famiglia Canadese hanno potuto condividere i loro ricordi. Raggiungere Neilson Hope, figlio del fratello più giovane di Tommy, in Scozia, e Brenda Ferrier, nipote di Elisha Coleman, in Canada, ha significato potergli far stabilire un contatto, quantomeno inaspettato.
+
+Neilson dirà: sono stato così felice di sentire Brenda, è stata gentilissima. Ho sempre voluto andare in Canada e vedere dove aveva vissuto Tommy, ma non avevo idea di dove poter andare. Ora finalmente lo so!
+
+Brenda dirà: “E’ un cerchio che si è incredibilmente chiuso. Pensavo che dato che tutti coloro che lo avevano conosciuto erano deceduti, era la fine della storia. Sono stata davvero incredula e sorpresa quando mi hai detto che avevi trovato la famiglia in Scozia. Vorrei sapere tanto di più della vita di Tommy. Ti ringrazio per il gran lavoro che hai fatto e per la tua dedizione. Ora in tanti potranno conoscere la sua vita e quella di altri soldati canadesi così coraggiosi”. 
+
+Grazie, Tommy, Dio ti benedica.
+
+![Villanova di Bagnacavallo: Cimitero di Guerra Canadese](/images/brade_hope/villanova.png)
+
+Villanova di Bagnacavallo: Cimitero di Guerra Canadese
+
+![Beckwith: Brenda al Memorial Park](/images/brade_hope/beckwith.png)
+
+Beckwith: Brenda al Memorial Park
