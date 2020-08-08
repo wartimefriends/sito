@@ -13,22 +13,22 @@ Valentin e Lucie,  fratello e sorella, hanno poco più di 10 anni. Sono abituati
 
 Valentin  e Lucie sono rimasti tutto il giorno e parte della notte sotto gli arbusti. Il frastuono è finito, non si sentono colpi e i bambini provano a sbirciare. Sono terrorizzati. Subito fuori dal nascondiglio c’è il mare. Nell’oscurità, tra corpi  straziati, filo spinato, macerie, si interrogano su cosa ci facciano sulla riva tutte quelle tartarughe, che piano piano  il mare sta spingendo più a riva.  I teneri occhi di bambino avevano scambiato le decine  di elmetti abbandonati,  per gusci di tartaruga.  Non possono sapere che uno di quegli elmetti apparteneva a Kenneth James Ingram.
 
+{{< figure src="/images/ingram_mclean/kenneth_ingram.png" title="Kenneth Ingram" >}} {{< figure src="/images/ingram_mclean/robert_ingram.png" title="Robert Ingram" >}}
 
-![Kenneth Ingram](/images/ingram_mclean/kenneth_ingram.png) ![Robert Ingram](/images/ingram_mclean/robert_ingram.png)
 
 Pvt Kenneth James Ingram, Royal Regiment of Canada, di 21 anni, è chiamato a combattere in questa operazione disperata. Viene dilaniato dalla furia della battaglia e perde la vita proprio il 19 agosto. La notizia della sua morte arriva alla famiglia in Canada e al fratello Robert Dalton, anche lui del Royal Regiment of Canada, di stanza in Inghilterra, che esattamente quel giorno aveva avuto conferma del suo grado di Sergente. La perdita del fratello lo tocca profondamente e spera di poter portare un fiore sulla sua tomba a Hautot sur Mére, una volta finito l’incubo della guerra.  Una guerra che però non accenna a concludersi.  Passa tutto il 1943 e la metà del 1944. Robert è ancora in Inghilterra. E’ la vigilia dello sbarco in Normandia. 6 giugno 1944. Lui vi  è destinato  ma non con i primi contingenti. Arriva infatti il 5 luglio con il Royal Regiment of Canada.  Arrivati nel paesino di Moulines, a sud di Caen, nel dipartimento del Calvados, Robert cade sotto i colpi del nemico il 13 agosto 1944. Grazie alla pietà di un signore del posto, viene sepolto nel  giardino dietro a un negozio. 
 
 
-![Toronto Men Dead](/images/ingram_mclean/newspaper_1.png) ![Sgt. R.D.Ingram Enlisted One Hour After War Declared](/images/ingram_mclean/newspaper_2.png)
+{{< figure src="/images/ingram_mclean/newspaper_1.png" title="Toronto Men Dead" >}} {{< figure src="/images/ingram_mclean/newspaper_2.png" title="Sgt. R.D.Ingram Enlisted One Hour After War Declared" >}}
 
 
 Il capitolo finale di questa storia è commovente.
 
 Keith è morto il 19 agosto 1942 a Dieppe. Robert il 13 agosto 1944 a Moulines. A quasi due anni uno dall’altro e a soli 200km di distanza. Robert sperava di poter portare un fiore sulla tomba del fratello Ken a Dieppe. Un desiderio che non ha potuto realizzare; quello dei loro genitori però, imprevedibilmente,  si realizza: ottengono l’autorizzazione affinché Robert possa riposare nella stessa tomba di Ken. Oggi c’è una unica lapide per i fratelli Ingram.
 
-![George Allan Ingram, padre](/images/ingram_mclean/george_allan_ingram.png) ![Mary Alma Ingram, madre](/images/ingram_mclean/mary_alma_ingram.png)
+{{< figure src="/images/ingram_mclean/george_allan_ingram.png" title="George Allan Ingram, padre" >}} {{< figure src="/images/ingram_mclean/mary_alma_ingram.png" title="Mary Alma Ingram, madre" >}}
 
-![Keith and Robert Ingram, Dieppe Canadian War Cemetery](/images/ingram_mclean/ingram_gravestone.png)
+{{< figure src="/images/ingram_mclean/ingram_gravestone.png" title="Keith and Robert Ingram, Dieppe Canadian War Cemetery" >}}
 
 
 
@@ -43,9 +43,9 @@ Non possono sapere che uno di quegli elmetti apparteneva a Alexander McLean.
 
 Pvt Alexander McLean fa orgogliosamente parte del Cape Breton Highlanders Regiment, canadese. Ha 35 anni.  E’  uno degli 8 figli di Alex Dalgleish e Louisa May.  Ben quattro di loro sono al fronte: due in Italia, uno in Olanda e la sorella Tenete Kathren di 33 anni, in servizio presso il  7th Canadian Hospital, Royal Canadian Army Medical Corps, British Liberation Army. 
 
-![Casa della famiglia McLean, Ontario](/images/ingram_mclean/mclean_house.png)
+{{< figure src="/images/ingram_mclean/mclean_house.png" title="Casa della famiglia McLean, Ontario" >}}
 
-![Alexander McNeal](/images/ingram_mclean/alexander_mclean.png) ![Keith McNeal](/images/ingram_mclean/keith_mclean.png)
+{{< figure src="/images/ingram_mclean/alexander_mclean.png" title="Alexander McNeal" >}} {{< figure src="/images/ingram_mclean/keith_mclean.png" title="Keith McNeal" >}}
 
 
 I genitori cercano di farsi forza pensando al ritorno dei ragazzi. 
@@ -64,7 +64,7 @@ L’appello di Louisa non cade nel vuoto: il 3 gennaio 1946 il Director of Recor
 
 > “… accogliendo la sua richiesta, i resti di Keith Mabin sono stati riesumati dal luogo dove erano stati inizialmente sepolti, a nord ovest di Ravenna, e rispettosamente posto nella stessa tomba del fratello Alexander James…..”
 
-![Alex e Keith McLean, Villanova Canadian War Cemetery](/images/ingram_mclean/mclean_gravestone.png)
+{{< figure src="/images/ingram_mclean/mclean_gravestone.png" title="Alex e Keith McLean, Villanova Canadian War Cemetery" >}}
 
 Oggi c’è un’unica lapide per i fratelli McLean nel Cimitero di Villanova. 
 

@@ -6,7 +6,7 @@ title= "LA FOGLIA BIANCA DELL’ACERO"
 
 *Raffaella Cortese de Bosis, Roma*
 
-![Thomas Brade Hope](/images/brade_hope/thomas_brade_hope.png)
+{{< figure src="/images/brade_hope/thomas_brade_hope.png" title="Thomas Brade Hope" >}}
 
 
 Un tappeto di foglie di tutti i colori si estende a perdita d’occhio: un immenso mosaico dove le minuscole tessere ricoprono ogni centimetro di quella terra. Il silenzio del bosco si interrompe solo al rumore sordo dei rami che cadono. Un ragazzo si asciuga il sudore misto a segatura e si siede su un piccolo tronco. Lo ha appena tagliato. Per lui è come un trofeo: ha 14 anni, attrezzi rudimentali ed è solo.
@@ -102,10 +102,6 @@ Brenda dirà: “E’ un cerchio che si è incredibilmente chiuso. Pensavo che d
 
 Grazie, Tommy, Dio ti benedica.
 
-![Villanova di Bagnacavallo: Cimitero di Guerra Canadese](/images/brade_hope/villanova.png)
+{{< figure src="/images/brade_hope/villanova.png" title="Villanova di Bagnacavallo: Cimitero di Guerra Canadese" >}}
 
-Villanova di Bagnacavallo: Cimitero di Guerra Canadese
-
-![Beckwith: Brenda al Memorial Park](/images/brade_hope/beckwith.png)
-
-Beckwith: Brenda al Memorial Park
+{{< figure src="/images/brade_hope/beckwith.png" title="Beckwith: Brenda al Memorial Park" >}}

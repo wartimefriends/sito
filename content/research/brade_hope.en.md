@@ -6,7 +6,7 @@ title= "THE WHITE MAPLE LEAF"
 
 *Raffaella Cortese de Bosis, Roma*
 
-![Thomas Brade Hope](/images/brade_hope/thomas_brade_hope.png)
+{{< figure src="/images/brade_hope/thomas_brade_hope.png" title="Thomas Brade Hope" >}}
 
 
 A blanket of multicolored leaves stretches as far as eye can see, a giant mosaic whose minuscule tiles cover every inch of the land. The silence of the woods is broken only by the dull sound of falling branches. A boy wipes sweat and sawdust off his face and finally sits on a small log that he just cut. For him it is like a trophy: he is 14, has rudimentary tools and is alone.
@@ -102,10 +102,6 @@ Brenda: “It is certainly  an amazing circle completed. I guess I figured that 
 Thank you, Tommy. God bless.
 
 
-![Villanova di Bagnacavallo: Canadian War Cemetery. Private T.B. HOPE’s grave](/images/brade_hope/villanova.png)
+{{< figure src="/images/brade_hope/villanova.png" title="Villanova di Bagnacavallo: Canadian War Cemetery. Private T.B. HOPE’s grave" >}}
 
-Villanova di Bagnacavallo: Canadian War Cemetery. Private T.B. HOPE’s grave
-
-![Beckwith: Brenda at the Memorial Park Cenotaph](/images/brade_hope/beckwith.png)
-
-Beckwith: Brenda at the Memorial Park Cenotaph
+{{< figure src="/images/brade_hope/beckwith.png" title="Beckwith: Brenda at the Memorial Park Cenotaph" >}}

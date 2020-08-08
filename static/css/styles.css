@@ -874,3 +874,13 @@ h1#logo span.tagline, h1#logo span.tagline a {
   text-align: center; */
   text-align: center;
 }
+
+#main div.box {
+  display: inline-block;
+}
+
+figure figcaption h4 {
+  font-size: 90%;
+  font-style: italic;
+  color: gray;
+}
