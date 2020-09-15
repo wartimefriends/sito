@@ -4,7 +4,12 @@
       "name": "QUATTRO PAPAVERI, DUE LAPIDI",
       "image": "/images/ingram_mclean/papaveri.png",
       "url": "/research/ingram_mclean/",
-      "items": []
+      "items": [
+         {
+            "name": "FOUR POPPIES, TWO HEADSTONES",
+            "url": "/en/research/ingram_mclean/"
+        }  
+      ]
    },
    {
       "id": 10,
