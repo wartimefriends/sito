@@ -27,7 +27,7 @@ Robert is still in England. It is the eve of the Normandy landings, June 6, 1944
 The final chapter of this story is tremendously moving. 
 Keith died on August 19, 1942 in Dieppe. Robert on 13 August 1944 in Moulines. Almost two years from each other and only 200 km away. Robert hoped to bring a flower to his brother Ken's grave in Dieppe. A desire that he could not fulfill; their parents’, however, unpredictably comes true: they get permission for Robert to rest in the same tomb along with his brother Ken. Today, there is one headstone for the two Ingram brothers.
 
-{{< figure src="/images/ingram_mclean/george_allan_ingram.png" title="George Allan Ingram, padre" >}} {{< figure src="/images/ingram_mclean/mary_alma_ingram.png" title="Mary Alma Ingram, madre" >}}
+{{< figure src="/images/ingram_mclean/george_allan_ingram.png" title="George Allan Ingram, father" >}} {{< figure src="/images/ingram_mclean/mary_alma_ingram.png" title="Mary Alma Ingram, mother" >}}
 
 {{< figure src="/images/ingram_mclean/ingram_gravestone.png" title="Keith and Robert Ingram, Dieppe Canadian War Cemetery" >}}
 
@@ -44,7 +44,7 @@ They cannot know that one of those helmets belonged to Alexander  McLean.
 
 Pte Alexander  McLean is a proud member of the Cape Breton  Highlanders  Regiment of Canada. He is 35 years old.  He is one of 8 children of Alex Dalgleish and Louisa May. Four of them are serving in Europe: two in Italy, one in the Netherlands and their sister, Lieutenant Kathren McLean, 33, is on duty at the 7th Canadian Hospital, Royal Canadian Army Medical Corps, British Liberation Army. 
 
-{{< figure src="/images/ingram_mclean/mclean_house.png" title="Casa della famiglia McLean, Ontario" >}}
+{{< figure src="/images/ingram_mclean/mclean_house.png" title="The McLean Family Home, Ontario" >}}
 
 {{< figure src="/images/ingram_mclean/alexander_mclean.png" title="Alexander McNeal" >}} {{< figure src="/images/ingram_mclean/keith_mclean.png" title="Keith McNeal" >}}
 
@@ -63,7 +63,7 @@ Louisa's appeal does not fall on deaf ears. On 3rd January 1946, the Director of
 
 ".....accepting your request,  Keith Mabin's remains were exhumed from the place where they were initially buried, northwest of Ravenna, and  respectfully placed in the same tomb along with his brother Alexander James....." 
 
-{{< figure src="/images/ingram_mclean/mclean_gravestone.png" title="Alex e Keith McLean, Villanova Canadian War Cemetery" >}}
+{{< figure src="/images/ingram_mclean/mclean_gravestone.png" title="Alex and Keith McLean, Villanova Canadian War Cemetery" >}}
 
 Today there is only one tombstone for the  McLean brothers in the Villanova Cemetery.
 
