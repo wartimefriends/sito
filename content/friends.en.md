@@ -12,3 +12,4 @@ Friends met during our researches, with some of their stories, biographies and m
 - [Fred Cederberg](/en/friends/fred_cederberg/)
 - [Gordon Bannerman](/en/friends/gordon_bannerman/)
 - [Gino Farnetti](/en/friends/gino_farnetti/)
+- [Gen. Antonio Li Gobbi](/en/friends/aligobbi/)
