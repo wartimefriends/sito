@@ -1,13 +1,13 @@
 [
    {
       "id": 11,
-      "name": "QUATTRO PAPAVERI, DUE LAPIDI",
-      "image": "/images/ingram_mclean/papaveri.png",
-      "url": "/research/ingram_mclean/",
+      "name": "RICERCHE DI Raffaella Cortese De Bosis",
+      "image": "/images/files/25apriledonne.jpg",
+      "url": "/research/debosis/",
       "items": [
          {
-            "name": "FOUR POPPIES, TWO HEADSTONES",
-            "url": "/en/research/ingram_mclean/"
+            "name": "Raffaella Cortese De Bosis' RESEARCHES",
+            "url": "/en/research/debosis/"
         }  
       ]
    },
@@ -123,18 +123,6 @@
          {
              "name": "THE LIBERATION OF RAVENNA",
              "url": "/en/history/ravenna/"
-         }     
-         ]
-      },
-      {
-         "id": 8,
-         "name": "25 APRILE: DONNE PROTAGONISTE",
-         "image": "/images/files/25apriledonne.jpg",
-         "url": "/history/donne25apr/",
-         "items": [
-         {
-             "name": "APRIL 25th: WOMEN PROTAGONISTS",
-             "url": "/en/history/donne25apr/"
          }     
          ]
       }

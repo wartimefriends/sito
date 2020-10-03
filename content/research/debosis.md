@@ -3,7 +3,9 @@ title= "RICERCHE DI Raffaella Cortese De Bosis"
 +++
 
 
-{{< figure src="/images/people/raffaella.jpg" title="Raffaella Cortese de Bosis" >}}
+{{< figure src="/images/people/raffaella2.jpg" title="Raffaella Cortese de Bosis" >}}
+
+
 
 **[QUATTRO PAPAVERI, DUE LAPIDI](/research/ingram_mclean/)**
 

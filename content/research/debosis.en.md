@@ -3,7 +3,9 @@ title= "Raffaella Cortese De Bosis' RESEARCHES"
 +++
 
 
-{{< figure src="/images/people/raffaella.jpg" title="Raffaella Cortese de Bosis" >}}
+{{< figure src="/images/people/raffaella2.jpg" title="Raffaella Cortese de Bosis" >}}
+
+
 
 **[FOUR POPPIES, TWO HEADSTONES](/en/research/ingram_mclean/)**
 
