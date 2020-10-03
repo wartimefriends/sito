@@ -7,8 +7,6 @@ title= "Raffaella Cortese De Bosis' RESEARCHES"
 
 
 
-**[IL SERGENTE DAL CUORE D’ORO](/docs/art Sergente Gander.pdf)**
-
 
 **[HIS BRIDGE TOO FAR](/docs/art ANTONIO BARBARO 30-9-2020Eng.pdf)**
 
