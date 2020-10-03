@@ -7,9 +7,17 @@ title= "RICERCHE DI Raffaella Cortese De Bosis"
 
 
 
+**[IL SERGENTE DAL CUORE D’ORO](/docs/art Sergente Gander.pdf)**
+
+
+**[HIS BRIDGE TOO FAR](/docs/art ANTONIO BARBARO 30-9-2020Eng.pdf)**
+
+
 **[QUATTRO PAPAVERI, DUE LAPIDI](/research/ingram_mclean/)**
 
+
 **[LA FOGLIA BIANCA DELL’ACERO](/research/brade_hope/)**
+
 
 **[25 APRILE - DONNE PROTAGONISTE DELLA LIBERAZIONE](/history/donne25apr/)**
 
