@@ -1,12 +1,12 @@
 [
    {
       "id": 11,
-      "name": "RICERCHE DI Raffaella Cortese De Bosis",
+      "name": "ARTICOLI di Raffaella Cortese De Bosis",
       "image": "/images/files/debosis_homepage.jpg",
       "url": "/research/debosis/",
       "items": [
          {
-            "name": "Raffaella Cortese De Bosis' RESEARCHES",
+            "name": "Stories told by Raffaella Cortese de Bosis",
             "url": "/en/research/debosis/"
         }  
       ]
