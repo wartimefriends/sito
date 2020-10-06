@@ -10,7 +10,7 @@ title= "ARTICOLI DI Raffaella Cortese De Bosis"
 **[IL SERGENTE DAL CUORE D’ORO](/docs/art Sergente Gander.pdf)**
 
 
-**[HIS BRIDGE TOO FAR](/docs/art ANTONIO BARBARO 30-9-2020Eng.pdf)**
+**[IL SUO ULTIMO PONTE](/docs/art ANTONIO BARBARO 30-9-2020Ita.pdf)**
 
 
 **[QUATTRO PAPAVERI, DUE LAPIDI](/research/ingram_mclean/)**

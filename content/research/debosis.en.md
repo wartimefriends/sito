@@ -1,5 +1,5 @@
 +++
-title= "Raffaella Cortese De Bosis' ARTICLES"
+title= "Stories told by Raffaella Cortese de Bosis"
 +++
 
 
