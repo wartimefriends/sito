@@ -182,6 +182,8 @@ title= "articoli"
 
 [II Guerra Mondiale: Università per adulti di Lugo cerca scampati, da Sesto Potere del 21-03-2006](/images/files/art Sesto potere 21-3-2006.jpg)
 
+[Quel viaggo di 60 anni fa... , da Il Resto del Carlino del 19-8-2005](/images/files/art Quel viaggo di 60 anni fa 19-8-2005.jpeg)
+
 [Amicizia tra Bagnacavallo e Stone II parte, da Il Giornale di Bagnacavallo del 30-04-2004](/images/files/art Il giornale di Bagnacavallo 30_4_2004.jpg)
 
 [Amicizia tra Bagnacavallo e Stone I parte, da Il Giornale di Bagnacavallo del 30-4-2004](/images/files/art Il giornale di Bagnacavallo II 30_4_2004.jpg)

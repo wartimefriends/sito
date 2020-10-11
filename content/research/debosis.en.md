@@ -7,6 +7,8 @@ title= "Stories told by Raffaella Cortese de Bosis"
 
 
 
+**[THE SERGEANT WITH A HEART OF GOLD](/docs/art Sergente Gander_eng.pdf)**
+
 
 **[HIS BRIDGE TOO FAR](/docs/art ANTONIO BARBARO 30-9-2020Eng.pdf)**
 
