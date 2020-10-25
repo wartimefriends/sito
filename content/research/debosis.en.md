@@ -6,7 +6,7 @@ title= "Stories told by Raffaella Cortese de Bosis"
 {{< figure src="/images/people/raffaella2.jpg" title="Raffaella Cortese de Bosis" >}}
 
 
-**[MY BROTHER](/docs/art ERA MIO FRATELLO.pdf)**
+**[HE WAS MY BROTHER](/docs/art ERA MIO FRATELLO_ENG.pdf)**
 
 
 **[THE SERGEANT WITH A HEART OF GOLD](/docs/art Sergente Gander_eng.pdf)**
