@@ -6,6 +6,8 @@ title= "Stories told by Raffaella Cortese de Bosis"
 {{< figure src="/images/people/raffaella2.jpg" title="Raffaella Cortese de Bosis" >}}
 
 
+**[ITALIAN-CANADIAN SOLDIERS IN THE FAR EAST](/docs/art Hong Kong English.pdf)**
+
 **[HE WAS MY BROTHER](/docs/art ERA MIO FRATELLO_ENG.pdf)**
 
 
