@@ -6,7 +6,15 @@ title= "Stories told by Raffaella Cortese de Bosis"
 {{< figure src="/images/people/raffaella2.jpg" title="Raffaella Cortese de Bosis" >}}
 
 
+
+**[A TWO TI ME SURVIVOR REMINISCES](/docs/art Ciro Bertoia_Eng 11.12.pdf)**
+
+
+**[Pvt.JOHN ALBERT -JAMES- NASH](/docs/aart Nash 11.12_Eng.pdf)**
+
+
 **[ITALIAN-CANADIAN SOLDIERS IN THE FAR EAST](/docs/art Hong Kong English.pdf)**
+
 
 **[HE WAS MY BROTHER](/docs/art ERA MIO FRATELLO_ENG.pdf)**
 
