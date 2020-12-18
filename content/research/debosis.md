@@ -11,7 +11,10 @@ title= "ARTICOLI DI Raffaella Cortese De Bosis"
 **[SOPRAVVISSUTO DUE VOLTE RACCONTA](/docs/art Ciro Bertoia 11.12.pdf)**
 
 
-**[Pvt.JOHN ALBERT -JAMES- NASH](/docs/art Nash 11.12.pdf)**
+**[Pvt. JOHN ALBERT -JAMES- NASH](/docs/art Nash 11.12.pdf)**
+
+
+**[SOLDATI ITALO-CANADESI IN ESTREMO ORIENTE](/docs/art Hong Kong English.pdf)**
 
 
 **[ERA MIO FRATELLO](/docs/art ERA MIO FRATELLO.pdf)**
