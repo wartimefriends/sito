@@ -14,7 +14,7 @@ title= "ARTICOLI DI Raffaella Cortese De Bosis"
 **[Pvt. JOHN ALBERT -JAMES- NASH](/docs/art Nash 11.12.pdf)**
 
 
-**[SOLDATI ITALO-CANADESI IN ESTREMO ORIENTE](/docs/art Hong Kong English.pdf)**
+**[SOLDATI ITALO-CANADESI IN ESTREMO ORIENTE](/docs/art Hong Kong.pdf)**
 
 
 **[ERA MIO FRATELLO](/docs/art ERA MIO FRATELLO.pdf)**
