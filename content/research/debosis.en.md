@@ -47,7 +47,7 @@ Francesca del Rio, tortured by the nazis near Reggio Emilia
 
 
 **[THE LOST PLATOON](/docs/art 20180629 - IL PLOTONE PERDUTO.pdf)**  
-15 US Soldiers of Italian murdered by the nazis (OSS Operation Ginny II)
+15 US Soldiers of Italian origin murdered by the nazis (OSS Operation Ginny II)
 
 
 
