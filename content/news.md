@@ -2,6 +2,10 @@
 title= "articoli"
 +++
 
+[Quel dialogo immaginario che salvò Bianchedi dal lager, da Il Corriere della Sera del 28-1-2021](/images/files/art Bianchedi.jpg)
+
+[Viktor Frankl, da Blog di Gianluca Gotto del 28-1-20210](/docs/art Viktor Frankl.pdf)
+
 [Quei "pellerossa" che liberarono l'Italia ..., da Alessandro Michelucci del 22-6-2020](/docs/art Pellerossa AlessandroMichelucci.jpg)
 
 [I soldati pellerossa protagonisti della liberazione, da Corriede di Parma del 22-6-2020](/images/files/art Berceto 22-6-20.jpg)
