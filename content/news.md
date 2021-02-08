@@ -2,6 +2,8 @@
 title= "articoli"
 +++
 
+[Storia di una bella amicizia tra ravennati e canadesi..., da Resistenza e Libertà del 1-2-2021](/images/files/art resistenza libertà 2-2021.jpg)
+
 [Quel dialogo immaginario che salvò Bianchedi dal lager, da Il Corriere della Sera del 28-1-2021](/images/files/art Bianchedi.jpg)
 
 [Viktor Frankl, da Blog di Gianluca Gotto del 28-1-20210](/docs/art Viktor Frankl.pdf)
