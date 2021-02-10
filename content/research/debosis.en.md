@@ -10,6 +10,10 @@ title= "Articles written by Raffaella Cortese de Bosis"
 ***
 
 
+**[GUIDO, BE PATIENT …](/docs/Guido Bianchedi English.pdf)**
+History of Guido Biancahedi
+
+
 **[A TWO TIME SURVIVOR REMINISCES](/docs/art Ciro Bertoia_Eng 11.12.pdf)**  
 P/O Ciro Bertoia, Royal Canadian Air Force, F/O  W. B. Studnick, Royal Canadian Air Force
 
