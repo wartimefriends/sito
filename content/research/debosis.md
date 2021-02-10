@@ -10,7 +10,7 @@ title= "ARTICOLI DI Raffaella Cortese De Bosis"
 ***
 
 **[GUIDO, ABBI PAZIENZA …](/docs/Guido Bianchedi italiano.pdf)**  
-Storia di Guido Biancahedi
+Storia di Guido Bianchedi
 
 
 **[SOPRAVVISSUTO DUE VOLTE RACCONTA](/docs/art Ciro Bertoia 11.12.pdf)**  

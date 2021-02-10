@@ -11,7 +11,7 @@ title= "Articles written by Raffaella Cortese de Bosis"
 
 
 **[GUIDO, BE PATIENT …](/docs/Guido Bianchedi English.pdf)**  
-History of Guido Biancahedi
+History of Guido Bianchedi
 
 
 **[A TWO TIME SURVIVOR REMINISCES](/docs/art Ciro Bertoia_Eng 11.12.pdf)**  
