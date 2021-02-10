@@ -10,7 +10,7 @@ title= "Articles written by Raffaella Cortese de Bosis"
 ***
 
 
-**[GUIDO, BE PATIENT …](/docs/Guido Bianchedi English.pdf)**
+**[GUIDO, BE PATIENT …](/docs/Guido Bianchedi English.pdf)**  
 History of Guido Biancahedi
 
 
