@@ -10,6 +10,10 @@ title= "Articles written by Raffaella Cortese de Bosis"
 ***
 
 
+**[TWO BROTHERS, TWO SISTERS](/docs/art John Leone ENG.pdf)**  
+John LEONE, US soldier of Italian origin. Reaching out to his family after 75 years
+
+
 **[GUIDO, BE PATIENT …](/docs/Guido Bianchedi English.pdf)**  
 History of Guido Bianchedi
 

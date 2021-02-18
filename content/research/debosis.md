@@ -9,6 +9,10 @@ title= "ARTICOLI DI Raffaella Cortese De Bosis"
 
 ***
 
+**[DUE FRATELLI, DUE SORELLE](/docs/art John Leone ITA.pdf)**  
+John LEONE, soldato statunitense di origine italiana. Famiglia trovata dopo 75 anni
+
+
 **[GUIDO, ABBI PAZIENZA …](/docs/Guido Bianchedi italiano.pdf)**  
 Storia di Guido Bianchedi
 
