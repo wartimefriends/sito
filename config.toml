@@ -7,6 +7,9 @@ defaultContentLanguage = "it"
 # theme = "hugo-initio"
 title = "Wartime Friends"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [languages]
 
 [languages.it]
