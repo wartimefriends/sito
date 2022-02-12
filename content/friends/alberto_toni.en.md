@@ -26,9 +26,9 @@ Martedì 31 maggio 2005 ci siamo incontrati.
 
 <a href="/images/files/Alberto Toni.jpg"><img src="/images/files/Alberto Toni.jpg" border="1" bordercolor="black" width="248" height="360"></a>
 ___
-## [IL DIARIO RITROVATO - RASSEGNA STAMPA (10 Mb)](/docs/Il Diario Ritrovato.pdf)
+## [IL DIARIO RITROVATO - RASSEGNA STAMPA (10 Mb)](</docs/Il Diario Ritrovato.pdf>)
 
-## [IL C.M. ALBERTO TONI COMPIE CENTO ANNI](/docs/art CaricatVoloire.wordpress.com_13_12_2015.pdf)
+## [IL C.M. ALBERTO TONI COMPIE CENTO ANNI](</docs/art CaricatVoloire.wordpress.com_13_12_2015.pdf>)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AbRxQQ98xe4" frameborder="0" allowfullscreen></iframe>
 
