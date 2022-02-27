@@ -13,9 +13,9 @@ title= "75mo anniversario della Campagna d'Italia"
 
 Video dell'intera cerimonia del 4 dicembre 2019 al Cimitero di Guerra di Piangipane (Ravenna)
 
-<a href="https://www.facebook.com/CanadaRemembers/videos/2578612838926842/" target=_blank><img src="/images/files/3DEC2019.jpg"  width="200" height="150" ></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UV_VMqprejw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></a>
 
 
-Cerimonia dell'11 dicembre 2019 al Cimitero di Villanova di Bagnacavallo:
+Immagini della cerimonia dell'11 dicembre 2019 al Cimitero di Villanova di Bagnacavallo:
 
 {{< gallery dir="/images/11dec2019/" />}} {{< load-photoswipe >}}
