@@ -8,13 +8,14 @@ title= "75mo anniversario della Campagna d'Italia"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PBndcZFcptY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+<br>
 
 
 Video dell'intera cerimonia del 4 dicembre 2019 al Cimitero di Guerra di Piangipane (Ravenna)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UV_VMqprejw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UV_VMqprejw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 
 Immagini della cerimonia dell'11 dicembre 2019 al Cimitero di Villanova di Bagnacavallo:
 

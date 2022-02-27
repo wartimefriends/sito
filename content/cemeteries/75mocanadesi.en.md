@@ -8,13 +8,14 @@ December 3rd 2019. The private visit of the Governor General of Canada, Julie Pa
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PBndcZFcptY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+<br>
 
 
 December 4th 2019. Ceremony of Remembrance at Ravenna War Cemetery
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UV_VMqprejw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UV_VMqprejw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 
 December 11th 2019. Ceremony at Villanova War Cemetery:
 
