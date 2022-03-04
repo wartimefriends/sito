@@ -31,5 +31,4 @@ Mariangela Rondinelli
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/6QQROJ1f5T4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-https://www.cbc.ca/news/canada/canadians-honoured-for-ww-ii-rescue-of-italian-boy-1.2684039?fbclid=IwAR0Mqr2a8OMn5BhiJvJ-pzFdJfXOpuPQbHnM5FvEn44GOQvSAXBIgpyXpKs
+**[Canadians honoured for WW II rescue of Italian boy](<https://www.cbc.ca/news/canada/canadians-honoured-for-ww-ii-rescue-of-italian-boy-1.2684039?fbclid=IwAR0Mqr2a8OMn5BhiJvJ-pzFdJfXOpuPQbHnM5FvEn44GOQvSAXBIgpyXpKs>)**
