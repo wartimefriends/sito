@@ -13,6 +13,9 @@ title= "Antonio Li Gobbi"
 **[Giornata della Memoria: I tanti capitani Alfred Dreyfus italiani e le colpe dell’establishment militare](</docs/Giornata%20della%20Memoria_Li_Gobbi.pdf>)**
 
 
+**[Gli Usa sfruttano la guerra per sbarazzarsi di Putin e mandare un segnale alla Cina e al mondo](</docs/Gli Usa sfruttano la guerra per sbarazzarsi di Putin.pdf>)**
+
+
 
 
 
