@@ -1,6 +1,6 @@
 # Hugo
 
-Netlify è configurato per usare la versione 0.30.2 di Hugo (netlify.toml), quindi occorre fare le prove con questa versione specifica.
+Netlify è configurato per usare la versione 0.101.0 di Hugo (netlify.toml), quindi occorre fare le prove con questa versione specifica.
 
 
 ## Comandi

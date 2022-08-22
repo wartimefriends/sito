@@ -1,4 +1,16 @@
 [
+  {
+    "id": 12,
+    "name": "Papaveri del Centenario",
+    "image": "/images/centennial-poppies/centennial-poppies.jpg",
+    "url": "/cemeteries/visits/centennial-poppies/",
+    "items": [
+      {
+        "name": "CENTENNIAL POPPIES",
+        "url": "/en/cemeteries/visits/centennial-poppies/"
+      }
+    ]
+  },
    {
       "id": 11,
       "name": "ARTICOLI di Raffaella Cortese De Bosis",
