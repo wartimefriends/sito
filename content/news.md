@@ -2,6 +2,10 @@
 title= "articoli"
 +++
 
+
+[Il nostro Matteo se n'è andato via mentre viveva il suo sogno, da gazzetta di Reggio del 17-8-2022](</docs/art Il nostro Matteo se n'è andato.pdf>)
+
+
 [Alceo Lipizer, il calciatore deportato per aver battuto e deriso i nazisti, da reggionline.com del 26-1-2022](</docs/art Lipizer Giornata della Memoria.pdf>)
 
 [Storia di Floro, che non raccontò a nessuno l’incubo dei campi.., da Corriede del Mezzogiorno del 22-1-2022](</docs/art Storia di Floro.pdf>)
