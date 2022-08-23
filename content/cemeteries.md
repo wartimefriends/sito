@@ -46,7 +46,7 @@ I cimiteri di guerra più prossimi a noi sono:
 
 [Cimitero di Bologna](/cemeteries/bologna/)
 
-[75mo anniversario della Campagna d'Italia](/cemeteries/visits/75th-canadians/)
+[75º anniversario della Campagna d'Italia](/cemeteries/visits/75th-canadians/)
 
 
 **[Visite e Commemorazioni](/cemeteries/visits/)**

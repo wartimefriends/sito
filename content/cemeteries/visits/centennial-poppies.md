@@ -43,7 +43,7 @@ Per noi è la migliore forma di energia rinnovabile che possiamo mai avere!
 
 <hr>
 
-#### Vernor **Cooper** - 17 agosto 2022
+#### Vernon **Cooper** - 17 agosto 2022
 
 {{< gallery dir="/images/centennial-poppies/vernon-cooper/" />}} {{< load-photoswipe >}}
 

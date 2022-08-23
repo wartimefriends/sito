@@ -51,13 +51,13 @@
      },
      {
         "id": 1,
-        "name": "75MO ANNIVERSARIO DELLA LIBERAZIONE DI RAVENNA",
+        "name": "75º ANNIVERSARIO DELLA LIBERAZIONE DI RAVENNA",
         "image": "/images/files/medal.jpg",
-        "url": "/cemeteries/75mocanadesi/",
+        "url": "/cemeteries/visits/75th-canadians/",
         "items": [
          {
             "name": "THE 75TH ANNIVERSARY OF THE ITALIAN CAMPAIGN",
-            "url": "/en/cemeteries/75mocanadesi/"
+            "url": "/en/cemeteries/visits/75th-canadians/"
         }
          
         ]

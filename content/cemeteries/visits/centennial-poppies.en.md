@@ -43,7 +43,7 @@ For us it is the best renewable energy source we can ever get!
 
 <hr>
 
-#### Vernor **Cooper** - August 17th 2022
+#### Vernon **Cooper** - August 17th 2022
 
 {{< gallery dir="/images/centennial-poppies/vernon-cooper/" />}} {{< load-photoswipe >}}
 
