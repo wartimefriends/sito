@@ -11,6 +11,10 @@ Just recently, though, we realized we had the need to add a new way to honor the
 
 From July 2022 to the end of this year our Centennials are more than 20. We’ve already  found their names and dates of birth. We are in touch with some of the families but we will try out our very best to reach out to all of them.
 
+Being able to reach out to the families means indeed very much to us, It allows us to know so many aspects of the lives of our Centennials that we would otherwise never have known. Just one example can be one regarding Neville Drummond: at the very last minute his sister told us that he was born in 1923 and not in 1922. We promised her we will celebrate his 100th anniversary next year too!
+
+We have the names of our 2023 Centennials. They are about 40. Research is already underway.
+
 The energy to go on with this new program is given to us by the touching messages we receive from the families.
 
 For us it is the best renewable energy source we can ever get!

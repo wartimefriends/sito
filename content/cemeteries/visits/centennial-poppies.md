@@ -11,6 +11,10 @@ Dopo aver contattato la sua famiglia (la maggior parte delle volte in Canada), c
 
 Da giugno 2022 a fine anno, i nostri centenari sono più di venti. Abbiamo già trovato i loro nomi e le date di nascita; siamo in contatto con alcune delle famiglie, ma faremo di tutto per contattarle tutte.
 
+Stabilire un rapporto che le famiglie ha un significato davvero grande per noi. Ci ha permesso di conoscere tanti aspetti della vita dei Centennials che altrimenti non sarebbero potuti mai emergere. Abbiamo saputo all’ultimo momento, ad esempio, che uno dei nostri Centennials, Neville Drummond, è nato nel 1923 e non nel 1922. Abbiamo promesso alla sorella che lo celebreremo anche il prossimo anno!
+
+Per il 2023 abbiamo già individuato i nomi dei Centennials, che sono circa 40, e abbiamo avviato l’attività di ricerca delle famiglie.
+
 L’energia per portare avanti questo nuovo programma ci viene data dai toccanti messaggi che riceviamo dalle famiglie.
 
 Per noi è la migliore forma di energia rinnovabile che possiamo mai avere! 
