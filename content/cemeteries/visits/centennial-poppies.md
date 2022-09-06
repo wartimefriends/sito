@@ -62,3 +62,27 @@ Per noi è la migliore forma di energia rinnovabile che possiamo mai avere!
 #### Richard **Williamson** - 19 agosto 2022
 
 {{< gallery dir="/images/centennial-poppies/richard-williamson/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### Harry **Petersen** - 27 agosto 2022
+
+{{< gallery dir="/images/centennial-poppies/harry-petersen/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### John **Gebert** - 31 agosto 2022
+
+{{< gallery dir="/images/centennial-poppies/john-gebert/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### Frank **Penner** - 1 settembre 2022
+
+{{< gallery dir="/images/centennial-poppies/frank-penner/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### James **Outerbridge** - 5 settembre 2022
+
+{{< gallery dir="/images/centennial-poppies/james-outerbridge/" />}} {{< load-photoswipe >}}
