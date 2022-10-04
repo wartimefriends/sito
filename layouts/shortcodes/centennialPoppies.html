@@ -1,0 +1,7 @@
+{{ range $index, $area := .Site.Data.centennialPoppies }}
+
+	<hr>
+
+	 <h4> {{ .name }} <b>{{ .surname }}</b> - {{ dateFormat "January" .date }} {{ dateFormat "2" .date }}{{ if in (slice 1 21 31) (dateFormat "2" .date) }}st{{ else if in (slice 2 22) (dateFormat "2" .date)}}nd{{ else if in (slice 3 23) (dateFormat "2" .date)}}rd{{ else }}th{{ end }} {{ dateFormat "2006" .date }} </h4>
+
+{{ end }}

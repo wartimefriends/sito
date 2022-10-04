@@ -23,57 +23,9 @@ Per noi è la migliore forma di energia rinnovabile che possiamo mai avere!
 
 <hr>
 
-#### Leno **Borsato** - 22 giugno 2022
+#### James **Outerbridge** - 5 settembre 2022
 
-{{< gallery dir="/images/centennial-poppies/leno-borsato/" />}} {{< load-photoswipe >}}
-
-<hr>
-
-#### George Edward **Owles** - 20 luglio 2022
-
-{{< gallery dir="/images/centennial-poppies/george-owles/" />}} {{< load-photoswipe >}}
-
-<hr>
-
-#### Lloyd **Pulsifer** - 20 luglio 2022
-
-{{< gallery dir="/images/centennial-poppies/lloyd-pulsifer/" />}} {{< load-photoswipe >}}
-
-<hr>
-
-#### Walter James **Deller** - 22 luglio 2022
-
-{{< gallery dir="/images/centennial-poppies/james-deller/" />}} {{< load-photoswipe >}}
-
-<hr>
-
-#### Vernon **Cooper** - 17 agosto 2022
-
-{{< gallery dir="/images/centennial-poppies/vernon-cooper/" />}} {{< load-photoswipe >}}
-
-<hr>
-
-#### Neville **Drummond** - 17 agosto 2022
-
-{{< gallery dir="/images/centennial-poppies/neville-drummond/" />}} {{< load-photoswipe >}}
-
-<hr>
-
-#### Richard **Williamson** - 19 agosto 2022
-
-{{< gallery dir="/images/centennial-poppies/richard-williamson/" />}} {{< load-photoswipe >}}
-
-<hr>
-
-#### Harry **Peterson** - 27 agosto 2022
-
-{{< gallery dir="/images/centennial-poppies/harry-petersen/" />}} {{< load-photoswipe >}}
-
-<hr>
-
-#### John **Gebert** - 31 agosto 2022
-
-{{< gallery dir="/images/centennial-poppies/john-gebert/" />}} {{< load-photoswipe >}}
+{{< gallery dir="/images/centennial-poppies/james-outerbridge/" />}} {{< load-photoswipe >}}
 
 <hr>
 
@@ -83,6 +35,54 @@ Per noi è la migliore forma di energia rinnovabile che possiamo mai avere!
 
 <hr>
 
-#### James **Outerbridge** - 5 settembre 2022
+#### John **Gebert** - 31 agosto 2022
 
-{{< gallery dir="/images/centennial-poppies/james-outerbridge/" />}} {{< load-photoswipe >}}
+{{< gallery dir="/images/centennial-poppies/john-gebert/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### Harry **Petersn** - 27 agosto 2022
+
+{{< gallery dir="/images/centennial-poppies/harry-petersen/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### Richard **Williamson** - 19 agosto 2022
+
+{{< gallery dir="/images/centennial-poppies/richard-williamson/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### Neville **Drummond** - 17 agosto 2022
+
+{{< gallery dir="/images/centennial-poppies/neville-drummond/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### Vernon **Cooper** - 17 agosto 2022
+
+{{< gallery dir="/images/centennial-poppies/vernon-cooper/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### Walter James **Deller** - 22 luglio 2022
+
+{{< gallery dir="/images/centennial-poppies/james-deller/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### Lloyd **Pulsifer** - 20 luglio 2022
+
+{{< gallery dir="/images/centennial-poppies/lloyd-pulsifer/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### George Edward **Owles** - 20 luglio 2022
+
+{{< gallery dir="/images/centennial-poppies/george-owles/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### Leno **Borsato** - 22 giugno 2022
+
+{{< gallery dir="/images/centennial-poppies/leno-borsato/" />}} {{< load-photoswipe >}}
