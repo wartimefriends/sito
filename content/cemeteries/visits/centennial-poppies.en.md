@@ -65,7 +65,7 @@ For us it is the best renewable energy source we can ever get!
 
 <hr>
 
-#### Harry **Petersen** - August 27th 2022
+#### Harry **Peterson** - August 27th 2022
 
 {{< gallery dir="/images/centennial-poppies/harry-petersen/" />}} {{< load-photoswipe >}}
 
