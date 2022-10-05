@@ -25,6 +25,18 @@ For us it is the best renewable energy source we can ever get!
 
 <hr>
 
+#### Neil Campbell **McLean** - September 27th 2022
+
+{{< gallery dir="/images/centennial-poppies/neil-mclean/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### Peter **Mousquash** - September 26th 2022
+
+{{< gallery dir="/images/centennial-poppies/peter-mousquash/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### James **Outerbridge** - September 5th 2022
 
 {{< gallery dir="/images/centennial-poppies/james-outerbridge/" />}} {{< load-photoswipe >}}
