@@ -41,7 +41,7 @@ Per noi è la migliore forma di energia rinnovabile che possiamo mai avere!
 
 <hr>
 
-#### Harry **Petersn** - 27 agosto 2022
+#### Harry **Peterson** - 27 agosto 2022
 
 {{< gallery dir="/images/centennial-poppies/harry-petersen/" />}} {{< load-photoswipe >}}
 
