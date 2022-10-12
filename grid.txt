@@ -1,6 +1,0 @@
-CSS grid links:
-
-- http://cssgridgarden.com
-- https://gridbyexample.com
-- https://css-tricks.com/snippets/css/complete-guide-grid/
-
