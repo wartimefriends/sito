@@ -10,6 +10,8 @@ title= "articoli"
 
 [Storia di Floro, che non raccontò a nessuno l’incubo dei campi.., da Corriede del Mezzogiorno del 22-1-2022](</docs/art Storia di Floro.pdf>)
 
+[Joseph, il soldato pellerossa che morì liberando Russi, da Corriere di Romagna del 16-6-2021](</docs/art Joseph il soldato pellerossa.jpg>)
+
 [Storia di una bella amicizia tra ravennati e canadesi..., da Resistenza e Libertà del 1-2-2021](</images/files/art resistenza libertà 2-2021.jpeg>)
 
 [Quel dialogo immaginario che salvò Bianchedi dal lager, da Il Corriere della Sera del 28-1-2021](</images/files/art Bianchedi.jpg>)
