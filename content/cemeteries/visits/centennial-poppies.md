@@ -23,6 +23,12 @@ Per noi è la migliore forma di energia rinnovabile che possiamo mai avere!
 
 <hr>
 
+#### William **Loreno** - 5 Dicembre 2022
+
+{{< gallery dir="/images/centennial-poppies/william-loreno/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Jean **Chicoine** - 29 Novembre 2022
 
 {{< gallery dir="/images/centennial-poppies/jean-chicoine/" />}} {{< load-photoswipe >}}

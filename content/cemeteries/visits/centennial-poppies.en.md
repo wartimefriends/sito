@@ -25,6 +25,12 @@ For us it is the best renewable energy source we can ever get!
 
 <hr>
 
+#### William **Loreno** - Dicember 5th 2022
+
+{{< gallery dir="/images/centennial-poppies/william-loreno/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Jean **Chicoine** - November 29th 2022
 
 {{< gallery dir="/images/centennial-poppies/jean-chicoine/" />}} {{< load-photoswipe >}}
