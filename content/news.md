@@ -2,6 +2,8 @@
 title= "articoli"
 +++
 
+[ HARRY SHINDLER “Una notte di Luna sfidai la morte” di Marco Parlucchi - la Repubblica 15 gennaio 2022](</docs/Harry Shindler.pdf>)
+
 [Matteo era una certezza ..., da gazzetta di Reggio del 17-8-2022](</docs/art Matteo era una certezza 9-9-22.jpg>)
 
 [Il nostro Matteo se n'è andato via mentre viveva il suo sogno, da gazzetta di Reggio del 17-8-2022](</docs/art Il nostro Matteo se n'è andato.pdf>)
