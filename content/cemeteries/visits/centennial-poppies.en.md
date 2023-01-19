@@ -25,6 +25,12 @@ For us it is the best renewable energy source we can ever get!
 
 <hr>
 
+#### Wilfred **Cope** - December 31st 2022
+
+{{< gallery dir="/images/centennial-poppies/wilfred-cope/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Wallace **Duncan** - December 21st 2022
 
 {{< gallery dir="/images/centennial-poppies/wallace-duncan/" />}} {{< load-photoswipe >}}
