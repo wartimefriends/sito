@@ -49,6 +49,12 @@ For us it is the best renewable energy source we can ever get!
 
 <hr>
 
+#### Alphonsus **Profit** - October 20th 2022
+
+{{< gallery dir="/images/centennial-poppies/alphonsus-profit/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Francis Leo **Thibeau** - October 5th 2022
 
 {{< gallery dir="/images/centennial-poppies/francis-thibeau/" />}} {{< load-photoswipe >}}
