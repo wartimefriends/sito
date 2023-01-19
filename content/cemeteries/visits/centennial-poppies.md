@@ -53,6 +53,12 @@ Per noi è la migliore forma di energia rinnovabile che possiamo mai avere!
 
 <hr>
 
+#### Tobias **Zulauf** - 25 Novembre 2022
+
+{{< gallery dir="/images/centennial-poppies/tobias-zulauf/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Eugene **Morin** - 14 Novembre 2022
 
 {{< gallery dir="/images/centennial-poppies/eugene-morin/" />}} {{< load-photoswipe >}}

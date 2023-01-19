@@ -55,6 +55,12 @@ For us it is the best renewable energy source we can ever get!
 
 <hr>
 
+#### Tobias **Zulauf** - November 25th 2022
+
+{{< gallery dir="/images/centennial-poppies/tobias-zulauf/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Eugene **Morin** - November 14th 2022
 
 {{< gallery dir="/images/centennial-poppies/eugene-morin/" />}} {{< load-photoswipe >}}
