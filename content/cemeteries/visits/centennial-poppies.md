@@ -35,6 +35,12 @@ Per noi è la migliore forma di energia rinnovabile che possiamo mai avere!
 
 <hr>
 
+#### Harry Leland **Hoganson** - 29 Ottobre 2022
+
+{{< gallery dir="/images/centennial-poppies/harry-hoganson/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Neil Campbell **McLean** - 27 Settembre 2022
 
 {{< gallery dir="/images/centennial-poppies/neil-mclean/" />}} {{< load-photoswipe >}}
