@@ -55,6 +55,12 @@ For us it is the best renewable energy source we can ever get!
 
 <hr>
 
+#### Arthur **Robertson** - October 12th 2022
+
+{{< gallery dir="/images/centennial-poppies/arthur-robertson/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Francis Leo **Thibeau** - October 5th 2022
 
 {{< gallery dir="/images/centennial-poppies/francis-thibeau/" />}} {{< load-photoswipe >}}

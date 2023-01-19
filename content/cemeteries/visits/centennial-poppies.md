@@ -53,6 +53,12 @@ Per noi è la migliore forma di energia rinnovabile che possiamo mai avere!
 
 <hr>
 
+#### Arthur **Robertson** - 12 Ottobre 2022
+
+{{< gallery dir="/images/centennial-poppies/arthur-robertson/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Francis Leo **Thibeau** - 5 Ottobre 2022
 
 {{< gallery dir="/images/centennial-poppies/francis-thibeau/" />}} {{< load-photoswipe >}}
