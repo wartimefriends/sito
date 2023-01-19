@@ -23,6 +23,12 @@ Per noi è la migliore forma di energia rinnovabile che possiamo mai avere!
 
 <hr>
 
+#### David **Monk** - 9 Gennaio 2023
+
+{{< gallery dir="/images/centennial-poppies/david-monk/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Wilfred **Cope** - 31 Dicembre 2022
 
 {{< gallery dir="/images/centennial-poppies/wilfred-cope/" />}} {{< load-photoswipe >}}
