@@ -25,6 +25,12 @@ For us it is the best renewable energy source we can ever get!
 
 <hr>
 
+#### Jean **Chicoine** - November 29th 2022
+
+{{< gallery dir="/images/centennial-poppies/jean-chicoine/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Eugene **Morin** - November 14th 2022
 
 {{< gallery dir="/images/centennial-poppies/eugene-morin/" />}} {{< load-photoswipe >}}
