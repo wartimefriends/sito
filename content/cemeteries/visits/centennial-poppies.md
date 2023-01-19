@@ -25,7 +25,7 @@ Per noi è la migliore forma di energia rinnovabile che possiamo mai avere!
 
 #### Eugene **Morin** - 14 Novembre 2022
 
-{{< gallery dir="/images/centennial-poppies/rolland-laferte/" />}} {{< load-photoswipe >}}
+{{< gallery dir="/images/centennial-poppies/eugene-morin/" />}} {{< load-photoswipe >}}
 
 <hr>
 
