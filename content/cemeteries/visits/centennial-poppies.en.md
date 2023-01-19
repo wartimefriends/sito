@@ -43,6 +43,12 @@ For us it is the best renewable energy source we can ever get!
 
 <hr>
 
+#### Jason **Hunter** - October 24th 2022
+
+{{< gallery dir="/images/centennial-poppies/jason-hunter/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Francis Leo **Thibeau** - October 5th 2022
 
 {{< gallery dir="/images/centennial-poppies/francis-thibeau/" />}} {{< load-photoswipe >}}

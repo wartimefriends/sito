@@ -41,6 +41,12 @@ Per noi è la migliore forma di energia rinnovabile che possiamo mai avere!
 
 <hr>
 
+#### Jason **Hunter** - 24 Ottobre 2022
+
+{{< gallery dir="/images/centennial-poppies/jason-hunter/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Francis Leo **Thibeau** - 5 Ottobre 2022
 
 {{< gallery dir="/images/centennial-poppies/francis-thibeau/" />}} {{< load-photoswipe >}}
