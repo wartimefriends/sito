@@ -73,3 +73,5 @@ title= "links"
 [Carleton and York Reg.t](https://carletonandyork.wordpress.com)
 
 [University of New Brunswick, Carleton and York Regimental Association Memorial Scholarship](https://www.unb.ca/academics/calendar/undergraduate/current/awards/search/carleton-and-york-regimental-association-memorial-scholarship.html)
+
+[A Child of War](https://combinedforces.ca/combinedforces.ca/bambino/)
