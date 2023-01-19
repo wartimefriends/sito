@@ -23,6 +23,12 @@ Per noi è la migliore forma di energia rinnovabile che possiamo mai avere!
 
 <hr>
 
+#### Wallace **Duncan** - 21 Dicembre 2022
+
+{{< gallery dir="/images/centennial-poppies/wallace-duncan/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### William **Loreno** - 5 Dicembre 2022
 
 {{< gallery dir="/images/centennial-poppies/william-loreno/" />}} {{< load-photoswipe >}}
