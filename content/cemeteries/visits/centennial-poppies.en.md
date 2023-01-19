@@ -25,6 +25,12 @@ For us it is the best renewable energy source we can ever get!
 
 <hr>
 
+#### Eugene **Morin** - November 14th 2022
+
+{{< gallery dir="/images/centennial-poppies/rolland-laferte/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Rolland **Laferté**  - November 3rd 2022
 
 {{< gallery dir="/images/centennial-poppies/rolland-laferte/" />}} {{< load-photoswipe >}}
