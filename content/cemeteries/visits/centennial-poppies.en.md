@@ -25,6 +25,84 @@ For us it is the best renewable energy source we can ever get!
 
 <hr>
 
+#### David **Monk** - Jenuary 9th 2023
+
+{{< gallery dir="/images/centennial-poppies/david-monk/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### Wilfred **Cope** - December 31st 2022
+
+{{< gallery dir="/images/centennial-poppies/wilfred-cope/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### Wallace **Duncan** - December 21st 2022
+
+{{< gallery dir="/images/centennial-poppies/wallace-duncan/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### William **Loreno** - December 5th 2022
+
+{{< gallery dir="/images/centennial-poppies/william-loreno/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### Jean **Chicoine** - November 29th 2022
+
+{{< gallery dir="/images/centennial-poppies/jean-chicoine/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### Tobias **Zulauf** - November 25th 2022
+
+{{< gallery dir="/images/centennial-poppies/tobias-zulauf/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### Eugene **Morin** - November 14th 2022
+
+{{< gallery dir="/images/centennial-poppies/eugene-morin/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### Rolland **Laferté**  - November 3rd 2022
+
+{{< gallery dir="/images/centennial-poppies/rolland-laferte/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### Harry Leland **Hoganson** - October 29th 2022
+
+{{< gallery dir="/images/centennial-poppies/harry-hoganson/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### Jason **Hunter** - October 24th 2022
+
+{{< gallery dir="/images/centennial-poppies/jason-hunter/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### Alphonsus **Profit** - October 20th 2022
+
+{{< gallery dir="/images/centennial-poppies/alphonsus-profit/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### Arthur **Robertson** - October 12th 2022
+
+{{< gallery dir="/images/centennial-poppies/arthur-robertson/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### Francis Leo **Thibeau** - October 5th 2022
+
+{{< gallery dir="/images/centennial-poppies/francis-thibeau/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Neil Campbell **McLean** - September 27th 2022
 
 {{< gallery dir="/images/centennial-poppies/neil-mclean/" />}} {{< load-photoswipe >}}
