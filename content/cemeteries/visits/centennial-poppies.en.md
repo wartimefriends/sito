@@ -25,7 +25,13 @@ For us it is the best renewable energy source we can ever get!
 
 <hr>
 
-#### David **Monk** - Jenuary 9th 2023
+#### Stanley J. **Landry** - January 22nd 2023
+
+{{< gallery dir="/images/centennial-poppies/landry-stanley/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### David **Monk** - January 9th 2023
 
 {{< gallery dir="/images/centennial-poppies/david-monk/" />}} {{< load-photoswipe >}}
 

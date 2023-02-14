@@ -23,6 +23,12 @@ Per noi è la migliore forma di energia rinnovabile che possiamo mai avere!
 
 <hr>
 
+#### Stanley J. **Landry** - 22 Gennaio 2023
+
+{{< gallery dir="/images/centennial-poppies/landry-stanley/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### David **Monk** - 9 Gennaio 2023
 
 {{< gallery dir="/images/centennial-poppies/david-monk/" />}} {{< load-photoswipe >}}
