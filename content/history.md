@@ -1,0 +1,11 @@
++++
+title = "Storia"
++++
+
+Durante la II Guerra Mondiale, la battaglia per lo sfondamento della linea difensiva allestita dai tedeschi lungo la dorsale appenninica (la “linea Gotica”) costituì un momento particolarmente importante di tali accadimenti. Protrattasi per otto mesi, dal settembre 1944 all’aprile 1945 su di un fronte sostanzialmente stabile, ha duramente segnato la vita delle popolazioni della nostra regione, teatro di scontri prolungati, portandovi dolore e distruzione ma favorendo anche l’incontro con culture diverse e nuovi costumi di vita. Dopo la liberazione di Roma il 4 giugno 1944, la Gran Bretagna sostenne la possibilità di invadere l’Istria e i Balcani e giungere alla Germania da Sud. Gli Stati Uniti però rifiutarono di distogliere altre forze dalla preparazione dell’invasione della Francia, e la campagna d’Italia continuò come una guerra di attrito con l’unico obiettivo di tenere distanti dai fronte nord occidentale il maggior numero di divisioni della Wehrmacht.
+
+Dopo una prima rapida avanzata (agosto ’44), l’impeto dell’8a armata britannica si spense contro la resistenza delle truppe tedesche rinforzate da sette divisioni trasferite in fretta dall’Appennino centrale che, cosi sguarnito, venne attaccato dalla 5” armata americana il 10 settembre 1944 al Passo del Giogo. Alla fine di settembre gli alleati erano riusciti a penetrare le difese della Gotica lungo la costa adriatica e in Toscana, ma l’arrivo del maltempo e la mancanza di rimpiazzi e di rifornimenti bloccò l’avanzata impedendo uno sfondamento decisivo fino alla pianura Padana: un altro inverno di patimenti attendeva i combattenti e la popolazione.
+
+[Il Fronte sul Senio](./senio/)
+
+L’offensiva finale alleata scattò solo il 9 aprile 1945, portando in un mese alla dissoluzione dell’esercito tedesco e alla liberazione di tutta l’Italia del Nord in concomitanza con l’insurrezione generale guidata dalle forze della resistenza. II 2 maggio 1945 le truppe germaniche capitolavano senza condizioni. In due anni di battaglie, gli alleati avevano subito circa 312.000 morti, feriti e dispersi, i tedeschi 336.000. All’Italia venti mesi di guerra erano costati 187.000 morti (compresi 120.000 civili, dei quali circa 40.000 periti nei bombardamenti) e 210.000 dispersi, inclusi più di 100.000 civili.
