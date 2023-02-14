@@ -29,6 +29,12 @@ Per noi è la migliore forma di energia rinnovabile che possiamo mai avere!
 
 <hr>
 
+#### Samuel **Cameron** - 29 Gennaio 2023
+
+{{< gallery dir="/images/centennial-poppies/samuel-cameron/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Stanley J. **Landry** - 22 Gennaio 2023
 
 {{< gallery dir="/images/centennial-poppies/landry-stanley/" />}} {{< load-photoswipe >}}
