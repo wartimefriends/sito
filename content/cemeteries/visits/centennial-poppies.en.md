@@ -25,6 +25,12 @@ For us it is the best renewable energy source we can ever get!
 
 <hr>
 
+#### Maurice **Perusse** - February 2nd 2023
+
+{{< gallery dir="/images/centennial-poppies/maurice-perusse/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Stanley J. **Landry** - January 22nd 2023
 
 {{< gallery dir="/images/centennial-poppies/landry-stanley/" />}} {{< load-photoswipe >}}

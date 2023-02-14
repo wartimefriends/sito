@@ -23,6 +23,12 @@ Per noi è la migliore forma di energia rinnovabile che possiamo mai avere!
 
 <hr>
 
+#### Maurice **Perusse** - 2 Febbraio 2023
+
+{{< gallery dir="/images/centennial-poppies/maurice-perusse/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Stanley J. **Landry** - 22 Gennaio 2023
 
 {{< gallery dir="/images/centennial-poppies/landry-stanley/" />}} {{< load-photoswipe >}}
