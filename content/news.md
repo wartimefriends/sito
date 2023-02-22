@@ -2,6 +2,9 @@
 title= "articoli"
 +++
 
+
+[E' morto Harry Shindler, l'ultimo soldato dello sbarco di Anzio, da La Repubblica del 21-2-2023](</docs/art Harry Shindler.pdf>)
+
 ["Salvemini”... di Alessandro Cortese De Bosis, da Corriere della Sera del 15 febbraio 2023](</docs/art salvemini corriere sera 15-2-23.jpeg>)
 
 [Matteo era una certezza ..., da gazzetta di Reggio del 17-8-2022](</docs/art Matteo era una certezza 9-9-22.jpg>)
