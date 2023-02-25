@@ -23,6 +23,18 @@ Per noi è la migliore forma di energia rinnovabile che possiamo mai avere!
 
 <hr>
 
+#### Charles Ernest **Gabites** - 22 Febbraio 2023
+
+{{< gallery dir="/images/centennial-poppies/charles-gabites/" />}} {{< load-photoswipe >}}
+
+<hr>
+
+#### Orval C.E. **Lockery** - 15 Febbraio 2023
+
+{{< gallery dir="/images/centennial-poppies/orval-lockery/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Maurice **Perusse** - 2 Febbraio 2023
 
 {{< gallery dir="/images/centennial-poppies/maurice-perusse/" />}} {{< load-photoswipe >}}
