@@ -2,7 +2,10 @@
 title= "articoli"
 +++
 
-[ HARRY SHINDLER “Una notte di Luna sfidai la morte” di Marco Parlucchi - la Repubblica 15 gennaio 2022](</docs/Harry Shindler.pdf>)
+
+[E' morto Harry Shindler, l'ultimo soldato dello sbarco di Anzio, da La Repubblica del 21-2-2023](</docs/art Harry Shindler.pdf>)
+
+["Salvemini”... di Alessandro Cortese De Bosis, da Corriere della Sera del 15 febbraio 2023](</docs/art salvemini corriere sera 15-2-23.jpeg>)
 
 [Matteo era una certezza ..., da gazzetta di Reggio del 17-8-2022](</docs/art Matteo era una certezza 9-9-22.jpg>)
 
@@ -11,6 +14,8 @@ title= "articoli"
 [Alceo Lipizer, il calciatore deportato per aver battuto e deriso i nazisti, da reggionline.com del 26-1-2022](</docs/art Lipizer Giornata della Memoria.pdf>)
 
 [Storia di Floro, che non raccontò a nessuno l’incubo dei campi.., da Corriede del Mezzogiorno del 22-1-2022](</docs/art Storia di Floro.pdf>)
+
+[HARRY SHINDLER “Una notte di Luna sfidai la morte” di Marco Parlucchi - la Repubblica 15 gennaio 2022](</docs/Harry Shindler.pdf>)
 
 [Joseph, il soldato pellerossa che morì liberando Russi, da Corriere di Romagna del 16-6-2021](</docs/art Joseph il soldato pellerossa.jpg>)
 
