@@ -7,6 +7,7 @@ Questa pagina contiene racconti, biografie e altro ancora di amici conosciuti du
 - [John Thurlby](/friends/john_thurlby/)
 - [Alan Corlett Woods](/friends/alan_woods/)
 - [Alberto Toni POW](/friends/alberto_toni/)
+- [Alessandro Cortese de Bosis](/friends/alessandro_cortese_de_bosis)
 - [Rosalia Fantoni](/friends/rosalia_fantoni/)
 - [Enrico Barattoni](/friends/enrico_barattoni/)
 - [Fred Cederberg](/friends/fred_cederberg/)
