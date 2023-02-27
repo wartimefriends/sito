@@ -17,7 +17,7 @@ When asked why he felt the need to enlist, he replies: "It's very simple. I need
 
 <hr>
 
-<h2>Dialogues with the ambassador</h2>
+<h2>Dialogues with the Ambassador</h2>
 
 <ul>
 	<li><a href="/../en/interviews/dialogues_with_the_ambassador/victoria_cross_ali_hadar">Victoria Cross Ali Haidar: towards two Anniversaries April 9 and August 21</a></li><br>

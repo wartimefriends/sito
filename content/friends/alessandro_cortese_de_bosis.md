@@ -17,7 +17,7 @@ Quando gli viene chiesto perché ha sentito il bisogno di arruolarsi, risponde: 
 
 <hr>
 
-<h2>Conversazioni con l'ambasciatore</h2>
+<h2>Conversazioni con l'Ambasciatore</h2>
 
 <ul>
 	<li><a href="/../interviews/dialogues_with_the_ambassador/victoria_cross_ali_hadar">Ali Haidar Victoria Cross nell’approsimarsi di due Anniversari 9 aprile e 21 agosto</a></li><br>
