@@ -1,5 +1,17 @@
 [
   {
+    "id": 13,
+    "name": "Ambasciatore Alessandro Cortese de Bosis",
+    "image": "/images/friends/cortese de bosis homepage.png",
+    "url": "/friends/alessandro_cortese_de_bosis",
+    "items": [
+      {
+        "name": "AMBASSSADOR ALESSANDRO CORTESE DE BOSIS",
+        "url": "/en/friends/alessandro_cortese_de_bosis"
+      }
+    ]
+  },
+  {
     "id": 12,
     "name": "Papaveri del Centenario",
     "image": "/images/centennial-poppies/centennial-poppies.jpg",
