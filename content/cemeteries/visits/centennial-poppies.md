@@ -23,6 +23,12 @@ Per noi è la migliore forma di energia rinnovabile che possiamo mai avere!
 
 <hr>
 
+#### Hilton **Morrison** - 6 Marzo 2023
+
+{{< gallery dir="/images/centennial-poppies/hilton-morrison/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Leonard **Steiner** - 6 Marzo 2023 *(105 anni)*
 
 {{< gallery dir="/images/centennial-poppies/leonard-steiner/" />}} {{< load-photoswipe >}}
