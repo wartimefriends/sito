@@ -23,6 +23,12 @@ Per noi è la migliore forma di energia rinnovabile che possiamo mai avere!
 
 <hr>
 
+#### Leonard **Steiner** - 6 Marzo 2023 *(105 anni)*
+
+{{< gallery dir="/images/centennial-poppies/leonard-steiner/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Charles Ernest **Gabites** - 22 Febbraio 2023
 
 {{< gallery dir="/images/centennial-poppies/charles-gabites/" />}} {{< load-photoswipe >}}

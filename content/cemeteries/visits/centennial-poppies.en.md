@@ -25,6 +25,12 @@ For us it is the best renewable energy source we can ever get!
 
 <hr>
 
+#### Leonard **Steiner** - March 6th 2023 *(105 years old)*
+
+{{< gallery dir="/images/centennial-poppies/leonard-steiner/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Charles Ernest **Gabites** - February 22nd 2023
 
 {{< gallery dir="/images/centennial-poppies/charles-gabites/" />}} {{< load-photoswipe >}}
