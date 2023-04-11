@@ -25,6 +25,12 @@ For us it is the best renewable energy source we can ever get!
 
 <hr>
 
+#### John White **Bell** - April 5th 2023
+
+{{< gallery dir="/images/centennial-poppies/john-bell/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### George **Worral** - April 1st 2023
 
 {{< gallery dir="/images/centennial-poppies/george-worral/" />}} {{< load-photoswipe >}}
