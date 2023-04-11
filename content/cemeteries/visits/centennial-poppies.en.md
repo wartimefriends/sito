@@ -25,6 +25,12 @@ For us it is the best renewable energy source we can ever get!
 
 <hr>
 
+#### George **Worral** - April 1st 2023
+
+{{< gallery dir="/images/centennial-poppies/george-worral/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Hilton **Morrison** - March 6th 2023
 
 {{< gallery dir="/images/centennial-poppies/hilton-morrison/" />}} {{< load-photoswipe >}}
