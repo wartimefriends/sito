@@ -23,6 +23,12 @@ Per noi è la migliore forma di energia rinnovabile che possiamo mai avere!
 
 <hr>
 
+#### Joseph Edgard **Godin** - 12 Aprile 2023
+
+{{< gallery dir="/images/centennial-poppies/joseph-godin/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### John White **Bell** - 5 Aprile 2023
 
 {{< gallery dir="/images/centennial-poppies/john-bell/" />}} {{< load-photoswipe >}}
