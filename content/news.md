@@ -2,6 +2,8 @@
 title= "articoli"
 +++
 
+[Morto in guerra e sepolto a Montecchio..., da Corriere Adriatico del 2 maggio 2023](</docs/art Montecchio 4-5-2023.jpg>)>)
+
 [Addio al prof Francesco Dalla Valle... , da Il Resto del Carlino del 6-4-2023](</docs/art Addio al prof Francesco Dalla Valle 6-4-2023.pdf>)
 
 [E' morto Harry Shindler, l'ultimo soldato dello sbarco di Anzio, da La Repubblica del 21-2-2023](</docs/art Harry Shindler.pdf>)
