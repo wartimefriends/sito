@@ -30,7 +30,7 @@ Bagnacavallo fu dichiarata out of bounds interdetta a tutte le truppe, all’inf
 <br>
 -------------
 <br>
-<a href="/images/files/pannello2_2.jpg" target=_blank><img src="/images/files/pannello2_2.jpg"  width="200" height="150"title="Rifugio"></a>
+<a href="/images/files/pannello2_2.jpg" target=_blank><img src="/images/files/pannello2_2.jpg"  width="200" height="150"title="Rifugio2"></a>
 <br>
 -------------
 <br>
