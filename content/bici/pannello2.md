@@ -24,7 +24,8 @@ Nel primo pomeriggio il battaglione consolidò le sue posizioni nella periferia 
 Bagnacavallo fu dichiarata out of bounds interdetta a tutte le truppe, all’infuori del Reggimento Carleton & York; questo divieto causò molto malumore nei soldati delle altre unità.
 
 <br>
-
+-------------
+<br>
 <a href="/images/files/pannello2_1.jpg" target=_blank><img src="/images/files/pannello2_1.jpg"  width="200" height="150"title="Rifugio"></a>
 <br>
 -------------
