@@ -2,6 +2,8 @@
 title= "Press & News in English"
 +++
 
+[Guardian Angels in Uniform, from combinedforces.ca.,  May 28th 2023](</docs/Guardian Angels in Uniform 28-5-23.pdf>)
+
 [Italian author dies in Canada ..., from The Canadian Press,  Sep 1th 2022](</docs/art Italian author dies in Canada 1-9-22.pdf>)
 
 [Mariangela Rondinelli, from Veteran affairs CA,  Feb 7th 2020](</docs/art 7-2-2020 Mariangela Rondinelli.pdf>)
