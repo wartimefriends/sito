@@ -23,7 +23,7 @@ Per noi è la migliore forma di energia rinnovabile che possiamo mai avere!
 
 <hr>
 
-#### Rober Lee **Lester** - 23 Agost 2023
+#### Rober Lee **Lester** - 23 Agosto 2023
 
 {{< gallery dir="/images/centennial-poppies/rober-lester/" />}} {{< load-photoswipe >}}
 
