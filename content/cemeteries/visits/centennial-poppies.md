@@ -23,6 +23,12 @@ Per noi è la migliore forma di energia rinnovabile che possiamo mai avere!
 
 <hr>
 
+#### Rober Lee **Lester** - 23 Agosto 2023
+
+{{< gallery dir="/images/centennial-poppies/rober-lester/" />}} {{< load-photoswipe >}}
+
+<hr>
+
 #### Joseph Edgard **Godin** - 12 Aprile 2023
 
 {{< gallery dir="/images/centennial-poppies/joseph-godin/" />}} {{< load-photoswipe >}}
