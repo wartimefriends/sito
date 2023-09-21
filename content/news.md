@@ -2,6 +2,8 @@
 title= "articoli"
 +++
 
+[La visita della figlia del soldato canadese.., da Corriere di Romagna del 17-9-2023](</docs/art visita della figlia del soldato 17-9-2023.jpg>)
+
 [Gli aiuti della comuunità Sikh, da Il Resto del Carlino del 18-6-2023](</docs/art sikh 18-6-23.jpeg>)
 
 [Canadesi nei luoghi sul Savio..., da Corriere di Romagna del 26-5-2023](</docs/Canadesi nei luoghi sul Savio Corriere Romagna 26-5-23.pdf>)
