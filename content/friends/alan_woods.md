@@ -28,4 +28,4 @@ Diversamente da John, Alan ha deciso di ritornare a Bagnacavallo; una prima volt
  Il Comune di Bagnacavallo, in occasione del 60° Anniversario della Liberazione della Città ha conferito a Alan Corlett Woods la Cittadinanza Onoraria. 
 
 <hr>  
-[Intervista ai veterani John Thurlby e Alan Corlett Woods](/friends/interview/)
+<li><a href="/friends/interview/">Intervista ai veterani John Thurlby e Alan Corlett Woods</a></li><br>

@@ -17,7 +17,7 @@ Alan died in Stone in August 2007.
 On December 21st 2004, 60th Anniversary of the Liberation of Bagnacavallo, Alan and John Thurlby received the Honorary Citizenship of Bagnacavallo. Alan wrote in his letter dated January 10th 2005: “These are exciting times for me in my “old age”. I am enormously proud of the honour your town has bestowed on me and on John. I cannot thank you enough for your part in it all.”
 
 <hr>  
-[Interview with Veterans John Thurlby and Alan Corlett Woods](/en/friends/interview/)
+<li><a href="/en/friends/interview/">Interview with Veterans John Thurlby and Alan Corlett Woods</a></li><br>
 
 <a href="/images/files/BBC Radio Stoke.mp3" >BBC Radio Stoke interview </a> 
 <img src="/images/files/radio.gif">

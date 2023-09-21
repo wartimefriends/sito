@@ -44,6 +44,7 @@ To our great regret, John Thurlby died on  February 20th 2010, a few days after 
  </table>
 
 <hr>  
-[Interview with Veterans John Thurlby and Alan Corlett Woods](/en/friends/interview/)
+
+<li><a href="/en/friends/interview/">Interview with Veterans John Thurlby and Alan Corlett Woods</a></li><br>
 
 <a href="/images/files/BBC Radio Stoke.mp3" >BBC Radio Stoke interview   </a>  <img src="/images/files/radio.gif"></a> 
