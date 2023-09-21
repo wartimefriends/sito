@@ -39,4 +39,5 @@ John è morto il 20 febbraio 2010 a Stone, pochi giorni dopo il suo 86.mo comple
  </table>
 
 <hr>  
-[Intervista ai veterani John Thurlby e Alan Corlett Woods](/friends/interview/)
+
+<li><a href="/friends/interview/">Intervista ai veterani John Thurlby e Alan Corlett Woods</a></li><br>
