@@ -2,13 +2,15 @@
 title= "articoli"
 +++
 
+[Che Dio abbia in gloria quei canadesi, da Arminum Anno XXX - N. 4 - Agosto - Settembre - Ottobre 2023](</docs/Che Dio abbia un gloria quei canadesi.pdf>)
+
 [La visita della figlia del soldato canadese.., da Corriere di Romagna del 17-9-2023](</docs/art visita della figlia del soldato 17-9-2023.jpg>)
 
 [Gli aiuti della comuunità Sikh, da Il Resto del Carlino del 18-6-2023](</docs/art sikh 18-6-23.jpeg>)
 
 [Canadesi nei luoghi sul Savio..., da Corriere di Romagna del 26-5-2023](</docs/Canadesi nei luoghi sul Savio Corriere Romagna 26-5-23.pdf>)
 
-[Morto in guerra e sepolto a Montecchio..., da Corriere Adriatico del 2 maggio 2023](</docs/art Montecchio 4-5-2023.jpg>)>)
+[Morto in guerra e sepolto a Montecchio..., da Corriere Adriatico del 2 maggio 2023](</docs/art Montecchio 4-5-2023.jpg>)
 
 [Addio al prof Francesco Dalla Valle... , da Il Resto del Carlino del 6-4-2023](</docs/art Addio al prof Francesco Dalla Valle 6-4-2023.pdf>)
 
