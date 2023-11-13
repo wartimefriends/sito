@@ -2,6 +2,8 @@
 title= "Press & News in English"
 +++
 
+[Decades later, answers emerge about the fate of a Victoria orphan](</docs/Decades later, answers emerge about the fate of a Victoria orphan.pdf>)
+
 [Guardian Angels in Uniform, from combinedforces.ca.,  May 28th 2023](</docs/Guardian Angels in Uniform 28-5-23.pdf>)
 
 [Italian author dies in Canada ..., from The Canadian Press,  Sep 1th 2022](</docs/art Italian author dies in Canada 1-9-22.pdf>)
