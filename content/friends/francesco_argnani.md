@@ -205,7 +205,7 @@ Dopo appena due anni, avrei sperimentato sulla mia persona, che per me l'età de
 
 
 
-#### RICORDO DEI MIEI PRIMI ANNI DI COLLEGIO
+#### Ricordo dei miei primi anni di collegio
 
 Entrai nel collegio per ciechi Giuseppe Garibaldi di Reggio Emilia il 18 ottobre 1952, all’età di otto anni, dove avrei appreso il metodo di scrittura per non vedenti Luigi Braille. Lì frequentai tutto il ciclo della scuola  elementare, e appresi anche  a lavorare il legno e metalli con tecniche particolari, cose che mi sarebbero servite molto nella vita pratica.<br>
 Erano gli anni cinquanta; la guerra era finita  da poco, e io cominciai a scoprirlo ascoltando i racconti dei miei nuovi compagni di collegio. Erano in generale ragazzi che provenivano dall’Emilia-Romagna o dalla Toscana, luoghi teatri di vicende belliche drammatiche. Diversi fra loro ne portavano i segni nel corpo, avendo perduto la vista e non solo,  soprattutto gli arti superiori, totalmente o in parte. Queste menomazioni erano conseguenza di scoppi di granate o altri oggetti esplosivi trovati nei pressi delle loro abitazioni e scambiati per oggetti di gioco.<br>
@@ -224,3 +224,19 @@ Un’altra presenza della guerra era data da una caserma confinante col “corti
 Ricordo che quando mio padre mi veniva a trovare e uscivamo dal collegio per essere in maggiore intimità, nei circondari dell’istituto notavamo tanti soldati della caserma. Quei giovani in divisa grigioverde erano la generazione successiva a quella del babbo che li guardava con simpatia. Loro non avevano fatto la guerra come invece aveva fatto lui. L’avevano comunque vissuta in famiglia, dal momento che il fronte aveva setacciato l’Italia dal profondo sud fino al nord. Loro, finito il servizio militare, sarebbero stati gli artefici della ricostruzione del paese. In particolare, molti di loro, meridionali, sarebbero tornati al nord come emigrati, nelle città del Piemonte e della Lombardia, ma anche oltre confini, in Germania, in Belgio come minatori. Il loro lavoro sarebbe stato forse più massacrante di una battaglia, magari vittime della silicosi e del grisù, ma le loro rimesse in denaro avrebbero risollevato dalla miseria le loro famiglie nel sud.<br>
 Queste sono riflessioni che feci logicamente molti anni dopo, ma in quei visi di soldatini dei primi anni cinquanta, mio padre notava un qualcosa di nuovo, l’inizio di tempi nuovi.<br>
 Anche per me, bambino all’inizio di un lungo cammino, in fondo, cominciava una vita nuova. Quando, finita la giornata familiare, il babbo doveva ritornare a casa e io in collegio, ci fermavamo un momento in un’osterietta nei pressi dell’istituto. In quel caldino, con un forte odore di tabacco - in qualche tavolino alcuni vecchi giocavano a carte -, lui beveva un bicchiere di vino per mandare giù il dolore di dovermi lasciare.
+
+
+
+### Cari vecchi treni color grigio
+
+Cari vecchi treni color grigio-ferro su cui da ragazzo salivo piangendo per recarmi in collegio e, col cuore in festa, quando tornavo a casa per le vacanze!<br>
+Treni divisi in tre classi, specchio di una società tripartita. Molte carrozze di terza, affollatissime dal proletariato italiano, coi sedili di legno, lustri, levigati da milioni di pantaloni e gonne. Valigie di fibra, ammassate sulle retine o abbandonate lungo i corridoi. A quanti pasti rustici ho assistito,
+consumati alla meglio sui tavolini rialzati da sotto i finestrini!<br>
+Ricordo che, quando si doveva andare da un vagone all’altro, si passava per una specie
+di ponticello traballante, con un fragore di rotaie nelle orecchie e tanta paura che potesse staccarsi una carrozza dall’altra.<br>
+In seconda classe, si trovava un clima più rilassato e meno caotico. Erano le carrozze della piccola e media borghesia. Già lì, si trovavano sedili imbottiti e corridoi liberi da ingombri.
+Se poi, dovevo transitare lungo le poche carrozze di prima, velocemente per non incorrere nei rimproveri del controllore, mi trovavo immerso in un’atmosfera silenziosa, quasi religiosa.<br>
+I sedili negli scompartimenti con pochi passeggèri, erano di velluto rosso e fodere bianche negli appoggiatesta. Li frequentava l’alta borghesia, il ceto politico e industriale. 
+
+Questi erano i primi treni che mi hanno scarrozzato in quegli anni. Treni che col loro ritmo un po’ monotono e a tratti caracollante nei pressi delle stazioni, sugli scambi, con stridii delle ruote e colpi secchi e improvvisi spostamenti laterali, attraversavano un’Italia tanto diversa!<br>
+Povera certo, e ancora con segni evidenti di una burrasca recente.
