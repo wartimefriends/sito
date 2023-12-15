@@ -21,6 +21,9 @@ Nato nel '54 a Milano da una famiglia di tradizioni militari, entra nel '69 alla
 **[Gli Usa sfruttano la guerra per sbarazzarsi di Putin e mandare un segnale alla Cina e al mondo](</docs/Gli Usa sfruttano la guerra per sbarazzarsi di Putin.pdf>)**
 
 
+**[II Guerra Mondiale: la battaglia di Montelungo dell'8 dicembre 1943 l'eroismo di soldati che combatterono per un’Italia che rifiutasse sia la cultura del gulag che quella dei lager](</docs/Battaglia di Montelungo dell 8dicembre1943.pdf>)**
+
+
 
 
 
