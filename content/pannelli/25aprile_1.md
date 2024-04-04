@@ -7,12 +7,7 @@ title= "Ali Haidar VC"
 <h2>His conspicuous gallantry in storming enemy machine-gun posts saved many lives</h2>
 <br>
 
-<table>
-<tbody>
-<tr>
-<td valign=”top” ><img src="\images\aliHaidar1.png" alt="Haidar Victoria Cross" width="300"></td>
-<td valign=”top” ><img src="\images\aliHaidar2.png" alt="Alì Haidar" width="300"></td>
-</tr></tbody></table>
+<img src="\images\aliHaidar1.png" >
 
 <br>
 <h2>HAIDAR, Alì</h2>
