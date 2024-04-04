@@ -7,7 +7,7 @@ title= "Ali Haidar VC"
 <h2>His conspicuous gallantry in storming enemy machine-gun posts saved many lives</h2>
 <br>
 
-<img src="\images\aliHaidar1.png" >
+<img src="\images\aliHaidar1.png">
 
 <br>
 <h2>HAIDAR, Alì</h2>
