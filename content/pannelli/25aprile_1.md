@@ -10,8 +10,8 @@ title= "Ali Haidar VC"
 <table>
 <tbody>
 <tr>
-<td valign=”top” ><img src="\images\aliHaidar1.png" alt="Haidar Victoria Cross"/></td>
-<td valign=”top” ><img src="\images\aliHaidar2.png" alt="Alì Haidar"/></td>
+<td valign=”top” ><img src="\images\aliHaidar1.png" alt="Haidar Victoria Cross" width="300"></td>
+<td valign=”top” ><img src="\images\aliHaidar2.png" alt="Alì Haidar" width="300"></td>
 </tr></tbody></table>
 
 <br>
