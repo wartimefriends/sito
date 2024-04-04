@@ -7,8 +7,14 @@ title= "Ali Haidar VC"
 
 <h2>His conspicuous gallantry in storming enemy machine-gun posts saved many lives</h2>
 <br>
-< div style = "float:left; margin - right:1em;" >< img src = "\images\aliHaidar1.png" / >
-< div style = "float:left; margin - right:1em;" >< img src = "\images\aliHaidar2.png" / >
+
+<table cellspacing=”2″ cellpadding=”2″ width=”560″ border=”0″>
+<tbody>
+<tr>
+<td valign=”top” width=”186″><img src = "\images\aliHaidar1.png" /></td>
+<td valign=”top” width=”186″><img src = "\images\aliHaidar2.png" /></td>
+</tr></tbody></table>
+style = "float:left; margin - right:1em;" ><img src = "\images\aliHaidar2.png" />
 <br>
 <h2>HAIDAR, Alì</h2>
 
