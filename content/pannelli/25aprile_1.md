@@ -3,12 +3,11 @@ title= "Ali Haidar VC"
 +++
 
 <br>
-<h1>Alì Haidar VC</h1>
 
 <h2>His conspicuous gallantry in storming enemy machine-gun posts saved many lives</h2>
 <br>
 
-<table cellspacing=”2″ cellpadding=”2″ width=”560″ border=”0″>
+<table>
 <tbody>
 <tr>
 <td valign=”top” ><img src="\images\aliHaidar1.png" alt="Haidar Victoria Cross"/></td>
