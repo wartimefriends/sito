@@ -1,5 +1,5 @@
 +++
-title= Gruppo di Combattimento "Cremona"
+title= "Gruppo di Combattimento \"Cremona\""
 +++
 
 <br>
