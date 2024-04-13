@@ -11,11 +11,11 @@ Il lavoro autunnale del 2006, ha portato alla realizzazione di una serie di 15 p
 
 **[I pannelli della Mostra][pannelli]**
                                   
-**Inaugurazione Dicembre 2006 ** - La prima esibizione si è svolta a partire dal 16 dicembre 2006 all’interno della   **[Chiesa del Suffragio][bagnacavallo]** di Bagnacavallo (clicca sul link per vedere alcuni video). 
+**Inaugurazione Dicembre 2006** - La prima esibizione si è svolta a partire dal 16 dicembre 2006 all’interno della   **[Chiesa del Suffragio][bagnacavallo]** di Bagnacavallo (clicca sul link per vedere alcuni video). 
 
 Nella  **primavera 2007**, la mostra si è trasferita a Lugo, prima nei locali del Liceo Trisi , poi, tra Aprile e Maggio, in quelli della Biblioteca Trisi. 
 
-Il ** 5 maggio 2007**, in diretta televisiva, dagli studi di Canale 11 di Imola, alcuni componenti del gruppo di ricerca hanno potuto illustrare i dettagli delle attività che questo svolge nell’ambito dell’Università degli Adulti di Lugo, soffermandosi ovviamente sulla Mostra Itinerante. 
+Il **5 maggio 2007**, in diretta televisiva, dagli studi di Canale 11 di Imola, alcuni componenti del gruppo di ricerca hanno potuto illustrare i dettagli delle attività che questo svolge nell’ambito dell’Università degli Adulti di Lugo, soffermandosi ovviamente sulla Mostra Itinerante. 
 
 Dal **18 maggio 2007** è stato possibile visionarla a Villanova nell’ambito dei festeggiamenti in onore dei veterani canadesi in visita nella nostra provincia.
 

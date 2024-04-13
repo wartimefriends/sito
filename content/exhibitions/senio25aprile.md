@@ -11,10 +11,9 @@ Tre storie di eventi e persone legati a luoghi che si trovano lungo la riva dest
 Per aiutare a meglio comprendere la narrazione di queste storie, saranno inoltre posizionati pannelli muniti di QR Code, che daranno la possibilità di approfondire anche in seguito quanto raccontato:
 
 
-&nbsp;              | &nbsp;
-------------------- | ------------------------------------------------
-Incrocio Via Casalino/Confini nord con Via Sottofiume Masiera |
 
-Via Sottofiume Masiera 31 |
+**Incrocio Via Casalino/Confini nord con Via Sottofiume Masiera** <b><a href="/pannelli/25aprile_1/">Primo pannello</a></b>
 
-Chiesa di Masiera 
+**Via Sottofiume Masiera 31**  <b><a href="/pannelli/25aprile_2/">Secondo pannello</a></b>
+
+**Chiesa di Masiera**  <b><a href="/pannelli/25aprile_3/">Terzo pannello</a></b>
