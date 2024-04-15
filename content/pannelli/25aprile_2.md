@@ -8,11 +8,22 @@ I due vignettisti, il britannico Jon Jones e il canadese Bing Coughlin, traevano
 
 Allora come ora, i cartoons e le caricature erano un modo per prendere in giro le situazioni contingenti e spesso, in quei terribili momenti, l’umorismo e l’ironia delle vignette aiutavano ad allentare la tensione. Come ci ha detto Alan Woods, veterano britannico e cittadino onorario di Bagnacavallo, erano un toccasana per il morale dell’ottava Armata.
 
---------------------------------------------|--------------------------------------------
- <img src="/images/pannello2/foto1-1.jpg">|<img src="/images/pannello2/foto1-2.jpg">
 
- <img src="/images/pannello2/foto2-1.jpg">|<img src="/images/pannello2/foto2-2.jpg">
+<img src="/images/pannello2/foto1-1.jpg"> <img src="/images/pannello2/foto1-2.jpg">
 
- <img src="/images/pannello2/foto3-1.jpg">|<img src="/images/pannello2/foto3-2.jpg">
 
- <img src="/images/pannello2/foto4-1.jpg">|<img src="/images/pannello2/foto4-2.jpg">
+***
+
+<img src="/images/pannello2/foto2-1.jpg">  <img src="/images/pannello2/foto2-2.jpg">
+
+
+***
+
+<img src="/images/pannello2/foto3-1.jpg"> <img src="/images/pannello2/foto3-2.jpg">
+
+
+***
+
+<img src="/images/pannello2/foto4-1.jpg">  <img src="/images/pannello2/foto4-2.jpg">
+
+***
