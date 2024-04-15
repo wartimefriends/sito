@@ -49,6 +49,6 @@ VIDEO - Part one  | VIDEO - Part two
 
  </table-->
 
-[sunny]: ./sunny-italy/
-[bagnacavallo]: ./bagnacavallo/
-[pannelli]: ./pannelli/
+[sunny]: ./sunny-home/sunny-italy/
+[bagnacavallo]: ./sunny-home/bagnacavallo/
+[pannelli]: ./sunny-home/pannelli/
