@@ -92,4 +92,8 @@ Eretto fin dal 1945 ospita i caduti del Gruppo. I corpi di un certo numero di ca
 Il giovane ventenne toscano **Aldemilio PALLONI**, originario di Lastra a Signa, combatté come volontario nella brigata Cremona del neocostituito esercito italiano e cadde sul fronte del Senio il 10 aprile 1945 nel giorno dell'avanzata decisiva. Oltre ad  una lapide posizionata nel muro perimetrale del cimitero di Masiera, nel luogo in cui cadde, Aldemilio è ricordato da una lapide anche nella sua città natale. Entrambe le lapidi furono volute dalla famiglia.
 
 
+ <img src="/images/files/PalloniLapide.jpg"><br>
+
+
+ <img src="/images/files/PalloniLapide2.jpg"><br> 
 
