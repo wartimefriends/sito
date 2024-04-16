@@ -14,6 +14,6 @@ Per aiutare a meglio comprendere la narrazione di queste storie, saranno inoltre
 
 **Incrocio Via Casalino/Confini nord con Via Sottofiume Masiera** <b><a href="/pannelli/25aprile_1/">Primo pannello</a></b>
 
-**Via Sottofiume Masiera 31**  <b><a href="/pannelli/25aprile_2/">Secondo pannello</a></b>
+**Via Sottofiume Masiera 31**  <b><a href="/pannelli/25aprile_2/">Secondo pannello</a></b> - <b><a href="/pannelli/25aprile_2bis/">Pannello 2 BIS</a></b>
 
 **Chiesa di Masiera**  <b><a href="/pannelli/25aprile_3/">Terzo pannello</a></b>
