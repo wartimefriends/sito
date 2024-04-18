@@ -11,7 +11,7 @@ Work which we carried out in autumn 2006 led to the creation of a series of 15 p
 
 **[The exhibition panels][pannelli]**
                                   
-**Grand opening December 2006 ** - The panels were first exhibited on December 16th 2006 at   **[Suffragio Church][bagnacavallo]** in the town of Bagnacavallo (click on the link to see videos). 
+**Grand opening December 2006** - The panels were first exhibited on December 16th 2006 at   **[Suffragio Church][bagnacavallo]** in the town of Bagnacavallo (click on the link to see videos). 
 
 In **spring 2007**, the exhibition moved to the town of Lugo, first to Trisi High School, and then to Trisi Library, where it remained in the months of April and May. 
 
