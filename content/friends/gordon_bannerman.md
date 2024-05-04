@@ -24,6 +24,11 @@ Con il proseguire della guerra, incontrammo sempre più di frequente persone mer
 
 Sono tornato in Italia tre volte dopo la guerra e ho apprezzato l’affetto rivolto a noi veterani. Quando torniamo in Italia, l’amore e l’amicizia nei nostri confronti ci fanno sentire come quando eravamo giovani, tanti anni fa. Essere considerato un amico è qualcosa che custodisco nel mio cuore, perché voi, cari amici, avete dato a Edith e a me qualcosa da ricordare per tutta la nostra vita. Voglio ringraziarvi tutti. Edith e io continuiamo a sperare di potere ancora una volta tornare in Italia.
 
-<h4>[Memorie di Gordon Bannerman ](https://www.veterans.gc.ca/eng/remembrance/those-who-served/diaries-letters-stories/second-world-war/bannerman)</h4>
+**[Memorie di Gordon Bannerman](https://www.veterans.gc.ca/eng/remembrance/those-who-served/diaries-letters-stories/second-world-war/bannerman)**
 
-Gordon è morto i 5 maggio 2018.
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/tIK83k9H2Q4?si=F93BGJ4Mjv5w3INj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+<br/>
+
+Gordon è morto il 5 maggio 2018.
