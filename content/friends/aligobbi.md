@@ -9,7 +9,10 @@ Nato nel '54 a Milano da una famiglia di tradizioni militari, entra nel '69 alla
 [fonte](<https://www.analisidifesa.it/author/aligobbi/>)
 
 
-**[Israele vuole distruggere Hamas ma rischia di farne un martire.pdf](</docs/Israele vuole distruggere Hamas ma rischia di farne un martire.pdf>)**
+**[II Guerra Mondiale: 25 aprile 1945, il contributo volutamente dimenticato dei militari alla Liberazione. In 87.376 caddero tra l’8 settembre 1943 e l’8 maggio 1945](</docs/II Guerra Mondiale: 25 aprile 1945, il contributo volutamente dimenticato dei militari alla Liberazione. In 87.376 caddero tra l’8 settembre 1943 e l’8 maggio 1945 - Report Difesa.pdf>)**
+
+
+**[Israele vuole distruggere Hamas ma rischia di farne un martire](</docs/Israele vuole distruggere Hamas ma rischia di farne un martire.pdf>)**
 
 
 **[II Guerra Mondiale: l’Armistizio dell’8 settembre ha rappresentato un punto di svolta della politica estera e di sicurezza italiana](</docs/Armistizio8settembre_Li_Gobbi.pdf>)**
