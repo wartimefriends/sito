@@ -2,6 +2,8 @@
 title= "Press & News in English"
 +++
 
+[Gino Farnetti: A Child of War](</docs/AChildOfWar.jpg>)
+
 [Southern Colorado soldier's WWII sacrifice remembered in Italy 80 years after his death](https://eu.chieftain.com/story/news/2024/04/26/why-a-colorado-soldier-is-remembered-in-italy-80-years-after-wwii-death/73374549007/)
 
 [Nurse MARJORIE GERTRUDE MORROW](</docs/nurse MARJORIE GERTRUDE MORROW.pdf>)
