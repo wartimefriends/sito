@@ -9,7 +9,7 @@ Nato nel '54 a Milano da una famiglia di tradizioni militari, entra nel '69 alla
 [fonte](<https://www.analisidifesa.it/author/aligobbi/>)
 
 
-**[II Guerra Mondiale: 25 aprile 1945, il contributo volutamente dimenticato dei militari alla Liberazione. In 87.376 caddero tra l’8 settembre 1943 e l’8 maggio 1945](</docs/II Guerra Mondiale: 25 aprile 1945, il contributo volutamente dimenticato dei militari alla Liberazione. In 87.376 caddero tra l’8 settembre 1943 e l’8 maggio 1945 - Report Difesa.pdf>)**
+**[II Guerra Mondiale: 25 aprile 1945, il contributo volutamente dimenticato dei militari alla Liberazione. In 87.376 caddero tra l’8 settembre 1943 e l’8 maggio 1945](</docs/contributo_dimenticato_militari_alla_liberazione.pdf>)**
 
 
 **[Israele vuole distruggere Hamas ma rischia di farne un martire](</docs/Israele vuole distruggere Hamas ma rischia di farne un martire.pdf>)**
