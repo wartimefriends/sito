@@ -27,6 +27,4 @@ Nato nel '54 a Milano da una famiglia di tradizioni militari, entra nel '69 alla
 **[II Guerra Mondiale: la battaglia di Montelungo dell'8 dicembre 1943 l'eroismo di soldati che combatterono per un’Italia che rifiutasse sia la cultura del gulag che quella dei lager](</docs/Battaglia di Montelungo dell 8dicembre1943.pdf>)**
 
 
-
-
-
+**[IDF spara contro UNIFIL? La colpa è solo da una parte?](</docs/IDF spara contro UNIFIL.pdf>)**
