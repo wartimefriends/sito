@@ -6,4 +6,25 @@ Questa pagina contiene le biografie di soldati sepolti nel Cimitero di guerra di
 
 - [HOPE Thomas Brade](/research/brade_hope/)
 - [TAYLOR Vivian](/cemeteries/soldiers/TAYLOR_Vivian/)
+- [THIBERT Lawrence](/cemeteries/soldiers/THIBERT_Lawrence/)
+
+THOMPSON Swend Aage
+THOMPSON William Parker
+TOBIN Clifford Frances
+TOKAR Frederick Joseph
+TOMCHISIN Edward Joseph
+TOMPSON Charles Gordon
+TONARY Michael
+TRIMBLE William Lorne
+TURNBULL Thomas
+VAN DEN BROEKE Martin Cornelius
+VINCERaymond Joseph
+VOLLMAN John Martin
+WAITO Harold Martin
+WARREN Howard Elwood
+WATSON John Sidney
+WATSON Robert Thomas
+WEIBERG Raymond Frederick
+WHITLOCK Daniel George
+WILLIAMS Floyd George
 
