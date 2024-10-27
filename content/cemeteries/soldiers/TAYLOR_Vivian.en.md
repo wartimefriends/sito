@@ -21,7 +21,7 @@ His legacy lives on, not only through his family but also through his heroism, w
 
 
 
-![Alt Taylor](\images\Soldiers\TAYLOR_Vivian1.jpg)
+![Alt Taylor](/images/Soldiers/TAYLOR_Vivian1.jpg)
 
 
-![Alt Taylor](\images\Soldiers\TAYLOR_Vivian2.jpg)
+![Alt Taylor](/images/Soldiers/TAYLOR_Vivian2.jpg)

@@ -23,7 +23,8 @@ Tragicamente, il sergente Vivian Penrose Jessop Taylor fu ucciso in azione il 19
 La sua eredità vive non solo attraverso la sua famiglia, ma anche attraverso il suo eroismo, che continua a ispirare le generazioni future.
 
 
-![Alt Taylor](\images\Soldiers\TAYLOR_Vivian1.jpg)
+
+![Alt Taylor](/images/Soldiers/TAYLOR_Vivian1.jpg)
 
 
-![Alt Taylor](\images\Soldiers\TAYLOR_Vivian2.jpg)
+![Alt Taylor](/images/Soldiers/TAYLOR_Vivian2.jpg)
