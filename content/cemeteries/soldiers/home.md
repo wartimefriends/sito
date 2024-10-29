@@ -20,10 +20,10 @@ Questa pagina contiene le biografie di soldati sepolti nel Cimitero di guerra di
 - [VINCE Raymond Joseph](/cemeteries/soldiers/VINCE_Raymond/)
 - [VOLLMAN John Martin](/cemeteries/soldiers/VOLLMAN_JohnM/)
 - [WAITO Harold Martin](/cemeteries/soldiers/WAITO_Harold/)
-- [WARREN Howard Elwood]
-- [WATSON John Sidney]
-- [WATSON Robert Thomas]
-- [WEIBERG Raymond Frederick]
-- [WHITLOCK Daniel George]
-- [WILLIAMS Floyd George]
+- [WARREN Howard Elwood](/cemeteries/soldiers/WAITO_Harold/)
+- [WATSON John Sidney](/cemeteries/soldiers/WAITO_Harold/)
+- [WATSON Robert Thomas](/cemeteries/soldiers/WAITO_Harold/)
+- [WEIBERG Raymond Frederick](/cemeteries/soldiers/WAITO_Harold/)
+- [WHITLOCK Daniel George](/cemeteries/soldiers/WAITO_Harold/)
+- [WILLIAMS Floyd George](/cemeteries/soldiers/WAITO_Harold/)
 
