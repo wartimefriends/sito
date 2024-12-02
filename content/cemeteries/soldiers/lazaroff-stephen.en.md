@@ -1,10 +1,12 @@
 +++
-title = "Private Stephen LAZAROFF: A Life of Service and Sacrifice"
+title = "Private Stephen LAZAROFF-- 851770"
 +++
 
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
 
-Private Stephen Lazaroff, Service Number 851770, served with the Lanark and Renfrew Scottish Regiment of the Royal Canadian Infantry Corps. 
-Born on March 2, 1922, in Toronto, Ontario, Stephen grew up as the fifth of ten children in a large Macedonian-Canadian family. His parents, Sotir, a coal salesman, and Trena, worked hard to support their children, who all contributed to the household. His brothers George and Sam also served in the Canadian Army, while his sisters Olga, Helen, Mary, and Sophie provided support at home.
+
+Stephen Lazaroff, born on March 2, 1922, in Toronto, Ontario, grew up as the fifth of ten children in a large Macedonian-Canadian family. His parents, Sotir, a coal salesman, and Trena, worked hard to support their children, who all contributed to the household. His brothers George and Sam also served in the Canadian Army, while his sisters Olga, Helen, Mary, and Sophie provided support at home.
 
 Stephen attended school until Grade 5, leaving early to help support his family. Despite limited formal education, he developed a strong work ethic, working as a baker’s helper for Charles Yeast Donuts and as a restaurant waiter at Paul’s Lunch in Toronto. Known for his cheerful and athletic disposition, Stephen enjoyed gym and baseball but never learned to swim. Though he had faced challenges during his youth, including delinquent behavior, he matured into a reliable and hardworking individual.
 

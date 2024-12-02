@@ -2,9 +2,9 @@
 title = "Private Robert Dewitt DEWINTER - F43894"
 +++
 
-4th Princess Louise Dragoon Guards R.C.I.C.
+#### 4th Princess Louise Dragoon Guards - R.C.I.C.
+<br>
 
-A Youthful Spirit Sacrificed for Freedom:
 
 Private Robert Dewitt DeWinter was born on September 21, 1924, in Aylesford, Kings County, Nova Scotia. The son of Allison Ira and Emily Matilda DeWinter, Robert grew up in a hardworking family with three brothers—Aubrey, Gordon (serving overseas during the war), and Vaughan—and two sisters, Jennie, Agnes (Mrs. West), and Iona (Mrs. Morse). His father worked in milling, and the family’s roots in the rural community instilled values of resilience and determination in Robert from a young age.
 

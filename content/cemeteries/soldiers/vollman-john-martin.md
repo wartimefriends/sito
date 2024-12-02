@@ -1,7 +1,12 @@
 +++
-title = "John Martin VOLLMAN nacque il 20 dicembre 1920 a Balgonie, Saskatchewan. Crebbe in un ambiente difficile: suo padre, Philip, morì quando John aveva solo otto anni, e sua madre, Nellie, si risposò con Maxwell Matt. Nonostante provenisse da una famiglia disgregata, John mantenne un legame stretto con sua madre, tanto da nominarla come suo congiunto più prossimo, piuttosto che il patrigno. Era il secondo di sette figli, con tre fratelli — Martin, George e Henry — e tre sorelle — Monica, Katie e Amelia."
+title = "Caporale John Martin VOLLMAN - L65516"
 +++
 
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
+
+John Martin VOLLMAN nacque il 20 dicembre 1920 a Balgonie, Saskatchewan. Crebbe in un ambiente difficile: suo padre, Philip, morì quando John aveva solo otto anni, e sua madre, Nellie, si risposò con Maxwell Matt. Nonostante provenisse da una famiglia disgregata, John mantenne un legame stretto con sua madre, tanto da nominarla come suo congiunto più prossimo, piuttosto che il patrigno. Era il secondo di sette figli, con tre fratelli — Martin, George e Henry — e tre sorelle — Monica, Katie e Amelia.
 
 John frequentò la scuola fino alla sesta classe, per poi entrare nel mondo del lavoro come bracciante agricolo, lavorando principalmente nella coltivazione del grano. Era particolarmente abile in questo mestiere, lavorando tra Alberta e Saskatchewan e guadagnando 20 dollari a settimana, vitto incluso. Nonostante le difficoltà della sua infanzia, John coltivava una passione per le attività all’aperto, come il pattinaggio, il nuoto, la caccia, la pesca, l’equitazione, e praticava sport come il softball e il basket. Parlava fluentemente sia l’inglese che il tedesco, cosa che aumentava la sua versatilità.
 

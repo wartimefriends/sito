@@ -1,7 +1,12 @@
 +++
-title = "Corporal John Angus MackAY, a dedicated serviceman of the Perth Regiment, Royal Canadian Infantry Corps, was born on November 16, 1912, in the small Ontario town of Seaforth. Raised by his father, William John Mackay, and mother, Laura, John grew up in a close-knit family with his three siblings—brother Donald and sisters Beth, Oga, and Helen."
+title = "MACKAY Corporal John Angus - A11369"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+Corporal John Angus MackAY, a dedicated serviceman of the Perth Regiment, Royal Canadian Infantry Corps, was born on November 16, 1912, in the small Ontario town of Seaforth. Raised by his father, William John Mackay, and mother, Laura, John grew up in a close-knit family with his three siblings—brother Donald and sisters Beth, Oga, and Helen. 
 However, tragedy struck early; his mother, Laura, passed away in 1930, leaving young John, who was just eighteen, to navigate the challenges of a home broken by loss.
 
 John spent much of his young adulthood working in Perth County, Ontario, where he gained hands-on experience in farming. Hired by J. Carnochan, he worked diligently as a farmhand for over seven years, learning the intricacies of mixed farming across the region. However, John’s aspirations extended beyond agriculture. With a clear goal of pursuing a career in electricity, he enrolled in the Coyne Electrical School in Chicago in early 1938, attending courses from January through April. Despite his background in farming, John was determined to build a new path for himself and, following the war, hoped to become a qualified electrician.

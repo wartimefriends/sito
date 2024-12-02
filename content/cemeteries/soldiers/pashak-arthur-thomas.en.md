@@ -1,7 +1,12 @@
 +++
-title = "Private Arthur Thomas PASHAK (Service Number: B/22284) was born on October 8, 1921, in Port Credit, Ontario, Canada. He was the third child of Frank and Anne Pashak and had two older brothers, Joseph and Frank Jr. The family resided in Lakeview, Ontario, where his parents continued to live throughout his military service. Of Polish descent, Arthur grew up in a close-knit family that valued hard work and community."
+title = "PASHAK Private Arthur Thomas -  B/22284"
 +++
 
+#### SP Company, Irish Regiment of Canada, R.C.I.C.
+<br>
+
+
+Arthur Thomas PASHAK was born on October 8, 1921, in Port Credit, Ontario, Canada. He was the third child of Frank and Anne Pashak and had two older brothers, Joseph and Frank Jr. The family resided in Lakeview, Ontario, where his parents continued to live throughout his military service. Of Polish descent, Arthur grew up in a close-knit family that valued hard work and community.
 
 Arthur attended school up to the high school entrance level but left because he didn’t enjoy it. Despite his early departure from formal education, he was known to have average intelligence and kept himself informed by reading newspapers and magazines. A Roman Catholic, he attended church fairly regularly, reflecting his family’s strong faith.
 

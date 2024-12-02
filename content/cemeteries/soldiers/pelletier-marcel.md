@@ -1,7 +1,12 @@
 +++
-title = "Marcel PELLETIER  matricola n°: E30227, nacque il 16 gennaio 1918 a Sillarsville, Quebec, Canada. Era il terzo figlio della famiglia, con due fratelli, Raymond ed Edgar, e una sorella di nome Victorine. I suoi genitori, John Stanley ed Elionore Pelletier, crebbero i loro figli in un ambiente familiare normale e solidale."
+title = "Soldato Marcel PELLETIER - E30227"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+Marcel PELLETIER nacque il 16 gennaio 1918 a Sillarsville, Quebec, Canada. Era il terzo figlio della famiglia, con due fratelli, Raymond ed Edgar, e una sorella di nome Victorine. I suoi genitori, John Stanley ed Elionore Pelletier, crebbero i loro figli in un ambiente familiare normale e solidale.
 
 Cresciuto in una zona rurale, Marcel frequentò la scuola fino alla seconda elementare. La distanza dalla scuola rendeva difficile la frequenza regolare e alla fine abbandonò gli studi, rimanendo quasi analfabeta. Nonostante ciò, parlava fluentemente sia il francese che l’inglese, riflettendo in ciò la natura bilingue della sua comunità.
 

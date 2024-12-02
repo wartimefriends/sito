@@ -1,7 +1,12 @@
 +++
-title = "Private Harold Martin WAITO was born on February 17, 1925, in Ottawa, Ontario. Growing up, Harold faced the challenges of a separated household. His father, Harry E. Waito, ran a garage and taxi business in Ottawa, while his mother, Edith, lived elsewhere. Harold spent much of his youth working on his uncle’s farm, particularly during the summers, and spent winters laboring in lumber camps for $2.00 a day. Despite the complexities of his family life, Harold maintained a quiet, cooperative demeanor and developed a strong work ethic."
+title = "WAITO Private Harold Martin - C122147"
 +++
 
+#### 4th Princess Louise Dragoon Guards, R.C.A.C.
+<br>
+
+
+Harold Martin WAITO was born on February 17, 1925, in Ottawa, Ontario. Growing up, Harold faced the challenges of a separated household. His father, Harry E. Waito, ran a garage and taxi business in Ottawa, while his mother, Edith, lived elsewhere. Harold spent much of his youth working on his uncle’s farm, particularly during the summers, and spent winters laboring in lumber camps for $2.00 a day. Despite the complexities of his family life, Harold maintained a quiet, cooperative demeanor and developed a strong work ethic.
 
 He completed his education up to Grade 8 at the age of 14, attending public school in Ottawa and later a country school in Petawawa. After leaving school, Harold worked for his father, helping out at the family garage and driving taxis. His experience as a driver made him adept at handling vehicles, and by his teenage years, Harold even owned a car. Although he was a slight youth, standing at just 5’4” and weighing 117 pounds, Harold was considered to have a good physique and was given an A-1 health classification upon enlistment.
 

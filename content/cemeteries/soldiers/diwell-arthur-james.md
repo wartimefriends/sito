@@ -2,9 +2,9 @@
 title = "Soldato Arthur James DIWELL - B116525"
 +++
 
-Perth Regiment, R.C.I.C.
+#### Perth Regiment, R.C.I.C.
+<br>
 
-Una Vita di Dedizione e Sacrificio
 
 Arthur James Diwell nacque il 21 luglio 1916 a Owen Sound, Ontario, in una famiglia numerosa e affettuosa. Figlio di Thomas Henry e Caroline Diwell, Arthur crebbe con tre fratelli—Henry, Chas e George—e tre sorelle—Jessie, Winnifred e Anne. Purtroppo, sua madre e due fratelli, Thomas e Anne, morirono durante i suoi primi anni di vita. Nonostante queste perdite, l’infanzia di Arthur fu caratterizzata da resilienza e da un forte senso di responsabilità.
 

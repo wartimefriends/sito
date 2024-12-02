@@ -1,12 +1,10 @@
 +++
-title = "Caporale James Wilfred FOUNTAIN"
+title = "Caporale James Wilfred FOUNTAIN - B/24421"
 +++
 
+#### Reggimento Irlandese del Canada, Compagnia C
+<br>
 
-Reggimento Irlandese del Canada, Compagnia C
-Numero di servizio: B/24421
-Caduto in azione: 20 dicembre 1944, all’età di 22 anni
-Cimitero di Guerra Canadese di Villanova, Plot III, Fila A, Tomba 9
 
 James Wilfred Fountain nacque il 3 maggio 1922 a Sharon, Ontario, figlio di Wilfred e Ella May Fountain. Era il più giovane di quattro figli, con un fratello maggiore, Herbert Roswall, e due sorelle, Vera Myrtle ed Ethel May. James crebbe in una famiglia unita, ma la sua vita fu segnata dalla perdita della madre, che morì il 27 ottobre 1943.
 

@@ -1,9 +1,13 @@
 +++
-title = "Soldato William LEES: Una Vita di Dedizione e Sacrificio"
+title = "Soldato William LEES - H100646"
 +++
 
+#### 4° Princess Louise Dragoon Guards, R.C.A.C.
+<br>
 
-William Lees, matricola H100646, prestò servizio con il 4° Reggimento Princess Louise Dragoon Guards del Royal Canadian Armoured Corps. 
+
+William Lees, matricola H100646, prestò servizio con il 4° Reggimento Princess Louise Dragoon Guards del Royal Canadian Armoured Corps.
+
 Nato il 15 febbraio 1917 a Winnipeg, Manitoba, William visse una vita segnata da dedizione silenziosa e senso di responsabilità. Suo padre, William sr., morì quando era ancora giovane, lasciando William come unico sostegno per sua madre, Clara. Senza fratelli o sorelle, William si fece carico presto delle responsabilità familiari.
 
 William frequentò la scuola fino alla nona classe, completando parte della decima prima di lasciarla a 17 anni per entrare nel mondo del lavoro. Il suo primo impiego fu come commesso in un negozio di alimentari, Goodman’s Grocery, a Winnipeg, dove lavorò per sei anni. Successivamente trovò lavoro come aiutante di magazzino e spedizioniere per Walter Woods Ltd., una società di hardware all’ingrosso. Conosciuto per la sua affidabilità e il suo carattere piacevole, William si vide promettere un posto fisso presso Walter Woods al suo ritorno dalla guerra, con l’aspirazione di lavorare come spedizioniere per la Canadian National Railway (C.N.R.).

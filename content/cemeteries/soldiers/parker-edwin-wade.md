@@ -1,7 +1,12 @@
 +++
-title = "Edwin Wade PARKER matricola n° H14043, nacque il 22 marzo 1914 a Winnipeg, Manitoba, Canada. Figlio unico di Edwin Godfrey e Mabel Louise Parker, Edwin godette di un’infanzia felice in una famiglia che lo sosteneva. Suo padre era il direttore del Winnipeg Auditorium, una posizione che probabilmente influenzò l’esposizione precoce di Edwin a eventi comunitari e culturali."
+title = "PARKER Private Edwin Wade - H14043"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+Edwin Wade PARKER nacque il 22 marzo 1914 a Winnipeg, Manitoba, Canada. Figlio unico di Edwin Godfrey e Mabel Louise Parker, Edwin godette di un’infanzia felice in una famiglia che lo sosteneva. Suo padre era il direttore del Winnipeg Auditorium, una posizione che probabilmente influenzò l’esposizione precoce di Edwin a eventi comunitari e culturali.
 
 Edwin completò la sua istruzione alla Kelvin High School di Winnipeg, conseguendo la maturità dopo aver completato l’undicesimo grado. Dopo aver lasciato la scuola nel 1931, iniziò la sua carriera professionale come impiegato junior al Winnipeg Auditorium. Dimostrando diligenza e competenza, avanzò fino a diventare paymaster-contabile e responsabile dell’ufficio per il Dipartimento della Salute della Città di Winnipeg. In oltre 12 anni di servizio, guadagnò uno stipendio rispettabile di 40 dollari a settimana, che rifletteva la sua affidabilità e la fiducia riposta in lui dai suoi datori di lavoro.
 

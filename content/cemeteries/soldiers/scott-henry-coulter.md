@@ -1,7 +1,12 @@
 +++
-title = "Il soldato Henry Coulter SCOTT, noto per la sua determinazione silenziosa e il senso del dovere, nacque il 16 febbraio 1922 nella piccola comunità di Wallace Bridge, nella contea di Cumberland, Nuova Scozia. Henry era uno dei figli di George H. Scott e Dolina Scott, ma perse la madre in giovane età. Crescendo, condivise la sua vita con i fratelli, il caporale William G. e Herbert A., e le sorelle Dolina M., Isabel ed Elsie. Aveva anche una sorellastra, Ellen, che in seguito si sarebbe sposata e sarebbe diventata la signora Opray. I Scott erano una famiglia laboriosa, profondamente radicata e guidata dalla fede presbiteriana."
+title = "Soldato Henry Coulter SCOTT - F87531"
 +++
 
+#### Cape Breton Highlanders, R.C.I.C.
+<br>
+
+
+Henry Coulter SCOTT, noto per la sua determinazione silenziosa e il senso del dovere, nacque il 16 febbraio 1922 nella piccola comunità di Wallace Bridge, nella contea di Cumberland, Nuova Scozia. Henry era uno dei figli di George H. Scott e Dolina Scott, ma perse la madre in giovane età. Crescendo, condivise la sua vita con i fratelli, il caporale William G. e Herbert A., e le sorelle Dolina M., Isabel ed Elsie. Aveva anche una sorellastra, Ellen, che in seguito si sarebbe sposata e sarebbe diventata la signora Opray. I Scott erano una famiglia laboriosa, profondamente radicata e guidata dalla fede presbiteriana.
 
 Dopo aver completato l’ottavo anno scolastico, Henry iniziò a lavorare come operaio in una segheria. Conosciuto come un uomo affidabile e onesto, Henry amava l’aria aperta e praticava sport come la caccia, la pesca, il pattinaggio e il softball. Amici e familiari lo descrivevano come un “tipo tranquillo,” affidabile ma non eccessivamente assertivo. Con una corporatura adatta al lavoro fisico — alto 1,72 m e con un peso di circa 68 kg — aveva occhi nocciola che suggerivano una natura calma e introspettiva.
 

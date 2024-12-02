@@ -2,9 +2,9 @@
 title = "Lance Corporal Gerald Donald FORBES"
 +++
 
-Westminster Regiment (Motors), R.C.I.C.
-Killed in Action: December 20, 1944, Age 23
-Villanova War Cemetery, Plot V, Row A, Grave 9
+#### Westminster Regiment (Motors), R.C.I.C.
+<br>
+
 
 Gerald Donald Forbes was born on April 30, 1921, in Glen Alda, Ontario, to Amos and Minnie May Forbes. He grew up in a large farming family with three brothers—Douglas Roy, Claude Arnold, and Howard Oliver—and four sisters: Gladys Pearl, Mabel Marie, Josephine Marion, and Alice Myrtle, the latter of whom passed away in 1944. Gerald was the seventh of eight siblings and spent his early years contributing to the family’s farm.
 

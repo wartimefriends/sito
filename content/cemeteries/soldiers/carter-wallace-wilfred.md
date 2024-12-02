@@ -2,9 +2,9 @@
 title = "Artigliere Wallace Wilfred CARTER - B53573"
 +++
 
-Reale Artiglieria Canadese
+#### Reale Artiglieria Canadese
+<br>
 
-Una vita di servizio e sacrificio
 
 Nato l’11 dicembre 1922 a Barrie, Ontario, Wallace Wilfred Carter crebbe in una numerosa famiglia nella piccola comunità di New Lowell.
 Quarto di sette figli, condivise la sua infanzia con cinque fratelli—Frank James, Kenneth Roy, Clifford Wesley, Douglas Keith e Roger Alexander—e una sorella, Audrey Ziegler. Cresciuto in una fattoria dai genitori, Roy Wesley e Della E. Carter, Wallace trascorse gli anni della giovinezza immerso nel lavoro, nei legami familiari e nell’amore per la natura.

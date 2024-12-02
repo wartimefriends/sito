@@ -1,7 +1,12 @@
 +++
-title = "Il caporale John Angus MackAY, del Reggimento dei Perth, Royal Canadian Infantry Corps, nacque il 16 novembre 1912 nella piccola città di Seaforth, nell'Ontario. Cresciuto dal padre, William John Mackay, e dalla madre, Laura, John era cresciuto in una famiglia unita con i suoi tre fratelli, il fratello Donald e le sorelle Beth, Oga e Helen."
+title = "Caporale John Angus MackAY - A11369"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+Il caporale John Angus MackAY, del Reggimento Perth, Royal Canadian Infantry Corps, nacque il 16 novembre 1912 nella piccola città di Seaforth, nell'Ontario. Cresciuto dal padre, William John Mackay, e dalla madre, Laura, John era cresciuto in una famiglia unita con i suoi tre fratelli, il fratello Donald e le sorelle Beth, Oga e Helen. 
 Tuttavia, la tragedia colpì presto: sua madre, Laura, morì nel 1930, lasciando il giovane John, che aveva solo diciotto anni, ad affrontare le sfide di una famiglia distrutta dalla perdita.
 
 John trascorse gran parte della sua giovane età adulta lavorando nella contea di Perth, in Ontario, dove acquisì esperienza pratica nell'agricoltura. Assunto da J. Carnochan, lavorò diligentemente come bracciante agricolo per oltre sette anni, imparando le complessità dell'agricoltura mista in tutta la regione. Tuttavia, le aspirazioni di John si estendevano oltre l'agricoltura. Con il chiaro obiettivo di intraprendere una carriera nel settore dell'elettricità, all'inizio del 1938 si iscrisse alla Coyne Electrical School di Chicago, frequentando corsi da gennaio ad aprile. Nonostante il suo background in agricoltura, John era determinato a costruirsi una nuova strada e, dopo la guerra, sperava di diventare un elettricista qualificato.

@@ -1,7 +1,12 @@
 +++
-title = "Private Clifford John MILLET, a devoted soldier with the Westminster Regiment (Motors) of the Royal Canadian Infantry Corps, lived a life filled with both incredible talent and a deep commitment to service."
+title = "MILLET Private Clifford John - K48841"
 +++
 
+#### Westminster Regiment (Motors), R.C.I.C.
+<br>
+
+
+Private Clifford John MILLET, a devoted soldier with the Westminster Regiment (Motors) of the Royal Canadian Infantry Corps, lived a life filled with both incredible talent and a deep commitment to service. 
 Born on July 29, 1922, in Calgary, Alberta, Clifford grew up with varied interests and skills, excelling in academics, sports, and the arts. Although he lost both his parents early on, he persevered, channeling his energies into a wealth of pursuits that showcased his resilience and adaptability.
 
 Raised primarily in Montreal, Clifford attended Jesuit College and then Loyola College, where he completed three years of study. A well-rounded student, he excelled in English, mathematics, and history. He enjoyed team sports, including hockey, softball, and Canadian football, and was an active member of the Boy Scouts. Clifford was not only academically inclined but also artistically talented; he participated in school plays and even ventured into professional entertainment. For a year, he performed as a radio singer with a rich baritone voice on CHYC in Montreal and WBZ in Springfield, Massachusetts. His stage experience included six months as an actor, a skill that showcased his charisma and presence.

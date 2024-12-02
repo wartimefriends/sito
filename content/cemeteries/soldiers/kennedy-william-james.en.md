@@ -1,6 +1,9 @@
 +++
-title = "Sapper William James KENNEDY: A Life of Hard Work and Sacrifice"
+title = "Sapper William James KENNEDY - 015288"
 +++
+
+#### 1 Field Sqn., Royal Canadian Engineers
+<br>
 
 
 Sapper William James Kennedy, Service Number 015288, served with the 1st Field Squadron of the Royal Canadian Engineers. 

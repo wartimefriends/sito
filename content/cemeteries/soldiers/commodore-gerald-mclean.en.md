@@ -2,9 +2,9 @@
 title = "Private Gerald McLean COMMODORE - B41666"
 +++
 
-4th Princess Louise Dragoon Guards, R.C.I.C.
+#### 4th Princess Louise Dragoon Guards, R.C.I.C.
+<br>
 
-A Life of Hard Work, Service, and Sacrifice
 
 Private Gerald McLean Commodore was born on August 2, 1921, in Smiths Falls, Ontario, into a loving and hardworking family. The second of five children, Gerald grew up with three brothers—Donald, Gordon, and William—and a sister, Mary, who served with the Canadian Women’s Army Corps (CWAC) in Montreal. Raised by his parents, William Charles and Lena, Gerald’s childhood was described as happy and stable.
 

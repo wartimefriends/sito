@@ -2,9 +2,9 @@
 title = "Caporale Gerald Donald FORBES"
 +++
 
-Westminster Regiment (Motors), R.C.I.C.
-Caduto in combattimento: 20 dicembre 1944, all’età di 23 anni
-Cimitero di Guerra di Villanova, Plot V, Fila A, Tomba 9
+#### Westminster Regiment (Motors), R.C.I.C.
+<br>
+
 
 Gerald Donald Forbes nacque il 30 aprile 1921 a Glen Alda, Ontario, da Amos e Minnie May Forbes. Cresciuto in una numerosa famiglia di agricoltori, Gerald aveva tre fratelli—Douglas Roy, Claude Arnold e Howard Oliver—e quattro sorelle: Gladys Pearl, Mabel Marie, Josephine Marion e Alice Myrtle, quest’ultima scomparsa nel 1944. Settimo di otto figli, Gerald trascorse la sua infanzia lavorando nella fattoria di famiglia e contribuendo al suo sostentamento.
 

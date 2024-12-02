@@ -2,8 +2,9 @@
 title = "Soldato George BELL - D96244"
 +++
 
+#### Lanark and Renfrew Scottish Regiment R.C.I.C.
+<br>
 
-Lanark and Renfrew Scottish Regiment R.C.I.C.
 
 George Bell nacque il 15 marzo 1922 a Dumfries, in Scozia, da William e Janet (Jenny) Bell. Faceva parte di una grande famiglia con cinque fratelli—David, William, Robert, John e Thomas—e quattro sorelle—Jessie (West), Irvine, Janet Elizabeth e Irene. La famiglia Bell si trasferì poi a Tomifobia, nel Québec, dove George crebbe circondato dalla bellezza aspra delle campagne canadesi.
 

@@ -2,9 +2,9 @@
 title = "Lieutenant John Henry FRISBY"
 +++
 
-Westminster Regiment (Motors), R.C.I.C.
-Killed in Action: December 28, 1944, Age 32
-Villanova War Cemetery, Plot I, Row B, Grave 1
+#### Westminster Regiment (Motors), R.C.I.C.
+<br>
+
 
 John Henry Frisby was born on March 28, 1912, in Leicester, Hinckley, England, to Charles Wetstone and Mary Elizabeth Frisby. Raised on a farm, John gained five years of experience in dairy farming but later transitioned to a career as a florist. After immigrating to Canada, he settled in Langley Prairie, British Columbia, and worked as a section foreman at Langley Greenhouses Ltd., a position he held for 14 years prior to enlistment. Though he excelled in horticulture, John harbored ambitions of becoming a carpenter after the war, fueled by his passion for woodworking.
 

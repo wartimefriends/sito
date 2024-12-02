@@ -1,6 +1,9 @@
 +++
-title = "Private William Matthew LEACOCK: A Quiet Dedication to Duty"
+title = "Private William Matthew LEACOCK - B143246"
 +++
+
+#### Lanark and Renfrew Scottish Regiment R.C.I.C.
+<br>
 
 
 William Matthew Leacock was born on November 20, 1920, in Lorneville, Ontario, into a family marked by hardship. His father, Matthew, passed away before William was born, and his mother, Mary Elizabeth, died in 1934 when he was just a boy. Despite these early losses, William grew up with the support of his sisters, Mary Jane (Minnie) Harper and Elizabeth (Lizzie) Ashmore, both of whom married and started families of their own. Another sister, Alice, and his brother, Robert, had already passed away, adding to the challenges he faced in his early life.

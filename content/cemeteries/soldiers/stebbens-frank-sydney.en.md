@@ -1,7 +1,12 @@
 +++
-title = "Captain Frank Sydney STEBBENS served with the 11th Field Regiment, Royal Canadian Artillery, during World War II."
+title = "STEBBENS Captain Frank Sydney"
 +++
 
+#### 11 Field Regt., Royal Canadian Artillery
+<br>
+
+
+Captain Frank Sydney STEBBENS served with the 11th Field Regiment, Royal Canadian Artillery, during World War II. 
 He was born on March 28, 1907, in Winnipeg, Manitoba, and passed away from wounds on December 15, 1944, at the age of 38, during the Italian Campaign. He is buried at Villanova War Cemetery, plot VII A 1.
 
 Frank was the eldest of four children in his family, which included his parents Frank and Ida Stebbens, and his siblings Eddie, Marjorie, and Eva. Although he was divorced, he had a daughter, Ida Gail, who was his next of kin. Ida Gail lived at the Sisters of the Holy Cross Convent in Montreal for much of the year, with her grandmother taking care of her in her father’s absence.

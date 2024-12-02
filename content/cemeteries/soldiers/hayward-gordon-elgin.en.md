@@ -1,6 +1,9 @@
 +++
-title = "Trooper Gordon Elgin HAYWARD"
+title = "Trooper Gordon Elgin HAYWARD - A103911"
 +++
+
+#### 3rd Armd. Recce. Regt., G. G. H. G., R.C.A.C.
+<br>
 
 
 Gordon Elgin Hayward was a man of quiet determination, intelligence, and loyalty. Born on June 28, 1915, in Eastnor Township, Ontario, Gordon was the fifth of six children in the Hayward family. His parents, George Edgar and Dorothy Matilda, raised him alongside his siblings: Oscar, Donald, Lloyd, Della May, and Dorothy Grace. Growing up in rural Ontario during challenging economic times, Gordon left school after completing grade nine at age 13 to help support his family, as his father was unable to work.

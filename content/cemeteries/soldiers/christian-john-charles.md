@@ -2,9 +2,9 @@
 title = "Soldato John Charles Christian - M4227"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
 
-La Vita di un Giovane Avventuriero Dedicata al Dovere e al Sacrificio
 
 Il soldato John Charles Christian nacque il 9 agosto 1920 a Indako, nella Columbia Britannica. Il più giovane di tre figli, crebbe a Strawberry Hill, New Westminster, BC, con i genitori Charles Henry e Annie Christian e le sue due sorelle maggiori, Annie Marie (Dobson) e Helen Louise (Bright).
 L’infanzia di John fu descritta come felice, ricca di attività all’aria aperta e legami familiari stretti.

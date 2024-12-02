@@ -1,7 +1,12 @@
 +++
-title = "John William MacAULAY was born on May 27, 1916, in the peaceful farming community of Cardigan, Prince Edward Island."
+title = "MACAULAY Private John William - F59848"
 +++
 
+#### Lanark and Renfrew Scottish Regiment R.C.I.C.
+<br>
+
+
+John William MacAULAY was born on May 27, 1916, in the peaceful farming community of Cardigan, Prince Edward Island. 
 Raised in a close-knit family, John was the son of Daniel Charles MacAulay and his late mother, Rosella. He grew up alongside his two brothers, Joseph and Peter, and his three sisters, one of whom later moved to Halifax, while another stayed in Cardigan. Like many young men from rural backgrounds, John developed a strong work ethic early in life. He spent three years as a laborer on his family’s farm and also worked as a railroad section hand for two years. Even as he worked, John harbored ambitions for a future as a blacksmith, envisioning a life centered around his love for working with his hands.
 
 John completed two years of high school, reaching Grade XI, and excelled in sports, particularly rugby, baseball, hockey, and handball. These activities gave him a sense of camaraderie and discipline, traits that would later serve him well in his military career. He was known for his good physique, stable attitude, and a moderate approach to both drinking and smoking. Standing 5’8½” tall and weighing 165 pounds, he was well-suited for the physical demands of military life.

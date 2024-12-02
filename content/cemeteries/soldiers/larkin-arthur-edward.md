@@ -1,6 +1,12 @@
 +++
-title = "Il Soldato Arthur Edward LARKIN, membro dei Cape Breton Highlanders del Royal Canadian Infantry Corps, era un uomo di servizio, lealtà e profonda dedizione alle proprie radici."
+title = "Private Arthur Edward LARKIN - F60543"
 +++
+
+#### Cape Breton Highlanders
+<br>
+
+
+Arthur Edward LARKIN, membro dei Cape Breton Highlanders del Royal Canadian Infantry Corps, era un uomo di servizio, lealtà e profonda dedizione alle proprie radici.
 
 Nato il 22 ottobre 1915 a St. Peter’s Bay, Prince Edward Island, Arthur crebbe in una famiglia unita e numerosa con i genitori, John Julius ed Emma, i suoi cinque fratelli—Francis, Eugene, Joseph Raymond, Dennis Philip e Patrick Herbert—e sua sorella Victoria Catherine. Cresciuto in una fattoria, sviluppò una forte etica del lavoro e un legame con la terra, lavorando per lo stesso datore di lavoro per dieci anni prima di entrare nell’esercito.
 

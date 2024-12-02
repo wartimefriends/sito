@@ -1,10 +1,10 @@
 +++
-title = "Private David John EDLUND"
+title = "Private David John EDLUND - K66797"
 +++
 
-Cape Breton Highlanders, R.C.I.C.
-Died of Wounds: January 4, 1945, Age 20
-Villanova War Cemetery, Plot I, Row C, Grave 10
+#### Cape Breton Highlanders, R.C.I.C.
+<br>
+
 
 David John Edlund was born on May 9, 1924, in Prince Rupert, British Columbia, to Albert John and Florence Edlund. The youngest of a blended family, David had two sisters, Thelma M. Thody and Iris Mae, and a half-sister, Christina Bendall, as well as a half-brother, Ernest Edward, whose whereabouts were unknown. Raised in Burns Lake, BC, David’s father worked as a lineman for the Government Telegraph Service, while his mother managed their household.
 

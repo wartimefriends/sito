@@ -1,7 +1,12 @@
 +++
-title = "Clifford John MILLET, un soldato devoto del Reggimento Westminster (Motorizzato) del Royal Canadian Infantry Corps, ha vissuto una vita piena di incredibili talenti e un profondo impegno verso il servizio."
+title = "Soldato Clifford John MILLET - K48841"
 +++
 
+#### Westminster Regiment (Motors), R.C.I.C.
+<br>
+
+
+Clifford John MILLET, un soldato devoto del Reggimento Westminster (Motorizzato) del Royal Canadian Infantry Corps, ha vissuto una vita piena di incredibili talenti e un profondo impegno verso il servizio.
 
 Nato il 29 luglio 1922 a Calgary, Alberta, Clifford è cresciuto coltivando vari interessi e abilità, eccellendo negli studi, negli sport e nelle arti. Sebbene abbia perso entrambi i genitori in giovane età, ha perseverato, incanalando le sue energie in una serie di attività che hanno messo in luce la sua resilienza e adattabilità.
 

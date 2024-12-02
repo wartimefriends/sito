@@ -1,6 +1,9 @@
 +++
-title = "Soldato Archibald Reginald KIERSTEAD: Una Vita Dedicata al Servizio"
+title = "Soldato Archibald Reginald KIERSTEAD - - B62322"
 +++
+
+#### 5th Armd. Regt., 8th Princess Louise's Hussars, R.C.A.C.
+<br>
 
 
 Archibald Reginald Kierstead nacque il 6 agosto 1911 a Campbellton, New Brunswick. Con la sua altezza imponente di 1,85 m e un peso di 85 kg, Archie, come veniva affettuosamente chiamato, era una figura carismatica, con carnagione media, occhi azzurri e capelli castani. Cresciuto in una famiglia cattolica romana, era il secondo figlio di David Alexander e Mary Elizabeth Kierstead. Con due fratelli, Ralph e Ian, Archie visse la sua infanzia a Niagara Falls, in Ontario, sviluppando un forte senso del dovere e una resilienza che avrebbero caratterizzato tutta la sua vita.

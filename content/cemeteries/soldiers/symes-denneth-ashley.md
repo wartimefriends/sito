@@ -1,6 +1,9 @@
 +++
-title = "Soldato Denneth Ashley SYMES (F35850)"
+title = "Soldato Denneth Ashley SYMES - F35850"
 +++
+
+#### Cape Breton Highlanders, R.C.I.C.
+<br>
 
 
 Nato il 27 maggio 1924 nella comunità agricola di Minudie, Nuova Scozia, il soldato semplice Denneth Ashley Symes crebbe in una famiglia unita e laboriosa. I suoi genitori, Henry e Alice Symes, lo allevarono insieme ai suoi tre fratelli (David, George e Clifford) e quattro sorelle (Vera, Lucy Jane e Mona). La famiglia Symes conduceva una vita semplice, incentrata sul lavoro agricolo e sui valori di comunità e famiglia. Dopo aver completato la nona classe in una scuola locale con una sola aula, dove la sua materia preferita era la storia, Denneth lasciò gli studi all’età di 17 anni per aiutare la sua famiglia nella loro fattoria mista. Aveva abilità con gli animali, in particolare con i cavalli, e amava giocare a baseball, di solito come esterno destro. Descritto come amichevole, collaborativo e sempre pronto ad aiutare, Denneth era un giovane tranquillo e gentile.

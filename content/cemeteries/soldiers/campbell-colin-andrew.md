@@ -2,9 +2,9 @@
 title = "Soldato Colin Andrew Campbell - F88689"
 +++
 
-Cape Breton Highlanders of Canada, R.C.I.C.
+#### Cape Breton Highlanders of Canada, R.C.I.C.
+<br>
 
-Una Vita Complessa di Servizio e Sacrificio
 
 Il soldato Colin Andrew Campbell nacque il 17 dicembre 1911 a Port Hood, Nuova Scozia. Figlio di Alexander e Margaret Campbell, la sua infanzia fu segnata da difficoltà. Rimasto orfano a soli 11 anni, Colin crebbe con un fratello sopravvissuto, John D., e tre sorelle: Sadie, la signora G. MacKinnon e Josephine Rankin. Un altro fratello, John Duncan, morì nel 1935, mentre sua sorella Mary morì in giovane età.
 

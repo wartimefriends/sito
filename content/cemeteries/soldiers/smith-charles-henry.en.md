@@ -1,9 +1,12 @@
 +++
-title = "The Life and Legacy of Private Charles Henry SMITH"
+title = "SMITH Private Charles Henry - B25340"
 +++
 
+#### 12 Field Coy., Royal Canadian Engineers
+<br>
 
-Private Charles Henry Smith was born on October 22, 1916, in Toronto, Ontario. A devoted family man, Charles was married to Eva, and together they had two children, Ethel and Bernice. He came from a large family, which included his father, Charles; two brothers, Kenneth and Robert; and eight sisters: May, Dorothy, Margaret, Mrs. Jean Palmer, Mrs. Florence McNeil, Audrey, Marjorie, and Teresa. Tragically, Charles lost his mother at a young age; she passed away when he was just 11 years old. This loss contributed to a challenging childhood, as the family structure was disrupted.
+
+Charles Henry Smith was born on October 22, 1916, in Toronto, Ontario. A devoted family man, Charles was married to Eva, and together they had two children, Ethel and Bernice. He came from a large family, which included his father, Charles; two brothers, Kenneth and Robert; and eight sisters: May, Dorothy, Margaret, Mrs. Jean Palmer, Mrs. Florence McNeil, Audrey, Marjorie, and Teresa. Tragically, Charles lost his mother at a young age; she passed away when he was just 11 years old. This loss contributed to a challenging childhood, as the family structure was disrupted.
 
 At the age of 13, Charles left school to help support his family. Throughout his life, he worked as a salesman in Toronto and spent a decade as a concession agent for fairs, running his own business. After the war, he hoped to return to this profession, showing his strong commitment to family tradition and a sense of duty.
 

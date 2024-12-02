@@ -1,6 +1,9 @@
 +++
-title = "La Vita e il Servizio di Edward POSTLETHWAITE"
+title = "Soldato Edward POSTLETHWAITE - F89309"
 +++
+
+#### Breton Highlanders, R.C.I.C.
+<br>
 
 
 Il Soldato Edward Postlethwaite, membro del Cape Breton Highlanders del Royal Canadian Infantry Corps (R.C.I.C.), ha sacrificato la propria vita in servizio per il suo paese il 13 dicembre 1944, in Italia. 

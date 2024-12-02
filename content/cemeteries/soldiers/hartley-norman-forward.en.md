@@ -1,6 +1,9 @@
 +++
-title = "Private Norman Edward HARTLEY"
+title = "Private Norman Edward HARTLEY - B/139565"
 +++
+
+#### C Company – Irish Regiment of Canada
+<br>
 
 
 Private Norman Forward Hartley’s story is one of dedication, resilience, and service, reflecting the life of a man who left behind a young family to fight for freedom during one of history’s darkest hours. 

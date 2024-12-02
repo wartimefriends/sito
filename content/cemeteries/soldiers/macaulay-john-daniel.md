@@ -1,7 +1,12 @@
 +++
-title = "John Daniel MacAULAY nacque il 25 febbraio 1907 a Sydney, nella contea di Cape Breton, Nuova Scozia. Figlio di John Stephen ed Elizabeth MacAulay, John era uno di sette figli in una famiglia numerosa e molto unita. Cresciuto a Sydney, condivise la sua infanzia con il fratello Merritt Eldon e le sue cinque sorelle—Florence, Gladys, Jean e Ada, tutte sparse nelle Marittime."
+title = "Soldato John Daniel MACAULAY - F89249"
 +++
 
+#### Westminster Regiment (Motors) R.C.I.C.
+<br>
+
+
+John Daniel MacAULAY nacque il 25 febbraio 1907 a Sydney, nella contea di Cape Breton, Nuova Scozia. Figlio di John Stephen ed Elizabeth MacAulay, John era uno di sette figli in una famiglia numerosa e molto unita. Cresciuto a Sydney, condivise la sua infanzia con il fratello Merritt Eldon e le sue cinque sorelle—Florence, Gladys, Jean e Ada, tutte sparse nelle Marittime.
 
 Lasciò la scuola a 12 anni, dopo aver completato il settimo grado, e iniziò una vita di duro lavoro. Nei primi anni aiutò nella fattoria di suo zio a Prince Edward Island, dove acquisì abilità preziose e un’etica del lavoro duratura. Nel 1925, iniziò a lavorare come aiutante nella fusione per la Dominion Iron and Steel Corporation, un ruolo impegnativo che rafforzò la sua resistenza fisica. 
 Nel 1931, John trovò la sua vera vocazione come barbiere. Aprì il proprio negozio a Sydney, Nuova Scozia, lavorando come barbiere autonomo per quasi un decennio. Conosciuto per la sua personalità piacevole e il suo carattere tranquillo, sviluppò una clientela fedele e nutriva il desiderio di espandere la sua attività dopo la guerra.

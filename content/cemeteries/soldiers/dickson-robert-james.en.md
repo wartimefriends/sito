@@ -2,9 +2,9 @@
 title = "Sergeant Robert James DICKSON - B43086"
 +++
 
-Perth Regiment R.C.I.C.
+#### Perth Regiment R.C.I.C.
+<br>
 
-A Life of Leadership and Sacrifice:
 
 Sergeant Robert James Dickson was born on April 7, 1919, in Galt, Ontario, the fourth of six children in a hardworking family. Raised by his mother, Bessie, after the passing of his father, David—a veteran of the First World War—Robert grew up with two brothers, Edward and Joseph, and three sisters, Jean, Helen, and Janet. The values of service and responsibility were instilled in him from a young age, shaping the man he would become.
 

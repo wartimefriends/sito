@@ -1,9 +1,10 @@
 +++
-title = "David DEVOR"
+title = "Soldato David DEVOR"
 +++
 
-Irish Regiment of Canada, KIA il 20 dicembre 1944
-Sepolto presso il Villanova Canadian War Cemetery
+#### D Company, Irish Regiment of Canada
+<br>
+
 
 David Devor, conosciuto in famiglia col nome ebraico Tevi, nacque il 1° aprile 1924 a St. Catharines, Ontario, quinto di dieci figli in una famiglia numerosa e complessa. I suoi genitori, Harry e Kate Devor, si erano separati, lasciando David a fronteggiare le difficoltà di una situazione familiare frammentata insieme ai suoi fratelli e sorelle. Tra di loro vi erano il sergente maggiore John R. (in servizio nell’esercito statunitense), il caporale Sidney (in servizio presso il Royal Canadian Corps of Signals), Berko e Louis, e le sorelle Anne Philippa, Sarah Marion, Zipporah Rachel, Helen Bess e Rhina Rose.
 

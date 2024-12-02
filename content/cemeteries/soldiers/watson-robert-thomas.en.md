@@ -1,7 +1,12 @@
 +++
-title = "Private Robert Thomas WATSON was born on September 7, 1924, in Rochester, New York, USA. As the eldest child of Robert and Ivy Watson, he grew up in Vancouver, British Columbia, where his family later settled. His only sibling was a half-brother, Gary C. Watson. Although Robert’s childhood was considered normal, he carried with him a reputation for being somewhat reckless, with a minor history of theft that reflected a carefree attitude toward life. Despite this, he was a pleasant and cooperative young man, known for his clean-cut appearance and affable nature."
+title = "WATSON Private Robert Thomas - K73980"
 +++
 
+#### Westminster Regiment (Motors), R.C.I.C.
+<br>
+
+
+Robert Thomas WATSON was born on September 7, 1924, in Rochester, New York, USA. As the eldest child of Robert and Ivy Watson, he grew up in Vancouver, British Columbia, where his family later settled. His only sibling was a half-brother, Gary C. Watson. Although Robert’s childhood was considered normal, he carried with him a reputation for being somewhat reckless, with a minor history of theft that reflected a carefree attitude toward life. Despite this, he was a pleasant and cooperative young man, known for his clean-cut appearance and affable nature.
 
 Robert completed his formal education at the age of 17, finishing grade 9. Though his academic career was brief, he showed an interest in mechanics, with a desire to work as a driver-mechanic or dispatch rider. His hobbies included swimming, bowling, skating, and playing hockey as a goaltender. He also enjoyed baseball and softball, often playing in the field positions.
 

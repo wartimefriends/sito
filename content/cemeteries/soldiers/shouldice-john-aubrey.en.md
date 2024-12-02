@@ -1,7 +1,12 @@
 +++
-title = "John Aubrey SHOULDICE was born on October 30, 1918, in Chatsworth, Ontario. He grew up under difficult circumstances, as his father, Aubrey, passed away when John was only two months old. Raised primarily by his mother, Merrill Jane, he also shared his home with one brother, Robert Harvey, three sisters, Blanche Marjory, Margaret Evelyn (who later married and took the surname Newman), and Mary Merrill (Hillis), as well as two half-sisters, Sarah Mabel Richardson and Gladys Arlan Richardson."
+title = "SHOULDICE Sapper John Aubrey - B39825"
 +++
 
+#### 5 Mechanical Equipment Platoon, Royal Canadian Engineers
+<br>
+
+
+John Aubrey SHOULDICE was born on October 30, 1918, in Chatsworth, Ontario. He grew up under difficult circumstances, as his father, Aubrey, passed away when John was only two months old. Raised primarily by his mother, Merrill Jane, he also shared his home with one brother, Robert Harvey, three sisters, Blanche Marjory, Margaret Evelyn (who later married and took the surname Newman), and Mary Merrill (Hillis), as well as two half-sisters, Sarah Mabel Richardson and Gladys Arlan Richardson.
 
 John attended school until the 10th grade but left at the age of 15 to help support his family. Throughout his early years, he displayed a keen interest in sports, enjoying activities like skating, playing defense in hockey, and holding the position of first base in baseball. His hobbies included working with engines, which indicated his developing interest in mechanics.
 

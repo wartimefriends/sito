@@ -1,7 +1,12 @@
 +++
-title = "Kenneth Gordon STEPHENS nacque il 27 gennaio 1925 a Windsor, in Ontario. Il più giovane di quattro fratelli, Kenneth crebbe in una famiglia molto unita con i suoi genitori, William James e Virginia Dorothy Stephens, e i fratelli Harold, Ralph e Robert. La sua infanzia fu segnata dalla normalità della vita familiare e rurale a Windsor, dove contribuiva lavorando nella fattoria di famiglia e aiutando nell’attività di noleggio carrozze del padre."
+title = "Soldato Kenneth Gordon STEPHENS - A117481"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+Kenneth Gordon STEPHENS nacque il 27 gennaio 1925 a Windsor, in Ontario. Il più giovane di quattro fratelli, Kenneth crebbe in una famiglia molto unita con i suoi genitori, William James e Virginia Dorothy Stephens, e i fratelli Harold, Ralph e Robert. La sua infanzia fu segnata dalla normalità della vita familiare e rurale a Windsor, dove contribuiva lavorando nella fattoria di famiglia e aiutando nell’attività di noleggio carrozze del padre.
 
 Kenneth lasciò la scuola a 16 anni, dopo aver completato l’ottavo anno, e proseguì con sei mesi di formazione professionale presso la Junior Windsor Vocational School. Era un giovane di mezzi modesti, che lavorava come camionista per la Buy-Rite Furniture Co. per circa un anno. Con un vivo interesse per lo sport, Kenneth eccelleva nella boxe, nella pesca e nell’hockey, dove giocava come portiere. Nel tempo libero, amava cantare come tenore, esprimendo così il suo amore per la musica.
 Quando la Seconda Guerra Mondiale richiese l’arruolamento di più uomini, Kenneth era pronto a rispondere. Entrò nell’esercito il 23 febbraio 1943, mosso da una ragione semplice ma profonda: “Volevo solo farne parte.” La sua dedizione al servizio era motivata da un forte senso del dovere e dal desiderio di unirsi ai suoi due fratelli, che erano già nell’esercito. Si addestrò in Canada fino alla metà di febbraio del 1944, prima di essere inviato nel Regno Unito. Entro marzo di quell’anno, era già schierato in Italia, combattendo con il Perth Regiment, R.C.I.C.

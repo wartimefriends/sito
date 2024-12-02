@@ -1,6 +1,9 @@
 +++
-title = "Sergeant James KEET: A Dedicated Soldier and Leader"
+title = "Sergeant James KEET - K47509"
 +++
+
+#### "C" Coy., Westminster Regiment (Motors), R.C.I.C.
+<br>
 
 
 James Keet was born on August 1, 1920, in Warwickshire, England, to Robert and Beatrice Keet. The eldest of two children, James grew up with his younger sister Phyllis in a close-knit family. The Keet family emigrated to Canada, settling in New Westminster, British Columbia, where James spent most of his childhood. 

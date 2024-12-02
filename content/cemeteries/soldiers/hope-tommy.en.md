@@ -2,7 +2,9 @@
 title = "THE WHITE MAPLE LEAF"
 +++
 
-THE STORY OF 
+#### THE STORY OF
+<br>
+
 PRIVATE THOMAS BRADE HOPE
 Canadian Army
 (Scotland, June 3 1915 – Italy, December 13 1944)

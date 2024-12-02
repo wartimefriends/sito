@@ -1,7 +1,12 @@
 +++
-title = "Private John Sidney WATSON was born on July 18, 1916, in Severn Bridge, Ontario. He was raised by his mother, Mabel Annie Watson, and stepfather, Fred, after his father, John P. Smith, was killed while serving in France during World War I. John had a full sister, Mabel Eileen Cooke, who also used the surname Watson, as well as three half-brothers: William Francis, Herbert Henry, and Eugene Frederick. The Watson family eventually settled in Wynyard, Saskatchewan, where John would spend much of his youth."
+title = "WATSON Private John Sidney - L11222"
 +++
 
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
+
+John Sidney WATSON was born on July 18, 1916, in Severn Bridge, Ontario. He was raised by his mother, Mabel Annie Watson, and stepfather, Fred, after his father, John P. Smith, was killed while serving in France during World War I. John had a full sister, Mabel Eileen Cooke, who also used the surname Watson, as well as three half-brothers: William Francis, Herbert Henry, and Eugene Frederick. The Watson family eventually settled in Wynyard, Saskatchewan, where John would spend much of his youth.
 
 John completed grade 7 before leaving school at the age of 15 to help support his family. His home life was stable, and his conduct during his school years was considered normal. His favorite pastimes included hunting, skating, and playing baseball, where he excelled as a catcher. While John was not noted for his academic abilities and was described as “dull mentally,” he was physically alert and capable. Despite these challenges, he could perform certain tasks in the army well and was regarded as having a positive disposition and good physical aptitude.
 

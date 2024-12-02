@@ -1,8 +1,10 @@
 +++
-title = "Artigliere Herbert Ralph BUSH – Numero di matricola L57842"
+title = "Artigliere Herbert Ralph BUSH–L57842"
 +++
 
-2 Public Relations Group - Artiglieria Reale Canadese
+#### 2 Public Relations Group - Artiglieria Reale Canadese
+<br>
+
 
 Herbert Ralph Bush nacque il 25 settembre 1904 a Belleville, Ontario. I suoi primi anni furono segnati dalle avversità: perse entrambi i genitori e fu cresciuto in un orfanotrofio. Suo padre, William, morì in una data sconosciuta, mentre sua madre, Mabel Moon, morì nell’ottobre del 1936. L’unico fratello di Herbert, Clifford, era irreperibile dal 1927, anno in cui risultava servire nella Royal Canadian Mounted Police a Regina.
 

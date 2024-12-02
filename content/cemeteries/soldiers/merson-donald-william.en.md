@@ -1,7 +1,12 @@
 +++
-title = "Private Donald William MERSON was a dedicated soldier and a hard-working man, whose life journey was defined by commitment to both family and duty."
+title = "MERSON Private Donald William - B118594"
 +++
 
+#### Perth Regiment R.C.I.C.
+<br>
+
+
+Private Donald William MERSON was a dedicated soldier and a hard-working man, whose life journey was defined by commitment to both family and duty. 
 Born on June 4, 1913, in Toronto, Ontario, Donald grew up in a modest household as the son of William and Rose Poole. He was a devoted husband to Frances Alice and a loving father to their two children, Donald William and Garry Fredrick.
 
 Donald’s early life was marked by responsibility and determination. He left school after completing part of Grade VIII, at the age of 14, to support his family during difficult times. He quickly immersed himself in the working world, taking on a variety of jobs that showcased his versatility and dedication. Over the years, he worked as a bicycle delivery boy, an office assistant, a factory worker, and a bottler. Eventually, he found stable work as an operator and automatic set-up man at the John Inglis Company, where he was employed for the four years leading up to his enlistment.

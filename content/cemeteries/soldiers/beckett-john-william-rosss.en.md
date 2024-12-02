@@ -1,9 +1,10 @@
 +++
-title = "BECKETT - B43768 -"
+title = "L/Corporal John W. R. BECKETT - B43768"
 +++
 
-Lance Corporal John William Ross
-Lanark and Renfrew Scottish Regiment R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment R.C.I.C.
+<br>
+
 
 John William Ross Beckett was born on November 25, 1923, on a farm in Effingham, Ontario, a community settled by his Beckett ancestors. 
 He was the eighth of eleven children born to Levi R. and Olive A. Beckett. The Beckett family, consisting of three boys and eight girls, was close-knit and industrious, embodying the spirit of rural Canadian life. John was especially close to his younger sister Lena, one of a pair of twins, who fondly recalled the deep bond they shared.

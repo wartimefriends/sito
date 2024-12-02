@@ -2,7 +2,9 @@
 title = "Private Douglas Lloyd BEST - B145400"
 +++
 
-Lanark and Renfrew Scottish Regiment -  R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment -  R.C.I.C.
+<br>
+
 
 Born on November 23, 1916, in Owen Sound, Ontario, Douglas Lloyd grew up in a modest family of six siblings. Raised in the Church of England, Douglas was known for his fair complexion, blue eyes, and brown hair. At 5’10½” and 147 pounds, he was a sturdy and capable young man with a passion for mechanics and a knack for hard work.
 

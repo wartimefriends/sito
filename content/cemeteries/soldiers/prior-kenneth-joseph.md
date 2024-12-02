@@ -1,6 +1,9 @@
 +++
-title = "La Vita e il Servizio del Soldato Kenneth Joseph PRIOR"
+title = "Soldato Kenneth Joseph PRIOR - A/63187"
 +++
+
+#### 1° Corps, CompagniaTrasporti, RCASC
+<br>
 
 
 Il Soldato Kenneth Joseph Prior, autista di camion nella 1ª Compagnia di Trasporto del Corpo di Servizio dell’Esercito Canadese Reale (RCASC), servì il suo paese con dedizione e coraggio fino alla sua tragica morte in servizio attivo il 1° novembre 1944 in Italia. 

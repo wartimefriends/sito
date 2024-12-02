@@ -1,6 +1,9 @@
 +++
-title = "Trooper Walter Henry GOODALL"
+title = "Trooper Walter Henry GOODALL - K76212"
 +++
+
+#### 3rd Armd. Recce, G. G. H. G. Regt., R.C.A.C.
+<br>
 
 
 Walter Henry Goodall’s story is one of service, skill, and sacrifice, reflecting the journey of a young man who left behind his home in British Columbia to fight for freedom during the Second World War. 

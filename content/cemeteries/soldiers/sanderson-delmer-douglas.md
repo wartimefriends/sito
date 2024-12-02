@@ -1,7 +1,12 @@
 +++
-title = "Delmer Douglas SANDERSON nacque il 10 gennaio 1925 a Reedy Creek, Manitoba, dove trascorse un’infanzia modesta in una piccola fattoria di famiglia. Cresciuto in una famiglia unita e felice, Delmer era il più giovane di quattro figli di William James Gilbert e Margaret Sanderson. Suo fratello, Thomas, prestò servizio nei Queen’s Own Cameron Highlanders, mentre le sue sorelle, Gladys ed Edna, si sposarono e si stabilirono in Manitoba."
+title = "Soldato Delmer Douglas SANDERSON - H14142"
 +++
 
+#### 4th Princess Louise Dragoon Guards R.C.A.C.
+<br>
+
+
+Delmer Douglas SANDERSON nacque il 10 gennaio 1925 a Reedy Creek, Manitoba, dove trascorse un’infanzia modesta in una piccola fattoria di famiglia. Cresciuto in una famiglia unita e felice, Delmer era il più giovane di quattro figli di William James Gilbert e Margaret Sanderson. Suo fratello, Thomas, prestò servizio nei Queen’s Own Cameron Highlanders, mentre le sue sorelle, Gladys ed Edna, si sposarono e si stabilirono in Manitoba.
 
 I primi anni di Delmer furono dedicati ad aiutare il padre nei lavori quotidiani della loro fattoria di dieci acri, dove si occupava di nutrire il bestiame, accudire i maiali e spesso guidare i cavalli. Alto poco meno di un metro e ottanta, con una corporatura snella e occhi castani, Delmer portava gli occhiali a causa della miopia, che rendeva difficoltosa la lettura. Concluse il settimo anno di scuola all’età di 15 anni, sebbene gli studi non lo avessero mai realmente appassionato. Trovava invece soddisfazione nel lavoro agricolo, dove il suo carattere affidabile e stabile poteva essere messo a frutto. Al di fuori del lavoro Delmer amava giocare a softball e pattinare, e trovava conforto nella partecipazione regolare alla chiesa, oltre a partecipare occasionalmente a balli.
 

@@ -1,7 +1,12 @@
 +++
-title = "Sydney Murray MUGGAH - service number F/76313, was a member of C Company, Irish Regiment of Canada with a dedicated service file recorded in volume RG24-26669."
+title = "Muggah Private Sydney Murray - F/76313"
 +++
 
+#### C Company - Irish Regiment of Canada, R.C.I.C.
+<br>
+
+
+Sydney Murray MUGGAH - service number F/76313, was a member of C Company, Irish Regiment of Canada with a dedicated service file recorded in volume RG24-26669. 
 Born on October 3, 1908, in Sydney, Nova Scotia, he was 35 years old when he enlisted. Standing at 5’9¼” and weighing 158 lbs, Sydney had a dark complexion, hazel eyes, and black hair. His religious affiliation was with the United Church, and he was single at the time of his enlistment.
 
 Sydney came from a large family. His father, Hubert Wilfred, and his mother, Barbara Alice, raised a family that included his brothers Albert Howard, Edward, Arthur, Samuel, and Arnold, and his sisters Thelma, Mildred, and Evelyn. Sydney was one of nine children.

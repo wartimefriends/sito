@@ -1,7 +1,12 @@
 +++
-title = "Il soldato Leo John MALLEY è nato il 27 novembre 1921 a Chatham Head, New Brunswick. Uomo di fede cattolica romana e di costante dedizione, è stato cresciuto in una famiglia numerosa dai suoi genitori, Peter ed Elizabeth Vatour. Essendo il maggiore dei suoi fratelli, ha condiviso la sua vita con due fratelli, Edmund e Archibald, e tre sorelle, Cecelia, Janet e Leona, oltre a diversi fratellastri. Il suo background familiare era stabile ed è cresciuto in un ambiente favorevole nella piccola e affiatata comunità di Chatham Head. In seguito, sposò Ruby Carmel di Lower Newcastle, New Brunswick, ma non ebbero figli."
+title = "Soldato Leo John MALLEY - G8030"
 +++
 
+#### Lanark and Renfrew Scottish Regt., R.C.I.C.
+<br>
+
+
+Il soldato Leo John MALLEY è nato il 27 novembre 1921 a Chatham Head, New Brunswick. Uomo di fede cattolica romana e di costante dedizione, è stato cresciuto in una famiglia numerosa dai suoi genitori, Peter ed Elizabeth Vatour. Essendo il maggiore dei suoi fratelli, ha condiviso la sua vita con due fratelli, Edmund e Archibald, e tre sorelle, Cecelia, Janet e Leona, oltre a diversi fratellastri. Il suo background familiare era stabile ed è cresciuto in un ambiente favorevole nella piccola e affiatata comunità di Chatham Head. In seguito, sposò Ruby Carmel di Lower Newcastle, New Brunswick, ma non ebbero figli.
 
 Leo ha completato la sua scuola fino all'ottavo anno e successivamente ha lavorato come operaio per datori di lavoro locali intorno a Chatham Head. 
 Alto 5'10" e pesava 180 libbre, aveva occhi nocciola e una personalità bonaria, Leo possedeva una corporatura solida e fisicamente capace, adatta alle esigenze del servizio militare. Anche se aveva un lieve strabismo, la sua forma fisica e mentale furono valutate positivamente.

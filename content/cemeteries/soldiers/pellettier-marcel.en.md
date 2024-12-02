@@ -1,7 +1,12 @@
 +++
-title = "Private Marcel PELLETIER (Service Number: E30227) was born on January 16, 1918, in Sillarsville, Quebec, Canada. He was the third child in his family, with two brothers, Raymond and Edgar, and a sister named Victorine. His parents, John Stanley and Elionore Pelletier, raised their children in a normal and supportive household."
+title = "PELLETIER Private Marcel - E30227"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+Marcel PELLETIER was born on January 16, 1918, in Sillarsville, Quebec, Canada. He was the third child in his family, with two brothers, Raymond and Edgar, and a sister named Victorine. His parents, John Stanley and Elionore Pelletier, raised their children in a normal and supportive household.
 
 Growing up in a rural area, Marcel attended school up to the second grade. The distance to the school made regular attendance challenging, and he eventually left education, leading to illiteracy. Despite this, he was fluent in both French and English, reflecting the bilingual nature of his community.
 

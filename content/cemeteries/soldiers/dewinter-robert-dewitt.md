@@ -2,9 +2,9 @@
 title = "Soldato Robert Dewitt DEWINTER - F43894"
 +++
 
-4th Princess Louise Dragoon Guards, R.C.I.C.
+#### 4th Princess Louise Dragoon Guards, R.C.I.C.
+<br>
 
-Uno Spirito Giovane Sacrificato per la Libertà
 
 Robert Dewitt DeWinter nacque il 21 settembre 1924 ad Aylesford, nella contea di Kings, Nuova Scozia. Figlio di Allison Ira ed Emily Matilda DeWinter, Robert crebbe in una famiglia laboriosa con tre fratelli—Aubrey, Gordon (in servizio oltremare durante la guerra) e Vaughan—e due sorelle, Jennie, Agnes (signora West) e Iona (signora Morse). Suo padre, che lavorava nel settore della macinazione, trasmise a Robert valori di resilienza e determinazione, tipici della comunità rurale in cui vivevano.
 

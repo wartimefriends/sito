@@ -1,9 +1,11 @@
 +++
-title = "Private Frederick George HOOTUN: A Life of Quiet Dedication and Sacrifice"
+title = "Private Frederick George HOOTUN - B-1638"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
 
-Frederick George Hootun, Service Number B-1638, served with the Perth Regiment of the Royal Canadian Infantry Corps. 
+
 Born on June 7, 1923, at the Ottawa Civic Hospital, Fred was the first child of George and Mary Hutton. He grew up alongside his younger siblings, Jean and John, as the family moved to Toronto in 1930.
 
 Fred’s childhood was filled with the hallmarks of a Canadian boyhood. Living across from a park, he spent winters skating, playing hockey, tobogganing, and bobsledding. Summers were marked by swims in the Don River or braving the icy waters of Lake Ontario after long walks to the beach. Like many of his peers, Fred worked hard to earn pocket money, delivering fruit and vegetables on his bicycle every Saturday from morning until night.

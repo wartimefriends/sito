@@ -1,7 +1,13 @@
 +++
-title = "Il Soldato Arthur Alfred LAROCQUE, membro del Royal 22e Régiment del Royal Canadian Infantry Corps, era un soldato umile e dedito che servì il suo paese con silenziosa risolutezza."
+title = "Il Soldato Arthur Alfred LAROCQUE - C32671"
 +++
 
+#### Royal 22e Régiment, R.C.I.C.
+<br>
+
+
+Arthur Alfred LAROCQUE, membro del Royal 22e Régiment del Royal Canadian Infantry Corps, era un soldato umile e dedito che servì il suo paese con silenziosa risolutezza.
+ 
 Nato il 24 aprile 1922 a Eastview, Ontario, Arthur crebbe in una famiglia numerosa con profonde radici. Suo padre, Albert, e sua madre, Celina, si impegnarono molto per la loro famiglia, ma quando Celina morì nel 1933, Arthur e i suoi fratelli—Albert, Hector, Paul, Celina, Irene, Cecile, Alice e Thérèse—affrontarono le difficoltà della perdita in giovane età.
 
 Arthur completò il sesto anno scolastico prima di lasciare gli studi a 15 anni. Nonostante la sua istruzione limitata, trovò un lavoro in un ristorante di Ottawa, dove iniziò come cameriere per poi lavorare come cuoco per due anni e mezzo prima dell’arruolamento. Conosciuto per le sue capacità pratiche, Arthur aspirava a lavorare come meccanico, segno della sua ambizione e della sua adattabilità.

@@ -2,7 +2,9 @@
 title = "Charles Robert FLEWELLING"
 +++
 
-C Company – Irish Regiment of Canada
+#### C Company – Irish Regiment of Canada
+<br>
+
 
 Charles Robert Flewelling, affettuosamente conosciuto come Bob dai suoi cari, nacque il 25 maggio 1924 a West Garafraxa Township, nella contea di Wellington, Ontario, in una famiglia profondamente radicata nella vita rurale canadese. Figlio di Enos Phillip Flewelling e Cora (Howes), Charles era il terzo di quattro figli, con due sorelle, Isabel (McKenzie) e Anna, e un fratello, Harold. Crebbe nella fattoria di famiglia, dove sviluppò un forte senso del dovere e una profonda apprezzamento per la vita semplice, ma esigente, del mondo agricolo.
 

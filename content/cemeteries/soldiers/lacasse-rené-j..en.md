@@ -1,7 +1,14 @@
 +++
-title = "Private René J. LACASSE, a member of the Perth Regiment, Royal Canadian Infantry Corps, was a man of dedication and resilience who served his country with honor during World War II. Born on June 21, 1913, in Ottawa, Ontario, René grew up in a large and close-knit family, with three brothers—Henri, Leo, and Fernand—and four sisters: Blanche, Lucille, Alice, and Jeannette. His father, Nelson, passed away in 1941, and his mother, Rose, remained a steady presence for the family. René was the fourth child and embraced his role within the family with quiet responsibility."
+title = "Private René J. LACASSE - C58518"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+René J. LACASSE, a member of the Perth Regiment, Royal Canadian Infantry Corps, was a man of dedication and resilience who served his country with honor during World War II.
+
+Born on June 21, 1913, in Ottawa, Ontario, René grew up in a large and close-knit family, with three brothers—Henri, Leo, and Fernand—and four sisters: Blanche, Lucille, Alice, and Jeannette. His father, Nelson, passed away in 1941, and his mother, Rose, remained a steady presence for the family. René was the fourth child and embraced his role within the family with quiet responsibility.
 
 René completed his education up to Grade 7 before leaving school at the age of 15 to support his family. Known for his cooperative nature and ambition, he was bilingual, speaking both English and French, which served him well in his professional life. 
 Before enlisting, René worked as a truck and transport driver, primarily for Oscar Villeneuve in Ottawa, and later as a laborer with the Waterworks Department, laying pipes and drilling. His reliable work ethic earned him a promise of reemployment post-war, and he looked forward to returning to work as he also dreamed of one day becoming an electrical engineer.

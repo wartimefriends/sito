@@ -1,8 +1,10 @@
 +++
-title = "Caporale George Willis BROCK - numero di matricola M50710"
+title = "Caporale George Willis BROCK - M50710"
 +++
 
-2º Reggimento Corazzato, Lord Strathcona’s Horse – R. C. A. C. 
+#### 2º Reggimento Corazzato, Lord Strathcona’s Horse – R. C. A. C.
+<br>
+
 
 Nato il 14 dicembre 1919 a Manola, Alberta, George è cresciuto in una famiglia numerosa e unita, il secondo di nove figli. I suoi genitori, George Albert e Geneva Joyce, lo hanno allevato insieme ai fratelli Clarence e Lawrence e alle sorelle Nellie Forberg, Geneva St. Louis, Cecelia, Doris, Dorothy e Joyce, insegnandogli i valori del lavoro e della comunità nella loro fattoria mista a Manola.
 

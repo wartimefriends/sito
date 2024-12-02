@@ -2,9 +2,9 @@
 title = "Private Frederick Samuel FOUGERE"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
-Killed in Action: December 13, 1944, Age 25
-Villanova War Cemetery, Plot VI, Row C, Grave 5
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
 
 Frederick Samuel Fougere was born on March 29, 1919, in Halifax, Nova Scotia, to Samuel and Kathleen Fougere. The second of nine children, Frederick grew up in a large, lively family with two brothers—Thomas J. and William A.—and six sisters: Eileen, Mae, Lola, Kathleen, Elizabeth, and Helen. His upbringing was typical of the time, though marked by modest opportunities and hard work.
 

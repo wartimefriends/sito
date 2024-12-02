@@ -2,9 +2,9 @@
 title = "Soldato Andrew CLULOW - A10042"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
 
-Una Vita Segnata dal Servizio e dal Sacrificio
 
 Andrew Clulow nacque il 25 giugno 1911 a Galt, Ontario, in una grande famiglia affiatata. Settimo di otto figli, era figlio di James e Alice Clulow, entrambi deceduti prima del suo arruolamento. Andrew crebbe insieme al fratello William e a sei sorelle: Mrs. Henry Coltman, Mrs. Roy Shoemaker, Mrs. Jim Clark, Mrs. Garf McQuinin, Alice e Mrs. Wilma Last.
 

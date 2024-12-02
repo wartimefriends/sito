@@ -1,6 +1,9 @@
 +++
-title = "La Vita e il Servizio del Sergente John Campbell REID"
+title = "Sergente John Campbell REID - B69591"
 +++
+
+#### Cape Breton Highlanders, R.C.I.C.
+<br>
 
 
 Il sergente John Campbell Reid, giovane soldato dei Cape Breton Highlanders, ha servito il suo paese con impegno e coraggio incrollabili fino alla sua prematura scomparsa, avvenuta il 3 gennaio 1945, a soli 21 anni. 

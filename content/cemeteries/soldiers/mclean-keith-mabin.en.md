@@ -1,8 +1,10 @@
 +++
-title = "12 January 1945"
+title = "McLEAN Sapper Keith Mabin - B22926"
 +++
 
-Brothers share a grave in Italy.
+#### Royal Canadian Engineers
+<br>
+
 
 Keith Mabin McLean was born to Alex and Louise May McLean on 27 November, 1921, in Tomstown Ontario. 
 He was working as a farmer in Temiskaming, ON, when he opted to travel to Toronto to enlist in the Royal Canadian Engineers on 15 October, 1941 (his brother Alan also enlisted in the RCE and served in NW Europe). Spr Kieth McLean arrived in the UK on 19 April, 1942, and qualified as Group C Pioneer in February, 1943.

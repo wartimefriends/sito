@@ -2,8 +2,9 @@
 title = "Soldato Harold Wellington STEVENS (A106419)"
 +++
 
+#### Nato il 20 ottobre 1922 a Haysville, Ontario, il soldato semplice Harold W. Stevens crebbe in una famiglia modesta di fede mennonita nella regione di Waterloo. I suoi genitori, James e Magdalene Stevens, ebbero cinque figli — George, Albert, Lorne, Donald e Harold — e una figlia, Kathleen. Harold lasciò la scuola a 16 anni per aiutare economicamente la famiglia, svolgendo vari lavori, tra cui tre anni a produrre casse per formaggio in una fabbrica di barili e due anni come spedizioniere presso la Goodrich Tire Company a Kitchener.
+<br>
 
-Nato il 20 ottobre 1922 a Haysville, Ontario, il soldato semplice Harold W. Stevens crebbe in una famiglia modesta di fede mennonita nella regione di Waterloo. I suoi genitori, James e Magdalene Stevens, ebbero cinque figli — George, Albert, Lorne, Donald e Harold — e una figlia, Kathleen. Harold lasciò la scuola a 16 anni per aiutare economicamente la famiglia, svolgendo vari lavori, tra cui tre anni a produrre casse per formaggio in una fabbrica di barili e due anni come spedizioniere presso la Goodrich Tire Company a Kitchener.
 
 Sebbene di corporatura esile, con un’altezza di 1,65 metri e un peso di 57 kg, Harold era molto attivo nello sport, praticando softball, baseball, hockey e persino boxe e wrestling. Amava anche la musica e suonava il clarinetto nella Banda di Waterloo. Nonostante fosse descritto come un “ragazzo simpatico”, era piuttosto riservato, tendeva a stare per conto suo anche se riusciva ad adattarsi bene socialmente. Amava andare al cinema e praticare sport, ma non ballava né frequentava molto le ragazze.
 

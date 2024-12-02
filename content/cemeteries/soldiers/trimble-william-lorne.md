@@ -1,7 +1,12 @@
 +++
-title = "William Lorne TRIMBLE servì con il Perth Regiment del Royal Canadian Infantry Corps durante la Seconda Guerra Mondiale. Nato il 24 marzo 1915 a Windsor, Ontario, aveva 31 anni quando fu ucciso in azione il 20 dicembre 1944 lungo la via chiara alla curva ad S."
+title = "Soldato William Lorne TRIMBLE - A118143"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+William Lorne TRIMBLE servì con il Perth Regiment del Royal Canadian Infantry Corps durante la Seconda Guerra Mondiale. Nato il 24 marzo 1915 a Windsor, Ontario, aveva 31 anni quando fu ucciso in azione il 20 dicembre 1944 lungo la via chiara alla curva ad S.
 Egli riposa nel Villanova War Cemetery, Plot IV B I.
 
 Prima della guerra, William crebbe in un ambiente difficile. Suo padre morì quando William aveva solo due anni, e fu cresciuto da sua madre, Phyllis, che in seguito si risposò, diventando la signora Powell. Aveva anche una sorellastra di nome Jeanne Powell. La sua vita giovanile fu plasmata dalla sua crescita a Windsor, Ontario, dove in seguito si stabilì e lavorò.

@@ -1,7 +1,12 @@
 +++
-title = "Private Edwin Wade PARKER (Service Number: H14043) was born on March 22, 1914, in Winnipeg, Manitoba, Canada. The only child of Edwin Godfrey and Mabel Louise Parker, Edwin enjoyed a happy childhood in a supportive family. His father managed the Winnipeg Auditorium, a position that likely influenced Edwin’s early exposure to community and cultural events."
+title = "PARKER Private Edwin Wade - H14043"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+Edwin Wade PARKER was born on March 22, 1914, in Winnipeg, Manitoba, Canada. The only child of Edwin Godfrey and Mabel Louise Parker, Edwin enjoyed a happy childhood in a supportive family. His father managed the Winnipeg Auditorium, a position that likely influenced Edwin’s early exposure to community and cultural events.
 
 Edwin completed his education at Kelvin High School in Winnipeg, achieving matriculation after completing grade XI. After leaving school in 1931, he began his professional career as a junior clerk at the Winnipeg Auditorium. Demonstrating diligence and competence, he advanced to become the paymaster-accountant and office manager for the City of Winnipeg Health Department. Over 12 years of service, he earned a respectable salary of $40 per week, reflecting his reliability and the trust placed in him by his employers.
 

@@ -1,9 +1,10 @@
 +++
-title = "Company Quartermaster Sergeant Emmanuel Markus SPARROW"
+title = "SPARROW Company Quartermaster Sergeant Emmanuel M."
 +++
 
-Cape Breton Highlanders, R.C.I.C.
-Grave III B 5
+#### Cape Breton Highlanders, R.C.I.C.
+<br>
+
 
 Emmanuel Markus Sparrow was born on December 25, 1920, in Glace Bay, Cape Breton, Nova Scotia. He was one of ten children born to Dr Cecil John and Helen Josephine Sparrow. He grew up in Reserve Mines, a small mining town in Nova Scotia, and attended the local Roman Catholic church with his family. He completed Grade 9 at the age of 16 before beginning work with his father, Dr. C.J. Sparrow, as an assistant in various odd jobs. Before enlisting  Emmanuel had hoped to follow in his  father’s footsteps and become a doctor. 
 
@@ -18,7 +19,7 @@ Emmanuel’s brothers also served in the military: Edward fought with the Canadi
 During his service, Emmanuel was seen as a reliable and capable leader. He had a deep sense of duty and was well-liked among his comrades. His service in Italy exposed him to some of the fiercest fighting, as Allied forces sought to break through German defensive lines.
 
 Tragically, on January 3, 1945, at the age of 23, Emmanuel Markus Sparrow was killed in action in the area between Conventello and Sant’Alberto. He was with Randy Ducko, formerly from Donkin, and were transporting rations. Without knowing it, they travelled too far into enemy territory and were surrounded by the Germans. Emmanuel raised for his tommy machine gun in a desperate effort to beat the odds and wipe out the enemy. Unfortunately his efforts were not enough.  
-He gave his life in the service of his country, and he now rests at the Villanova War Cemetery in Italy, a lasting testament to his sacrifice and commitment.
+He gave his life in the service of his country, and he now rests at the Villanova War Cemetery in Italy, Grave III B 5, a lasting testament to his sacrifice and commitment.
 
 Emmanuel’s life, though short, was marked by his strong sense of responsibility to both his family and his country. His dedication, leadership, and willingness to serve leave behind a legacy that continues to honor the contributions of those who fought and died during the Second World War.
 
@@ -36,10 +37,6 @@ Enclosing a few photos which is all we have.
 I remain,
 
                                                Joseph Sparrow
-
-
-
-
 
 
 Excerpt from a newspaper article entitled “MacDonald and the Highlanders” in “The Breed Of Manly Men” The History Of The Cape Breton Highlanders by Alex Morrison and Ted Slaney, page 296-297

@@ -1,7 +1,12 @@
 +++
-title = "Alexander James McLEAN era un individuo dedicato e resiliente la cui vita è stata segnata dall’impegno sia per la sua famiglia che per il suo paese."
+title = "Soldato Alexander James McLean - B20035"
 +++
 
+#### Cape Breton Highlanders, R.C.I.C.
+<br>
+
+
+Alexander James McLEAN era un individuo dedicato e resiliente la cui vita è stata segnata dall’impegno sia per la sua famiglia che per il suo paese. 
 Nato il 29 aprile 1909 a Kenmore, Ontario, vicino a Ottawa, Alexander è cresciuto in una famiglia rurale e laboriosa. I suoi genitori, Alexander e May McLean, si erano sposati a Chesterville, Ontario, e avevano cresciuto una famiglia numerosa a Tomstown, Ontario. Alexander era uno dei numerosi fratelli, tra cui i fratelli Gordon, Norman, Alan, Wallace e Keith, così come una sorella, Katherine, che prestò servizio come tenente nel servizio infermieristico del 7th Canadian Hospital.
 
 Alexander si arruolò inizialmente nel Canadian Forestry Corps (CFC) il 13 agosto 1940. Dopo l'addestramento avanzato all'estero con il CFC nell'aprile 1941, fu impiegato come Edgerman e Log Canter, lavorando fino al 12 ottobre 1943, quando tornò in Canada. Nonostante gli fosse stato concesso un congedo forestale di sei mesi, Alexander rimase solo una settimana prima di tornare, a causa di una disputa con il Servizio Selettivo. 

@@ -1,7 +1,12 @@
 +++
-title = "Lance Corporal Ronald Walter O’BRIEN (Service Number: C70450) was born on September 30, 1920, in Ottawa, Ontario, Canada. He was the eldest child of Peter and Elsie O’Brien. His father, Peter, served with the Royal Canadian Army Service Corps (RCASC) at the Canadian Military Headquarters (CMHQ) in London, England. Ronald had one brother, Earl, who resided in Newmarket, Ontario, and three sisters: Melba, Darleen, and Joyce. Raised in a family with a strong military connection, Ronald was inspired by his father’s service and developed a desire to follow in his footsteps."
+title = "O'BRIEN Lance Corporal Ronald Walter - C70450"
 +++
 
+#### 4th Princess Louise Dragoon Guards, R.C.A.C.
+<br>
+
+
+Ronald Walter O’Brien was born on September 30, 1920, in Ottawa, Ontario, Canada. He was the eldest child of Peter and Elsie O’Brien. His father, Peter, served with the Royal Canadian Army Service Corps (RCASC) at the Canadian Military Headquarters (CMHQ) in London, England. Ronald had one brother, Earl, who resided in Newmarket, Ontario, and three sisters: Melba, Darleen, and Joyce. Raised in a family with a strong military connection, Ronald was inspired by his father’s service and developed a desire to follow in his footsteps.
 
 Growing up in Ottawa, Ronald attended local schools and completed his education before entering the workforce. He worked as a plumber’s helper for W. Edge in Ottawa, earning $20 per week. His hands-on experience in plumbing reflected his practical skills and work ethic. Standing at 5 feet 8 inches tall and weighing 148 pounds, he had brown eyes, brown hair, and a fair complexion. Known for his fair appearance and cheerful disposition, Ronald was an active young man who enjoyed building model aircraft—a hobby that showcased his attention to detail and interest in mechanics.
 

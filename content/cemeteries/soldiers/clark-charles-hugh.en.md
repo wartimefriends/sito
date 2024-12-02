@@ -1,8 +1,10 @@
 +++
-title = "Sergeant Charles Hugh CLARK - service number M25843"
+title = "Sergeant Charles Hugh CLARK-M25843"
 +++
 
-4th Princess Louise Dragoon Guards, Royal Canadian Infantry Corps
+#### 4th Princess Louise Dragoon Guards, R. C. I. C.
+<br>
+
 
 Charles Hugh Clark was born on October 24, 1920, in Edmonton, Alberta. The youngest of three siblings, Charles grew up with his two older sisters, Mrs. A.G. Verchere and Mrs. W.R. McCutcheon. Raised by his parents, Charles Hugh Berton and Martha V. Clark, he was known for his intelligence, athleticism, and leadership potential.
 

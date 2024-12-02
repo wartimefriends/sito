@@ -1,7 +1,12 @@
 +++
-title = "Michael Thomas McLEOD was born on March 25, 1922, and lived his entire life in New Aberdeen. He was single and belonged to the McLeod family, consisting of his father, Michael McLeod, and his mother, Isobel McLeod, who resided at 125 - 6th Street, Glace Bay, Nova Scotia. His parents were married at St. John’s Parish in New Aberdeen."
+title = "McLEOD Private Michael- F89020"
 +++
 
+#### Cape Breton Highlander, R.C.I.C.
+<br>
+
+
+Michael Thomas McLEOD was born on March 25, 1922, and lived his entire life in New Aberdeen. He was single and belonged to the McLeod family, consisting of his father, Michael McLeod, and his mother, Isobel McLeod, who resided at 125 - 6th Street, Glace Bay, Nova Scotia. His parents were married at St. John’s Parish in New Aberdeen.
 
 Michael had several siblings: his brothers were William McLeod, aged 18; John McLeod, aged 20; Alex McLeod, aged 17; Francis McLeod, aged 14; and Bernard McLeod, who was only 2 years old. His sisters were Mrs. Mary Mills, aged 23; Rita McLeod, aged 16; Shirley McLeod, aged 7; and little Theresa McLeod, who was just 4 months old. All lived together with their parents.
 Enlisting with the Cape Breton Highlanders on June 23, 1941, in Sydney, NS, he trained in Canada until November 10, 1941, when he was sent to the United Kingdom to complete his preparation. 

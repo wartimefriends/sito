@@ -1,6 +1,9 @@
 +++
-title = "Trooper Archibald Reginald KIERSTEAD: A Dedicated Life of Service"
+title = "Trooper Archibald Reginald KIERSTEAD - B62322"
 +++
+
+#### 5th Armd. Regt., 8th Princess Louise's Hussars, R.C.A.C.
+<br>
 
 
 Archibald Reginald Kierstead was born on August 6, 1911, in Campbellton, New Brunswick. 

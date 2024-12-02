@@ -1,6 +1,9 @@
 +++
-title = "The Life and Service of Private Roy Joseph SCHAFFER"
+title = "SCHAFFER Private Roy Joseph – L/10247"
 +++
+
+#### Lanark and Renfrew Scottish Regt., R.C.I.C.
+<br>
 
 
 Private Roy Joseph Schaffer, a soldier in the Lanark and Renfrew Scottish Regiment of the Royal Canadian Infantry Corps (R.C.I.C.), served Canada with dedication until his life was tragically taken in action on December 13, 1944, during World War II. He is remembered with honor at Villanova War Cemetery in Italy, where he rests in Plot VII, Row C, Grave 6.

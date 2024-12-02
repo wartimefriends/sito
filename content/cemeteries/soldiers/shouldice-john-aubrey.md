@@ -1,7 +1,12 @@
 +++
-title = "John Aubrey SHOULDICE nacque il 30 ottobre 1918 nella piccola cittadina di Chatsworth, in Ontario. La sua vita iniziò sotto il segno della difficoltà: suo padre, Aubrey, morì quando John aveva solo due mesi, lasciandolo alle cure della madre, Merrill Jane. Cresciuto in una famiglia numerosa e unita, John visse con suo fratello, Robert Harvey, e tre sorelle, Blanche Marjory, Margaret Evelyn (che in seguito sposò e prese il cognome Newman) e Mary Merrill (Hillis). La famiglia si completava con due sorellastre, Sarah Mabel Richardson e Gladys Arlan Richardson, formando un nucleo compatto che si sostenne nei momenti più difficili."
+title = "Geniere John Aubrey SHOULDICE - B39825"
 +++
 
+#### 5 Mechanical Equipment Platoon, Royal Canadian Engineers
+<br>
+
+
+John Aubrey SHOULDICE nacque il 30 ottobre 1918 nella piccola cittadina di Chatsworth, in Ontario. La sua vita iniziò sotto il segno della difficoltà: suo padre, Aubrey, morì quando John aveva solo due mesi, lasciandolo alle cure della madre, Merrill Jane. Cresciuto in una famiglia numerosa e unita, John visse con suo fratello, Robert Harvey, e tre sorelle, Blanche Marjory, Margaret Evelyn (che in seguito sposò e prese il cognome Newman) e Mary Merrill (Hillis). La famiglia si completava con due sorellastre, Sarah Mabel Richardson e Gladys Arlan Richardson, formando un nucleo compatto che si sostenne nei momenti più difficili.
 
 Fin da giovane, John mostrò uno spirito resiliente. Frequentò la scuola fino alla decima classe, ma la lasciò a 15 anni per aiutare la famiglia dal punto di vista economico. Come molti ragazzi canadesi, amava lo sport: il pattinaggio, l’hockey (dove giocava in difesa) e il baseball, in cui ricopriva il ruolo di prima base. Oltre allo sport, mostrava una spiccata attitudine per la meccanica, dedicandosi spesso al lavoro sui motori, una competenza che avrebbe influenzato le sue future aspirazioni professionali.
 

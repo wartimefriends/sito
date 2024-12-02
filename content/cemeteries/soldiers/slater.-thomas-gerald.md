@@ -1,7 +1,12 @@
 +++
-title = "Lance Bombardier Thomas Gerald SLATER, nato a Shrewsbury l'11 marzo 1911, il figlio più giovane di Philip Richard e Jessie Slater, è cresciuto con tre sorelle, Minnie, Emily, Alice Mary, Dorothy Mary e un fratello, William."
+title = "Caporale Thomas Gerald SLATER - 4040669"
 +++
 
+#### 24thField Regt. Royal Artillery - UK
+<br>
+
+
+Thomas Gerald SLATER, nato a Shrewsbury l'11 marzo 1911, il figlio più giovane di Philip Richard e Jessie Slater, è cresciuto con tre sorelle, Minnie, Emily, Alice Mary, Dorothy Mary e un fratello, William.
 
 Thomas sposò Edith Perry nell'aprile del 1933 a Wellington e quando fu mandato in Italia, lei era incinta del loro bambino.
 

@@ -2,9 +2,10 @@
 title = "Trooper Clifford Harold CRAIG - B61730"
 +++
 
-3rd Armoured Reconnaissance Regiment, Governor General’s Horse Guards, R.C.A.C.
+#### 3rd Armoured Reconnaissance Regiment, G.G.H.G., R.C.A.C.
+<br>
 
-A Spirited Life of Service and Sacrifice
+
 
 Trooper Clifford Harold Craig was born on October 3, 1920, in Toronto, Ontario, into a modest but loving family. The eldest of three children, Clifford grew up with his younger brother, Frederick Cecil, and his sister, Francis Matilda. His father, James, was a carpenter who suffered from a physical disability, and Clifford became the sole support of his family after his father’s passing in July 1942.
 

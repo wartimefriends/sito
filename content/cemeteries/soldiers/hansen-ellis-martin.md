@@ -1,6 +1,9 @@
 +++
-title = "Soldato Ellis Martin HANSEN"
+title = "Soldato Ellis Martin HANSEN - L84623"
 +++
+
+#### 4th PLDG, R.C.A.C.
+<br>
 
 
 La vita del soldato Ellis Martin Hansen è una storia di dovere, resilienza e dedizione silenziosa, emblematica di una generazione che rispose alla chiamata del servizio durante la Seconda Guerra Mondiale. 

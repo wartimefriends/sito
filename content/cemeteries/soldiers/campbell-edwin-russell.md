@@ -2,9 +2,10 @@
 title = "Soldato Edwin Russell CAMPBELL - L57720"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
 
-Una Vita Umile Dedicata al Dovere
+
 Edwin Russell Campbell nacque il 16 marzo 1919 a Eston, Saskatchewan, quarto di sette figli in una famiglia che affrontava le difficoltà della Grande Depressione. Suo padre, William Edward Lorne, abbandonò la famiglia nel 1930, lasciando sua madre, Lillian May, a prendersi cura dei figli a Lacadena, Saskatchewan. Edwin crebbe con quattro fratelli—Frederick Lorne, Everett Francis, John Peter e Leslie William—e due sorelle, Mrs. Vernon Maguire e Mildred May.
 
 Edwin completò la scuola fino alla ottava classe prima di lasciarla per contribuire al sostentamento della sua famiglia. Lavorò instancabilmente come bracciante agricolo e autista di camion, svolgendo vari lavori per M.E. Mercer e G.E. Giles a Wartime, Saskatchewan. Nonostante guadagni modesti tra gli 8 e i 15 dollari a settimana, Edwin forniva supporto economico parziale a sua madre e a suo fratello. I suoi hobby rispecchiavano la sua natura pratica, tra cui una passione per i motori e la meccanica. Amava anche la caccia e gli sport, come l’hockey, dove giocava come attaccante, e il softball.

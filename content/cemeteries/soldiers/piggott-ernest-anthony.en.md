@@ -1,7 +1,12 @@
 +++
-title = "Private Ernest Anthony PIGGOTT (Service Number: D81360) was born on January 10, 1919, in Montreal, Quebec, Canada. He was the fourth of five children born to William and Edith Piggott, with two brothers and two sisters completing the family. Raised in a supportive environment, Ernest developed a range of interests that shaped his character and future endeavors."
+title = "PIGGOTT Private Ernest Anthony - D81360"
 +++
 
+#### 4th Princess Louise Dragoon Guards, R.C.A.C.
+<br>
+
+
+Ernest Anthony PIGGOTT was born on January 10, 1919, in Montreal, Quebec, Canada. He was the fourth of five children born to William and Edith Piggott, with two brothers and two sisters completing the family. Raised in a supportive environment, Ernest developed a range of interests that shaped his character and future endeavors.
 
 Ernest completed his education up to the 10th grade, demonstrating a commitment to learning during his formative years. Fluent in both English and French, he possessed valuable communication skills that would serve him well in both civilian and military life. His hobbies included philately—the collection and study of stamps—reflecting a keen eye for detail and appreciation for history.
 

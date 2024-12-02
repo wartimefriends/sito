@@ -2,9 +2,9 @@
 title = "Private John Charles CHRISTIAN - M4227"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
 
-A Young Adventurer’s Life of Duty and Sacrifice
 
 Private John Charles Christian was born on August 9, 1920, in Indako, British Columbia. The youngest of three children, he was raised in Strawberry Hill, New Westminster, BC, by his parents, Charles Henry and Annie Christian, alongside his two older sisters, Annie Marie (Dobson) and Helen Louise (Bright). 
 John’s childhood was described as happy, filled with outdoor activities and close family bonds.

@@ -1,7 +1,12 @@
 +++
-title = "Charles Gordon TOMPSON ha prestato servizio con lo Squadrone “C”, 3° Reggimento Corazzato da Ricognizione, Guardia del Governatore Generale, Royal Canadian Armoured Corps."
+title = "Sergente Charles Gordon TOMPSON - B69674"
 +++
 
+#### "C" Sqn., 3rd Armd. Recce. Regt., G.G.HG, R.C.A.C.
+<br>
+
+
+Charles Gordon TOMPSON ha prestato servizio con lo Squadrone “C”, 3° Reggimento Corazzato da Ricognizione, Guardia del Governatore Generale, Royal Canadian Armoured Corps. 
 Nato il 30 marzo 1919 a York, Ontario, aveva 25 anni quando fu ucciso in azione il 13 dicembre 1944, mentre il nemico colpiva diverse abitazioni che le truppe stavano usando per protezione. Ciò accadde a sud del Fosso Munio. Il suo luogo di sepoltura è nel Cimitero di Guerra di Villanova, alla sezione VI, tomba C 3. 
 Gordon Tompson fu onorato postumo con una Menzione nei Dispacci, in riconoscimento del suo coraggio e del suo contributo allo sforzo bellico.
 

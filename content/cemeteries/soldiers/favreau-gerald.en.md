@@ -1,10 +1,10 @@
 +++
-title = "Private Gerald FAVREAU"
+title = "Private Gerald FAVREAU - C70536"
 +++
 
-4th Princess Louise Dragoon Guards, R.C.I.C.
-Killed in Action: December 19, 1944, Age 25
-Villanova War Cemetery, Plot VII, Row C, Grave 8
+#### 4th Princess Louise Dragoon Guards, R.C.I.C.
+<br>
+
 
 Gerald Favreau was born on August 12, 1919, in Ottawa, Ontario, to Elzear and Valeda Favreau. Growing up in a large family, Gerald was the fourth of eight children. 
 Tragically, his siblings endured significant losses, with three sisters—Lionel, Liliane, and Fleurette—passing away young and his sister Jeannette dying shortly after Gerald’s death in January 1945. Despite these hardships, Gerald’s childhood home was described as harmonious, and he shared a close bond with his surviving brothers: Lucien, Roland, Ronald, and Philippe.

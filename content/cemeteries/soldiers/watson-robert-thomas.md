@@ -1,7 +1,12 @@
 +++
-title = "Robert Thomas WATSON nacque il 7 settembre 1924 a Rochester, New York, negli Stati Uniti. Era figlio maggiore di Robert e Ivy Watson e crebbe a Vancouver, British Columbia, dove la sua famiglia si stabilì successivamente. Il suo unico fratello era un fratellastro, Gary C. Watson. Sebbene l’infanzia di Robert fosse considerata normale, egli aveva fama di essere un po’ spericolato, con una lieve storia di furti che rifletteva un atteggiamento spensierato verso la vita. Nonostante ciò, era un giovane piacevole e collaborativo, conosciuto per il suo aspetto curato e il carattere affabile."
+title = "Soldato Robert Thomas WATSON - K73980"
 +++
 
+#### Westminster Regiment (Motors), R.C.I.C.
+<br>
+
+
+Robert Thomas WATSON nacque il 7 settembre 1924 a Rochester, New York, negli Stati Uniti. Era figlio maggiore di Robert e Ivy Watson e crebbe a Vancouver, British Columbia, dove la sua famiglia si stabilì successivamente. Il suo unico fratello era un fratellastro, Gary C. Watson. Sebbene l’infanzia di Robert fosse considerata normale, egli aveva fama di essere un po’ spericolato, con una lieve storia di furti che rifletteva un atteggiamento spensierato verso la vita. Nonostante ciò, era un giovane piacevole e collaborativo, conosciuto per il suo aspetto curato e il carattere affabile.
 
 Robert completò la sua istruzione formale all’età di 17 anni, terminando la nona classe. Sebbene la sua carriera scolastica fosse stata breve, mostrò un interesse per la meccanica, con il desiderio di lavorare come autista-meccanico o fattorino. I suoi hobby includevano nuotare, giocare a bowling, pattinare e giocare a hockey come portiere. Gli piacevano anche il baseball e il softball e giocava spesso nel ruolo di difensore.
 

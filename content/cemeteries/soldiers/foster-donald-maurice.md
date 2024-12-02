@@ -2,9 +2,9 @@
 title = "Soldato Donald Maurice FOSTER"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
-Deceduto per ferite: 15 dicembre 1944, all’età di 21 anni
-Cimitero di Guerra di Villanova, Plot VI, Fila A, Tomba 8
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
 
 Donald Maurice Foster nacque l’8 giugno 1923 a Toronto, Ontario, da Cecil William ed Ethel Pearl Foster. Quarto di otto figli, crebbe in una famiglia vivace e affiatata insieme ai suoi fratelli, Douglas Haig e Robert John, e alle sue cinque sorelle: Cleo Patricia Bain, Georgia Cecilia Gray, Dorothy Bernice, Mary Elizabeth Joan e Joyce Marylan Louise. La sua infanzia fu caratterizzata da un forte senso del dovere e della responsabilità.
 

@@ -1,12 +1,12 @@
 +++
-title = "John Augustine Grabiec"
+title = "Soldato John Augustine Grabiec - B158751"
 +++
 
-Nascita: 8 marzo 1908 a Hamilton, Ontario
-Amato figlio di Jadwiga e Anthony Grabiec
-Sposato con Ethel Moore
-Morto: 29 dicembre 1944 in Italia
-Età: 36
+#### Lanark and Renfrew Scottish Regiment - R.C.I.C.
+<br>
+
+
+
 
 
 John Augustine Grabiec è nato l’8 marzo 1908 da Jadwiga e Anthony Grabiec a Hamilton, Ontario.  Era il maggiore di 12 figli nati da questa laboriosa famiglia di immigrati polacchi.  

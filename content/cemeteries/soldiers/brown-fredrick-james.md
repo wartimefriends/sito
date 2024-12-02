@@ -2,10 +2,8 @@
 title = "Caporale Fredrick James BROWN - A/28109"
 +++
 
-
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
-Caduto in azione il 29 dicembre 1944
-Cimitero di Guerra di Villanova, Sezione III C 2
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
 
 
 Fredrick James Brown nacque il 16 gennaio 1911 a Nassagaweya, Ontario, da John Henry e Hanna Brown. Cresciuto come terzo di quattro figli, aveva due fratelli, Harvey e Charles, e una sorella, Ethel May. 

@@ -1,7 +1,12 @@
 +++
-title = "Raymond Frederick WEIBERG era figlio di Karl e Della. Egli  crebbe in una famiglia modesta insieme a suo fratello Lorne e a sua sorella Carrie Kuzmick. La sua vita fu plasmata dai valori del duro lavoro e della dedizione, principi che lo avrebbero guidato lungo il suo percorso. Da giovane, completò la sua istruzione fino alla quarta elementare, un livello comune nel suo contesto rurale. Anche se tentò di progredire ulteriormente, le limitazioni della scuola locale lo portarono a lasciare gli studi all’età di 14 anni. A quel punto, si dedicò alla terra, dove trovò la sua vocazione come bracciante agricolo."
+title = "Soldato Raymond Frederick WEIBERG - A115952"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+Raymond Frederick WEIBERG era figlio di Karl e Della. Egli  crebbe in una famiglia modesta insieme a suo fratello Lorne e a sua sorella Carrie Kuzmick. La sua vita fu plasmata dai valori del duro lavoro e della dedizione, principi che lo avrebbero guidato lungo il suo percorso. Da giovane, completò la sua istruzione fino alla quarta elementare, un livello comune nel suo contesto rurale. Anche se tentò di progredire ulteriormente, le limitazioni della scuola locale lo portarono a lasciare gli studi all’età di 14 anni. A quel punto, si dedicò alla terra, dove trovò la sua vocazione come bracciante agricolo.
 
 Il lavoro nei campi divenne sia il suo sostentamento che la sua passione. Nei nove anni successivi, acquisì una vasta esperienza nell’agricoltura mista, lavorando più recentemente per la signora J.H. Patrick a Ilderton, Ontario. Le sue abilità in fattoria non si limitavano alla coltivazione del terreno; aveva anche un talento per la meccanica, apprezzando il fatto di poter capire come funzionassero le cose. 
 Per la sua dedizione al lavoro agricolo, era difficile per lui trovare tempo per praticare sport o dedicarsi alla vita sociale. La sua attenzione restava sulle sue responsabilità, senza cercare distrazioni, ma concentrandosi sul proprio lavoro.

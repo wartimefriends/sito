@@ -1,10 +1,9 @@
 +++
-title = "BALASH Private Victor - H1447"
+title = "Private BALASH, Victor - H1447"
 +++
 
-Private Victor
-Lanark and Renfrew Scottish Regiment R.C.I.C.
-VI C 7
+#### Lanark and Renfrew Scottish Regiment R.C.I.C.
+<br>
 
 
 Victor Balash was born on May 25, 1923, in Kalaz, Slovakia. His early life was shaped by the hope for a better future as his family emigrated to Canada in October 1933. Victor, his mother Bertha, his older sister Magdalena, and his younger brother Andrew reunited in Fort William, Ontario, with his father, Andrew, who had arrived in Canada six years earlier to establish a foundation for the family. 

@@ -1,6 +1,9 @@
 +++
-title = "Private Harold Alfred GRIFFIN"
+title = "Private Harold Alfred GRIFFIN - B148732"
 +++
+
+#### Perth Regiment R.C.I.C.
+<br>
 
 
 Harold Alfred Griffin’s story is one of dedication, resilience, and quiet service, reflecting the journey of a young man who answered the call to duty during the Second World War. 

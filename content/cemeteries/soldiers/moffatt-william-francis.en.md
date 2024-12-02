@@ -1,7 +1,12 @@
 +++
-title = "Private William Francis MOFFATT, service number L61701, served with the Lanark and Renfrew Scottish Regiment of the Royal Canadian Corps."
+title = "MOFFATT Private William Francis - L61701"
 +++
 
+#### Lanark and Renfrew Scottish Regiment ,R.C.I.C.
+<br>
+
+
+Private William Francis MOFFATT, service number L61701, served with the Lanark and Renfrew Scottish Regiment of the Royal Canadian Corps. 
 Born on February 13, 1922, in Fleming, Saskatchewan, William was 23 years old when he tragically lost his life in action on December 14, 1944. He is buried at the Villanova War Cemetery in Italy.
 
 William grew up in a large family, with his father Duncan Hector and mother Jean. He had six brothers—Hector, Vernon, Gerald (who was also serving overseas), Carl, Gordon, and Archie—as well as four sisters: Mrs. W. Jackson, Mae, Irene, and Winnifred.

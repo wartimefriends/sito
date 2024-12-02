@@ -1,9 +1,10 @@
 +++
-title = "Soldato Kenneth Alexander ADAIR - Numero di matricola: A22993"
+title = "Soldato Kenneth Alexander ADAIR - A22993"
 +++
 
-Reggimento Perth, R.C.I.C.
-Caduto in azione: 20 dicembre 1944, Italia
+#### Reggimento Perth, R.C.I.C.
+<br>
+
 
 Kenneth Alexander Adair nacque il 16 aprile 1922 a Londra, in Ontario. Crebbe in una numerosa famiglia di sette figli—tre fratelli e tre sorelle—in una casa dove il lavoro duro e la perseveranza erano valori fondamentali. Il padre di Kenneth, Frank Roy Adair, e sua madre, Dorothy Stockdale Adair, trasmisero ai loro figli un forte senso del dovere e della resilienza, qualità che avrebbero in seguito plasmato il percorso di Kenneth nella vita.
 

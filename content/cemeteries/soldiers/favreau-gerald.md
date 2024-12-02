@@ -1,10 +1,10 @@
 +++
-title = "Soldato Gerald FAVREAU"
+title = "Soldato Gerald FAVREAU - C70536"
 +++
 
-4° Reggimento Princess Louise Dragoon Guards, R.C.I.C.
-Caduto in Azione: 19 dicembre 1944, Età 25 anni
-Cimitero di Guerra di Villanova, Settore VII, Fila C, Tomba 8
+#### 4° Reggimento Princess Louise Dragoon Guards, R.C.I.C.
+<br>
+
 
 Gerald Favreau nacque il 12 agosto 1919 a Ottawa, Ontario, da Elzear e Valeda Favreau. Cresciuto in una famiglia numerosa, Gerald era il quarto di otto figli. Purtroppo, la sua famiglia fu segnata da gravi perdite: tre sorelle—Lionel, Liliane e Fleurette—morirono in giovane età, e sua sorella Jeannette si spense poco dopo la morte di Gerald, nel gennaio 1945. Nonostante queste difficoltà, la sua casa d’infanzia era descritta come armoniosa, e Gerald aveva un forte legame con i suoi fratelli sopravvissuti: Lucien, Roland, Ronald e Philippe.
 

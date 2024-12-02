@@ -1,6 +1,9 @@
 +++
-title = "Soldato Kenneth Herbert Jones: Una Vita di Determinazione e Sacrificio"
+title = "Soldato Kenneth Herbert Jones"
 +++
+
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
 
 
 Kenneth Herbert Jones nacque il 13 febbraio 1920 a Port Hope, Ontario, unico figlio di Thomas Herbert e Annie Elizabeth Jones. Kenneth crebbe in una famiglia modesta; suo padre lavorava come custode e becchino nel cimitero locale. La sua infanzia fu segnata dalla perdita della sorella minore, morta a 16 anni, lasciando Kenneth come unico figlio superstite della famiglia. Nonostante ciò, Kenneth mantenne uno spirito vivace e avventuroso, che avrebbe definito la sua vita.

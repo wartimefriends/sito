@@ -1,12 +1,12 @@
 +++
-title = "Caporale Alexander ANTONIUK - Numero di matricola M56867"
+title = "Caporale Alexander ANTONIUK - M56867"
 +++
 
-4th Princess Louise Dragoon Guards, R.C.I.C.
-Caduto in azione: 31 dicembre 1944
-Cimitero di Guerra di Villanova, Plot: II A 8
+#### 4th Princess Louise Dragoon Guards, R.C.I.C.
+<br>
 
-Il caporale Alexander Antoniuk nacque il 19 febbraio 1924 a Vilna, in Alberta, Canada. Figlio di John e Dora Antoniuk, Alex crebbe in una fattoria con i suoi cinque fratelli. I primi anni della sua vita furono segnati da difficoltà: perse il padre quando aveva solo sei anni. Tre anni dopo, sua madre si risposò, ma il matrimonio terminò con una separazione quando Alex aveva dodici anni. Nonostante queste sfide, Alex si sviluppò come un giovane robusto e serio, profondamente legato alla vita rurale dell’Alberta.
+
+Alexander Antoniuk nacque il 19 febbraio 1924 a Vilna, in Alberta, Canada. Figlio di John e Dora Antoniuk, Alex crebbe in una fattoria con i suoi cinque fratelli. I primi anni della sua vita furono segnati da difficoltà: perse il padre quando aveva solo sei anni. Tre anni dopo, sua madre si risposò, ma il matrimonio terminò con una separazione quando Alex aveva dodici anni. Nonostante queste sfide, Alex si sviluppò come un giovane robusto e serio, profondamente legato alla vita rurale dell’Alberta.
 
 Alex completò l’ottavo grado a 15 anni prima di lasciare la scuola per aiutare nella fattoria di famiglia. Fluente in inglese e ucraino, mostrava una naturale predisposizione per l’agricoltura, con esperienza in operazioni miste che lo rendevano sicuro nella gestione di una fattoria. Tuttavia, le sue ambizioni si dirigevano altrove. 
 Alex sognava di intraprendere una carriera nella meccanica o nella saldatura, sperando di iscriversi a un corso di saldatura dopo la guerra. La sua natura tranquilla e la sua intelligenza gli valsero la reputazione di una persona riservata ma determinata.

@@ -1,6 +1,9 @@
 +++
-title = "Sergente Gordon John HARRIS"
+title = "Sergente Gordon John HARRIS - H95599"
 +++
+
+#### 4th Princess Louise Dragoon Guards R.C.A.C.
+<br>
 
 
 La vita del sergente Gordon John Harris è una testimonianza di determinazione, resilienza e sacrificio. 

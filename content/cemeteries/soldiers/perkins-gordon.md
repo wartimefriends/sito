@@ -1,7 +1,12 @@
 +++
-title = "Gordon PERKINS - matricola n° E48431, nacque il 7 novembre 1920 nella piccola città di Danville, situata nella provincia del Quebec, Canada. Cresciuto in una famiglia affiatata, era figlio di Herbert e Clara Perkins. Gordon aveva un fratello di nome Stuart e due sorelle, Glenrose e Irene, quest’ultima residente a Quebec City dopo essersi sposata con la famiglia Johnston."
+title = "Private Gordon PERKINS - E48431"
 +++
 
+#### 4th Princess Louise Dragoon Guards, R.C.A.C.
+<br>
+
+
+Gordon PERKINS nacque il 7 novembre 1920 nella piccola città di Danville, situata nella provincia del Quebec, Canada. Cresciuto in una famiglia affiatata, era figlio di Herbert e Clara Perkins. Gordon aveva un fratello di nome Stuart e due sorelle, Glenrose e Irene, quest’ultima residente a Quebec City dopo essersi sposata con la famiglia Johnston.
 
 Durante la sua crescita, Gordon era noto per il suo carattere allegro e la sua vivacità mentale. Alto 178 cm) e con un peso di circa 78 kg, aveva una corporatura robusta che lo rendeva adatto a un addestramento intenso e lavori pesanti. Giovane attivo, partecipava a vari sport tra cui baseball, football e softball, dimostrando il suo atletismo e spirito di squadra.
 

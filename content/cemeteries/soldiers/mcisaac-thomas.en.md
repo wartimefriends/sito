@@ -1,7 +1,12 @@
 +++
-title = "Private Thomas McISAAC, a dedicated soldier of D Company, was born on March 12, 1923, in Mattawa, Ontario, though his attestation paper lists 1921 as his birth year."
+title = "Pte McISAAC, Thomas B/42734"
 +++
 
+#### D Company – Irish Regiment of Canada, R.C.I.C.
+<br>
+
+
+Thomas McISAAC, a dedicated soldier of D Company, was born on March 12, 1923, in Mattawa, Ontario, though his attestation paper lists 1921 as his birth year. 
 He stood 5’10” tall and weighed 132 pounds, with a fair complexion, hazel eyes, and fair hair. 
 Roman Catholic by faith and single, Thomas was one of several children, with his parents John Lemuel and Mary Viegnia, and brothers Richard, Cyril, Howard, and Beverly. He completed Grade 8 and left school at 15, taking up various jobs as a laborer, including work as a mill hand.
 

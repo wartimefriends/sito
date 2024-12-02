@@ -1,7 +1,12 @@
 +++
-title = "Private Carl Keith SMITH was born on July 8, 1923, in Burk’s Falls, Ontario, into a family whose life was centered around farming and close-knit community values. Growing up in Burk’s Falls with his parents, H.S. and Dorothy Caroline Smith, and his siblings — Audrey, Alvin, Gordon, Douglas, Justine, and several married sisters, Carl’s life was shaped by rural responsibility and the camaraderie of a large family. Leaving school at 13, he spent the next six years helping his father on the farm, a period that instilled in him a strong work ethic and practical skills. Later, he took up bush work, gaining experience in a more rugged environment before his enlistment in the army."
+title = "SMITH Private Carl Keith - B155783"
 +++
 
+#### Irish Regiment of Canada, R.C.I.C.
+<br>
+
+
+Carl Keith SMITH was born on July 8, 1923, in Burk’s Falls, Ontario, into a family whose life was centered around farming and close-knit community values. Growing up in Burk’s Falls with his parents, H.S. and Dorothy Caroline Smith, and his siblings — Audrey, Alvin, Gordon, Douglas, Justine, and several married sisters, Carl’s life was shaped by rural responsibility and the camaraderie of a large family. Leaving school at 13, he spent the next six years helping his father on the farm, a period that instilled in him a strong work ethic and practical skills. Later, he took up bush work, gaining experience in a more rugged environment before his enlistment in the army.
 
 Carl joined the Canadian Army on March 19, 1943, enlisting in Brantford, Ontario. Initially, he served with the National Resources Mobilization Act (NRMA) but later transferred to active overseas service, moving into the Irish Regiment of Canada in December 1944. His training and service took him from Canada, where he remained until September 1944, to the United Kingdom, and eventually to the battlefields of Italy. On November 4, 1944, he arrived in Italy, entering the intense and grueling combat theater that was nearing the final phases of the war in Europe.
 

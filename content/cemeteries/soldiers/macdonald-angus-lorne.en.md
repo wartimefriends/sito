@@ -1,7 +1,12 @@
 +++
-title = "Angus Lorne MacDONALD was born on May 8, 1919, in the small town of Earl Grey, Saskatchewan."
+title = "MACDONALD Sapper Angus Lorne - L19117"
 +++
 
+#### 14 Field Coy., Royal Canadian Engineers
+<br>
+
+
+Angus Lorne MacDONALD was born on May 8, 1919, in the small town of Earl Grey, Saskatchewan. 
 Raised in a family that valued hard work and integrity, Angus grew up alongside his siblings—two brothers, James and Francois William, and two sisters, Sarah Agnes and Kathleen Elizabeth. His parents, John Alexander and Mary, instilled in him a strong work ethic and a sense of responsibility. 
 As a young man, Angus worked with his father on the family farm, gaining experience as both a farmer and a driver. Though he completed his education up to Grade 9 and left school at 16, he held a quiet ambition to learn a trade, a goal he hoped to pursue after his farming duties.
 

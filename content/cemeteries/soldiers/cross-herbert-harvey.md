@@ -2,9 +2,9 @@
 title = "Soldato Herbert Harvey CROSS - L104151"
 +++
 
-4° Reggimento Princess Louise Dragoon Guards, R.C.I.C.
+#### 4° Reggimento Princess Louise Dragoon Guards, R.C.I.C.
+<br>
 
-Una Vita di Dedizione e Sacrificio
 
 Il soldato Herbert Harvey Cross nacque il 18 agosto 1924 a Glenavon, Saskatchewan, in una famiglia numerosa e amorevole. Figlio di Harvey Thomas e Laura Beatrice Cross, Herbert era uno dei quattordici figli, tra cui quattro fratelli—Gordon, il soldato Howard, il soldato Norman e Gerald—e nove sorelle, tra cui Merita (Darcey), Alma (Leech), Evelyn (Forbes), la soldatessa Jean Cross, Irene, Ruth, Iva, Eunice e Shirley. Nonostante la perdita di due sorelle durante l’infanzia, Herbert crebbe in un ambiente familiare unito e solidale.
 

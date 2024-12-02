@@ -2,9 +2,9 @@
 title = "Soldato Philippe Chartier - E53573"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
 
-Una Vita di Difficoltà, Servizio e Sacrificio
 
 Philippe Chartier nacque il 7 gennaio 1914 a St.-François, nella contea di Richmond, nella provincia del Québec. Uno degli undici figli di una numerosa famiglia mista, Philippe crebbe in circostanze difficili. Suo padre, André, morì nel 1945, lasciando sua madre, Lodia (nota anche come Laudis), a crescere i figli in mezzo a grandi difficoltà. Philippe aveva tre fratelli—Wilfrid, Hormishas e Lucien—e quattro sorelle—Alice, Yvonne (Madame Bachand), Adorina e Florence—oltre a diversi fratellastri, tra cui Alphonse, Leopold ed Hector.
 

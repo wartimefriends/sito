@@ -1,7 +1,12 @@
 +++
-title = "William Jack RICHARDSON nacque il 17 febbraio 1921 a St. Marys, Ontario, figlio di John Alfred e Minnie Alice Richardson. Come primogenito di tre fratelli, crebbe con un forte senso della famiglia e della responsabilità, condividendo i suoi primi anni con il fratello Robert Percival e le sorelle Irene Lorrain ed Evelyn Audrey. William era alto 1,71 metri e pesava 75 chili con la sua carnagione chiara, occhi azzurri e capelli castani incarnava la forza silenziosa e la resilienza tipiche della sua generazione."
+title = "RICHARDSON Private William Jack - A11792"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+William Jack RICHARDSON nacque il 17 febbraio 1921 a St. Marys, Ontario, figlio di John Alfred e Minnie Alice Richardson. Come primogenito di tre fratelli, crebbe con un forte senso della famiglia e della responsabilità, condividendo i suoi primi anni con il fratello Robert Percival e le sorelle Irene Lorrain ed Evelyn Audrey. William era alto 1,71 metri e pesava 75 chili con la sua carnagione chiara, occhi azzurri e capelli castani incarnava la forza silenziosa e la resilienza tipiche della sua generazione.
 
 La vita di William era radicata nella semplicità e nel duro lavoro. Frequentò la scuola fino all’età di 14 anni, completando il 10º grado prima di decidere di lasciarla per entrare nel mondo del lavoro e aiutare economicamente la sua famiglia. La sua storia lavorativa rifletteva la sua etica professionale e l’adattabilità: consegnò latte per la H. Sparling Dairy a St. Marys dal 1937 al 1940, per poi lavorare come operaio presso la Adams Wagon Works a Brantford, guadagnando un rispettabile salario di 50 dollari alla settimana. Giovane attivo, amava le attività all’aperto come la caccia e la pesca e, sul campo di hockey, giocava come attaccante, incanalando la sua energia nello sport che amava.
 

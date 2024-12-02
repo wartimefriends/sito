@@ -2,7 +2,9 @@
 title = "Soldato Louis Alfred CARON - B/149569"
 +++
 
-Compagnia D, Reggimento Irlandese del Canada
+#### Compagnia D, Irish Regiment of Canada
+<br>
+
 
 Louis Alfred Caron nacque il 14 luglio 1919 a Timmins, Ontario, da Alfred e Marie Caron. Secondo di cinque figli, Louis crebbe in una famiglia molto unita insieme ai suoi fratelli e sorelle—Charles Eugene, Mary Bianche (poi Larkin) e Rita.
 Di corporatura media, con capelli castano scuro e occhi marroni, Louis era noto per il suo aspetto curato e la sua personalità calorosa.

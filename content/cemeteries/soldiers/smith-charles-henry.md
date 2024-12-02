@@ -1,7 +1,12 @@
 +++
-title = "Charles Henry SMITH nacque il 22 ottobre 1916 a Toronto, Ontario. Uomo di grande dedizione familiare, Charles era sposato con Eva, e insieme avevano due figlie, Ethel e Bernice. Proveniva da una grande famiglia, composta da suo padre, Charles, due fratelli, Kenneth e Robert, e otto sorelle: May, Dorothy, Margaret, Jean Palmer, Florence McNeil, Audrey, Marjorie e Teresa. Charles perse tragicamente la madre a soli 11 anni, una perdita che contribuì a rendere difficile la sua infanzia, dato che la struttura familiare subì una drastica rottura."
+title = "SMITH Private Charles Henry - B25340"
 +++
 
+#### 12 Field Coy., Royal Canadian Engineers
+<br>
+
+
+Charles Henry SMITH nacque il 22 ottobre 1916 a Toronto, Ontario. Uomo di grande dedizione familiare, Charles era sposato con Eva, e insieme avevano due figlie, Ethel e Bernice. Proveniva da una grande famiglia, composta da suo padre, Charles, due fratelli, Kenneth e Robert, e otto sorelle: May, Dorothy, Margaret, Jean Palmer, Florence McNeil, Audrey, Marjorie e Teresa. Charles perse tragicamente la madre a soli 11 anni, una perdita che contribuì a rendere difficile la sua infanzia, dato che la struttura familiare subì una drastica rottura.
 
 All’età di 13 anni, Charles lasciò la scuola per aiutare a sostenere economicamente la famiglia. Lavorò come venditore a Toronto e trascorse un decennio come agente di concessioni nelle fiere, gestendo una propria attività. Dopo la guerra, sperava di tornare a questa professione, dimostrando il suo forte impegno verso la tradizione familiare e il senso del dovere.
 

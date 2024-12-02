@@ -1,7 +1,12 @@
 +++
-title = "Joseph Noar MORGAN, un soldato devoto del 1° Squadrone del Genio, Royal Canadian Engineers, aveva solo 25 anni quando diede la sua vita in servizio per il suo paese il 29 dicembre 1944."
+title = "Geniere Joseph Noar MORGAN - F31644"
 +++
 
+#### 1 Field Sqn, Royal Canadian Engineers
+<br>
+
+
+Joseph Noar MORGAN, un soldato devoto del 1° Squadrone del Genio, Royal Canadian Engineers, aveva solo 25 anni quando diede la sua vita in servizio per il suo paese il 29 dicembre 1944.
 
 Nato il 13 settembre 1917 a Dominion, Nuova Scozia, Joseph crebbe in seno ad una grande famiglia a New Aberdeen. Era il decimo di undici figli, cresciuto da sua madre, Rebecca, e suo padre, Charles, che morì quando Joseph aveva solo 19 anni. Questa perdita precoce segnò un punto di svolta nella vita di Joseph, che si assunse le responsabilità di sostenere la sua famiglia, un ruolo che svolse con dedizione incrollabile.
 

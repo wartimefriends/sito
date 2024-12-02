@@ -2,7 +2,9 @@
 title = "Soldato Douglas Lloyd BEST – B/145400"
 +++
 
-Lanark and Renfrew Scottish Regiment - R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment - R.C.I.C.
+<br>
+
 
 Nato il 23 novembre 1916 a Owen Sound, Ontario, Douglas Lloyd crebbe in una famiglia modesta con sei fratelli. Cresciuto nella Chiesa d’Inghilterra, Douglas era noto per la sua carnagione chiara, gli occhi azzurri e i capelli castani. Con un’altezza di 179 cm e un peso di 67 kg, era un giovane robusto e capace, con una passione per la meccanica e una propensione al lavoro duro.
 

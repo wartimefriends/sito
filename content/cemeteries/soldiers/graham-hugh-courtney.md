@@ -1,6 +1,9 @@
 +++
-title = "Soldato Hugh Courtney GRAHAM"
+title = "Soldato Hugh Courtney GRAHAM - GRAHAM - A64159"
 +++
+
+#### Perth Regiment - R.C.I.C.
+<br>
 
 
 La storia di Hugh Courtney Graham è un racconto di dedizione, resilienza e sacrificio, riflettendo la vita di un uomo che ha bilanciato l’amore per la sua famiglia con il dovere verso la sua nazione.
@@ -21,7 +24,6 @@ Tragicamente, il 20 dicembre 1944, il soldato Hugh Courtney Graham morì in azio
 Hugh fu sepolto nel Villanova Canadian War Cemetery, in Italia, nella sezione IV, fila B, tomba 8. La sua tomba è un tributo alla sua bravura e al sacrificio supremo che fece per la sua famiglia e il suo paese.
 
 La storia di Hugh Graham racconta di un uomo che ha equilibrato l’amore per la sua famiglia con il dovere verso il suo paese. Dai suoi umili inizi a St. Marys ai campi di battaglia d’Italia, il suo viaggio riflette il coraggio e la resilienza di coloro che hanno combattuto nella Seconda Guerra Mondiale. Sebbene la sua vita sia stata tragicamente interrotta, la sua memoria rimane viva come un promemoria dei sacrifici fatti per la pace e la libertà.
-
 
 
 GRAHAM
@@ -51,5 +53,6 @@ Perché Dio sapeva bene -ma questo so-
 Che il mio cuore è andato con te, quando
 L’arbitro ha chiamato go!
 
-Scritto in memoria del mio caro amico e compagno, Hughie Graham, ucciso in azione il 20 dicembre 1944 in Italia.
 Sergente Harry Richardson
+
+Scritto in memoria del mio caro amico e compagno, Hughie Graham, ucciso in azione il 20 dicembre 1944 in Italia.

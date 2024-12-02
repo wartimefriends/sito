@@ -1,7 +1,12 @@
 +++
-title = "Private Lawrence THIBERT, service number A102099, served with the Lanark and Renfrew Scottish Regiment, Royal Canadian Infantry Corps (R.C.I.C.)."
+title = "THIBERT Private Lawrence - A102099"
 +++
 
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
+
+Private Lawrence THIBERT, service number A102099, served with the Lanark and Renfrew Scottish Regiment, Royal Canadian Infantry Corps (R.C.I.C.). 
 
 He was born on March 1, 1921, in Tilbury, Ontario, and was only 23 years old when he was killed in action on December 19, 1944 in the area of the Fosso Munio. 
 He now rests at the Villanova War Cemetery, Italy, in Plot V, Row A, Grave 1.

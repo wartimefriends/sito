@@ -1,8 +1,10 @@
 +++
-title = "Soldato semplice Robert BROOKS - Numero di matricola H35253"
+title = "Soldato semplice Robert BROOKS - H35253"
 +++
 
-Lanark and Renfrew Scottish Regiment, Corpo di Fanteria Reale Canadese
+#### Lanark and Renfrew Scottish Regiment
+<br>
+
 
 Robert Brooks nacque il 15 novembre 1903 a St. Charles, Manitoba. Tuttavia, la sua storia personale rivela un passato complesso e misterioso: alcuni documenti suggeriscono che il suo nome originale fosse Engelhard Bruegger e che fosse nato a Churwalden, in Svizzera. Cresciuto dalla madre, rimasta in Svizzera, Robert era il maggiore di tre figli, con due sorelle. Suo padre morì quando lui era ancora giovane.
 

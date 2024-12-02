@@ -1,7 +1,12 @@
 +++
-title = "Private Leo John MALLEY was born on November 27, 1921, in Chatham Head, New Brunswick. A man of Roman Catholic faith and steadfast dedication, he was raised in a large family by his parents, Peter and Elizabeth Vatour. As the eldest among his siblings, he shared his life with two brothers, Edmund and Archibald, and three sisters, Cecelia, Janet, and Leona, as well as several half-siblings. His family background was stable, and he grew up in a supportive environment in the small, close-knit community of Chatham Head. Later, he married Ruby Carmel of Lower Newcastle, New Brunswick, though they did not have children."
+title = "MALLEY Private Leo John - G8030"
 +++
 
+#### Lanark and Renfrew Scottish Regt., R.C.I.C.
+<br>
+
+
+Private Leo John MALLEY was born on November 27, 1921, in Chatham Head, New Brunswick. A man of Roman Catholic faith and steadfast dedication, he was raised in a large family by his parents, Peter and Elizabeth Vatour. As the eldest among his siblings, he shared his life with two brothers, Edmund and Archibald, and three sisters, Cecelia, Janet, and Leona, as well as several half-siblings. His family background was stable, and he grew up in a supportive environment in the small, close-knit community of Chatham Head. Later, he married Ruby Carmel of Lower Newcastle, New Brunswick, though they did not have children.
 
 Leo completed his schooling through grade 8 and subsequently worked as a laborer for local employers around Chatham Head. Standing 5’10” and weighing 180 pounds, with hazel eyes and a good-natured personality, he possessed a solid and physically capable build, well-suited for the demands of military service. Although he displayed a mild eye squint, his physical and mental fitness were rated positively.
 
@@ -19,7 +24,7 @@ His wife, family, and community continue to honor his memory, cherishing his con
 
 06 January 1945
 
-The two “Leos.” A Miramichi soldier died in Italy.
+The two “Leos” A Miramichi soldier died in Italy.
 Leo John Malley enlisted in the active army alongside his boyhood friend, Leo Joseph Henry, on 8 September 1939, in Newcastle – two days before Canada officially declared war on Germany.
 Leo John Malley, the son of Peter and Elizabeth (Vatoure) Malley, was born in Chatham Head on 27 November 1921. He was working at Frasers Mill when he enlisted in the active army (he had prior reserve force service with the 28th Field Battery, RCA.) Eighteen-year-old Leo Malley married Ruby Carmel Savoy, of Lower Newcastle, on 13 March 1940 at St Mary’s in Newcastle. Leo arrived in England on 26 December. 
 On 11 April, 1941, he was transferred to the 1st Light Anti-Aircraft Regt, RCA – a unit that was re-designated and re-organized many times as the Canadian army adapted to the battlefield in Italy : it became the 1st Canadian (Lanark and Renfrew) LAA Regt, and then the 1st Light Anti-Aircraft Infantry Battalion – The Lanark and Renfrew Scottish Regiment (infantry using anti-aircraft guns in close ground support). Malley arrived in Italy on 26 November 1943.

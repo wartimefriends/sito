@@ -1,6 +1,9 @@
 +++
-title = "Soldato Arthur Joseph HENRY"
+title = "Soldato Arthur Joseph HENRY - B23244"
 +++
+
+#### Royal Canadian Regiment
+<br>
 
 
 La vita e il sacrificio di Arthur Joseph Henry raccontano la storia di un soldato dedicato che lasciò una vita umile a Chatham Head, New Brunswick, per servire il suo paese durante uno dei periodi più difficili della storia. 

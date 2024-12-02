@@ -1,7 +1,12 @@
 +++
-title = "Lance Bombardier Thomas Gerald SLATER, born in Shrewsbury on March 11, 1911, the youngest son of Philip Richard and Jessie Slater, grew up with three sisters, Minnie, Emily, Alice Mary, .Dorothy Mary and a brother, William."
+title = "SLATER L/Bombardier Thomas Gerald - 4040669"
 +++
 
+#### 24thField Regt. Royal Artillery - UK
+<br>
+
+
+Born in Shrewsbury on March 11, 1911, the youngest son of Philip Richard and Jessie Slater, Thomas grew up with three sisters, Minnie, Emily, Alice Mary, .Dorothy Mary and a brother, William.
 
 Thomas married Edith Perry in April 1933 in Wellington and when he was sent to Italy, she was pregnant with their child.
 

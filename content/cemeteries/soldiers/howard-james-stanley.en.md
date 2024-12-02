@@ -1,9 +1,11 @@
 +++
-title = "Private James Stanley HOWARD: A Life of Service and Sacrifice"
+title = "Private James Stanley HOWARD - B/63030"
 +++
 
+#### Irish Regiment of Canada
+<br>
 
-Private James Stanley Howard, Service Number B/63030, served with the Irish Regiment of Canada during World War II. 
+
 Born on July 13, 1924, in Howland Township, Manitoulin District, Ontario, James was the second of fourteen children in the family of John and Lula May Howard. Growing up in a large, tight-knit family, James shared his home with his five brothers—Alfred John, Wilbert, Lawrence, George William, and Leonard Russell—and his eight sisters—Frances Eleanor, Justina, Dorothy Jean, Doris Margaret, Rita Jacqueline, Maude Marie, and Betty Jane.
 
 James spent his early years on the family farm, where he developed a strong work ethic and a love for reading and hunting. Described as a well-built young man with a pleasing manner, James was known for his stable and enthusiastic personality. After completing Grade 8, he left school at the age of 15 to contribute to the household. He found work as a miner and smelter laborer at the International Nickel Company in Sudbury, Ontario, where he performed general duties with diligence.

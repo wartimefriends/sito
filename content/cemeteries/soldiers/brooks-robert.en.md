@@ -1,8 +1,10 @@
 +++
-title = "Private Robert BROOKS - service number H35253"
+title = "Private Robert BROOKS - H35253"
 +++
 
-Lanark and Renfrew Scottish Regiment, Royal Canadian Infantry Corps
+#### Lanark and Renfrew Scottish Regiment, R. C. I. C.
+<br>
+
 
 Robert Brooks was born on November 15, 1903, in St. Charles, Manitoba. 
 However, his life story reveals a complex and mysterious background, with records indicating he may have originally been named Engelhard Bruegger, born in Churwalden, Switzerland. Raised by his mother, who remained in Switzerland, Robert was the eldest of three children, with two sisters. His father passed away when he was young.

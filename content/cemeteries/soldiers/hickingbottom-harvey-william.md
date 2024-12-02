@@ -1,9 +1,13 @@
 +++
-title = "Soldato Harvey William HICKINGBOTTOM: Una Vita di Dedizione e Sacrificio"
+title = "Soldato Harvey William HICKINGBOTTOM - B64622"
 +++
 
+#### 4th PLDG R.C.A.C.
+<br>
 
-Harvey William Hickingbottom, matricola B64622, prestò servizio con il 4° Reggimento Princess Louise Dragoon Guards del Royal Canadian Armoured Corps. Nato il 24 agosto 1922 a Toronto, Ontario, Harvey era il terzo di cinque figli. I suoi genitori, Joseph Norman e Clara Gertrude Hickingbottom, lo crebbero insieme ai fratelli Lloyd Joseph, Thelma e Maron Lois. Dopo la morte prematura del padre, la madre di Harvey assunse il ruolo di capo famiglia.
+
+Harvey William Hickingbottom prestò servizio con il 4° Reggimento Princess Louise Dragoon Guards del Royal Canadian Armoured Corps. 
+Nato il 24 agosto 1922 a Toronto, Ontario, Harvey era il terzo di cinque figli. I suoi genitori, Joseph Norman e Clara Gertrude Hickingbottom, lo crebbero insieme ai fratelli Lloyd Joseph, Thelma e Maron Lois. Dopo la morte prematura del padre, la madre di Harvey assunse il ruolo di capo famiglia.
 
 A scuola, Harvey completò la classe 11a distinguendosi in vari sport e attività di squadra, dimostrando il suo carattere attivo e socievole. I suoi interessi sportivi e l’ atletica gli garantirono un posto in molte squadre scolastiche, preparandolo per le esigenze fisiche del servizio militare. Nonostante un lieve problema polmonare e problemi di vista, fu giudicato idoneo al servizio.
 

@@ -2,8 +2,9 @@
 title = "Tenente Toddy Eli BODNARUK"
 +++
 
-Lanark and Renfrew Regiment R.C.I.C.
-Villanova War Cemetery - Sezione II A, Tomba 5
+#### Lanark and Renfrew Regiment R.C.I.C.
+<br>
+
 
 Nato l’11 febbraio 1912 a Edmonton, Alberta, Toddy Eli Bodnaruk era un uomo di disciplina, coraggio e dedizione. Alto 174 cm e con un peso di 84 kg, aveva capelli biondi, occhi azzurri e una carnagione media, incarnando la forza e la determinazione che lo definirono per tutta la vita. 
 Marito devoto di Agnes Caroline e orgoglioso padre di Jack, e di Gwen, Toddy era profondamente legato alla sua famiglia.

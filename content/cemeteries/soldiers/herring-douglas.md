@@ -1,8 +1,10 @@
 +++
-title = "Fuciliere HERRING, Douglas Stanley"
+title = "Fuciliere HERRING, Douglas Stanley - 6852201"
 +++
 
-Numero di servizio 6852201 - 1º Battaglione, King’s Royal Rifle Corps (UK)
+#### 1º Battaglione, King’s Royal Rifle Corps (UK)
+<br>
+
 
 Douglas Stanley Herring nacque nel 1917 a Hammersmith, Londra.
 Il cognome da nubile di sua madre era Gifford.

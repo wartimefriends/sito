@@ -2,9 +2,9 @@
 title = "Private Andrew CLULOW - A10042"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
 
-A Life Marked by Service and Sacrifice
 
 Private Andrew Clulow was born on June 25, 1911, in Galt, Ontario, into a large, close-knit family. He was the seventh of eight children born to James and Alice Clulow, who passed away before his enlistment. Andrew grew up alongside his brother William and six sisters—Mrs. Henry Coltman, Mrs. Roy Shoemaker, Mrs. Jim Clark, Mrs. Garf McQuinin, Alice, and Mrs. Wilma Last.
 

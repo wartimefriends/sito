@@ -1,10 +1,12 @@
 +++
-title = "Soldato Peter Raphael KLUKE: Un Giovane Eroe del Dovere"
+title = "Soldato Peter Raphael KLUKE - D142705"
 +++
 
+#### 4th Princess Louise Dragoon Guards, R.C.A.C.
+<br>
 
-Peter Raphael Kluke, matricola D142705, prestò servizio nel 4° Reggimento Princess Louise Dragoon Guards del Corpo Corazzato Reale Canadese. 
-Nato il 21 ottobre 1923 a Otter Lake, Quebec, Peter crebbe in una famiglia unita e laboriosa nelle zone rurali della provincia, un ambiente che influenzò profondamente i suoi primi anni di vita. Frequentò una scuola locale dai sette ai tredici anni, ma fu costretto ad abbandonare gli studi per aiutare economicamente la famiglia. 
+
+Peter Raphael Kluke: nato il 21 ottobre 1923 a Otter Lake, Quebec, Peter crebbe in una famiglia unita e laboriosa nelle zone rurali della provincia, un ambiente che influenzò profondamente i suoi primi anni di vita. Frequentò una scuola locale dai sette ai tredici anni, ma fu costretto ad abbandonare gli studi per aiutare economicamente la famiglia. 
 Le barriere linguistiche e i frequenti cambi di insegnanti resero il suo percorso scolastico difficile. Sebbene il suo inglese migliorasse con il tempo, il francese rimase una sfida per tutta la vita.
 
 Peter incarnava lo spirito lavorativo della sua famiglia. Lavorò per la Gillis Brothers Ltd. in un campo di legname, trascorrendo le estati in segheria e gli inverni a tagliare legna da ardere. Per un breve periodo fu anche tassista, ma il suo sogno era diventare falegname. L’esperienza acquisita nei campi di legname e nei lavori manuali contribuì significativamente alla sua preparazione per il servizio militare.

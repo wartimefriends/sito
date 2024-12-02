@@ -1,8 +1,10 @@
 +++
-title = "Corporal George Willis BROCK - service number M50710"
+title = "Corporal George Willis BROCK - M50710"
 +++
 
-2nd Armoured Regiment, Lord Strathcona’s Horse - R. C. A. C. 
+#### 2nd Armoured Regiment, Lord Strathcona’s Horse - R. C. A. C.
+<br>
+
 
 Born on December 14, 1919, in Manola, Alberta, George grew up in a large and close-knit family as the second of nine children. His parents, George Albert and Geneva Joyce, raised him alongside his brothers Clarence and Lawrence and sisters Nellie Forberg, Geneva St. Louis, Cecelia, Doris, Dorothy, and Joyce on a mixed farm in Manola, instilling in him values of hard work and community.
 

@@ -1,9 +1,13 @@
 +++
-title = "Private John Joseph HOGAN: A Young Life of Service and Sacrifice"
+title = "Private John Joseph HOGAN - D143684"
 +++
 
+#### 4th Princess Louise Dragoon Guards R.C.A.C.
+<br>
 
-Private John Joseph Hogan, Service Number D143684, served with the 4th Princess Louise Dragoon Guards of the Royal Canadian Armoured Corps. 
+
+Private John Joseph Hogan served with the 4th Princess Louise Dragoon Guards of the Royal Canadian Armoured Corps. 
+
 Born on July 23, 1925, in Mackayville, Quebec, John was the son of Richard and Annie Hogan. Growing up in a bilingual household, he was the youngest brother to Richard F., who also served in the army, and had three sisters: Eileen, Marion, and Frances. His family life was normal, though there was some opposition to John’s decision to join the Merchant Navy and later the army.
 
 John attended school until Grade 7, making steady progress and achieving average marks. Fluent in both English and French, he demonstrated early adaptability and resilience. 

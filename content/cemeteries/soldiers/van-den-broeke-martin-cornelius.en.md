@@ -1,7 +1,12 @@
 +++
-title = "Corporal Martin Cornelius VAN DEN BROEKE of the Cape Breton Highlanders, Royal Canadian Infantry Corps (R.C.I.C.) was killed in action on December 14, 1944, during the Italian Campaign of World War II. He is buried in the Villanova War Cemetery, Plot VII, Row B, Grave 5."
+title = "VAN DEN BROEKE Sergeant Martin Cornelius – M/105808"
 +++
 
+#### Cape Breton Highlanders, R.C.I.D.
+<br>
+
+
+Martin Cornelius VAN DEN BROEKE of the Cape Breton Highlanders, Royal Canadian Infantry Corps (R.C.I.C.) was killed in action on December 14, 1944, during the Italian Campaign of World War II. He is buried in the Villanova War Cemetery, Plot VII, Row B, Grave 5.
 
 Born on July 12, 1921, in Monarch, Alberta, Martin came from a Dutch family with strong ties to the land and manual labor. His father, Gerhard, was a blacksmith, and Martin spent much of his youth working as a farm laborer and blacksmith, helping his father in the shop. He completed Grade 8 at the age of 15 but did not pursue further education, instead dedicating himself to working on the family farm and learning blacksmithing. Martin had a few years of mixed farming experience and also showed competence in tractor and vehicle repairs, although he did not wish to engage in farming after the war.
 

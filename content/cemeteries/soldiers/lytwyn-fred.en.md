@@ -1,6 +1,12 @@
 +++
-title = "Lance Corporal Fred LYTWYN, a member of “A” Company in the Perth Regiment, Royal Canadian Infantry Corps, was a young man whose life was tragically cut short in the final years of World War II."
+title = "Lytwyn Lance Corporal Fred - A102225"
 +++
+
+#### "A" Coy., Perth Regiment R.C.I.C.
+<br>
+
+
+Lance Corporal Fred LYTWYN, a member of “A” Company in the Perth Regiment, Royal Canadian Infantry Corps, was a young man whose life was tragically cut short in the final years of World War II.
 
 Officially listed as 17 years old at the time of his death on December 20, 1944, Fred’s actual age was closer to 26, a discrepancy that speaks to the complexities and challenges faced by many young men of his era. 
 He rests in Villanova War Cemetery in Italy, a silent witness to the courage and determination that defined his brief but impactful life.

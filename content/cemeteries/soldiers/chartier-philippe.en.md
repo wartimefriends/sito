@@ -2,9 +2,9 @@
 title = "Private Philippe CHARTIER - E53573"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
 
-A Life of Hardship, Service, and Sacrifice
 
 Private Philippe Chartier was born on January 7, 1914, in St.-François, Richmond County, Province of Quebec. One of eleven children in a large, blended family, Philippe grew up in difficult circumstances. 
 His father, André, passed away in 1945, and his mother, Lodia (also called Laudis), raised her children amidst significant challenges. Philippe had three full brothers—Wilfrid, Hormishas, and Lucien—and four full sisters—Alice, Yvonne (Madame Bachand), Adorina, and Florence—as well as several half-siblings, including Alphonse, Leopold, and Hector.

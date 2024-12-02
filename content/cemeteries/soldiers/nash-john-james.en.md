@@ -1,7 +1,12 @@
 +++
-title = "Private John James NASH (Service Number: C4581) was born in Bath, England, with records indicating three possible birth dates: April 17, 1906; March 23, 1907; and April 17, 1908. The earliest date was used on his death certificate."
+title = "NASH Private John James - C4581"
 +++
 
+#### Hastings and Prince Edward Regiment, R.C.I.C.
+<br>
+
+
+Private John James NASH (Service Number: C4581) was born in Bath, England, with records indicating three possible birth dates: April 17, 1906; March 23, 1907; and April 17, 1908. The earliest date was used on his death certificate. 
 He was the son of John James Nash and Annie Fell. Tragically, his father passed away when John was just two years old. Throughout his early life, he believed his name to be James Albert Nash, a name he used upon enlistment. It wasn’t until April 30, 1943, that he confirmed his true name as John James Nash.
 
 In 1918, at the age of 12, John immigrated to Canada, possibly as part of the British Home Children program, which relocated disadvantaged children to Canada for better opportunities. Having completed primary school in England, he began working as a farm laborer in the Campbellford, Ontario area from 1921 to 1932. He then worked in a quarry in Marmora, Ontario, operated by his uncle, from 1932 to 1934. Between 1935 and 1939, he was employed as a highway construction laborer in Marmora.

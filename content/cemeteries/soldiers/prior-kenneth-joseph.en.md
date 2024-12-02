@@ -1,6 +1,9 @@
 +++
-title = "The Life and Service of Private Kenneth Joseph PRIOR"
+title = "PRIOR Private Kenneth A/63187"
 +++
+
+#### 1st Corps Transport Coy., RCASC
+<br>
 
 
 Private Kenneth Joseph Prior, a truck driver with the 1st Corps Transport Company of the Royal Canadian Army Service Corps (RCASC), served with commitment and courage until his life was tragically cut short on November 1, 1944, during active service in Italy. 

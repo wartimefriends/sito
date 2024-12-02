@@ -1,7 +1,12 @@
 +++
-title = "Private Walter Howard ROGERS was born on February 2, 1918, in Winnipeg, Manitoba, and from an early age, he displayed qualities of ambition, determination, and a keen sense of responsibility. Raised in a family that included his father, James Arthur, mother, Eva, his sister, Margaret Jane, and half-brothers William George and Thomas Arthur, Walter was the third child. His family was close-knit, and he often spoke of his “ideal home,” a nurturing environment that instilled values of commitment and hard work. These early lessons shaped him into a well-rounded individual with a love for his family, sports, and active community engagement."
+title = "ROGERS Private Walter Howard - H14071"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+Walter Howard ROGERS was born on February 2, 1918, in Winnipeg, Manitoba, and from an early age, he displayed qualities of ambition, determination, and a keen sense of responsibility. Raised in a family that included his father, James Arthur, mother, Eva, his sister, Margaret Jane, and half-brothers William George and Thomas Arthur, Walter was the third child. His family was close-knit, and he often spoke of his “ideal home,” a nurturing environment that instilled values of commitment and hard work. These early lessons shaped him into a well-rounded individual with a love for his family, sports, and active community engagement.
 
 After completing Grade XI at a Manitoba technical high school, Walter worked in various jobs, gaining skills that would define his early career. For a year, he handled bookkeeping at Allan Killam McKay, followed by a sales position at Weaver Brush Company. Walter’s career took a significant step forward when he joined the drafting room at Manitoba Telephone Company, where he worked for four years. He later assisted development engineers on airport projects, a role that involved public speaking and project organization—activities in which Walter thrived, displaying his natural leadership and communication abilities.
 

@@ -1,6 +1,9 @@
 +++
-title = "Private Edward Clarence HEDRICK"
+title = "Private Edward Clarence HEDRICK - A50035"
 +++
+
+#### Perth Regiment R.C.I.C.
+<br>
 
 
 Edward Clarence Hedrick’s story is one of commitment, perseverance, and sacrifice. Born on August 3, 1921, in Leamington, Ontario, Edward grew up in Blenheim, a small community where he was part of a large, loving family. His parents, Clifford and Bessie, raised Edward alongside his three brothers, Donald, William (Bill), and John (Jack), and his four sisters, Agnes Irene, Betty Jean, Doreen Ethel, and Caroline Jane. As the son of a printer and steam-fitter, Edward’s childhood was marked by normalcy and Scottish heritage, which influenced his values and character.

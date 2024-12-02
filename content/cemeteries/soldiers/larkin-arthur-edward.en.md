@@ -1,7 +1,12 @@
 +++
-title = "Private Arthur Edward LARKIN of the Cape Breton Highlanders in the Royal Canadian Infantry Corps was a dedicated soldier whose life was defined by service, loyalty, and a deep commitment to his roots."
+title = "Private Arthur Edward LARKIN - F60543"
 +++
 
+#### Cape Breton Highlanders
+<br>
+
+
+Arthur Edward LARKIN of the Cape Breton Highlanders in the Royal Canadian Infantry Corps was a dedicated soldier whose life was defined by service, loyalty, and a deep commitment to his roots. 
 Born on October 22, 1915, in St. Peter’s Bay, Prince Edward Island, Arthur was raised on the family farm by his parents, John Julius and Emma, alongside his five brothers—Francis, Eugene, Joseph Raymond, Dennis Philip, and Patrick Herbert—and his sister, Victoria Catherine. Growing up on a farm, he developed a strong work ethic and a connection to the land, working for the same employer for ten years before joining the army.
 
 Arthur completed Grade 10, which provided him with foundational knowledge that would serve him throughout his life. Although farming was his primary occupation, he held ambitions of working as a clerk, suggesting a desire to explore opportunities beyond agriculture. Tall and lean, Arthur stood 5 feet 9 inches tall, with light brown hair, blue eyes, and a medium complexion. His quiet demeanor and steady nature made him a respected figure within his family and community.

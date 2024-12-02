@@ -1,6 +1,9 @@
 +++
-title = "Private Stanley Wellington LEWIS: A Life of Duty and Sacrifice"
+title = "Private Stanley Wellington LEWIS - L 13658"
 +++
+
+#### Lanark and Renfrew Scottish Regiment R.C.I.C.
+<br>
 
 
 Stanley Wellington Lewis was born on July 16, 1916, in Valor, Saskatchewan, the son of Henry Wellington Lewis and Edna Elvira Lewis. Raised on a family farm in a Welsh-Scottish household, Stanley grew up with two brothers, Norval and Kenneth, and two sisters, Verna and Dorothy. His childhood on the farm shaped his work ethic and skills, preparing him for the responsibilities that lay ahead in his life.

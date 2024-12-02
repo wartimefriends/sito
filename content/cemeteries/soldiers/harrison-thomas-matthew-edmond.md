@@ -1,6 +1,9 @@
 +++
-title = "Soldato Thomas Matthew Edmond HARRISON"
+title = "Soldato Thomas Matthew Edmond HARRISON - B/118275"
 +++
+
+#### A Company – Irish regiment of Canada
+<br>
 
 
 La storia del soldato Thomas Matthew Edmond Harrison è una testimonianza di dovere, sacrificio e incrollabile devozione sia al proprio paese che alla propria famiglia. 

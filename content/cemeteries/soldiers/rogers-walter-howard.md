@@ -1,7 +1,12 @@
 +++
-title = "Walter Howard ROGERS nacque il 2 febbraio 1918 a Winnipeg, Manitoba, e fin da giovane mostrò qualità come ambizione, determinazione e un forte senso di responsabilità. Cresciuto in una famiglia composta dal padre James Arthur, la madre Eva, la sorella Margaret Jane e i fratellastri William George e Thomas Arthur, Walter era il terzo figlio. La sua famiglia era molto unita, e parlava spesso della sua “casa ideale,” un ambiente amorevole che gli instillò valori di impegno e duro lavoro. Questi insegnamenti lo plasmarono come individuo completo, con un forte amore per la famiglia, lo sport e l’impegno nella comunità."
+title = "Soldato Walter Howard ROGERS - H14071"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+Walter Howard ROGERS nacque il 2 febbraio 1918 a Winnipeg, Manitoba, e fin da giovane mostrò qualità come ambizione, determinazione e un forte senso di responsabilità. Cresciuto in una famiglia composta dal padre James Arthur, la madre Eva, la sorella Margaret Jane e i fratellastri William George e Thomas Arthur, Walter era il terzo figlio. La sua famiglia era molto unita, e parlava spesso della sua “casa ideale,” un ambiente amorevole che gli instillò valori di impegno e duro lavoro. Questi insegnamenti lo plasmarono come individuo completo, con un forte amore per la famiglia, lo sport e l’impegno nella comunità.
 
 Dopo aver completato l’undicesima classe in una scuola tecnica in Manitoba, Walter lavorò in vari ruoli, acquisendo competenze che definirono la sua carriera iniziale. Lavorò per un anno come contabile presso Allan Killam McKay, seguito da una posizione di vendita alla Weaver Brush Company. La sua carriera fece un significativo passo avanti quando entrò nella sala progetti della Manitoba Telephone Company, dove lavorò per quattro anni. In seguito, assistette ingegneri nello sviluppo di progetti aeroportuali, un ruolo che richiedeva capacità di parlare in pubblico e organizzazione dei progetti, ambiti nei quali eccelleva grazie alle sue doti naturali di leadership e comunicazione.
 

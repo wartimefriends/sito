@@ -1,7 +1,12 @@
 +++
-title = "Norman Sidney RULE nacque il 25 novembre 1923 a Montreal, Quebec, figlio di Frederick George e Rose Rule (nata Fletcher). Cresciuto a North Montreal, Norman viveva con i suoi genitori, il fratello George e la sorella Rose. I suoi primi anni furono segnati da amore per lo sport, in particolare hockey e baseball, una passione per la filatelia e un forte senso del lavoro. Anche se lasciò la scuola dopo aver completato la sesta elementare, Norman era orgoglioso della sua abilità nello spelling e parlava sia inglese che francese. Fin da giovane, cercò di acquisire esperienza pratica in vari mestieri, lavorando come apprendista molatore, assistente macchinista accanto a suo padre, operaio presso la Montreal Laundry Co., e persino come Marinaio Ordinario per la Canada Steamship Lines."
+title = "Soldato Norman Sidney RULE - D123095"
 +++
 
+#### 4° Princess Louise Dragoon Guards, R.C.A.C.
+<br>
+
+
+Norman Sidney RULE nacque il 25 novembre 1923 a Montreal, Quebec, figlio di Frederick George e Rose Rule (nata Fletcher). Cresciuto a North Montreal, Norman viveva con i suoi genitori, il fratello George e la sorella Rose. I suoi primi anni furono segnati da amore per lo sport, in particolare hockey e baseball, una passione per la filatelia e un forte senso del lavoro. Anche se lasciò la scuola dopo aver completato la sesta elementare, Norman era orgoglioso della sua abilità nello spelling e parlava sia inglese che francese. Fin da giovane, cercò di acquisire esperienza pratica in vari mestieri, lavorando come apprendista molatore, assistente macchinista accanto a suo padre, operaio presso la Montreal Laundry Co., e persino come Marinaio Ordinario per la Canada Steamship Lines.
 
 Norman non era solo laborioso, ma anche determinato a servire il suo paese, nonostante avesse affrontato numerosi problemi di salute. Il suo desiderio di entrare nell’esercito era chiaro: tentò di arruolarsi tre volte, ogni volta usando un nome leggermente diverso. Il 21 gennaio 1942, tentò per la prima volta di arruolarsi con il nome di “Eddy Rule,” ma fu congedato dopo pochi mesi a causa di una “bronchite acuta.” Non scoraggiato, provò di nuovo il 19 aprile 1943, stavolta come “William Percy Rule,” ma fu congedato nel settembre 1943 per “bronchite cronica, tipo asmatico.” Nonostante questi ostacoli medici, l’impegno di Norman verso l’esercito non vacillò. Continuò ad allenarsi nella speranza di superare le sue limitazioni fisiche e espresse anche un forte desiderio di unirsi al Black Watch Regiment.
 

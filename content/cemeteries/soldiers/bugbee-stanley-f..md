@@ -2,10 +2,9 @@
 title = "Soldato Stanley F. BUGBEE"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
-Villanova War Cemetery, VI B 9
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
 
-Dalle Radici Rurali ai Campi di Battaglia in Italia
 
 Stanley F. Bugbee nacque il 23 giugno 1922 a Saskatoon, Saskatchewan, da Clifford Daniel ed Ethel Frances Bugbee. Cresciuto in una fattoria, Stanley visse immerso nei ritmi della vita rurale, dove il duro lavoro e la perseveranza erano parte integrante della sua educazione, tanto quanto i cieli aperti delle praterie. Insieme ai suoi fratelli—Ernest Lawrence, un carrista, Clifford Norman e Eugene Edgar (morto tragicamente nel 1923)—e alle sue sorelle Doreen Mary e Irene Marie, Stanley imparò il valore della famiglia, della comunità e del senso di responsabilità.
 

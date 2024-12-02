@@ -1,7 +1,12 @@
 +++
-title = "Clifford Gladwin MacPHERSON was born on June 27, 1911, in Musquodoboit, Halifax County, Nova Scotia. Growing up in a hardworking family."
+title = "MacPHERSON Private Clifford Gladwin - F52042"
 +++
 
+#### 4th Princess Louise Dragoon Guards R.C.A.C.
+<br>
+
+
+Clifford Gladwin MacPHERSON was born on June 27, 1911, in Musquodoboit, Halifax County, Nova Scotia. Growing up in a hardworking family. 
 Clifford was one of several siblings, including two brothers who, like him, would serve in the military. His father, John McLean, was a coal miner in Pictou County, a demanding occupation that influenced Clifford’s own career path. Clifford left school after completing Grade 7 to help support his family, working for many years as a coal miner and later as a shovel operator on the Alaskan Highway, making an average wage of $35 a week. 
 Known for his modesty, maturity, and stable character, Clifford had a mechanical aptitude and was skilled in driving both cars and trucks.
 

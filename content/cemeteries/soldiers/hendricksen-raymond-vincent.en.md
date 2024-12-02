@@ -1,6 +1,9 @@
 +++
-title = "Corporal Raymond Vincent HENDRICKSEN"
+title = "Corporal Raymond Vincent HENDRICKSEN -  D166507"
 +++
+
+#### 4th Princess Louise Dragoon Guards R.C.A.C.
+<br>
 
 
 Raymond Vincent Hendricksen’s story is one of dedication, resilience, and sacrifice, spanning from his humble beginnings in Newcastle, New Brunswick, to his service with the 4th Princess Louise Dragoon Guards in Italy. 

@@ -1,8 +1,10 @@
 +++
-title = "Private Keith DULEY- A11039, Perth Regiment R.C.I.C."
+title = "Private Keith DULEY- A11039"
 +++
 
-A Life of Service and Sacrifice
+#### Perth Regiment R.C.I.C.
+<br>
+
 
 Private Keith Duley, born on February 16, 1920, in Middlesex, England, grew up in a family shaped by resilience and community. The second of three children, Keith moved to Stratford, Ontario, with his parents, Arthur and Nellie, and his sisters, Nellie and Grace. His upbringing was modest but fulfilling, marked by eight years of public schooling in Stratford, where he excelled in woodwork and sports.
 

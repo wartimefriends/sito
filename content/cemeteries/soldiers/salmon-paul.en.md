@@ -1,9 +1,13 @@
 +++
-title = "The Life and Service of Private Jean Paul Salmon"
+title = "SALMON Private Jean Paul- D77946"
 +++
 
+#### C Company – Irish Regt. Of Canada, R.C.I.C.
+<br>
 
-Private Paul Salmon, a dedicated soldier of the Royal Montreal Regiment, is remembered for his courage and ultimate sacrifice. 
+
+Private Paul Salmon, a dedicated soldier of the Royal Montreal Regiment, is remembered for his courage and ultimate sacrifice.
+
 Born on January 24, 1918, in Montreal, Quebec, Paul was a young man of medium build, standing 5 feet 6.5 inches tall, with grey eyes and brown hair. 
 He was raised in a close-knit Catholic family as the third of four children, with parents Alfred and Marie, and siblings Marcel, Laurette, and Jeanette.
 

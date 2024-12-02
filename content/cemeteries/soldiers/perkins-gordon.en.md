@@ -1,7 +1,12 @@
 +++
-title = "Private Gordon PERKINS (Service Number: E48431) was born on November 7, 1920, in the small town of Danville, located in the Province of Quebec, Canada."
+title = "PERKINS Private Gordon - E48431"
 +++
 
+#### 4th Princess Louise Dragoon Guards, R.C.A.C.
+<br>
+
+
+Gordon PERKINS was born on November 7, 1920, in the small town of Danville, located in the Province of Quebec, Canada. 
 Raised in a close-knit family, he was the son of Herbert and Clara Perkins. Gordon had a brother named Stuart and two sisters, Glenrose and Irene, the latter of whom resided in Quebec City after marrying into the Johnston family.
 
 Growing up, Gordon was known for his cheerful disposition and mental alertness. He stood at 5 feet 10 inches tall and weighed 172 pounds—a husky build that made him well-suited for heavy training and work. An active youth, he participated in various sports, including baseball, football, and softball, showcasing his athleticism and team spirit.

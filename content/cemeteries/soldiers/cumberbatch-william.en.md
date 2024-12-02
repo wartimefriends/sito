@@ -2,9 +2,9 @@
 title = "Corporal William CUMBERBATCH"
 +++
 
-1st Battalion – King’s Own Rifle Corps
+#### 1st Battalion – King’s Own Rifle Corps
+<br>
 
-A Devoted Husband, Father, and Soldier
 
 Corporal William Cumberbatch was born and raised in Bolton, United Kingdom, where he attended Derby Street School and was a member of Holy Trinity Church. Known for his hardworking nature and strong sense of community, William lived with his family at 16, Orme Street in Bolton before enlisting in the military.
 

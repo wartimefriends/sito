@@ -1,7 +1,12 @@
 +++
-title = "Ray Joseph SCHMIDT nacque l'8 novembre 1919 a Kenilworth, Ontario. Terzo di dieci figli, Ray crebbe in una famiglia affettuosa guidata dai suoi genitori, David e Luella. Aveva quattro fratelli—Bernard, Adrian, Carl e Joseph—e cinque sorelle—Alfreda, Agatha, Mildred, Edna e Marilyn."
+title = "Soldato Ray Joseph SCHMIDT – B/43043"
 +++
 
+#### D Company – Irish Regiment of Canada, R.C.I.C.
+<br>
+
+
+Ray Joseph SCHMIDT nacque l'8 novembre 1919 a Kenilworth, Ontario. Terzo di dieci figli, Ray crebbe in una famiglia affettuosa guidata dai suoi genitori, David e Luella. Aveva quattro fratelli—Bernard, Adrian, Carl e Joseph—e cinque sorelle—Alfreda, Agatha, Mildred, Edna e Marilyn. 
 Anche se non amava la scuola e completò solo un anno di studi, trovò uno scopo nel suo lavoro come bracciante agricolo per sei anni.
 Alto 1,70 metri e pesante 68 kg, Ray aveva un incarnato chiaro, occhi blu e capelli biondi. Cattolico romano e single, sentiva un forte senso di dovere di servire il suo paese, il che lo portò ad arruolarsi nell'esercito l'8 agosto 1940 a Brantford, Ontario. Ray scelse di arruolarsi nei Dufferin and Haldeman Rifles per evitare la coscrizione.
 La sua carriera militare iniziò in Canada, dove servì fino al 12 maggio 1943. Il 13 maggio 1943, fu trasferito all'Irish Regiment of Canada nel Regno Unito. Durante il periodo di tempo nel Regno Unito, Ray continuò l’addestramento e si preparò al combattimento attivo. 

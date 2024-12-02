@@ -2,9 +2,9 @@
 title = "Private William Thomas FAWCETT"
 +++
 
-Perth Regiment, R.C.I.C.
-Killed in Action: December 20, 1944, Age 28
-Villanova War Cemetery, Plot IV, Row B, Grave 10
+#### Perth Regiment, R.C.I.C.
+<br>
+
 
 William Thomas Fawcett was born on October 19, 1916, in Mitchell, Ontario, to Thomas and Mary Elizabeth Fawcett. The youngest of four siblings, William grew up alongside his brothers Edward E. and Frederick C. and his sister, Mrs. Lillian Harper. Born on a farm, William’s childhood was shaped by rural life and the responsibilities that came with it. 
 However, his early years were marked by tragedy as he lost his father when he was just four years old.

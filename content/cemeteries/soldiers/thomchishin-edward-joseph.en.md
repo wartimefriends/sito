@@ -1,7 +1,12 @@
 +++
-title = "Private Edward Joseph T(H)OMCHISHIN, service number B/143468, was born on June 22, 1924, in Oakburn, Manitoba. He was 20 years old when he was killed in action on January 4, 1945, in the area of San Alberto."
+title = "THOMCHISIN, Private Edward Joseph – B/143468"
 +++
 
+#### B Company, Irish regiment of Canada, R.C.I.C.
+<br>
+
+
+Private Edward Joseph T(H)OMCHISHIN, service number B/143468, was born on June 22, 1924, in Oakburn, Manitoba. He was 20 years old when he was killed in action on January 4, 1945, in the area of San Alberto. 
 Edward was serving with “B” Company of the Irish Regiment of Canada in Italy at the time of his death. 
 He is now laid to rest in the Villanova Canadian War Cemetery, Italy, in Plot I, Row A, Grave 6.
 Edward grew up in a large, close-knit family. He was the fifth of seven children born to his parents, Michael and Mary Thomchishin. He had three brothers—Bernard, James, and Alfred—and three sisters—Caroline, Francis, and Anne. His family had relocated from Oakburn to Toronto when Edward was just two years old.  

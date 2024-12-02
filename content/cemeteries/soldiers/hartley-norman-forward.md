@@ -1,6 +1,9 @@
 +++
-title = "Soldato Norman Edward HARTLEY"
+title = "Soldato Norman Edward HARTLEY - B/139565"
 +++
+
+#### C Company – Irish Regiment of Canada
+<br>
 
 
 La storia del soldato Norman Forward Hartley è una testimonianza di dedizione, resilienza e servizio, che riflette la vita di un uomo che lasciò una giovane famiglia per combattere per la libertà in uno dei momenti più oscuri della storia. 

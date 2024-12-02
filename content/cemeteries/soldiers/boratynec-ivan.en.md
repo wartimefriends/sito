@@ -2,10 +2,9 @@
 title = "Sergeant Ivan BORATYNEC - M16556"
 +++
 
-4th P.L.D.G. R.C.I.C.
-V.B.4
+#### 4th P.L.D.G. R.C.I.C.
+<br>
 
-A Mechanic Turned Soldier
 
 Sergeant Ivan Boratynec was born on June 18, 1917, in Mannville, Alberta, the third child in a family of four. His early life was marked by resilience and determination, traits that would define him throughout his years. Ivan’s childhood was shaped by hardship; he lost his mother when he was just eight years old, leaving his father, Joseph, to care for Ivan and his three sisters: Annie, Mary, and Jessie.
 

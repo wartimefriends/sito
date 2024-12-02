@@ -1,6 +1,9 @@
 +++
-title = "Soldato Edward Clarence HEDRICK"
+title = "Soldato Edward Clarence HEDRICK - A50035"
 +++
+
+#### Perth Regiment R.C.I.C.
+<br>
 
 
 La storia di Edward Clarence Hedrick è una storia di impegno, perseveranza e sacrificio. 

@@ -2,8 +2,9 @@
 title = "Private Richard Charles TAVIGNOT (B64565)"
 +++
 
+#### Born on November 16, 1920, in Quebec, Richard Charles Tavignot grew up as the eldest child in a family that included his father, Charles, his mother, Marie, his brother Maurice (who would also serve in the Irish Regiment of Canada), half-brother Marcel, and two sisters, Mary and Helene. His family would describe him as quiet, soft-spoken, generous, and caring.
+<br>
 
-Born on November 16, 1920, in Quebec, Richard Charles Tavignot grew up as the eldest child in a family that included his father, Charles, his mother, Marie, his brother Maurice (who would also serve in the Irish Regiment of Canada), half-brother Marcel, and two sisters, Mary and Helene. His family would describe him as quiet, soft-spoken, generous, and caring. 
 After he started working, Richard often bought gifts for his family, particularly for his mother, and would frequently hand his brother Maurice extra money to spend. He was a kind soul with a strong sense of responsibility toward his loved ones.
 
 Richard attended high school but left after just a year to start working and contributing to his family’s income. He found work at the prestigious Royal York Hotel in Toronto as a waiter’s helper, or busboy, and later as a waiter. Despite his relatively modest job, Richard earned $9.00 a week, plus board and tips, which helped him support his family. He was noted to be a healthy, physically active young man, standing at 5’ 9 ½” and weighing 174 pounds, with brown eyes and a passion for sports such as hockey, baseball, swimming, and horseback riding.

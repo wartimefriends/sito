@@ -1,7 +1,12 @@
 +++
-title = "Lieutenant Robert Whyte PATTERSON was born on March 1, 1917, in Stratford, Ontario, Canada. He was the son of Lucinda Patterson and the late Harry M. Patterson, who was the president of the Stratford Brass Company. Raised in a family that valued community involvement and hard work, Robert, affectionately known as “Bob,” exemplified these qualities throughout his life."
+title = "PATTERSON Lieutenant Robert Whyte"
 +++
 
+#### Perth Regt., R.C.I.C.
+<br>
+
+
+Robert Whyte PATTERSON was born on March 1, 1917, in Stratford, Ontario, Canada. He was the son of Lucinda Patterson and the late Harry M. Patterson, who was the president of the Stratford Brass Company. Raised in a family that valued community involvement and hard work, Robert, affectionately known as “Bob,” exemplified these qualities throughout his life.
 
 Bob attended Avon Public School and the Stratford Collegiate-Vocational Institute, where he was not only a diligent student but also an outstanding athlete. He played hockey, rugby, and basketball for his school teams, participating in the Western Ontario Secondary Schools Association competitions. His passion for sports extended into his adult life, where he remained an active participant in various athletic endeavors.
 

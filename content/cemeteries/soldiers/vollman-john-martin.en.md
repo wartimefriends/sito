@@ -1,7 +1,12 @@
 +++
-title = "Corporal John Martin VOLLMAN was born on December 20, 1920, in Balgonie, Saskatchewan. He grew up in a challenging environment; his father, Philip, passed away when John was only eight years old, and his mother, Nellie, remarried to Maxwell Matt. Although from a broken home, John maintained a close connection with his mother, naming her as his next of kin instead of his stepfather. He was the second eldest among his siblings, which included three brothers—Martin, George, and Henry—and three sisters—Monica, Katie, and Amelia."
+title = "VOLLMAN Corporal John Martin - L65516"
 +++
 
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
+
+Corporal John Martin VOLLMAN was born on December 20, 1920, in Balgonie, Saskatchewan. He grew up in a challenging environment; his father, Philip, passed away when John was only eight years old, and his mother, Nellie, remarried to Maxwell Matt. Although from a broken home, John maintained a close connection with his mother, naming her as his next of kin instead of his stepfather. He was the second eldest among his siblings, which included three brothers—Martin, George, and Henry—and three sisters—Monica, Katie, and Amelia.
 
 John attended school until Grade 6 before entering the workforce as a farm laborer, primarily working in grain farming. He was highly skilled in this trade, working in Alberta and Saskatchewan, earning $20 per week with board included. Despite the hardship of his upbringing, he enjoyed outdoor activities such as skating, swimming, hunting, fishing, horseback riding, and playing sports like softball and basketball. His fluency in both English and German added to his versatility.
 

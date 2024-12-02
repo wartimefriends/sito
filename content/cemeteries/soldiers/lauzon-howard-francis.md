@@ -1,8 +1,10 @@
 +++
-title = "Soldato Howard Francis LAUZON C32410"
+title = "Soldato Howard Francis LAUZON - C32410"
 +++
 
-9º Reggimento Corazzato, British Columbia Dragoons, R.C.A.C.
+#### 9º Reggimento Corazzato, British Columbia Dragoons, R.C.A.C.
+<br>
+
 Età: 23 anni
 KIA (Caduto in Azione) il 13 dicembre 1944
 Cimitero di Guerra di Villanova, Settore VII, Fila A, Tomba 3

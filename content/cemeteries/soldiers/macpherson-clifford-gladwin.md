@@ -1,7 +1,12 @@
 +++
-title = "Clifford Gladwin MacPHERSON nacque il 27 giugno 1911 a Musquodoboit, nella contea di Halifax, Nuova Scozia. Cresciuto in una famiglia laboriosa, Clifford era uno di molti fratelli, inclusi due fratelli che, come lui, avrebbero servito nell’esercito. Suo padre, John McLean, era un minatore in una miniera di carbone nella contea di Pictou, un’occupazione impegnativa che influenzò il percorso professionale di Clifford."
+title = "Soldato Clifford MacPHERSON - F52042"
 +++
 
+#### 4th Princess Louise Dragoon Guards R.C.A.C.
+<br>
+
+
+Clifford Gladwin MacPHERSON nacque il 27 giugno 1911 a Musquodoboit, nella contea di Halifax, Nuova Scozia. Cresciuto in una famiglia laboriosa, Clifford era uno di molti fratelli, inclusi due fratelli che, come lui, avrebbero servito nell’esercito. Suo padre, John McLean, era un minatore in una miniera di carbone nella contea di Pictou, un’occupazione impegnativa che influenzò il percorso professionale di Clifford. 
 Clifford lasciò la scuola dopo aver completato la settima classe per aiutare a sostenere la sua famiglia, lavorando per molti anni come minatore di carbone e successivamente come operatore di pale meccaniche sull’autostrada dell’Alaska, guadagnando un salario medio di 35 dollari a settimana. 
 Conosciuto per la sua modestia, maturità e stabilità di carattere, Clifford possedeva un’attitudine meccanica ed era abile nella guida di automobili e camion.
 

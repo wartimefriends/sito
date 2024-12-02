@@ -2,7 +2,9 @@
 title = "Private George BELL - D96244"
 +++
 
-Lanark and Renfrew Scottish Regiment R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment R.C.I.C.
+<br>
+
 
 George Bell was born on March 15, 1922, in Dumfries, Scotland, to William and Janet (Jenny) Bell. He was part of a large family with five brothers—David, William, Robert, John, and Thomas—and four sisters—Jessie (West), Irvine, Janet Elizabeth, and Irene. The Bell family eventually made their home in Tomifobia, Quebec, where George grew up surrounded by the rugged beauty of rural Canada.
 

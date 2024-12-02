@@ -2,8 +2,9 @@
 title = "Soldato BALASH, Victor – matricola H1447"
 +++
 
-Lanark and Renfrew Scottish Regiment R.C.I.C.
-VI C 7
+#### Lanark and Renfrew Scottish Regiment R.C.I.C.
+<br>
+
 
 Victor Balash nacque il 25 maggio 1923 a Kalaz, in Slovacchia. I primi anni della sua vita furono segnati dalla speranza di un futuro migliore, quando la sua famiglia emigrò in Canada nell’ottobre del 1933. Victor, sua madre Bertha, la sorella maggiore Magdalena e il fratello minore Andrew si riunirono a Fort William, in Ontario, con il padre Andrew, che era arrivato in Canada sei anni prima per creare una base per la famiglia. Stabilitisi nel quartiere “Westfort” di Fort William, Victor frequentò la scuola elementare St. Martin e divenne membro della Chiesa cattolica romana di Sant’Agnese.
 

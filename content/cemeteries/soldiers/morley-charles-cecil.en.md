@@ -1,6 +1,10 @@
 +++
-title = "Charles Cecil Morley"
+title = "MORLEY Lance Corporal Charles Cecil - B9669"
 +++
+
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
 
 Born on April 19, 1921, in Granton, Ontario, Charles Morley grew up in a large, close-knit family in the rural community of Monetville, Ontario. The sixth of eleven children, he was raised by his parents, Oscar and Flossie Morley, who instilled in him a strong work ethic and sense of duty. His father, Oscar, was a veteran of the First World War and a member of the Veterans Guard in the Second World War, reinforcing a legacy of service in the Morley household.
 

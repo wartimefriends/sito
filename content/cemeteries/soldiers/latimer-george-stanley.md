@@ -1,13 +1,16 @@
 +++
-title = "Soldato George Stanley LATIMER B46828"
+title = "Soldato George Stanley LATIMER - B46828"
 +++
 
-Reggimento Irlandese del Canada, R.C.I.C.
+#### Reggimento Irlandese del Canada, R.C.I.C.
+<br>
+
 Età: 19 anni
 KIA (Caduto in Azione) il 20 dicembre 1944
 Cimitero di Guerra di Villanova, Settore III, Fila A, Tomba 10
 
-Il Soldato George Stanley LATIMER, membro del Reggimento Irlandese del Canada, era un giovane che diede la vita per il suo paese durante la Seconda Guerra Mondiale. 
+George Stanley LATIMER, membro del Reggimento Irlandese del Canada, era un giovane che diede la vita per il suo paese durante la Seconda Guerra Mondiale.
+
 Nato il 25 agosto 1925 a Georgetown, Ontario, George crebbe in una famiglia molto unita insieme al padre Donald, alla madre Tryphosa, che purtroppo morì nel 1939, e ai suoi fratelli Ronald e Douglas e alla sorella Joan. Gli anni della Grande Depressione resero difficile il sostentamento della famiglia e limitarono le opportunità educative per George.
 
 George frequentò la scuola fino all’ottavo anno e parte del nono, ma dovette lasciare gli studi a 15 anni per aiutare economicamente la famiglia. Trovò lavoro a Georgetown, prima presso un laboratorio di ceramica, poi nella modellazione di mattoni refrattari, e infine presso il Tannery di Acton, dove rimase per un anno e mezzo. Questi lavori fisicamente impegnativi contribuirono a sviluppare le sue abilità pratiche e il suo forte senso del dovere.

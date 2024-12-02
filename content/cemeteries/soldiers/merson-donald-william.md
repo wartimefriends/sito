@@ -1,7 +1,12 @@
 +++
-title = "Donald William MERSON era un uomo dedicato e laborioso, la cui vita è stata definita dall’impegno verso la famiglia e il dovere."
+title = "Soldato Donald William MERSON - B118594"
 +++
 
+#### Perth Regiment R.C.I.C.
+<br>
+
+
+Donald William MERSON era un uomo dedicato e laborioso, la cui vita è stata definita dall’impegno verso la famiglia e il dovere. 
 Nato il 4 giugno 1913 a Toronto, Ontario, Donald era cresciuto in una famiglia modesta, figlio di William e Rose Poole. Era un marito devoto per sua moglie Frances Alice e un padre amorevole per i loro due figli, Donald William e Garry Fredrick.
 
 La vita di Donald fu stata segnata dalla responsabilità e dalla determinazione fin dalla giovane età. Lasciò la scuola dopo aver completato parte dell’ottavo anno, a soli 14 anni, per sostenere la sua famiglia in tempi difficili. Entrò rapidamente nel mondo del lavoro, ricoprendo una varietà di ruoli che dimostrarono la sua versatilità e dedizione. Negli anni, lavorò come fattorino, assistente d’ufficio, operaio in fabbrica e imbottigliatore. Alla fine, trovò un lavoro stabile come operatore e addetto alla configurazione automatica alla John Inglis Company, dove rimase per i quattro anni precedenti al suo arruolamento.

@@ -2,7 +2,9 @@
 title = "Sapper George DAVISON - K71786"
 +++
 
-1° Squadrone del Genio Reale Canadese
+#### 1° Squadrone del Genio Reale Canadese
+<br>
+
 
 Il geniere George Davison nacque il 16 marzo 1922 a Vancouver, British Columbia, e crebbe a Port Coquitlam. Secondo figlio del sergente maggiore James Davison e di Stuart Jackson, George apparteneva a una famiglia profondamente legata al servizio militare e al sacrificio. Suo padre, una figura rispettata nell’esercito, trasmise a George un forte senso del dovere che avrebbe guidato tutta la sua vita.
 

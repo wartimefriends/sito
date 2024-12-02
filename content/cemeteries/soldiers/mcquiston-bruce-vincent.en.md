@@ -1,7 +1,12 @@
 +++
-title = "Sergeant Bruce Vincent McQUISTON, known for his strong sense of duty and commitment, served with distinction in the 9th Armoured Regiment, British Columbia Dragoons, Royal Canadian Armoured Corps (R.C.A.C.)."
+title = "McQUISTON Sergeant Bruce Vincent - K2440"
 +++
 
+#### 9th Armd. Regt., British Columbia Dragoons, R.C.A.C.
+<br>
+
+
+Sergeant Bruce Vincent McQUISTON, known for his strong sense of duty and commitment, served with distinction in the 9th Armoured Regiment, British Columbia Dragoons, Royal Canadian Armoured Corps (R.C.A.C.). 
 Born on January 13, 1920, in Penticton, British Columbia, Bruce grew up in a close-knit family with his parents, William and Dorothy, and his five siblings: Leslie, Charles, Marian, Mrs. R.W. Archer, and Jacqueline. Raised between Penticton and Vancouver, Bruce’s life was shaped by both family ties and a strong desire to serve.
 
 As a young man, Bruce faced his share of challenges, including a bout of rheumatic fever at 16 and a fractured skull at age six. However, he remained resilient, excelling in school and sports. He completed three years of high school before beginning work as a store clerk at the Penticton Trading Association, where he earned $24 a week. An active sportsman, Bruce enjoyed fishing, skiing, and badminton. He also participated in team sports, playing shortstop in baseball, defense in hockey, and fullback in football. His hobbies included stamp collecting, which reflected his curiosity and thoughtful nature.

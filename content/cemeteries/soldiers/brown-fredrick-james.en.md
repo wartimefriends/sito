@@ -2,10 +2,8 @@
 title = "Lance Corporal Fredrick James BROWN - A/28109"
 +++
 
-
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
-KIA December 29, 1944
-Villanova War Cemetery, III C 2
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
 
 
 Fredrick James Brown was born on January 16, 1911, in Nassagaweya, Ontario, to John Henry and Hanna Brown. He grew up as the third of four children, with two brothers, Harvey and Charles, and a sister, Ethel May. The family lived modestly, and Fredrick’s childhood was marked by the early loss of his father when Fredrick was just 21. This loss placed additional responsibility on him to help support his mother, who was unable to work.

@@ -1,11 +1,10 @@
 +++
-title = "Sergeant John James FRASER"
+title = "Sergeant John James FRASER - B135830"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
-Service Number: B135830
-Killed in Action: December 20, 1944, Age 24
-Villanova Canadian War Cemetery, Plot V, Row B, Grave 10
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
 
 John James Fraser was born on February 29, 1920, in Stellarton, Nova Scotia, to Andrew and Mrs. Andrew Fraser. He was the eldest of seven children, with three brothers—Duncan, Donald, and Billy—and three sisters—Bridget, June, and Casimir. His parents were Scottish immigrants, and John’s childhood was marked by a normal and stable home life.
 

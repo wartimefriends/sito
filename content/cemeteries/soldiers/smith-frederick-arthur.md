@@ -1,6 +1,9 @@
 +++
-title = "La Storia del Soldato Frederick Arthur SMITH: Una Vita di Servizio e Sacrificio"
+title = "Soldato Frederick Arthur SMITH - A11766"
 +++
+
+#### Perth Regiment R.C.I.C.
+<br>
 
 
 Frederick Arthur Smith nacque il 4 luglio 1913 a Stratford, Ontario, in una grande famiglia che avrebbe segnato gran parte della sua vita. Figlio di Henry Thomas e Elizabeth Sarah Smith, crebbe con cinque fratelli — George, Harry, Alfred, William e Victor — e tre sorelle — Lizzie, Lulu e Lily. Tragicamente, due dei suoi fratelli, Joyce e Bobby, morirono in giovane età. La famiglia Smith era profondamente radicata nella comunità, rispettando i valori della Chiesa d’Inghilterra.

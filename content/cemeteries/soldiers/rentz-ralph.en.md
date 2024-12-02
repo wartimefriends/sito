@@ -1,9 +1,12 @@
 +++
-title = "The Life and Legacy of Private Ralph Rentz"
+title = "RENTZ Private Ralph - M104291"
 +++
 
+#### 4th Princess Louise Dragoon Guards, R.C.A.C.
+<br>
 
-Private Ralph Rentz, a dedicated soldier of the 4th Princess Louise Dragoon Guards R.C.A.C., was born on February 12, 1907, in Ohio, USA. The fourth of ten children in a loving family, Ralph grew up in a household led by his father, John, and mother, Edith Dora. He completed his education up to Grade 9 in rural schools, where he thrived academically and developed a passion for mechanics. Although he left school after Grade 10 due to its distance from home, he continued to hone his skills as a farm laborer, engaging in both horse and power farming.
+
+Ralph Rentz was born on February 12, 1907, in Ohio, USA. The fourth of ten children in a loving family, Ralph grew up in a household led by his father, John, and mother, Edith Dora. He completed his education up to Grade 9 in rural schools, where he thrived academically and developed a passion for mechanics. Although he left school after Grade 10 due to its distance from home, he continued to hone his skills as a farm laborer, engaging in both horse and power farming.
 
 After spending two years in the United States, Ralph returned to Canada, where he lived in New Dayton, Alberta, at the time of his enlistment. Desiring to serve his country, he enlisted in the Canadian Armed Forces on September 29, 1942, after receiving a call for active duty. His training took him through several military camps, including the Calgary and Edmonton areas, before he was dispatched overseas. Ralph’s military journey began with the #13 D.D. (General Reinforcement) in Calgary, moving on to the United Kingdom, where he arrived on April 4, 1943.
 

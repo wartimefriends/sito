@@ -1,7 +1,14 @@
 +++
-title = "Private Aage LARSEN, a soldier with the 4th Princess Louise Dragoon Guards in the Royal Canadian Armoured Corps, was a man of quiet determination and a deep-rooted sense of duty. Born on December 17, 1905, in Viskinge, Sjælland, Denmark, Aage grew up in a large family as the fifth of seven children. Although he enjoyed his school years, he left his education early to help support his family financially."
+title = "Private Aage LARSEN - B116098"
 +++
 
+#### 4th Princess Louise Dragoon Guards, R.C.A.C
+<br>
+
+
+Aage LARSEN, a soldier with the 4th Princess Louise Dragoon Guards in the Royal Canadian Armoured Corps, was a man of quiet determination and a deep-rooted sense of duty. 
+
+Born on December 17, 1905, in Viskinge, Sjælland, Denmark, Aage grew up in a large family as the fifth of seven children. Although he enjoyed his school years, he left his education early to help support his family financially. 
 In 1926, at the age of 20, Aage emigrated to Canada in search of new opportunities. By 1935, he was a naturalized Canadian citizen, having embraced his new homeland with dedication and sincerity.
 
 Aage spent his early years in Canada working primarily in farming during the summers and logging in the winter months. These roles allowed him to establish a strong work ethic and a connection to the land, and he continued to engage in these seasonal occupations for nearly 15 years. His practical skills grew over time, and he held various jobs in production, including at the Reliable Toy Company and Massey Harris Company. By the time of his enlistment, he was employed as a tire builder at Gutta Percha & Rubber Company in Toronto. 

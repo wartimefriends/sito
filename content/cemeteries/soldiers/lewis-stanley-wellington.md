@@ -1,6 +1,9 @@
 +++
-title = "Soldato Stanley Wellington LEWIS: Una Vita di Dovere e Sacrificio"
+title = "Soldato Stanley Wellington LEWIS - L 13658"
 +++
+
+#### Lanark and Renfrew Scottish Regiment R.C.I.C.
+<br>
 
 
 Stanley Wellington Lewis nacque il 16 luglio 1916 a Valor, Saskatchewan, figlio di Henry Wellington Lewis ed Edna Elvira Lewis. Cresciuto in una fattoria di famiglia in un ambiente di origini gallesi e scozzesi, Stanley visse la sua infanzia insieme ai suoi due fratelli, Norval e Kenneth, e alle sue due sorelle, Verna e Dorothy. La vita nella fattoria plasmò il suo senso del dovere e le sue capacità, preparandolo alle responsabilità che avrebbe affrontato nel corso della vita.

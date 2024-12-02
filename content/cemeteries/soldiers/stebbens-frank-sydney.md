@@ -1,7 +1,12 @@
 +++
-title = "Il Capitano Frank Sydney STEBBENS servì con l’11º Reggimento da Campo della Royal Canadian Artillery durante la Seconda Guerra Mondiale."
+title = "Capitano Frank Sydney STEBBENS"
 +++
 
+#### 11 Field Regt., Royal Canadian Artillery
+<br>
+
+
+Il Capitano Frank Sydney STEBBENS servì con l’11º Reggimento da Campo della Royal Canadian Artillery durante la Seconda Guerra Mondiale. 
 Nato il 28 marzo 1907 a Winnipeg, Manitoba, perse la vita per le ferite riportate il 15 dicembre 1944, a 38 anni, durante la Campagna d’Italia. È sepolto al Cimitero di Guerra di Villanova, alla sezione VII, fila A, tomba 1.
 
 Frank era il maggiore di quattro figli; insieme ai genitori, Frank e Ida Stebbens, la sua famiglia comprendeva i fratelli Eddie, Marjorie ed Eva. Sebbene fosse divorziato, aveva una figlia, Ida Gail, sua parente più prossima, che trascorreva gran parte dell’anno presso il convento delle Suore della Santa Croce a Montreal, sotto la custodia della nonna in assenza del padre.

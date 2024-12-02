@@ -1,6 +1,9 @@
 +++
-title = "The Life and Service of Private John Sinclair"
+title = "SINCLAIR Private John - D10155"
 +++
+
+#### Lanark and Renfrew Regiment, R.C.I.C.
+<br>
 
 
 Private John Sinclair, a member of the Lanark and Renfrew Regiment of the Royal Canadian Infantry Corps (R.C.I.C.), served his country with bravery until his life was tragically cut short in action on January 6, 1945, at age 38. He is remembered at the Villanova War Cemetery in Italy, where he rests in plot I-A-3.

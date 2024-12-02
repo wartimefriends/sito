@@ -1,6 +1,9 @@
 +++
-title = "La Vita e il Servizio del Soldato Semplice Lorne Henry PODANN"
+title = "Soldato Lorne Henry PODANN - A64791"
 +++
+
+#### Perth Regiment, R.C.I.C.
+<br>
 
 
 Il soldato semplice Lorne Henry Podann, un giovane soldato del Perth Regiment del Royal Canadian Infantry Corps, ha servito il suo paese con silenziosa determinazione fino alla sua tragica scomparsa in Italia il 20 dicembre 1944. 

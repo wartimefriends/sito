@@ -1,7 +1,12 @@
 +++
-title = "Trooper William Sayers McLEAN, a dedicated soldier in the 3rd Armoured Reconnaissance Regiment, Governor General’s Horse Guards, Royal Canadian Armoured Corps, demonstrated a strong commitment to service throughout his life. Born on December 2, 1913, in Vancouver, British Columbia, William was raised in a family that valued hard work and resilience. His parents, William and Florence, supported his ambitions, and his only sibling, Douglas Robert, served in the Royal Canadian Air Force (RCAF), reflecting the family’s shared sense of duty."
+title = "McLEAN Trooper William Sayers - M60418"
 +++
 
+#### 3rd Armd. Recce, Regt., G.G.H.G. R.C.A.C.
+<br>
+
+
+Trooper William Sayers McLEAN, a dedicated soldier in the 3rd Armoured Reconnaissance Regiment, Governor General’s Horse Guards, Royal Canadian Armoured Corps, demonstrated a strong commitment to service throughout his life. Born on December 2, 1913, in Vancouver, British Columbia, William was raised in a family that valued hard work and resilience. His parents, William and Florence, supported his ambitions, and his only sibling, Douglas Robert, served in the Royal Canadian Air Force (RCAF), reflecting the family’s shared sense of duty.
 
 William had a solid educational background, completing his Grade XII Technical Matriculation with a focus on automotive mechanics. He pursued this interest further by attending Vancouver Technical School and night courses, eventually mastering automotive mechanics. Known for his intelligence and diligence, he excelled in technical subjects and was highly regarded for his ability to work well with others. Outside of academics, William enjoyed tennis, skiing, and reading.
 

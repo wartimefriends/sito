@@ -1,7 +1,12 @@
 +++
-title = "John Sidney WATSON nacque il 18 luglio 1916 a Severn Bridge, in Ontario. Fu cresciuto da sua madre, Mabel Annie Watson, e dal patrigno, Fred, dopo che suo padre, John P. Smith, fu ucciso mentre serviva in Francia durante la Prima Guerra Mondiale. John aveva una sorella, Mabel Eileen Cooke, che usava anche il cognome Watson, oltre a tre fratelli acquisiti: William Francis, Herbert Henry ed Eugene Frederick. La famiglia Watson si stabilì poi a Wynyard, in Saskatchewan, dove John trascorse gran parte della sua giovinezza."
+title = "Soldato John Sidney WATSON - L11222"
 +++
 
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
+
+John Sidney WATSON nacque il 18 luglio 1916 a Severn Bridge, in Ontario. Fu cresciuto da sua madre, Mabel Annie Watson, e dal patrigno, Fred, dopo che suo padre, John P. Smith, fu ucciso mentre serviva in Francia durante la Prima Guerra Mondiale. John aveva una sorella, Mabel Eileen Cooke, che usava anche il cognome Watson, oltre a tre fratelli da parte di madre: William Francis, Herbert Henry ed Eugene Frederick. La famiglia Watson si stabilì poi a Wynyard, in Saskatchewan, dove John trascorse gran parte della sua giovinezza.
 
 John completò la settima classe prima di lasciare la scuola all’età di 15 anni per contribuire al sostegno della sua famiglia. La sua vita familiare era stabile e la sua condotta durante gli anni scolastici era considerata normale. I suoi passatempi preferiti includevano la caccia, il pattinaggio e il baseball, in cui eccelleva come ricevitore. Anche se John non era noto per le sue capacità accademiche ed era descritto come “mentalmente lento”, era fisicamente sveglio e capace. Nonostante queste difficoltà, era in grado di svolgere bene alcuni compiti nell’esercito ed era considerato avere una disposizione positiva e una buona attitudine fisica.
 

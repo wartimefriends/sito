@@ -1,7 +1,12 @@
 +++
-title = "Russell Edwin MARTIN nacque in una famiglia molto unita a East Luther, in Ontario, amato figlio del signor e della signora Edwin Martin. Crescendo in una comunità rurale, Russell visse probabilmente i ritmi tranquilli della vita agricola canadese, circondato da famiglia e vicini che condividevano le loro vite l’uno con l’altro. La sua educazione a East Luther gli instillò i valori del duro lavoro, della lealtà alla comunità e della resilienza—qualità che avrebbero plasmato la sua vita e, in ultima analisi, il suo servizio al paese."
+title = "Soldato Russell Edwin MARTIN"
 +++
 
+#### Irish Regiment of Canada, R.C.I.C-
+<br>
+
+
+Russell Edwin MARTIN nacque in una famiglia molto unita a East Luther, in Ontario, amato figlio del signor e della signora Edwin Martin. Crescendo in una comunità rurale, Russell visse probabilmente i ritmi tranquilli della vita agricola canadese, circondato da famiglia e vicini che condividevano le loro vite l’uno con l’altro. La sua educazione a East Luther gli instillò i valori del duro lavoro, della lealtà alla comunità e della resilienza—qualità che avrebbero plasmato la sua vita e, in ultima analisi, il suo servizio al paese.
 
 Nel 1940, quando il Canada fu coinvolto nel conflitto globale della Seconda Guerra Mondiale, giovani di tutta la nazione sentirono il richiamo del dovere. Russell era tra loro, spinto da un senso di responsabilità a proteggere le libertà e gli ideali che la sua famiglia e la sua comunità apprezzavano. Si arruolò nell’esercito canadese, lasciando i comfort familiari di East Luther per entrare in un mondo di disciplina, cameratismo e sfide profonde. 
 La sua famiglia, sebbene addolorata per la sua partenza, lo sostenne con orgoglio, sapendo che si stava facendo avanti per difendere i valori a loro cari.

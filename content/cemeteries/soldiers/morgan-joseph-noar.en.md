@@ -1,7 +1,12 @@
 +++
-title = "Sapper Joseph Noar MORGAN, a dedicated soldier of the 1st Field Squadron, Royal Canadian Engineers, was only 25 when he gave his life in service to his country on December 29, 1944."
+title = "MORGAN Sapper Joseph Noar - F31644"
 +++
 
+#### 1 Field Sqn, Royal Canadian Engineers
+<br>
+
+
+Sapper Joseph Noar MORGAN, a dedicated soldier of the 1st Field Squadron, Royal Canadian Engineers, was only 25 when he gave his life in service to his country on December 29, 1944. 
 Born on September 13, 1917, in Dominion, Nova Scotia, Joseph grew up in the heart of a large family in New Aberdeen. He was the tenth of eleven siblings, raised by his mother, Rebecca, and his father, Charles, who passed away when Joseph was just 19 years old. This early loss marked a turning point in Joseph’s life, as he took on responsibilities to support his family, a role he fulfilled with steadfast dedication.
 
 Joseph’s early years were spent attending school, where he started at the age of seven and continued until he was 14, leaving to support his parents after his father’s death. Known for his cheerful and cooperative nature, he had a passion for sports and spent his youth engaged in hunting, hockey, baseball, and rugby. In hockey, he played as a goalie, while in baseball, he manned first base, and in rugby, he took the position of quarterback, showcasing his versatility and strength as a team player.

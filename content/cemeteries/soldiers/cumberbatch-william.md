@@ -2,9 +2,9 @@
 title = "Caporale William CUMBERBATCH"
 +++
 
-1° Battaglione – King’s Own Rifle Corps
+#### 1° Battaglione – King’s Own Rifle Corps
+<br>
 
-Un Marito, Padre e Soldato Devoto
 
 Il caporale William Cumberbatch nacque e crebbe a Bolton, Regno Unito, dove frequentò la Derby Street School ed era membro della Holy Trinity Church. Conosciuto per il suo spirito laborioso e il forte senso di comunità, William viveva con la sua famiglia al numero 16 di Orme Street, a Bolton, prima di arruolarsi nell’esercito.
 

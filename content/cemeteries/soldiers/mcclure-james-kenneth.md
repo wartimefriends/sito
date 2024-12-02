@@ -1,7 +1,12 @@
 +++
-title = "Il soldato James Kenneth McCLURE nacque il 15 maggio 1920 a Norville, Ontario. Cresciuto come il maggiore di tre figli, ha affrontato sfide precoci, con suo padre, William Alexander, che è morto quando James aveva solo 15 mesi. Cresciuto da sua madre, Edna, a Sarnia, Ontario, James aveva due fratelli: Donald Leonard, che fu poi ucciso in Sicilia nel 1943, e John William Alex. Aveva anche un fratellastro, Edward Leland Ivinson, che prestò servizio nella Marina degli Stati Uniti."
+title = "Soldato James Kenneth McCLURE - A28723"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+James Kenneth McCLURE nacque il 15 maggio 1920 a Norville, Ontario. Cresciuto come il maggiore di tre figli, ha affrontato sfide precoci, con suo padre, William Alexander, che è morto quando James aveva solo 15 mesi. Cresciuto da sua madre, Edna, a Sarnia, Ontario, James aveva due fratelli: Donald Leonard, che fu poi ucciso in Sicilia nel 1943, e John William Alex. Aveva anche un fratellastro, Edward Leland Ivinson, che prestò servizio nella Marina degli Stati Uniti.
 
 James frequentò la scuola fino alla classe ottava, con un breve periodo nella nona. Pur avendo un alto potenziale scolastico, lasciò la scuola a causa di un disinteresse per gli studi. In seguito, trascorse cinque anni a fare l'agricoltore, gestendo infine una fattoria di 200 acri per due anni. Alla ricerca di migliori prospettive finanziarie, lavorò come mozzo su una nave mercantile dei Grandi Laghi con la Canada Steamship Lines, con l'intenzione di tornare un giorno all'agricoltura.
 

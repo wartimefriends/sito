@@ -1,8 +1,10 @@
 +++
-title = "Sergente Charles Hugh CLARK - Numero di matricola M25843"
+title = "Sergente Charles Hugh CLARK-M25843"
 +++
 
-4th Princess Louise Dragoon Guards, Corpo di Fanteria Reale Canadese
+#### 4th Princess Louise Dragoon Guards
+<br>
+
 
 Charles Hugh Clark nacque il 24 ottobre 1920 a Edmonton, Alberta. Il più giovane di tre figli, Charles crebbe con le sue due sorelle maggiori, Mrs. A.G. Verchere e Mrs. W.R. McCutcheon. Figlio di Charles Hugh Berton e Martha V. Clark, era noto per la sua intelligenza, il suo talento atletico e il suo potenziale da leader.
 

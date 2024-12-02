@@ -1,6 +1,9 @@
 +++
-title = "Cavaliere Walter Henry GOODALL"
+title = "Cavaliere Walter Henry GOODALL - K76212"
 +++
+
+#### 3rd Armd. Recce, G. G. H. G. Regt., R.C.A.C.
+<br>
 
 
 La storia di Walter Henry Goodall è una storia di servizio, abilità e sacrificio, che riflette il percorso di un giovane che lasciò la sua casa nella Columbia Britannica per combattere per la libertà durante la Seconda Guerra Mondiale.

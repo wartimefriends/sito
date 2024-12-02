@@ -1,7 +1,12 @@
 +++
-title = "Trooper Ralph James OLDIS (Service Number: K906) was born on April 12, 1918, in Vancouver, British Columbia, Canada. The only child of Fred and Rita Oldis, Ralph grew up in a family that faced the challenges of separation, with his parents parting ways during his youth. His father worked as an auto-painter in Vancouver, a trade that would later influence Ralph’s own career path, while his mother relocated to Calgary, becoming Mrs. J. Dunn."
+title = "OLDIS Trooper Ralph James - K906"
 +++
 
+#### 9th Armd. Regt., British Columbia Dragoons, R.C.A.C
+<br>
+
+
+Ralph James OLDIS was born on April 12, 1918, in Vancouver, British Columbia, Canada. The only child of Fred and Rita Oldis, Ralph grew up in a family that faced the challenges of separation, with his parents parting ways during his youth. His father worked as an auto-painter in Vancouver, a trade that would later influence Ralph’s own career path, while his mother relocated to Calgary, becoming Mrs. J. Dunn.
 
 Ralph attended school up to the eighth grade, leaving at the age of 16. Despite the early conclusion of his formal education, he was noted for his normal conduct during his school years. An active and outdoorsy young man, he enjoyed swimming, golf, and hunting—activities that highlighted his adventurous spirit and physical capabilities.
 

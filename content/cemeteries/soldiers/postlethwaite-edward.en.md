@@ -1,6 +1,9 @@
 +++
-title = "The Life and Service of Private Edward POSTLETHWAITE"
+title = "POSTLETHWAITE Private Edward - F89309"
 +++
+
+#### Breton Highlanders, R.C.I.C.
+<br>
 
 
 Private Edward Postlethwaite, a member of the Cape Breton Highlanders of the Royal Canadian Infantry Corps (R.C.I.C.), gave his life in service to his country on December 13, 1944, in Italy. 

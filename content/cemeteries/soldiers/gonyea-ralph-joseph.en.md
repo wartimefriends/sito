@@ -2,9 +2,9 @@
 title = "Private Ralph Joseph GONYEA"
 +++
 
-4th Princess Louise Dragoon Guards, R.C.A.C.
-Killed in Action: December 13, 1944, Age 20
-Villanova War Cemetery, Plot II, Row C, Grave 2
+#### 4th Princess Louise Dragoon Guards, R.C.A.C.
+<br>
+
 
 Ralph Joseph Gonyea was born on October 21, 1924, in Trenton, Ontario, to Joseph Allen and Stella (Smith) Gonyea. One of 11 children, Ralph grew up in a large, close-knit family with eight brothers—Aele, Cyril, Alex, Allan, Jerry, Teddy, Joseph, and Armand—and two sisters, Joy and June. His childhood was shaped by the need to support his family, as his mother was often unwell. Ralph attended public school in Trenton, completing Grade 5 and leaving after two months in Grade 6 to help care for his siblings and assist his mother.
 

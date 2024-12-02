@@ -1,7 +1,14 @@
 +++
-title = "Private Arthur LAROCQUE, a member of the Royal 22e Régiment of the Royal Canadian Infantry Corps, was a humble and dedicated soldier who served his country with quiet resolve. Born on April 24, 1922, in Eastview, Ontario, Arthur was raised in a large family with deep-rooted ties. His father, Albert, and mother, Celina, provided for their family as best they could, but when Celina passed away in 1933, Arthur, along with his siblings—Albert, Hector, Paul, Celina, Irene, Cecile, Alice, and Thérèse—faced a challenging upbringing."
+title = "Arthur Alfred LAROCQUE - C32671"
 +++
 
+#### Royal 22e Régiment, R.C.I.C.
+<br>
+
+
+Arthur LAROCQUE, a member of the Royal 22e Régiment of the Royal Canadian Infantry Corps, was a humble and dedicated soldier who served his country with quiet resolve. 
+
+Born on April 24, 1922, in Eastview, Ontario, Arthur was raised in a large family with deep-rooted ties. His father, Albert, and mother, Celina, provided for their family as best they could, but when Celina passed away in 1933, Arthur, along with his siblings—Albert, Hector, Paul, Celina, Irene, Cecile, Alice, and Thérèse—faced a challenging upbringing.
 
 Arthur completed Grade 6 before leaving school at the age of 15. Despite his limited formal education, he quickly developed a solid work ethic, securing employment in a local Ottawa restaurant. Starting as a waiter, he eventually took on responsibilities as a cook, working for two and a half years before enlisting.
 Known for his practical skills, Arthur aspired to work as a machinist in the future, a testament to his steady ambitions and adaptability.

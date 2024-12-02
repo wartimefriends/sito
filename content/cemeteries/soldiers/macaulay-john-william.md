@@ -1,7 +1,12 @@
 +++
-title = "John William MacAULAY nacque il 27 maggio 1916 nella tranquilla comunità agricola di Cardigan, sull’Isola del Principe Edoardo. Cresciuto in una famiglia molto unita, John era figlio di Daniel Charles MacAulay e della sua defunta madre, Rosella. Crebbe accanto ai suoi due fratelli, Joseph e Peter, e alle sue tre sorelle, una delle quali si trasferì successivamente a Halifax, mentre un’altra rimase a Cardigan. Come molti giovani provenienti da aree rurali, John sviluppò una forte etica del lavoro fin dalla giovane età."
+title = "Soldato John William MACAULAY - F59848"
 +++
 
+#### Lanark and Renfrew Scottish Regiment R.C.I.C.
+<br>
+
+
+John William MacAULAY nacque il 27 maggio 1916 nella tranquilla comunità agricola di Cardigan, sull’Isola del Principe Edoardo. Cresciuto in una famiglia molto unita, John era figlio di Daniel Charles MacAulay e della sua defunta madre, Rosella. Crebbe accanto ai suoi due fratelli, Joseph e Peter, e alle sue tre sorelle, una delle quali si trasferì successivamente a Halifax, mentre un’altra rimase a Cardigan. Come molti giovani provenienti da aree rurali, John sviluppò una forte etica del lavoro fin dalla giovane età. 
 Lavorò per tre anni come bracciante nella fattoria di famiglia e per due anni come addetto ai binari ferroviari. Nonostante gli impegni lavorativi, John coltivava l’ambizione di diventare fabbro, immaginando una vita incentrata sul lavoro manuale che tanto amava.
 
 John completò due anni di scuola superiore, arrivando all’undicesimo grado, e si distinse negli sport, in particolare rugby, baseball, hockey e pallamano. Queste attività gli trasmisero un senso di cameratismo e disciplina, tratti che gli sarebbero tornati utili nella sua carriera militare. Era noto per il suo bel fisico, l’atteggiamento stabile e un approccio moderato al bere e al fumo. Con un’altezza di 1,74 m e un peso di 75 kg, era ben adatto alle esigenze fisiche della vita militare.

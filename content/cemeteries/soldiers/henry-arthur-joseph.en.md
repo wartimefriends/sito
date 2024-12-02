@@ -1,6 +1,9 @@
 +++
-title = "Private Arthur Joseph HENRY"
+title = "Private Arthur Joseph HENRY - B23244"
 +++
+
+#### Royal Canadian Regiment
+<br>
 
 
 Arthur Joseph Henry’s life and sacrifice tell the story of a dedicated soldier who left behind a humble life in Chatham Head, New Brunswick, to serve his country during one of the most challenging periods in history. 

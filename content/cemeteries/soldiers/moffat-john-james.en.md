@@ -1,7 +1,12 @@
 +++
-title = "Lieutenant John James MOFFAT served in A Company of the Irish Regiment of Canada."
+title = "MOFFAT, John James, Lt."
 +++
 
+#### A Company – Irish Regiment of Canada
+<br>
+
+
+Lieutenant John James MOFFAT served in A Company of the Irish Regiment of Canada. 
 Born on December 1, 1920, in Winnipeg, Manitoba, John was 24 years old at the time of his death. He stood at 5’9½” and weighed 141 lbs, with a fair complexion, hazel eyes, and dark brown hair. His religious affiliation was with the Church of England, and he was single.
 
 John’s family included his father, William Jeffery, and his mother, Mildred Ethel. The records do not specify if he had siblings. After completing Grade 11, he worked as a bank clerk at the Bank of Commerce in Winnipeg for four years before enlisting.

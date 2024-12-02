@@ -2,9 +2,9 @@
 title = "Private Colin Andrew CAMPBELL - F88689"
 +++
 
-Cape Breton Highlanders of Canada, R.C.I.C.
+#### Cape Breton Highlanders of Canada, R.C.I.C.
+<br>
 
-A Complex Life of Service and Sacrifice
 
 Private Colin Andrew Campbell was born on December 17, 1911, in Port Hood, Nova Scotia. The son of Alexander and Margaret Campbell, Colin’s early life was marked by hardship. Orphaned at just 11 years old, he grew up with one surviving brother, John D., and three sisters: Sadie, Mrs. G. MacKinnon, and Josephine Rankin. Another brother, John Duncan, passed away in 1935, and his sister Mary also died young.
 

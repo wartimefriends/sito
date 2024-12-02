@@ -1,7 +1,12 @@
 +++
-title = "William Alexander MALLOY’s story is one of courage, sacrifice, and a life dedicated to service amidst the challenges of war."
+title = "Pte MALLOY, William Alexander - F/2969"
 +++
 
+#### C Company – Irish Regiment of Canada, R.C.I.C.
+<br>
+
+
+William Alexander MALLOY’s story is one of courage, sacrifice, and a life dedicated to service amidst the challenges of war. 
 Born into a modest family, William grew up with values of hard work, resilience, and loyalty—qualities that would later define his military journey and his ultimate sacrifice.
 
 Like many young men of his generation, William answered the call to serve during World War II. He enlisted with determination, leaving behind the familiar comforts of home to join countless others in the fight for a better world. His reasons for joining the military were rooted in a sense of duty and a willingness to stand up for his country, even at great personal risk.

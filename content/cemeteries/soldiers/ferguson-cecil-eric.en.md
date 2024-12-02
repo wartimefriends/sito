@@ -2,9 +2,9 @@
 title = "Private Cecil Eric Ferguson"
 +++
 
-4th Princess Louise Dragoon Guards, R.C.I.C.
-Killed in Action: December 22, 1944, Age 20
-Villanova War Cemetery, Plot VI, Grave 6
+#### 4th Princess Louise Dragoon Guards, R.C.I.C.
+<br>
+
 
 Cecil Eric Ferguson was born on March 19, 1923, in Kentville, Kings County, Nova Scotia, to James and Bertha Blanche Ferguson. He was one of four children, with an older brother, James Malcolm, and two sisters, Alberta (Mrs. Willard Ellis) and Jean (Mrs. Cameron McPherson). Raised in Kentville, Cecil grew up in a family shaped by strong community values and a legacy of service, as his father was a veteran of the First World War.
 

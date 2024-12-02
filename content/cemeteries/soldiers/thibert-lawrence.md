@@ -1,9 +1,15 @@
 +++
-title = "Lawrence THIBERT, numero di matricola A102099, ha prestato servizio con il Lanark and Renfrew Scottish Regiment, Royal Canadian Infantry Corps (R.C.I.C.)."
+title = "Soldato Lawrence THIBERT - A102099"
 +++
 
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
 
-Nato il 1° marzo 1921 a Tilbury, Ontario, Lawrence aveva solo 23 anni quando fu ucciso in azione il 19 dicembre 1944 nella zona del Fosso Munio. Ora riposa nel Cimitero di Guerra di Villanova, in Italia, nel Settore V, Fila A, Tomba 1.
+
+Lawrence THIBERT, numero di matricola A102099, ha prestato servizio con il Lanark and Renfrew Scottish Regiment, Royal Canadian Infantry Corps (R.C.I.C.).
+
+Nato il 1° marzo 1921 a Tilbury, Ontario, Lawrence aveva solo 23 anni quando fu ucciso in azione il 19 dicembre 1944 nella zona del Fosso Munio.
+Ora riposa nel Cimitero di Guerra di Villanova nel Settore V, Fila A, Tomba 1.
 
 Lawrence era figlio di Gilbert Thibert, un operaio, e Leona Giroux. Cresciuto in una modesta famiglia franco-canadese, era uno dei quattro figli, con un fratello maggiore, Alphonse, e due sorelle, Aurise ed Elaine (quest’ultima morta in tenera età). La famiglia viveva a Windsor, Ontario, dove Lawrence risiedeva prima di arruolarsi.
 

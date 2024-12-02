@@ -1,6 +1,9 @@
 +++
-title = "Private Kenneth Edmund HEPINSTALL"
+title = "Private Kenneth Edmund HEPINSTALL - B157987"
 +++
+
+#### Perth Regiment R.C.I.C.
+<br>
 
 
 Kenneth Edmund Hepinstall’s story is a poignant reflection of determination, resilience, and sacrifice. 

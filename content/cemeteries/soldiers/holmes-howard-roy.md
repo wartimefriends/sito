@@ -1,9 +1,13 @@
 +++
-title = "Carrista Howard Roy HOLMES: Una Determinazione Silenziosa al Servizio"
+title = "Carrista Howard Roy HOLMES - - B137317"
 +++
 
+#### 3rd Armoured Reconnaissance Regiment, G.G.H.G., R.C.A.C.
+<br>
 
-Howard Roy Holmes, matricola B137317, prestò servizio con il 3° Reggimento Corazzato da Ricognizione, Governor General’s Horse Guards, del Royal Canadian Armoured Corps. 
+
+Howard Roy Holmes, matricola B137317, prestò servizio con il 3° Reggimento Corazzato da Ricognizione, Governor General’s Horse Guards, del Royal Canadian Armoured Corps.
+
 Nato il 14 giugno 1920 a Owen Sound, Ontario, Howard era il maggiore di quattro fratelli e crebbe in una famiglia segnata da difficoltà e resilienza. Dopo la separazione dei suoi genitori, Elmer Roy Holmes e Helen Ada Holmes, quando aveva sei anni, Howard fu cresciuto dalla nonna.
 
 Howard completò gli studi fino alla terza media, lasciando la scuola a 16 anni per lavorare e contribuire al sostegno della famiglia. Trovò un impiego stabile come bracciante agricolo nel distretto di Georgian Bay, acquisendo una vasta esperienza nell’agricoltura mista e nel lavoro con i cavalli. L’agricoltura divenne la sua passione, e aspirava un giorno a possedere una propria fattoria. Prima di arruolarsi, guadagnava 10 dollari a settimana con vitto e alloggio, dimostrando una forte etica del lavoro e dedizione.

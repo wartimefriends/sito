@@ -2,9 +2,9 @@
 title = "Soldato Ernie Batiste GEORGE"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
-Caduto in combattimento: 13 dicembre 1944, all’età di 26 anni
-Cimitero di Guerra di Villanova, Plot VI, Fila C, Tomba 6
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
 
 Ernie Batiste George nacque il 25 agosto 1917 a Oliver, nella Columbia Britannica, nella riserva indiana di Inkameep. Figlio del Capo Narcisse George e di Victoria George, Ernie proveniva da una numerosa famiglia con cinque fratelli—Edward, Charlie, John, Henry e Francis—e due sorelle, Theresa e Irene. Cresciuto nella fattoria mista del padre, Ernie visse in un ambiente felice e solidale, circondato da campi di erba medica, bestiame e dalle ricche tradizioni culturali della sua eredità indigena.
 
@@ -19,7 +19,8 @@ Nell’ottobre 1943, Ernie sbarcò in Italia come parte del Lanark and Renfrew S
 
 Come membro della riserva indiana di Inkameep, Ernie rappresentava la fiera tradizione dei soldati indigeni che risposero alla chiamata alle armi durante la Seconda Guerra Mondiale. I canadesi indigeni, con la loro esperienza nella caccia e nell’uso delle armi da fuoco, erano particolarmente apprezzati dall’esercito. La nipote di Ernie, Pauline Armstrong, lo descrisse come un leader naturale—forte, orgoglioso e umile, con una voce che catturava l’attenzione e il rispetto. Ricordando la sua decisione di servire, affermò: “Voleva combattere per il suo paese. Era il suo paese. Tutti erano lì a combattere per la stessa causa: fermare Hitler.”
 
-Il 13 dicembre 1944, durante le operazioni vicino a Villanova, Italia, il soldato Ernie Batiste George cadde in combattimento in un campo agricolo al Fosso Vecchio. La sua morte segnò la perdita di un soldato coraggioso e devoto, che diede la vita nella lotta per la libertà. Aveva solo 26 anni.
+Il 13 dicembre 1944, durante le operazioni vicino a Villanova, Italia, il soldato Ernie Batiste George cadde in combattimento in un campo agricolo al Fosso Vecchio. La sua morte segnò la perdita di un soldato coraggioso e devoto, che diede la vita nella lotta per la libertà.
+Aveva solo 26 anni.
 
 Ernie fu sepolto nel Cimitero di Guerra di Villanova, dove la sua tomba onora il suo sacrificio. La sua eredità vive attraverso i racconti della sua famiglia e l’orgoglio duraturo della Osoyoos Indian Band, i cui membri lo ricordano come un simbolo di forza e servizio.
 

@@ -1,7 +1,12 @@
 +++
-title = "Russell Edwin MARTIN was born into a close-knit family in East Luther, Ontario, the beloved son of Mr. and Mrs. Edwin Martin."
+title = "MARTIN Private Russell Edwin"
 +++
 
+#### Irish Regiment of Canada, R.C.I.C-
+<br>
+
+
+Russell Edwin MARTIN was born into a close-knit family in East Luther, Ontario, the beloved son of Mr. and Mrs. Edwin Martin. 
 Growing up in a rural community, Russell likely experienced the quiet rhythms of Canadian farm life, surrounded by family and neighbors who shared in each other’s lives. His upbringing in East Luther instilled in him values of hard work, community loyalty, and resilience—qualities that would shape his life and ultimately his service to his country.
 
 In 1940, as Canada was drawn into the global conflict of the Second World War, young men across the nation felt the call of duty. Russell was among them, driven by a sense of responsibility to protect the freedoms and ideals that his family and community cherished. 

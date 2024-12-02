@@ -1,6 +1,9 @@
 +++
-title = "Caporale Raymond Vincent HENDRICKSEN"
+title = "Caporale Raymond Vincent HENDRICKSEN - D166507"
 +++
+
+#### 4th Princess Louise Dragoon Guards R.C.A.C.
+<br>
 
 
 La storia di Raymond Vincent Hendricksen è una storia di dedizione, resilienza e sacrificio, che inizia nei suoi umili inizi a Newcastle, New Brunswick, e culmina nel suo servizio con il 4th Princess Louise Dragoon Guards in Italia. 

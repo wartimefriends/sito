@@ -1,6 +1,9 @@
 +++
-title = "The Story of Private Vernon Angus Smith: A Young Soldier’s Journey"
+title = "SMITH Private Vernon Angus - B38058"
 +++
+
+#### Westminster Regiment (Motors), R.C.I.C.
+<br>
 
 
 Vernon Angus Smith was born on February 9, 1921, in Brantford, Ontario, into a large and hardworking family. As the eldest child of Edwin and Ada L. Smith, he grew up with the responsibilities of looking out for his five brothers—John E., James M., Donald C., and William E.—and three sisters—Mildred A., Jeanette S., and Myrtle A. Raised in a devout Salvation Army household, Vernon’s upbringing was steeped in values of dedication, faith, and perseverance.

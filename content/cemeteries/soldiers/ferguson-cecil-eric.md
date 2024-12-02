@@ -2,9 +2,9 @@
 title = "Privato Cecil Eric FERGUSON"
 +++
 
-4° Reggimento Princess Louise Dragoon Guards, R.C.I.C.
-Caduto in azione: 22 dicembre 1944, all’età di 20 anni
-Cimitero di Guerra di Villanova, Plot VI, Tomba 6
+#### 4° Reggimento Princess Louise Dragoon Guards, R.C.I.C.
+<br>
+
 
 Cecil Eric Ferguson nacque il 19 marzo 1923 a Kentville, nella contea di Kings, Nuova Scozia, figlio di James e Bertha Blanche Ferguson. Era uno dei quattro figli della famiglia, con un fratello maggiore, James Malcolm, e due sorelle, Alberta (signora Willard Ellis) e Jean (signora Cameron McPherson). Cresciuto a Kentville, Cecil visse in una famiglia caratterizzata da forti valori comunitari e da una tradizione di servizio, poiché suo padre era un veterano della Prima Guerra Mondiale.
 

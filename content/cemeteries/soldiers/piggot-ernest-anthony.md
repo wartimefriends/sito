@@ -1,7 +1,12 @@
 +++
-title = "Ernest Anthony PIGGOTT  - matricola n° D81360, nacque il 10 gennaio 1919 a Montreal, Quebec, Canada. Era il quarto di cinque figli nati da William ed Edith Piggott, con due fratelli e due sorelle che completavano la famiglia. Cresciuto in un ambiente solidale, Ernest sviluppò una serie di interessi che plasmarono il suo carattere e le sue future imprese."
+title = "Soldato Ernest Anthony PIGGOTT - D81360"
 +++
 
+#### 4th Princess Louise Dragoon Guards, R.C.A.C.
+<br>
+
+
+Ernest Anthony PIGGOTT nacque il 10 gennaio 1919 a Montreal, Quebec, Canada. Era il quarto di cinque figli nati da William ed Edith Piggott, con due fratelli e due sorelle che completavano la famiglia. Cresciuto in un ambiente solidale, Ernest sviluppò una serie di interessi che plasmarono il suo carattere e le sue future imprese.
 
 Ernest completò la sua istruzione fino al 10º grado, dimostrando un impegno per l’apprendimento durante gli anni formativi. Fluente in inglese e francese, possedeva abilità comunicative preziose sia nella vita civile che militare. I suoi hobby includevano la filatelia—la raccolta e lo studio di francobolli— attività che rifletteva un occhio attento ai dettagli e un apprezzamento per la storia.
 

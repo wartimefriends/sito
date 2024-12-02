@@ -1,12 +1,10 @@
 +++
-title = "Sergente Rudolph CLOUTIER - Numero di Servizio: A3575"
+title = "Sergente Rudolph CLOUTIER - A3575"
 +++
 
-Royal Canadian Regiment, R.C.I.C.
-Villanova War Cemetery, Plot I C 4
-Caduto in Azione: 5 dicembre 1944
+#### Royal Canadian Regiment, R.C.I.C.
+<br>
 
-Una Vita di Servizio e Sacrificio
 
 Rudolph Cloutier nacque il 18 ottobre 1920 a Tilbury, Ontario, figlio di Philias e Mary Cloutier. Crebbe in una famiglia unita insieme ai fratelli Edgar e Raymond e alla sorella Jeannette, che tragicamente scomparve nel maggio 1935. La famiglia viveva in Poplar Street a Tilbury, dove Rudolph frequentò la St. Francis School. Cresciuto nella fede cattolica romana, Rudolph era profondamente legato alla comunità di Tilbury.
 

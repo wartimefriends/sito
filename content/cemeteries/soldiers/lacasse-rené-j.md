@@ -1,8 +1,11 @@
 +++
-title = "Soldato René J. LACASSE C58518"
+title = "Soldato René J. LACASSE - C58518"
 +++
 
-Reggimento di Perth, R.C.I.C.
+#### Reggimento Perth, R.C.I.C.
+<br>
+
+
 Età: 31 anni
 KIA (Caduto in Azione) il 20 dicembre 1944
 Cimitero di Guerra di Villanova, Settore IV, Fila A, Tomba 10

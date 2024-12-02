@@ -2,9 +2,9 @@
 title = "Soldato Clifford Harold CRAIG - B61730"
 +++
 
-3° Reggimento Corazzato da Ricognizione, Governor General’s Horse Guards, R.C.A.C.
+#### 3° Reggimento Corazzato da Ricognizione, G.G.H.G., R.C.A.C.
+<br>
 
-Una Vita di Spirito, Servizio e Sacrificio
 
 Il soldato Clifford Harold Craig nacque il 3 ottobre 1920 a Toronto, Ontario, in una famiglia modesta ma amorevole. Maggiore di tre figli, Clifford crebbe con il fratello minore Frederick Cecil e la sorella Francis Matilda. Suo padre, James, un carpentiere affetto da una disabilità fisica, morì nel luglio 1942, lasciando Clifford come unico sostegno della famiglia.
 

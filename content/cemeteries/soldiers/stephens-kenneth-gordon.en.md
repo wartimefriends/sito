@@ -1,7 +1,12 @@
 +++
-title = "Private Kenneth Gordon STEPHENS was born on January 27, 1925, in Windsor, Ontario. The youngest of four brothers, Kenneth grew up in a close-knit family, with his parents William James and Virginia Dorothy Stephens, and his brothers Harold, Ralph, and Robert. His childhood was marked by the normalcy of farm life and rural Windsor, where he contributed by helping on the family farm and working in his father’s boat livery business."
+title = "STEPHENS Private Kenneth Gordon - A117481"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+Kenneth Gordon STEPHENS was born on January 27, 1925, in Windsor, Ontario. The youngest of four brothers, Kenneth grew up in a close-knit family, with his parents William James and Virginia Dorothy Stephens, and his brothers Harold, Ralph, and Robert. His childhood was marked by the normalcy of farm life and rural Windsor, where he contributed by helping on the family farm and working in his father’s boat livery business.
 
 Kenneth left school at the age of 16 after completing Grade VII, followed by six months of vocational education at Junior Windsor Vocational School. He was a young man of modest means, working as a truck helper for Buy-Rite Furniture Co. for about a year. With an active interest in sports, Kenneth excelled in boxing, fishing, and hockey, playing as a goalie. In his spare time, he enjoyed singing as a tenor, hinting at his love for music.
 

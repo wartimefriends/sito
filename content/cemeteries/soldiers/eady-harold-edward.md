@@ -1,10 +1,10 @@
 +++
-title = "Sergente Harold Edward EADY"
+title = "Sergente Harold Edward EADY - C41367"
 +++
 
-Reggimento Irlandese del Canada, R.C.I.C.
-Caduto in azione: 12 dicembre 1944, età 26 anni
-Cimitero di Guerra di Villanova, Settore VII, Fila A, Tomba 9
+#### Reggimento Irlandese del Canada, R.C.I.C.
+<br>
+
 
 Harold Edward Eady nacque il 14 agosto 1918 a Renfrew, Ontario, figlio di Robert Henry e Marion Louise Eady. Quarto di nove figli, Harold crebbe in una famiglia dedita all’agricoltura, con cinque fratelli—Robert Roy Stewart, James Bartle, Duncan Ferguson, William Ralph e Noble—e tre sorelle: Marion Agnes, Roberta Jean e Iris Lavine. La sua infanzia, trascorsa nell’Ontario centrale, era incentrata sul lavoro nei campi, la famiglia e una passione per le motociclette.
 

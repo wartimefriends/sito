@@ -1,9 +1,13 @@
 +++
-title = "La Vita e l’Eredità del Soldato Ralph Rentz"
+title = "Soldato Ralph RENTZ - M104291"
 +++
 
+#### 4th Princess Louise Dragoon Guards, R.C.A.C.
+<br>
 
-Ralph Rentz, un soldato dedicato del 4° Reggimento Dragoni del Princess Louise R.C.A.C., nacque il 12 febbraio 1907 in Ohio, USA. Quarto di dieci figli in una famiglia affettuosa, Ralph crebbe in una casa guidata da suo padre, John, e da sua madre, Edith Dora. Completò la sua istruzione fino alla nona classe nelle scuole rurali, dove prosperò accademicamente e sviluppò una passione per la meccanica. Anche se lasciò la scuola dopo la decima classe a causa della distanza da casa, continuò a perfezionare le sue abilità come bracciante agricolo, impegnandosi sia nell’agricoltura a cavallo che in quella a motore.
+
+
+Ralph Rentz nacque il 12 febbraio 1907 in Ohio, USA. Quarto di dieci figli in una famiglia affettuosa, Ralph crebbe in una casa guidata da suo padre, John, e da sua madre, Edith Dora. Completò la sua istruzione fino alla nona classe nelle scuole rurali, dove prosperò accademicamente e sviluppò una passione per la meccanica. Anche se lasciò la scuola dopo la decima classe a causa della distanza da casa, continuò a perfezionare le sue abilità come bracciante agricolo, impegnandosi sia nell’agricoltura a cavallo che in quella a motore.
 
 Dopo aver trascorso due anni negli Stati Uniti, Ralph tornò in Canada, dove viveva a New Dayton, Alberta, al momento della sua arruolamento. Desideroso di servire il suo paese, si arruolò nelle Forze Armate Canadesi il 29 settembre 1942, dopo aver ricevuto una chiamata per il servizio attivo. Il suo addestramento lo portò attraverso diversi campi militari, inclusi Calgary e Edmonton, prima di essere inviato all’estero. Il viaggio militare di Ralph iniziò con il #13 D.D. (Rinforzo Generale) a Calgary, per poi trasferirsi nel Regno Unito, dove arrivò il 4 aprile 1943.
 

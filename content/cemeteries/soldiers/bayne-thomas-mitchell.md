@@ -2,9 +2,9 @@
 title = "Soldato Thomas Mitchell BAYNE"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
 
-Una Vita Dedicata al Dovere
 
 Il soldato Thomas Mitchell Bayne nacque il 12 settembre 1921 a Kirkcaldy, Fife, in Scozia, da John Aitken Bayne e Agnes Thomson Bayne. Era uno dei tredici figli di una famiglia numerosa e unita, con otto fratelli—William, John, James, Alex, George, Wallace, Robert e Harry—e quattro sorelle—Agnes, Isa, Robina ed Ella. La famiglia Bayne affrontò con resilienza le tragedie della guerra, compresa la perdita del fratello di Thomas, David, caduto in azione nel febbraio 1944 durante la Campagna d’Italia.
 

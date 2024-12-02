@@ -1,7 +1,12 @@
 +++
-title = "Sergeant Charles Gordon TOMPSON, served with “C” Squadron, 3rd Armored Reconnaissance Regiment, Governor General’s Horse Guards, Royal Canadian Armoured Corps."
+title = "TOMPSON Sergeant Charles Gordon - B69674"
 +++
 
+#### "C" Sqn., 3rd Armd. Recce. Regt., G.G.HG, R.C.A.C.
+<br>
+
+
+Charles Gordon TOMPSON, served with “C” Squadron, 3rd Armored Reconnaissance Regiment, Governor General’s Horse Guards, Royal Canadian Armoured Corps.
 He was born on March 20, 1919, in York, Ontario and  he was 25 years old when he was killed in action on December 18, 1944, when enemy shell scored several direct hits on housed that the troops were using for protection. It was south of the Fosso Munio. His final resting place is in Villanova War Cemetery, in plot VI C 3. 
 Sergeant Tompson was honored posthumously with a Mention in Despatches, recognizing his bravery and contribution to the war effort.
 

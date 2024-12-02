@@ -1,6 +1,9 @@
 +++
-title = "Soldato Kenneth Edmund HEPINSTALL"
+title = "Soldato Kenneth Edmund HEPINSTALL - B157987"
 +++
+
+#### Perth Regiment R.C.I.C.
+<br>
 
 
 La storia di Kenneth Edmund Hepinstall è una riflessione commovente di determinazione, resilienza e sacrificio. 

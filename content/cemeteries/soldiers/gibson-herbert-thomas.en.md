@@ -1,6 +1,9 @@
 +++
-title = "Private Herbert Thomas GIBSON"
+title = "Private Herbert Thomas GIBSON - B17775"
 +++
+
+#### Lanark and Renfrew Scottish Regiment R.C.I.C.
+<br>
 
 
 Herbert Thomas Gibson’s life reflects the story of a young man full of energy, ambition, and a desire to serve his country, despite facing personal challenges along the way. 

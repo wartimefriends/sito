@@ -1,9 +1,12 @@
 +++
-title = "L/Corporal Charles Richard Patrick GREGG -service number 7948243"
+title = "L/Corporal Charles Richard Patrick GREGG - 7948243"
 +++
 
-7th Queens Own Hussars – Royal Armoured Corps
-Charles Richard Patrick Gregg was the youngest son of Robert Bonthron and Muriel Agnes Gregg and Mrs Gregg.
+#### 7th Queens Own Hussars – Royal Armoured Corps
+<br>
+
+
+Charles Richard Patrick Gregg was the youngest son of Robert Bonthron and Muriel Agnes Gregg.
 Born in Bournemouth in 1919 in Great Britain the family then moved to East Central London at 24, Flanders Mansion, Bedfork Park.
 When Charles Patrick was about nine of age, the family emigrated to Buenos Aires in Argentina. They left on October 11th, 1928 on the steamship “Avila” Blue Star Line.
 As a young man, Patrick enlisted in the British Army and then he was sent to Italy were he lost his live in action on 3rd January, 1945 at the aged of 25.

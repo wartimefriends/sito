@@ -1,7 +1,12 @@
 +++
-title = "Howard Elwood WARREN nacque il 5 luglio 1917 a Dunnville, in Ontario, dove trascorse i suoi anni formativi. Era il maggiore di due figli e fu cresciuto dai suoi genitori, Richard ed Elizabeth Warren, insieme al suo fratello minore Ralph. L’infanzia di Howard fu caratterizzata da un senso di normalità e completò la sua istruzione fino all’ottava classe prima di lasciare la scuola all’età di 16 anni."
+title = "Artigliere Howard Elwood WARREN - B15328"
 +++
 
+#### 5 LT. A.A.Regt., Royal Canadian Artillery
+<br>
+
+
+Howard Elwood WARREN nacque il 5 luglio 1917 a Dunnville, in Ontario, dove trascorse i suoi anni formativi. Era il maggiore di due figli e fu cresciuto dai suoi genitori, Richard ed Elizabeth Warren, insieme al suo fratello minore Ralph. L’infanzia di Howard fu caratterizzata da un senso di normalità e completò la sua istruzione fino all’ottava classe prima di lasciare la scuola all’età di 16 anni.
 
 Howard svolse una varietà di lavori nella sua città natale prima di arruolarsi nell’esercito. Lavorò come operaio per Sam McKinie, un imprenditore locale, guadagnando $24 a settimana, e provò anche a fare il macellaio in proprio dal 1937 al 1938. Vendette carni nelle campagne circostanti, guadagnando $15 a settimana. Prima di questi lavori, lavorò come aiutante meccanico in una stazione di servizio a Bismark, in Ontario, per un modesto salario di $7,50 a settimana. Nonostante i vari lavori, Howard trovava difficile far quadrare i conti, situazione che lo spinse a prendere la decisione di arruolarsi nell’esercito. Credeva che l’esercito potesse offrirgli una maggiore stabilità finanziaria e nuove opportunità.
 
@@ -11,4 +16,5 @@ Il servizio militare portò Howard in diversi teatri di guerra. Dopo aver comple
 
 La promettente carriera militare di Howard ebbe una fine improvvisa e inaspettata il 24 dicembre 1944. In quella fatidica mattina, era di guardia e, sebbene non avesse segnalato dolore in quel momento, successivamente iniziò a sentirsi male. Dopo colazione, si ritirò a letto lamentando dolori al petto e fastidi alle braccia. Nonostante i tentativi di richiedere assistenza medica, Howard perse conoscenza e morì poco dopo. La causa della morte fu determinata come sclerosi coronarica con recente trombosi, una causa naturale che tragicamente gli tolse la vita alla vigilia di Natale.
 
-Howard Elwood Warren aveva solo 28 anni quando morì. Fu sepolto nella Sezione III, Fila B, Tomba 8 presso il Villanova War Cemetery in Italia. Sebbene la sua vita sia stata interrotta prematuramente, la dedizione di Howard al suo paese e il suo spirito incrollabile di fronte alle difficoltà vengono ricordati con onore.
+Howard Elwood Warren aveva solo 28 anni quando morì. Fu sepolto nella Sezione III, Fila B, Tomba 8 presso il Villanova War Cemetery in Italia.
+Sebbene la sua vita sia stata interrotta prematuramente, la dedizione di Howard al suo paese e il suo spirito incrollabile di fronte alle difficoltà vengono ricordati con onore.

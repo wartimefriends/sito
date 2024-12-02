@@ -1,9 +1,12 @@
 +++
-title = "Private Harvey William HICKINGBOTTOM: A Life of Dedication and Sacrifice"
+title = "Private Harvey William HICKINGBOTTOM - B64622"
 +++
 
+#### 4th PLDG R.C.A.C.
+<br>
 
-Private Harvey William Hickingbottom, Service Number B64622, served with the 4th Princess Louise Dragoon Guards of the Royal Canadian Armoured Corps. 
+
+Private Harvey William Hickingbottom served with the 4th Princess Louise Dragoon Guards of the Royal Canadian Armoured Corps. 
 Born on August 24, 1922, in Toronto, Ontario, Harvey grew up as the third child in a family of five. His parents, Joseph Norman and Clara Gertrude Hickingbottom, raised him alongside his siblings, Lloyd Joseph, Thelma, and Maron Lois. His father passed away while Harvey was still young, leaving his mother as the head of the household.
 
 Harvey completed Grade 11 in high school, where he participated in various sports and team games, reflecting his active and outgoing nature. His hobbies and athleticism earned him spots on many school teams, preparing him for the physical demands of military service. Despite having a minor pulmonary condition and vision issues, he was deemed fit for service.

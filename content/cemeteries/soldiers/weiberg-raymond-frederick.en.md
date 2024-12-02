@@ -1,7 +1,12 @@
 +++
-title = "Private Raymond Frederick WEIBERG was born to Karl and Della Weiberg and grew up in a modest family alongside his brother Lorne and his sister Carrie Kuzmick. Life was shaped by the values of hard work and dedication, principles that would guide him throughout his journey. As a young man, he completed his education up to Grade 4, which was typical in his rural setting. Although he attempted to progress further, the limitations of his local school environment led him to leave school at the age of 14. He then turned to the land, where he found his calling as a farm laborer."
+title = "Private Raymond Frederick WEIBERG - A115952"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+Raymond Frederick Weiberg was born to Karl and Della Weiberg and grew up in a modest family alongside his brother Lorne and his sister Carrie Kuzmick. Life was shaped by the values of hard work and dedication, principles that would guide him throughout his journey. As a young man, he completed his education up to Grade 4, which was typical in his rural setting. Although he attempted to progress further, the limitations of his local school environment led him to leave school at the age of 14. He then turned to the land, where he found his calling as a farm laborer.
 
 Working the fields became both his livelihood and his passion. Over the next nine years, he gained extensive experience in mixed farming, most recently employed by Mrs. J.H. Patrick in Ilderton, Ontario. His skills on the farm were not limited to just tilling the soil; he also had a knack for tinkering with machinery, finding joy in understanding how things worked. Despite his dedication to farming, he found it difficult to carve out time for sports or social life. His focus remained on his duties, not seeking distraction but instead channeling his energy into his work.
 

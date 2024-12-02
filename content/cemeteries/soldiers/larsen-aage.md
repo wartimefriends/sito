@@ -1,8 +1,10 @@
 +++
-title = "Soldato Aage LARSEN B116098"
+title = "Soldato Aage LARSEN - B116098"
 +++
 
-4th Princess Louise Dragoon Guards, R.C.A.C.
+#### 4th Princess Louise Dragoon Guards, R.C.A.C.
+<br>
+
 Età: 38 anni
 KIA (Caduto in Azione) il 15 dicembre 1944
 Cimitero di Guerra di Villanova, Settore VI, Fila A, Tomba 6

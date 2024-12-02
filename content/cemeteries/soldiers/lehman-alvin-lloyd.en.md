@@ -1,6 +1,9 @@
 +++
-title = "Lance Corporal Alvin Lloyd LEHMAN: A Quiet Strength in Service"
+title = "L/Corporal Alvin Lloyd LEHMAN - B/135969"
 +++
+
+#### C Company – Irish Regiment of Canada
+<br>
 
 
 Alvin Lloyd Lehman was born on May 1, 1923, in Stouffville, Ontario, the second son of Wesley Albert and Arvilla Laurena Lehman. Raised in a loving family with his two brothers, John Wesley and Bruce Stanley, Alvin grew up in a supportive environment that instilled in him a strong sense of responsibility and commitment. His elder brother, John Wesley, also served in the military with the 1st Battalion, Argyll and Sutherland Highlanders. Alvin’s life was shaped by his faith as a member of the United Church and his love for outdoor activities like skating, swimming, and hunting. He also excelled in high school sports, playing defense in hockey and infield in baseball.

@@ -1,6 +1,9 @@
 +++
-title = "Private Earl William GOSLIN"
+title = "Private Earl William GOSLIN - M104002"
 +++
+
+#### Westminster Regiment (Motors) R.C.I.C.
+<br>
 
 
 Private Earl William Goslin’s life reflects a journey of resilience, determination, and ultimate sacrifice. 

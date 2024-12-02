@@ -1,7 +1,12 @@
 +++
-title = "Private Henry Coulter SCOTT, known for his quiet determination and sense of duty, was born on February 16, 1922, in the small community of Wallace Bridge, Cumberland County, Nova Scotia. Henry was one of the children of George H. Scott and Dolina Scott, though his mother passed away when he was young. Growing up, he shared his life with his brothers, Cpl. William G. and Herbert A., and his sisters Dolina M., Isabel, and Elsie. Additionally, he had a half-sister, Ellen, who would later marry and become Mrs. Opray. The Scotts were a hardworking family, bound by strong roots and the Presbyterian faith."
+title = "SCOTT Private Henry Coulter - F87531"
 +++
 
+#### Cape Breton Highlanders, R.C.I.C.
+<br>
+
+
+Henry Coulter SCOTT, known for his quiet determination and sense of duty, was born on February 16, 1922, in the small community of Wallace Bridge, Cumberland County, Nova Scotia. Henry was one of the children of George H. Scott and Dolina Scott, though his mother passed away when he was young. Growing up, he shared his life with his brothers, Cpl. William G. and Herbert A., and his sisters Dolina M., Isabel, and Elsie. Additionally, he had a half-sister, Ellen, who would later marry and become Mrs. Opray. The Scotts were a hardworking family, bound by strong roots and the Presbyterian faith.
 
 After completing eighth grade, Henry went to work as a sawmill laborer. Known as a dependable and honest man, Henry was drawn to the outdoors, enjoying sports like hunting, fishing, skating, and softball. His friends and family knew him as a “quiet type,” dependable yet not overly assertive. With a build suited to physical labor, standing 5’8” and weighing 150 pounds, he had hazel eyes that hinted at a calm and introspective nature.
 

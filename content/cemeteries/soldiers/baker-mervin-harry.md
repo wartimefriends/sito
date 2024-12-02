@@ -1,10 +1,10 @@
 +++
-title = "Soldato Mervin Harry BAKER - Numero di matricola M106610"
+title = "Soldato Mervin Harry BAKER - M106610"
 +++
 
-4th Princess Louise Dragoon Guards, R.C.I.C.
-Caduto in azione: 13 dicembre 1944
-Cimitero di Guerra di Villanova, Plot: I B 7
+#### 4th Princess Louise Dragoon Guards, R.C.I.C.
+<br>
+
 
 Mervin Harry Baker nacque il 25 giugno 1919 a Nanton, Alberta, da William e Pearl Ruby Baker. La sua infanzia fu segnata da una tragedia: perse il padre quando aveva solo 14 mesi. Nonostante questa perdita, Mervin crebbe in una famiglia affiatata insieme al fratello maggiore Delbert e alla sorella Pearl. La sua infanzia nel sud dell’Alberta, trascorsa nella fattoria di famiglia, gli insegnò il valore del duro lavoro e lo legò profondamente alla vita rurale.
 
@@ -26,7 +26,8 @@ Fu inviato nel Regno Unito nel dicembre 1943 e arrivò in Italia nel febbraio 19
 La Campagna Italiana fu uno dei teatri di guerra più impegnativi. I soldati affrontarono non solo la feroce resistenza nemica, ma anche un terreno insidioso e condizioni climatiche avverse. Nonostante queste difficoltà, Mervin servì con dedizione, combattendo al fianco del suo reggimento mentre avanzavano verso nord attraverso l’Italia.
 
 Il 13 dicembre 1944, l’unità di Mervin fu coinvolta in combattimenti vicino al Fosso Munio, un’area strategicamente vitale pesantemente difesa dalle forze tedesche. Durante la battaglia, Mervin fu dichiarato disperso in azione. 
-Per settimane, la sua famiglia sperò che fosse sopravvissuto, ma il 10 gennaio 1945 ricevette la devastante notizia che Mervin era stato ucciso in azione. Aveva 25 anni.
+Per settimane, la sua famiglia sperò che fosse sopravvissuto, ma il 10 gennaio 1945 ricevette la devastante notizia che Mervin era stato ucciso in azione.
+Aveva 25 anni.
 
 La morte di Mervin rappresentò una perdita profonda per la sua famiglia. La vedova, Viola, e la loro figlia di quattro anni, Myra, dovettero affrontare la vita senza il marito e padre che aveva dato tanto per il suo paese. 
 Viola ricevette in seguito una fotografia della tomba di Mervin nel Cimitero di Guerra di Villanova, in Italia, dove fu sepolto nella tomba I B 7.
@@ -39,4 +40,5 @@ I suoi sogni di tornare all’agricoltura o di diventare un meccanico furono tra
 
 La vita e il servizio di Mervin ci ricordano il profondo costo della guerra e la gratitudine eterna dovuta a coloro che hanno fatto il sacrificio supremo. 
 Il suo nome, inciso sulla pietra al Cimitero di Guerra di Villanova, è un tributo duraturo a un giovane che ha dato tutto per la libertà e la pace.
+
 

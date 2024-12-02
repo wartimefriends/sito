@@ -2,7 +2,9 @@
 title = "Private Andrew BONNAR - service number F54926"
 +++
 
-Cape Breton Highlanders, Royal Canadian Infantry Corps
+#### Cape Breton Highlanders, Royal Canadian Infantry Corps
+<br>
+
 
 Born on October 15, 1920, in Sydney Mines, Nova Scotia, Andrew grew up in a large and supportive family. He was the third of six children born to Alexander and Effie Bonnar, alongside his brothers Stanley and Clarence, and sisters Catherine (Finnigan) and Rachael. Additionally, he had four step-siblings: Mrs. Daniel MacMullin, Mrs. John Fifoot, George Gardner, and Joseph Gardner.
 

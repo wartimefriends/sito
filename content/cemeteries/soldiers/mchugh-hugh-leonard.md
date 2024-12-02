@@ -1,7 +1,13 @@
 +++
-title = "Il Sergente Hugh Leonard McHugh è nato il 25 giugno 1913 a St. George, New Brunswick."
+title = "McHUGH Lance Sergeant Hugh Leonard - G357"
 +++
 
+#### "A" Sqn., 5th Armd. Regt., 8th Princess Louise's Hussars, R.C.A.C
+<br>
+
+
+
+Hugh Leonard McHugh è nato il 25 giugno 1913 a St. George, New Brunswick. 
 Al momento dell’arruolamento, viveva nella vicina St. Stephen, NB, ed era impiegato come produttore di dolci per Ganong Bros., una nota azienda di cioccolato dove lavorava come miscelatore e finitore di cioccolato. Hugh, che aveva lasciato la scuola all’età di 15 anni dopo aver completato sette anni di istruzione pubblica, era conosciuto per essere una persona cooperativa, affidabile e di buon umore. Alto 5’9’’ e pesante 140 libbre, con occhi azzurri penetranti, incarnava lo spirito di impegno e responsabilità.
 
 Sebbene dedicato al suo mestiere, Hugh sentiva una chiamata più profonda, radicata in un senso di dovere, che lo portò ad arruolarsi nell’esercito canadese il 6 agosto 1940. 

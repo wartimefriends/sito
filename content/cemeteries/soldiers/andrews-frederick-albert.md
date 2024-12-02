@@ -1,10 +1,10 @@
 +++
-title = "Soldato Frederick Albert ANDREWS - Numero di matricola B17888"
+title = "Soldato Frederick Albert ANDREWS - B17888"
 +++
 
-4th Princess Louise Dragoon Guards, R.C.I.C.
-Cimitero di Guerra di Villanova
-Plot: V A 2
+#### 4th Princess Louise Dragoon Guards, R.C.I.C.
+<br>
+
 
 Frederick Albert Andrews nacque il 4 dicembre 1919 a Birmingham, Warwickshire, in Inghilterra, da Charles ed Edith Emily Andrews. 
 All’età di sette anni, Fred emigrò in Canada con i suoi genitori e il fratello minore, Charles Jr., stabilendosi a Port Perry, Ontario. Fu in questa piccola città canadese che Fred trascorse i suoi anni formativi, affrontando le sfide e abbracciando le opportunità della sua nuova vita.

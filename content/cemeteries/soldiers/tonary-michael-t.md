@@ -1,7 +1,12 @@
 +++
-title = "Michael T. TONARY, ha prestato servizio nel Reggimento scozzese di Lanark e Renfrew. Perse tragicamente la vita il 14 dicembre 1944 all'età di 25 anni."
+title = "Soldato Michael T. TONARY - F66411"
 +++
 
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
+
+Michael T. TONARY, ha prestato servizio nel Reggimento scozzese di Lanark e Renfrew. Perse tragicamente la vita il 14 dicembre 1944 all'età di 25 anni. 
 È stato sepolto nel cimitero di guerra di Villanova, lotto V-A-8.
 
 Nato il 23 luglio 1919 a New Waterford, Cape Breton, Nuova Scozia, Michael è cresciuto nell'affiatata comunità di Scotchtown, dove risiedeva al momento dell'arruolamento. Era figlio di Thomas Tonary e Nora (Currie) Tonary. 
@@ -23,29 +28,15 @@ La sua eredità vive attraverso la sua famiglia e la comunità che lo ricorda, e
 Articolo di un giornale locale:
 
 LA VEDOVA DI UN CADUTO RICEVE UNA LETTERA
-	-----------------------
-   NEW WATERFORTD, 26 gennaio 
-- La signora Catherine Tonary ha ricevuto 
-una lettera dal tenente J.K. Plumbtree
-del L.E.R. Scottish C.A.C.M.F., 
-ufficiale che era a capo dell'unità 
-in cui suo marito, il defunto Pte. Michael
- T. Tonary è stato ucciso in azione.
+-----------------------
+NEW WATERFORTD, 26 gennaio 
+- La signora Catherine Tonary ha ricevuto una lettera dal tenente J.K. Plumbtree del 
+L.E.R. Scottish C.A.C.M.F., ufficiale che era a capo dell'unità in cui suo marito, il defunto Pte. Michael T. Tonary è stato ucciso in azione.
 
-   Cara signora Tonary, --Suo marito 
-era ammirato e stimato da tutti quelli 
-che lo conoscevano. Era benvoluto
-e aveva molti amici. È stato ucciso
-istantaneamente dal proiettile di 
-un cecchino. Il suo corpo è stato 
-recuperato poco dopo e ora riposa 
-nel cimitero del nostro battaglione
-con alcuni suoi amici.
-Condividiamo la vostra grande perdita. 
-Avete perso un marito e un uomo coraggioso
-e anche noi abbiamo perso
-un amico leale e rispettato. Era un
-onore per tutti noi, perché era un uomo. 
+Cara signora Tonary, 
+Suo marito era ammirato e stimato da tutti quelli che lo conoscevano. Era benvoluto e aveva molti amici. 
+È stato ucciso istantaneamente dal proiettile di un cecchino. Il suo corpo è stato recuperato poco dopo e ora riposa nel cimitero del nostro battaglione con alcuni suoi amici.
+Condividiamo la vostra grande perdita. Avete perso un marito e un uomo coraggioso e anche noi abbiamo perso un amico leale e rispettato. Era un onore per tutti noi, perché era un uomo.
 Cordiali saluti,
 J.K. Plumbtree
 

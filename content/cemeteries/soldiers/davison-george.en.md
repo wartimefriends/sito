@@ -2,9 +2,10 @@
 title = "Sapper George DAVISON - K71786"
 +++
 
-1 Field Sqn., Royal Canadian Engineers 
+#### 1 Field Sqn., Royal Canadian Engineers
+<br>
 
-A Quiet Hero with a Heart of Service:
+
 Sapper George Davison was born on March 16, 1922, in Vancouver, British Columbia, and raised in Port Coquitlam. The second child of Company Sergeant Major James Davison and Stuart Jackson, George grew up in a family deeply connected to service and sacrifice. His father, a respected figure in the military, instilled in George a sense of duty that would guide his life.
 
 George’s early years were marked by both joy and loss. He grew up with three sisters—Agnes, Jeannie, and Geraldine—and two brothers, Robert James, who passed away at the age of five, and Douglas, who served in the Algonquin Regiment and was tragically killed in action during the war. Despite these challenges, George’s childhood was described as normal and stable, though he left school at age 15 to pursue work.

@@ -2,9 +2,10 @@
 title = "Gunner Wallace Wilfred CARTER - B53573"
 +++
 
-Royal Canadian Artillery
+#### Royal Canadian Artillery
+<br>
 
-A Life of Service and Sacrifice
+
 Born on December 11, 1922, in Barrie, Ontario, Wallace Wilfred Carter grew up in a large family in the small community of New Lowell. 
 The fourth of seven children, Wallace shared his childhood with his five brothers—Frank James, Kenneth Roy, Clifford Wesley, Douglas Keith, and Roger Alexander—and one sister, Audrey Ziegler. Raised on a farm by their parents, Roy Wesley and Della E. Carter, Wallace’s early years were defined by hard work, close family ties, and a love for the outdoors.
 

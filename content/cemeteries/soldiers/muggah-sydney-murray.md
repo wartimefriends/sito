@@ -1,7 +1,12 @@
 +++
-title = "Sydney Murray MUGGAH, matricola n° F/76313, era un membro della Compagnia C del Reggimento Irlandese del Canada, con un fascicolo di servizio dedicato registrato nel volume RG24-26669."
+title = "Muggah Private Sydney Murray - F/76313"
 +++
 
+#### C Company - Irish Regiment of Canada, R.C.I.C.
+<br>
+
+
+Sydney Murray MUGGAH, matricola n° F/76313, era un membro della Compagnia C del Reggimento Irlandese del Canada, con un fascicolo di servizio dedicato registrato nel volume RG24-26669.
 
 Nato il 3 ottobre 1908 a Sydney, Nuova Scozia, aveva 35 anni quando si arruolò. Alto 1,76 m e con un peso di 72 kg, Sydney aveva una carnagione scura, occhi color nocciola e capelli neri. La sua affiliazione religiosa era con la Chiesa Unita ed era celibe al momento dell’arruolamento.
 

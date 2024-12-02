@@ -1,7 +1,12 @@
 +++
-title = "Michael T. TONARY, served with the Lanark and Renfrew Scottish Regiment. He tragically lost his life on December 14, 1944 at the age of 25."
+title = "TONARY Private Michael T. - F66411"
 +++
 
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
+
+Michael T. TONARY, served with the Lanark and Renfrew Scottish Regiment. He tragically lost his life on December 14, 1944 at the age of 25. 
 He was laid to rest in the Villanova War Cemetery,  plot V- A -8.
 
 Born on July 23, 1919, in New Waterford, Cape Breton, Nova Scotia, Michael grew up in the close-knit community of Scotchtown, where he later resided at the time of his enlistment. He was the son of Thomas Tonary and Nora (Currie) Tonary. 

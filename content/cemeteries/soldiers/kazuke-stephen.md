@@ -1,6 +1,9 @@
 +++
-title = "Soldato Stephen KAZUKE: Una Giovane Vita Dedicata al Dovere"
+title = "Soldato Stephen KAZUKE - D/142981"
 +++
+
+#### Lanark and Renfrew Scottish Regiment R.C.I.C.
+<br>
 
 
 Stephen Kazuke nacque il 24 giugno 1924 a Lachine, Quebec, quarto di otto figli in una famiglia laboriosa. I suoi genitori, Nick e Mary Kazuke, immigrati dalla Russia, instillarono nei loro figli forti valori di perseveranza e dedizione. Gli anni formativi di Stephen furono segnati dalla perdita della madre, che morì cinque anni prima della sua arruolamento a causa di complicazioni dovute al reumatismo. Cresciuto nella fede presbiteriana, Stephen visse in una casa modesta, sostenuto dal padre e dalla matrigna, Mary Sharko.

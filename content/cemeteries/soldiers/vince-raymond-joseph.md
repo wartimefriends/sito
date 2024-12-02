@@ -1,7 +1,12 @@
 +++
-title = "Raymond Joseph VINCE nacque il 27 aprile 1925 a Waterford, in Ontario. Si arruolò nell’esercito canadese durante la Seconda Guerra Mondiale l’8 gennaio 1944 a Brantford, in Ontario, entrando a far parte del Reggimento Perth del Corpo di Fanteria Reale Canadese (R.C.I.C.)."
+title = "Soldato Raymond Joseph VINCE - B157751"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+Raymond Joseph VINCE nacque il 27 aprile 1925 a Waterford, in Ontario. Si arruolò nell’esercito canadese durante la Seconda Guerra Mondiale l’8 gennaio 1944 a Brantford, in Ontario, entrando a far parte del Reggimento Perth del Corpo di Fanteria Reale Canadese (R.C.I.C.).
 
 Tragicamente, Raymond fu ucciso in azione il 20 dicembre 1944 durante la campagna d’Italia, parte degli sforzi degli Alleati per respingere le forze dell’Asse fuori dall’Italia. È sepolto nel Cimitero di Guerra di Villanova di Bagnacavallo, Settore IV, Fila C, Tomba 5.
 

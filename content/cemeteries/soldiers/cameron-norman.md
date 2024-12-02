@@ -2,9 +2,10 @@
 title = "Soldato Norman L. Cameron - B134620"
 +++
 
-3° Reggimento Corazzato, Governor General’s Horse Guards, R.C.A.C.
+#### 3° Reggimento Corazzato, G.G.H.G., R.C.A.C.
+<br>
 
-Una Giovane Vita di Promesse e Sacrificio
+
 
 Norman L. Cameron nacque l’8 giugno 1923 a Regina, Saskatchewan, in una famiglia amorevole e laboriosa. Era il secondo di cinque figli di William L. ed Eva May Cameron, con un fratello, Donald, e tre sorelle, tra cui la signora David Johnson, Marion ed Helen. Cresciuto nella fattoria di famiglia a St. Ann’s, Ontario, l’infanzia di Norman fu caratterizzata da valori di impegno e comunità.
 

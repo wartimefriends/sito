@@ -2,9 +2,9 @@
 title = "Private Thomas Mitchell BAYNE:"
 +++
 
-Lanark and Renfrew Scottish Regiment R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment R.C.I.C.
+<br>
 
-A Life Devoted to Duty:
 
 Private Thomas Mitchell Bayne was born on September 12, 1921, in Kirkcaldy, Fife, Scotland, to John Aitken Bayne and Agnes Thomson Bayne. He was one of 13 children, growing up in a large and close-knit family with eight brothers—William, John, James, Alex, George, Wallace, Robert, and Harry—and four sisters—Agnes, Isa, Robina, and Ella. The Bayne family endured the tragedy of war with resilience, as one of Thomas’ brothers, David, was also killed in action in February 1944, during the Italian Campaign.
 

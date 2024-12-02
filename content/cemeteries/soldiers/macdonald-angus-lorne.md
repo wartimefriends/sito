@@ -1,7 +1,12 @@
 +++
-title = "Angus Lorne MacDONALD nacque l’8 maggio 1919 nella piccola cittadina di Earl Grey, Saskatchewan. Cresciuto in una famiglia che valorizzava il duro lavoro e l’integrità, Angus crebbe insieme ai suoi fratelli—due fratelli, James e Francois William, e due sorelle, Sarah Agnes e Kathleen Elizabeth. I suoi genitori, John Alexander e Mary, gli instillarono una forte etica del lavoro e un senso di responsabilità."
+title = "Geniere Angus Lorne MACDONALD - L19117"
 +++
 
+#### 14 Field Coy., Royal Canadian Engineers
+<br>
+
+
+Angus Lorne MacDONALD nacque l’8 maggio 1919 nella piccola cittadina di Earl Grey, Saskatchewan. Cresciuto in una famiglia che valorizzava il duro lavoro e l’integrità, Angus crebbe insieme ai suoi fratelli—due fratelli, James e Francois William, e due sorelle, Sarah Agnes e Kathleen Elizabeth. I suoi genitori, John Alexander e Mary, gli instillarono una forte etica del lavoro e un senso di responsabilità. 
 Da giovane, Angus lavorò con suo padre nella fattoria di famiglia, acquisendo esperienza sia come agricoltore sia come autista. Anche se completò gli studi fino alla nona classe e lasciò la scuola a 16 anni, coltivava in silenzio l’ambizione di imparare un mestiere, un obiettivo che sperava di perseguire dopo aver assolto ai suoi doveri agricoli.
 
 Il 18 settembre 1939, con il mondo sull’orlo della guerra, Angus rispose alla chiamata del suo paese. Spinto da un profondo senso del dovere, si arruolò nella 14 Field Company, Royal Canadian Engineers, a Regina, Saskatchewan. 

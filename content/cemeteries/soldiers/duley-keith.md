@@ -2,9 +2,9 @@
 title = "Soldato Keith DULEY - A11039"
 +++
 
-Perth Regiment, R.C.I.C.
+#### Perth Regiment, R.C.I.C.
+<br>
 
-Una Vita di Servizio e Sacrificio
 
 Keith Duley, nato il 16 febbraio 1920 a Middlesex, Inghilterra, crebbe in una famiglia forgiata dalla resilienza e dalla comunità. Secondo di tre figli, si trasferì a Stratford, Ontario, con i suoi genitori, Arthur e Nellie, e le sue sorelle, Nellie e Grace. La sua infanzia fu modesta ma soddisfacente, segnata da otto anni di scuola pubblica a Stratford, dove eccelleva nella lavorazione del legno e nello sport.
 

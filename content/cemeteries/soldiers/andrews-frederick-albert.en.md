@@ -2,8 +2,9 @@
 title = "Private Frederick Albert ANDREWS - Service Number B17888"
 +++
 
-4th Princess Louise Dragoon Guards, R.C.I.C.
-Villanova War Cemetery Plot: V A 2
+#### 4th Princess Louise Dragoon Guards, R.C.I.C.
+<br>
+
 
 Frederick Albert Andrews was born on December 4, 1919, in Birmingham, Warwickshire, England, to Charles and Edith Emily Andrews.
 At the age of seven, Fred immigrated to Canada with his parents and younger brother, Charles Jr., where the family settled in Port Perry, Ontario. It was in this small Canadian town that Fred spent his formative years, embracing both the challenges and opportunities of his new home.

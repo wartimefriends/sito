@@ -1,7 +1,12 @@
 +++
-title = "Carl Keith SMITH nacque l’8 luglio 1923 a Burk’s Falls, Ontario, in una famiglia il cui stile di vita era incentrato sull’agricoltura e sui valori di una comunità affiatata. Cresciuto a Burk’s Falls con i suoi genitori, H.S. e Dorothy Caroline Smith, e i suoi numerosi fratelli – Audrey, Alvin, Gordon, Douglas, Justine, e diverse sorelle sposate – la vita di Carl fu plasmata dalla responsabilità rurale e dalla compagnia di una grande famiglia. Lasciò la scuola a 13 anni e trascorse i sei anni successivi ad aiutare il padre nella fattoria, un periodo che gli instillò una forte etica del lavoro e abilità pratiche. In seguito, lavorò nei boschi, acquisendo esperienza in un ambiente più aspro prima di arruolarsi nell’esercito."
+title = "Soldato Carl Keith SMITH - B155783"
 +++
 
+#### Irish Regiment of Canada, R.C.I.C.
+<br>
+
+
+Carl Keith SMITH nacque l’8 luglio 1923 a Burk’s Falls, Ontario, in una famiglia il cui stile di vita era incentrato sull’agricoltura e sui valori di una comunità affiatata. Cresciuto a Burk’s Falls con i suoi genitori, H.S. e Dorothy Caroline Smith, e i suoi numerosi fratelli – Audrey, Alvin, Gordon, Douglas, Justine, e diverse sorelle sposate – la vita di Carl fu plasmata dalla responsabilità rurale e dalla compagnia di una grande famiglia. Lasciò la scuola a 13 anni e trascorse i sei anni successivi ad aiutare il padre nella fattoria, un periodo che gli instillò una forte etica del lavoro e abilità pratiche. In seguito, lavorò nei boschi, acquisendo esperienza in un ambiente più aspro prima di arruolarsi nell’esercito.
 
 Carl si unì all’esercito canadese il 19 marzo 1943, arruolandosi a Brantford, Ontario. Inizialmente prestò servizio nell’ambito della National Resources Mobilization Act (NRMA), ma successivamente fu trasferito al servizio attivo all’estero, entrando nel Reggimento Irlandese del Canada nel dicembre del 1944. Il suo addestramento e servizio lo portarono dal Canada, dove rimase fino al settembre 1944, al Regno Unito e infine ai campi di battaglia d’Italia. Il 4 novembre 1944 arrivò in Italia, entrando in un teatro di combattimento intenso e logorante, che stava attraversando le fasi finali della guerra in Europa.
 

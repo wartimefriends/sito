@@ -1,7 +1,11 @@
 +++
-title = "Caporale George William STEPHENS (matricola numero W66349)"
+title = "Caporale George William STEPHENS - W66349"
 +++
 
+#### Irish Regiment of Canada, R.C.I.C.
+<br>
+
+Sezione Medica Q.G., Assegnato Cp.A
 
 Nato il 23 settembre 1909 a Belfast, Irlanda del Nord, George William Stephens era uno spirito combattivo e determinato, un individuo che avrebbe sacrificato la propria vita per il suo paese durante la Seconda Guerra Mondiale. Alto 163 cm per 67 chili, di peso, capelli castano chiaro, occhi azzurri e una carnagione media, George era noto per il forte senso dell’umorismo e per la sincerità. Cresciuto in una famiglia numerosa, era il quarto figlio di George William Stephens Sr., un dipendente governativo deceduto nel 1933, e di Emma Rebecca Stephens. Aveva tre fratelli, John Albert, Hugh Sidney e Herbert Andrew, e due sorelle, Laura Isabel e un’altra sorella sposata. Nonostante fosse celibe, George si prendeva cura di sua madre, Emma, che viveva con lui a Burnaby, British Columbia, ed era parzialmente a suo carico.
 

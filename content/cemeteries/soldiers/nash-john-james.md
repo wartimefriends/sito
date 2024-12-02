@@ -1,7 +1,12 @@
 +++
-title = "John James Nash - matricola n° C4581, nacque a Bath, Inghilterra, con registrazioni che indicano tre possibili date di nascita: 17 aprile 1906; 23 marzo 1907; e 17 aprile 1908. La prima data fu quella utilizzata sul suo certificato di morte. Era figlio di John James Nash ed Annie Fell. Suo padre morì quando John aveva solo due anni. Per gran parte della sua vita, credette che il suo nome fosse James Albert Nash, nome che utilizzò al momento dell’arruolamento."
+title = "Soldato John James NASH - C4581"
 +++
 
+#### Hastings and Prince Edward Regiment, R.C.I.C.
+<br>
+
+
+John James Nash - matricola n° C4581, nacque a Bath, Inghilterra, con registrazioni che indicano tre possibili date di nascita: 17 aprile 1906; 23 marzo 1907; e 17 aprile 1908. La prima data fu quella utilizzata sul suo certificato di morte. Era figlio di John James Nash ed Annie Fell. Suo padre morì quando John aveva solo due anni. Per gran parte della sua vita, credette che il suo nome fosse James Albert Nash, nome che utilizzò al momento dell’arruolamento. 
 Solo il 30 aprile 1943 confermò il suo vero nome come John James Nash.
 
 Nel 1918, all’età di 12 anni, John emigrò in Canada, forse come parte del programma dei “British Home Children”, che trasferiva bambini svantaggiati in Canada per migliori opportunità. Dopo aver completato la scuola primaria in Inghilterra, iniziò a lavorare come bracciante agricolo nella zona di Campbellford, Ontario, dal 1921 al 1932. Successivamente lavorò in una cava a Marmora, Ontario, gestita da suo zio, dal 1932 al 1934. Tra il 1935 e il 1939, fu impiegato come operaio nella costruzione di strade a Marmora.

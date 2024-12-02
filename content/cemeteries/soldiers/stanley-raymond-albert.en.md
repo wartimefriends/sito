@@ -1,7 +1,12 @@
 +++
-title = "Private Raymond Albert STANLEY was born on July 9, 1922, in Almonte, Ontario, to Alfred and Minnie Stanley. He grew up in a large, working-class family with two brothers, Cecil and Allen Ross, and five sisters: Lottie, Doris, Retta, Betty, and Mrs. W. Steele. Raymond’s childhood was typical of a small-town boy in Ontario during the Great Depression."
+title = "STANLEY Private Raymond Albert - C31845"
 +++
 
+#### 4th Princess Louise Dragoon Guards, R.C.A.C.
+<br>
+
+
+Raymond Albert STANLEY was born on July 9, 1922, in Almonte, Ontario, to Alfred and Minnie Stanley. He grew up in a large, working-class family with two brothers, Cecil and Allen Ross, and five sisters: Lottie, Doris, Retta, Betty, and Mrs. W. Steele. Raymond’s childhood was typical of a small-town boy in Ontario during the Great Depression. 
 He attended school for six years, leaving at the age of 13 to support his family by working as a baker’s helper. He had aspirations to become a shoemaker but was caught up, like many young men of his time, in the sweeping tides of global conflict.
 
 On July 17, 1941, at the age of 19, Raymond enlisted in the Canadian Army in Ottawa, Ontario. His enlistment was likely driven by a sense of duty and adventure, though specific reasons for his enlistment were not documented. He had already served for a year in the reserves with the Lanark & Renfrew Scottish Regiment, indicating his early interest in military service. After enlisting, Raymond was initially assigned to the Royal Canadian Ordnance Corps (RCOC), where he trained until March 12, 1942, before being transferred to the UK on March 13, 1942, as part of the war effort.

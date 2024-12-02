@@ -1,6 +1,12 @@
 +++
-title = "Private Peter KOWALCHUK of the Lanark and Renfrew Scottish Regiment, Royal Canadian Infantry Corps, was a young man who joined the army with a spirit of adventure, a strong work ethic, and a desire to see the world."
+title = "Private Peter KOWALCHUK - H3709"
 +++
+
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
+
+Peter KOWALCHUK was a young man who joined the army with a spirit of adventure, a strong work ethic, and a desire to see the world.
 
 Born on July 28, 1920, in Teulon, Manitoba, Peter was the fourth child of Marko (Mike) and Isabella Kowalchuk, immigrants from Ukraine who settled in Manitoba’s Interlake region. Alongside his siblings—brothers Nick and Paul, and sisters Nettie, Mary, and Gene—Peter grew up on the family’s 60-acre farm, where his parents worked tirelessly to make a living on government-granted land.
 

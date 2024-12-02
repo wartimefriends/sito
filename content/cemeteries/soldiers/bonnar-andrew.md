@@ -2,7 +2,9 @@
 title = "Soldato Andrew BONNAR – F/54926"
 +++
 
-Cape Breton Highlanders, Royal Canadian Infantry Corps
+#### Cape Breton Highlanders, R. C. I. C.
+<br>
+
 
 Nato il 15 ottobre 1920 a Sydney Mines, Nuova Scozia, Andrew crebbe in una famiglia numerosa e solidale. Era il terzo di sei figli di Alexander ed Effie Bonnar, insieme ai fratelli Stanley e Clarence e alle sorelle Catherine (Finnigan) e Rachael. Inoltre, aveva quattro fratellastri: la signora Daniel MacMullin, la signora John Fifoot, George Gardner e Joseph Gardner.
 

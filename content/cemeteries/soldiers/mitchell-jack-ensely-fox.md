@@ -1,7 +1,12 @@
 +++
-title = "Jack Ensely Fox MITCHELL del Reggimento Westminster (Motorizzato) del Royal Canadian Infantry Corps, incarnava dedizione e coraggio di fronte alla guerra."
+title = "Soldato Jack Ensely Fox MITCHELL - B134809"
 +++
 
+#### Westminster Regiment (Motors) R.C.I.C.
+<br>
+
+
+Jack Ensely Fox MITCHELL del Reggimento Westminster (Motorizzato) del Royal Canadian Infantry Corps, incarnava dedizione e coraggio di fronte alla guerra.
 
 Nato il 19 ottobre 1922 a Toronto, Ontario, Jack è cresciuto in una famiglia che comprendeva le difficoltà e la resilienza. Era il più giovane di quattro figli, e fu cresciuto da suo padre, George Ensley, dopo la morte della madre, Margaret Craig Bain, quando era ancora giovane. I suoi fratelli, William, Frank e Mary Isobel, erano i suoi compagni fidati. Anche suo fratello Frank stava prestando servizio oltremare con i Queen’s Own Rifles, ispirando Jack a seguire le sue orme.
 

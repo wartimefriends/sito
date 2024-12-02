@@ -1,7 +1,12 @@
 +++
-title = "Gunner Howard Elwood WARREN was born on July 5, 1917, in Dunnville, Ontario, where he spent his formative years. The eldest of two children, he was raised by his parents, Richard and Elizabeth Warren, alongside his younger brother, Ralph. Howard’s childhood was marked by a sense of normalcy, and he completed his education up to grade 8 before leaving school at the age of 16."
+title = "WARREN Gunner Howard Elwood - B15328"
 +++
 
+#### 5 LT. A.A.Regt., Royal Canadian Artillery
+<br>
+
+
+Howard Elwood WARREN was born on July 5, 1917, in Dunnville, Ontario, where he spent his formative years. The eldest of two children, he was raised by his parents, Richard and Elizabeth Warren, alongside his younger brother, Ralph. Howard’s childhood was marked by a sense of normalcy, and he completed his education up to grade 8 before leaving school at the age of 16.
 
 Howard worked a variety of jobs in his hometown before enlisting in the army. He served as a tool dresser for Sam McKinie, a local contractor, earning $24 a week, and also tried his hand as a self-employed butcher from 1937 to 1938. He sold meats in the surrounding countryside, earning $15 per week. Prior to these, he worked as a mechanic’s helper in a service station in Bismark, Ontario, for a modest wage of $7.50 per week. Despite his various jobs, Howard found it difficult to make ends meet in civilian life, which motivated his decision to enlist in the military. He believed that the army could offer him better financial stability and new opportunities.
 

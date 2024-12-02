@@ -1,7 +1,12 @@
 +++
-title = "Daniel George WHITLOCK  nato il 20 novembre 1915 a Prince River, Isola del Principe Edoardo, è cresciuto in una famiglia stabile, figlio maggiore di George Edwin e Roberta Whitlock. Aveva un fratello, Elmer, che prestava servizio come autista nella Royal Canadian Air Force, e due sorellastre, Marion e Pauline. Daniel lasciò la scuola dopo aver completato l’ottavo anno, lavorando in vari mestieri per sostenere sé stesso e la sua famiglia. Sviluppò una passione per la meccanica e la falegnameria, spesso lavorando su camion e creando mobili per la sua casa. I suoi hobby includevano la caccia, giocare a hockey come centro e il baseball."
+title = "Caporale Daniel George WHITLOCK - F59958"
 +++
 
+#### Lanark and Renfrew Scottish Regiment – R.C.I.C
+<br>
+
+
+Daniel George WHITLOCK nato il 20 novembre 1915 a Prince River, Isola del Principe Edoardo, è cresciuto in una famiglia stabile, figlio maggiore di George Edwin e Roberta Whitlock. Aveva un fratello, Elmer, che prestava servizio come autista nella Royal Canadian Air Force, e due sorellastre, Marion e Pauline. Daniel lasciò la scuola dopo aver completato l’ottavo anno, lavorando in vari mestieri per sostenere sé stesso e la sua famiglia. Sviluppò una passione per la meccanica e la falegnameria, spesso lavorando su camion e creando mobili per la sua casa. I suoi hobby includevano la caccia, giocare a hockey come centro e il baseball.
 
 Il 7 giugno 1939, Daniel sposò Ruth e insieme ebbero due figli: Donald Alexander e Carrol Elizabeth. Risiedevano a Kensington, PEI, e lui provvedeva alla sua famiglia lavorando come camionista, decoratore d’interni ed esterni e vigile del fuoco addetto alle caldaie a carbone. Per cinque anni divise il suo tempo tra la pittura di case e il trasporto di ghiaia durante le estati, guadagnando circa 20 dollari a settimana. La sua esperienza con i camion gli diede una solida comprensione dei motori e del lavoro meccanico, un settore in cui dimostrò grande abilità.
 

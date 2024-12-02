@@ -1,6 +1,9 @@
 +++
-title = "Private Thomas Matthew Edmond HARRISON"
+title = "Private Thomas Matthew Edmond HARRISON - B/118275"
 +++
+
+#### A Company – Irish regiment of Canada
+<br>
 
 
 Private Thomas Matthew Edmond Harrison’s story is one of duty, sacrifice, and unyielding devotion to both his country and his family. 

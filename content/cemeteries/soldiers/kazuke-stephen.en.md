@@ -1,6 +1,9 @@
 +++
-title = "Private Stephen KAZUKE: A Young Life Devoted to Duty"
+title = "Private Stephen KAZUKE - D/142981"
 +++
+
+#### Lanark and Renfrew Scottish Regiment R.C.I.C.
+<br>
 
 
 Stephen Kazuke was born on June 24, 1924, in Lachine, Quebec, the fourth of eight children in a hardworking family. His parents, Nick and Mary Kazuke, were immigrants from Russia who instilled strong values of perseverance and dedication in their children. Stephen’s early years were shaped by the loss of his mother, who passed away five years before his enlistment due to complications from rheumatism. Raised Presbyterian, Stephen grew up in a modest home, supported by his father and stepmother, Mary Sharko.

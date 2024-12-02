@@ -1,10 +1,10 @@
 +++
-title = "Sergeant Rudolph CLOUTIER - Service Number: A3575"
+title = "Sergeant Rudolph CLOUTIER - A3575"
 +++
 
-Royal Canadian Regiment, R.C.I.C.
-Villanova War Cemetery, Plot I C 4
-Killed in Action: December 5, 1944
+#### Royal Canadian Regiment, R.C.I.C.
+<br>
+
 
 Sergeant Rudolph Cloutier was born on October 18, 1920, in Tilbury, Ontario, to parents Philias and Mary Cloutier. He grew up in a close-knit family alongside his brothers Edgar and Raymond, and his sister Jeannette, who tragically passed away in May 1935. The family lived on Poplar Street in Tilbury, where Rudolph attended St. Francis School. Raised in the Roman Catholic faith, he was deeply rooted in the Tilbury community.
 

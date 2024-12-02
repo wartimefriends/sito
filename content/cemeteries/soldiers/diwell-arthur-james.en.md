@@ -2,9 +2,9 @@
 title = "Private Arthur James DIWELL - B116525"
 +++
 
-Perth Regiment R.C.I.C.
+#### Perth Regiment - R.C.I.C.
+<br>
 
-A Life of Dedication and Sacrifice:
 
 Private Arthur James Diwell was born on July 21, 1916, in Owen Sound, Ontario, into a large and loving family. The son of Thomas Henry and Caroline Diwell, Arthur grew up with three brothers—Henry, Chas, and George—and three sisters—Jessie, Winnifred, and Anne. Tragically, his mother and two siblings, Thomas and Anne, passed away during his early years. Despite these losses, Arthur’s upbringing was marked by resilience and a strong sense of responsibility.
 

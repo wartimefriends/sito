@@ -1,6 +1,9 @@
 +++
-title = "Gunner Horace HALL"
+title = "Gunner Horace HALL - B53930"
 +++
+
+#### 17th Field Regt., Royal Canadian Artillery
+<br>
 
 
 The story of Gunner Horace Hall is one of resilience, quiet determination, and sacrifice, reflecting the life of a young man who answered the call to serve his country during a tumultuous time. 

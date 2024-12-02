@@ -2,7 +2,9 @@
 title = "Soldato Mike BERNSTEIN - A/487"
 +++
 
-Compagnia D – Reggimento Irlandese del Canada
+#### Compagnia D – Reggimento Irlandese del Canada
+<br>
+
 
 Nato il 20 dicembre 1922 a Toronto, Ontario, Mike Bernstein era il secondo figlio di Max e Sarah Marrie. Suo padre, un abile scalpellino, e sua madre, Sarah, si erano sposati il 18 luglio 1918 a Toronto e avevano cresciuto i loro tre figli—Leonard, Mike e Coleman—in una famiglia di tradizione ebraica.
 Con capelli scuri, occhi marroni e un carattere tranquillo, Mike è cresciuto circondato dal calore della famiglia e dalla compagnia dei suoi fratelli. Il maggiore, Leonard, prestò servizio oltremare come sergente nella Royal Canadian Air Force durante la Seconda Guerra Mondiale.

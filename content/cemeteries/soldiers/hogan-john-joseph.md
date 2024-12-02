@@ -1,9 +1,13 @@
 +++
-title = "Soldato John Joseph HOGAN: Una Giovane Vita di Servizio e Sacrificio"
+title = "Soldato John Joseph HOGAN - D143684"
 +++
 
+#### 4th Princess Louise Dragoon Guards R.C.A.C.
+<br>
 
-John Joseph Hogan, matricola D143684, prestò servizio con il 4° Reggimento Princess Louise Dragoon Guards del Royal Canadian Armoured Corps. 
+
+John Joseph Hogan prestò servizio con il 4° Reggimento Princess Louise Dragoon Guards del Royal Canadian Armoured Corps. 
+
 Nato il 23 luglio 1925 a Mackayville, Quebec, John era figlio di Richard e Annie Hogan. Cresciuto in una famiglia bilingue, era il fratello minore di Richard F., anche lui arruolato nell’esercito, e aveva tre sorelle: Eileen, Marion e Frances. La sua vita familiare era normale, sebbene vi fosse stata qualche opposizione alla sua decisione di unirsi inizialmente alla Marina Mercantile e poi all’esercito.
 
 John frequentò la scuola fino alla settima classe, progredendo con costanza e ottenendo voti nella media. Fluente in inglese e francese, dimostrò sin da giovane adattabilità e resilienza. Dopo aver lasciato la scuola, lavorò in vari mestieri, tra cui un anno nella Marina Mercantile come mozzo e fuochista, seguito da un anno come apprendista meccanico presso la Dominion Engineering. Lavorò inoltre come collaudatore di prodotti alla Dominion Sugar e come aiuto meccanico. Questi impieghi evidenziarono la sua attitudine per la meccanica e il suo forte senso del dovere, qualità che avrebbero arricchito il suo servizio militare.

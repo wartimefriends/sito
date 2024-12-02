@@ -1,7 +1,12 @@
 +++
-title = "Lance Corporal Daniel George WHITLOCK was born on November 20, 1915, in French River, Prince Edward Island. He grew up in a stable household, the eldest child of George Edwin and Roberta Whitlock. He had one brother, Elmer, who served as a driver in the Royal Canadian Air Force, and two half-sisters, Marion and Pauline. Daniel left school after completing the 8th grade, working in various trades to support himself and his family. He developed a passion for mechanics and carpentry, often working on trucks and creating furniture for his home. His hobbies included hunting, playing hockey as a center, and baseball."
+title = "L/Corporal Daniel George WHITLOCK - F59958"
 +++
 
+#### Lanark and Renfrew Scottish Regiment – R.C.I.C
+<br>
+
+
+Daniel George WHITLOCK was born on November 20, 1915, in French River, Prince Edward Island. He grew up in a stable household, the eldest child of George Edwin and Roberta Whitlock. He had one brother, Elmer, who served as a driver in the Royal Canadian Air Force, and two half-sisters, Marion and Pauline. Daniel left school after completing the 8th grade, working in various trades to support himself and his family. He developed a passion for mechanics and carpentry, often working on trucks and creating furniture for his home. His hobbies included hunting, playing hockey as a center, and baseball.
 
 On June 7, 1939, Daniel married Ruth, and together they had two children: Donald Alexander and Carrol Elizabeth. They resided in Kensington, PEI, and he provided for his family by working as a truck driver, interior and exterior decorator, and a fireman tending to coal-burning boilers. For five years, he split his time between painting houses and trucking gravel during the summers, earning about $20 a week. His experience with trucks gave him a solid understanding of engines and mechanical work, an area in which he showed great skill.
 

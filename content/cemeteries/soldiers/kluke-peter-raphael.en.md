@@ -1,8 +1,12 @@
 +++
-title = "Private Peter Raphael KLUKE, Service Number D142705, served with the 4th Princess Louise Dragoon Guards in the Royal Canadian Armoured Corps."
+title = "Private Peter Raphael KLUKE - D142705"
 +++
 
-Born on October 21, 1923, in Otter Lake, Quebec, Peter was raised in a close-knit family in rural Quebec, a place that shaped his early years. 
+#### 4th Princess Louise Dragoon Guards, R.C.A.C.
+<br>
+
+
+Peter Ralph KLUKE born on October 21, 1923, in Otter Lake, Quebec, was raised in a close-knit family in rural Quebec, a place that shaped his early years. 
 He attended a local school from age seven until thirteen, leaving formal education early to help his family make a living. His schooling was marked by language barriers and teacher turnover, making progression challenging. Although his English skills improved with time, French remained a struggle throughout his life.
 
 Peter’s occupational background reflected the hard-working spirit of his family. He worked for Gillis Brothers Ltd. in a lumber camp, spending summers in sawmills and winters cutting firewood. He also worked as a taxi driver briefly, but his ambition extended beyond these early jobs, as he aspired to become a carpenter. The experience he gained in lumber camps and manual labor would later contribute to his military service.

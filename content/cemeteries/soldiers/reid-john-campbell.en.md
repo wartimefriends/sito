@@ -1,6 +1,9 @@
 +++
-title = "The Life and Service of Sergeant John Campbell REID"
+title = "REID Sergeant John Campbell - B69591"
 +++
+
+#### Cape Breton Highlanders R.C.I.C.
+<br>
 
 
 Sergeant John Campbell Reid, a young soldier of the Cape Breton Highlanders, served his country with steadfast commitment and courage until his untimely death on January 3, 1945, at age 21. 

@@ -1,6 +1,9 @@
 +++
-title = "Soldato Richard Charles TAVIGNOT (B64565)"
+title = "Soldato Richard Charles TAVIGNOT -B64565"
 +++
+
+#### Perth Regiment, R.C.I.C.
+<br>
 
 
 Nato il 16 novembre 1920 in Quebec, Richard Charles Tavignot era il figlio maggiore di Charles e Marie Tavignot e fratello di Maurice (che avrebbe servito anch’egli nel Reggimento Irlandese del Canada), del fratello acquisito Marcel e delle sorelle Mary ed Helene. La sua famiglia lo descriveva come una persona tranquilla, gentile, generosa e premurosa. Quando iniziò a lavorare, Richard spesso comprava regali per la famiglia, specialmente per sua madre, e dava soldi extra al fratello Maurice. Era un’anima gentile, con un forte senso di responsabilità verso i suoi cari.

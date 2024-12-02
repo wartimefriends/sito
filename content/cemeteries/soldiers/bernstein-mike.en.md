@@ -2,7 +2,9 @@
 title = "Private Mike BERNSTEIN - A/487"
 +++
 
-D Company – Irish Regiment of Canada
+#### D Company – Irish Regiment of Canada
+<br>
+
 
 Born on December 20, 1922, in Toronto, Ontario, Mike Bernstein was the second child of Max and Sarah Marrie. His father, a skilled stonemason, and his mother, Sarah, who married in Toronto on July 18, 1918, raised their three sons—Leonard, Mike, and Coleman—in a Jewish household. 
 With dark hair, brown eyes, and a quiet disposition, Mike grew up surrounded by the warmth of family and the camaraderie of his brothers. His eldest brother, Leonard, served overseas as a Sergeant with the Royal Canadian Air Force during the Second World War.

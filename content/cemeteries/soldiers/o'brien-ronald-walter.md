@@ -1,7 +1,12 @@
 +++
-title = "Caporale Ronald Walter O’BRIEN  -matricola n° C70450, nacque il 30 settembre 1920 a Ottawa, Ontario, Canada. Era il figlio maggiore di Peter ed Elsie O’Brien. Suo padre, Peter, serviva nel Royal Canadian Army Service Corps (RCASC) presso il Quartier Generale Militare Canadese (CMHQ) a Londra, Inghilterra. Ronald aveva un fratello, Earl, residente a Newmarket, Ontario, e tre sorelle: Melba, Darleen e Joyce. Cresciuto in una famiglia con una forte connessione militare, Ronald fu ispirato dal servizio di suo padre e sviluppò il desiderio di seguirne le orme."
+title = "Coaporale Ronald Walter O'BRIEN - C70450"
 +++
 
+#### 4th Princess Louise Dragoon Guards, R.C.A.C.
+<br>
+
+
+Ronald Walter O’BRIEN nacque il 30 settembre 1920 a Ottawa, Ontario, Canada. Era il figlio maggiore di Peter ed Elsie O’Brien. Suo padre, Peter, serviva nel Royal Canadian Army Service Corps (RCASC) presso il Quartier Generale Militare Canadese (CMHQ) a Londra, Inghilterra. Ronald aveva un fratello, Earl, residente a Newmarket, Ontario, e tre sorelle: Melba, Darleen e Joyce. Cresciuto in una famiglia con una forte connessione militare, Ronald fu ispirato dal servizio di suo padre e sviluppò il desiderio di seguirne le orme.
 
 Crescendo a Ottawa, Ronald frequentò le scuole locali e completò la sua istruzione prima di entrare nel mondo del lavoro. Lavorò come aiutante idraulico per W. Edge a Ottawa, guadagnando 20 dollari a settimana. La sua esperienza pratica nell’idraulica rifletteva le sue abilità manuali e l’etica del lavoro. Era alto 173 cm e pesava 67 kg; aveva occhi e capelli castani e una carnagione chiara. Conosciuto per il suo aspetto gradevole e la sua disposizione allegra, Ronald era un giovane attivo che amava costruire modelli di aeroplani—un hobby che mostrava la sua attenzione ai dettagli e l’interesse per la meccanica.
 

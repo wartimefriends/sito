@@ -1,9 +1,13 @@
 +++
-title = "The Life and Service of Sergeant Edward Prokaska"
+title = "PROKASKA Sergeant Edward - B/78956"
 +++
+
+#### A Company – Irish Regiment of Canada, R.C.I.C.
+<br>
 
 
 Sergeant Edward Prokaska of the Irish Regiment of Canada is remembered as a dedicated and capable soldier who served with courage and loyalty until his death in Italy on December 12, 1944, at the age of 23. 
+
 Born on January 1, 1920, in Brandon, Manitoba, Edward was known for his fair complexion, blue eyes, and strong six-foot frame—a presence that matched his steadfast character and sense of duty.
 
 Edward was the son of Alexander and Edna Prokaska and grew up in a large family with a brother, Peter, and four sisters, Ann, Lillian, May, and Edna. After two years of high school, he left school to work, finding employment as a waiter and handyman at the Crystal Hotel in Brandon. Despite his dissatisfaction with school, Edward proved to be a quick learner with a resilient disposition, qualities that later served him well in military service.

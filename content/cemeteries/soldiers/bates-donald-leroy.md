@@ -2,7 +2,9 @@
 title = "Caporale Lance Donald Leroy BATES"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
 
 Il Caporale Lance Donald Leroy Bates nacque l’8 aprile 1921 a Glanford Station, Ontario, da John Stanley e Hilda Valeria Bates. Cresciuto nella fattoria di famiglia, Donald visse un’infanzia scandita dai ritmi della vita rurale insieme al fratello Ralph Warren e alle sorelle Hana Florence e Joyce Mildred. Questa infanzia semplice e laboriosa gli trasmise un forte senso del dovere e della responsabilità, caratteristiche che avrebbero definito la sua carriera militare.
 

@@ -1,7 +1,12 @@
 +++
-title = "Il soldato semplice Robert John MAIN nacque il 6 dicembre 1924 a Ocean Falls, nella Columbia Britannica, dai genitori Robert e Susan. Cresciuto in una famiglia della classe operaia, Robert visse un’infanzia modesta e piuttosto difficile. Suo padre era un caldaista e suo fratello lavorava nei cantieri navali, un ambiente familiare anche per Robert. Da giovane, svolse vari lavori occasionali, tra cui posizioni in una fabbrica di scatole, una conserviera e come addetto ai birilli in una sala da bowling."
+title = "Soldato Robert John MAIN - K48884"
 +++
 
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
+
+Il soldato semplice Robert John MAIN nacque il 6 dicembre 1924 a Ocean Falls, nella Columbia Britannica, dai genitori Robert e Susan. Cresciuto in una famiglia della classe operaia, Robert visse un’infanzia modesta e piuttosto difficile. Suo padre era un caldaista e suo fratello lavorava nei cantieri navali, un ambiente familiare anche per Robert. Da giovane, svolse vari lavori occasionali, tra cui posizioni in una fabbrica di scatole, una conserviera e come addetto ai birilli in una sala da bowling. 
 In seguito, trovò un lavoro più stabile come manovale nei cantieri navali di North Vancouver, lavorando nella costruzione—un impiego che dimostrava la sua forza e resilienza.
 
 La vita di Robert non fu facile e incontrò difficoltà con l’istruzione formale. Frequentò la South Westminster Public School, ma lasciò la scuola con solo un’istruzione fino alla quinta elementare. Era noto per essere un pessimo studente e fu infine espulso dopo una lite fisica con un insegnante. La scuola non suscitava il suo interesse, e non mostrava inclinazione verso lo sport o le attività accademiche. Preferiva piaceri più semplici—era un nuotatore appassionato, amava il bowling e la caccia e trascorreva il tempo a leggere fumetti, ad ascoltare programmi radiofonici e fumava molto. 

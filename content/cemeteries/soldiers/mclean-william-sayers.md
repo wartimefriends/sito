@@ -1,7 +1,12 @@
 +++
-title = "William Sayers McLEAN, soldato del 3° Reggimento di Ricognizione Corazzata, Governor General’s Horse Guards, Royal Canadian Armoured Corps, dimostrò un forte impegno al servizio per tutta la sua vita."
+title = "Cavaliere William Sayers McLEAN - M60418"
 +++
 
+#### 3rd Armd. Recce, Regt., G.G.H.G. R.C.A.C.
+<br>
+
+
+William Sayers McLEAN, soldato del 3° Reggimento di Ricognizione Corazzata, Governor General’s Horse Guards, Royal Canadian Armoured Corps, dimostrò un forte impegno al servizio per tutta la sua vita. 
 Nato il 2 dicembre 1913 a Vancouver, Columbia Britannica, William fu cresciuto in una famiglia che valorizzava il duro lavoro e la resilienza. I suoi genitori, William e Florence, supportarono le sue ambizioni, e il suo unico fratello, Douglas Robert, prestò servizio nella Royal Canadian Air Force (RCAF), riflettendo il senso condiviso di dovere della famiglia.
 
 William aveva una solida formazione scolastica, avendo completato l’undicesimo grado con specializzazione in meccanica automobilistica. Approfondì questo interesse frequentando la Vancouver Technical School e corsi serali, fino a padroneggiare la meccanica automobilistica. Conosciuto per la sua intelligenza e diligenza, eccelleva nelle materie tecniche ed era molto apprezzato per la sua capacità di lavorare bene con gli altri. Al di fuori degli studi, William amava il tennis, lo sci e la lettura.

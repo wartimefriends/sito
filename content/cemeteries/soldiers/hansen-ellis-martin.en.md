@@ -1,6 +1,9 @@
 +++
-title = "Private Ellis Martin HANSEN"
+title = "Private Ellis Martin HANSEN - L84623"
 +++
+
+#### 4th PLDG, R.C.A.C.
+<br>
 
 
 Private Ellis Martin Hansen’s life is a story of duty, resilience, and quiet dedication, emblematic of a generation that answered the call to serve during the Second World War. 

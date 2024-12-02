@@ -1,6 +1,9 @@
 +++
-title = "Soldato Harold Alfred GRIFFIN"
+title = "Soldato Harold Alfred GRIFFIN - B148732"
 +++
+
+#### Perth Regiment R.C.I.C.
+<br>
 
 
 La storia di Harold Alfred Griffin è un racconto di dedizione, resilienza e servizio silenzioso, che riflette il percorso di un giovane che rispose alla chiamata del dovere durante la Seconda Guerra Mondiale.

@@ -1,6 +1,9 @@
 +++
-title = "Artigliere Horace HALL"
+title = "Artigliere Horace HALL - B53930"
 +++
+
+#### 17th Field Regt., Royal Canadian Artillery
+<br>
 
 
 La storia dell’artigliere Horace Hall è una testimonianza di resilienza, determinazione silenziosa e sacrificio, che riflette la vita di un giovane che rispose alla chiamata di servire il proprio paese in un momento tumultuoso. 

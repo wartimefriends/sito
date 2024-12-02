@@ -1,10 +1,10 @@
 +++
-title = "Private Glen Howard GILE"
+title = "Private Glen Howard GILE - A103363"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
-Killed in Action: January 6, 1945, Age 22
-Villanova War Cemetery, Plot IV, Row A, Grave 3
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
 
 Glen Howard Gile was born on March 26, 1922, in Palmerston, Ontario, to John and Olive Gile. One of seven siblings, Glen grew up alongside his brothers Gerald Ray and John Leslie, and his sisters Beulah Beatrice, Fern Boyne, Ivy Donalda, and Shirley Beth. Raised in rural Ontario, he had a normal childhood, contributing to the family farm and developing skills that would shape his future.
 

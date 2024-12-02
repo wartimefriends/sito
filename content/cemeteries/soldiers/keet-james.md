@@ -1,6 +1,9 @@
 +++
-title = "Sergente James KEET: Un Soldato Dedicato e un Leader Coraggioso"
+title = "Sergente James KEET - K47509"
 +++
+
+#### "C" Coy., Westminster Regiment (Motors), R.C.I.C.
+<br>
 
 
 James Keet nacque il 1º agosto 1920 a Warwick, nella contea di Warwickshire, in Inghilterra, figlio primogenito di Robert e Beatrice Keet. James aveva una sorella minore, Phyllis Beatrice, e trascorse la sua infanzia in un ambiente familiare stabile. La famiglia emigrò in Canada, stabilendosi a New Westminster, nella Columbia Britannica, dove James crebbe e sviluppò un interesse per gli sport e le attività all’aria aperta. Eccelleva nel nuoto, nella corsa a ostacoli e nel canottaggio, oltre a praticare sport di squadra come il basket, dove giocava come guardia, e il softball, dove era un eccellente interbase.

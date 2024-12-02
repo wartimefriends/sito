@@ -1,7 +1,12 @@
 +++
-title = "Ross Elwood MACHAN was born on July 21, 1922, in Monkton, Ontario, into a large, close-knit family. Growing up in a rural community, Ross was raised by his parents, James Edward and Jane Matilda, alongside his siblings—four brothers and five sisters. Life on the family farm in Listowel instilled in Ross a strong work ethic and an appreciation for hands-on labor. As a young man, he worked various outdoor jobs and later took up a position as a factory worker and shipper’s helper at McCarthy’s Milling Co. in Streetsville, Ontario. Though he left school after completing Grade 8, Ross showed a natural intelligence and an eagerness to learn, which would serve him well in the years to come."
+title = "MACHAN Lance Sergeant Ross Elwood - B71143"
 +++
 
+#### C I, 4th Princess Louise Dragoon Guards, R.C.A.C.
+<br>
+
+
+Ross Elwood MACHAN was born on July 21, 1922, in Monkton, Ontario, into a large, close-knit family. Growing up in a rural community, Ross was raised by his parents, James Edward and Jane Matilda, alongside his siblings—four brothers and five sisters. Life on the family farm in Listowel instilled in Ross a strong work ethic and an appreciation for hands-on labor. As a young man, he worked various outdoor jobs and later took up a position as a factory worker and shipper’s helper at McCarthy’s Milling Co. in Streetsville, Ontario. Though he left school after completing Grade 8, Ross showed a natural intelligence and an eagerness to learn, which would serve him well in the years to come.
 
 On September 1, 1942, at the age of 20, Ross enlisted in the Canadian Army in Toronto, Ontario. Like many young men of his generation, he felt the call to serve during a time of global conflict, and he joined the Canadian Armoured Corps (CAC) with the hope of making a meaningful contribution. His military record indicates that he was ambitious, dedicated, and adaptable. Described as having a “good appearance” and being “young looking” but “rather light in weight,” Ross nonetheless possessed above-average intelligence and the determination to become an excellent soldier.
 

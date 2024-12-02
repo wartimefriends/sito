@@ -1,7 +1,12 @@
 +++
-title = "Il soldato semplice Thomas McISAAC, un soldato devoto della Compagnia D, nacque il 12 marzo 1923 a Mattawa, Ontario, anche se il suo attestato di arruolamento riporta il 1921 come anno di nascita. Era alto 1,78 m e pesava 60 kg, con carnagione chiara, occhi nocciola e capelli chiari."
+title = "Soldato Thomas McISAAC - B/42734"
 +++
 
+#### D Company – Irish Regiment of Canada, R.C.I.C.
+<br>
+
+
+Thomas McISAAC, un soldato devoto della Compagnia D, nacque il 12 marzo 1923 a Mattawa, Ontario, anche se il suo attestato di arruolamento riporta il 1921 come anno di nascita. Era alto 1,78 m e pesava 60 kg, con carnagione chiara, occhi nocciola e capelli chiari. 
 Cattolico romano di fede e single, Thomas era uno dei diversi figli di John Lemuel e Mary Viegnia, insieme ai fratelli Richard, Cyril, Howard e Beverly. 
 Completò l’ottavo grado e lasciò la scuola a 15 anni, svolgendo vari lavori come manovale.
 

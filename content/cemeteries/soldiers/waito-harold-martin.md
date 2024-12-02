@@ -1,7 +1,12 @@
 +++
-title = "Harold Martin Waito nacque il 17 febbraio 1925 a Ottawa, in Ontario. Crescendo, Harold affrontò le sfide di una famiglia separata: suo padre, Harry E. Waito, gestiva un’officina e un’attività di taxi a Ottawa, mentre sua madre, Edith, viveva altrove. Gran parte della sua giovinezza la trascorse lavorando nella fattoria di suo zio, soprattutto durante l’estate, mentre in inverno lavorava nei campi di legname per 2 dollari al giorno. Nonostante le difficoltà familiari, Harold mantenne sempre un comportamento tranquillo e collaborativo, sviluppando una forte etica del lavoro."
+title = "Private Harold Martin WAITO - C122147"
 +++
 
+#### 4th Princess Louise Dragoon Guards, R.C.A.C.
+<br>
+
+
+Harold Martin Waito nacque il 17 febbraio 1925 a Ottawa, in Ontario. Crescendo, Harold affrontò le sfide di una famiglia separata: suo padre, Harry E. Waito, gestiva un’officina e un’attività di taxi a Ottawa, mentre sua madre, Edith, viveva altrove. Gran parte della sua giovinezza la trascorse lavorando nella fattoria di suo zio, soprattutto durante l’estate, mentre in inverno lavorava nei campi di legname per 2 dollari al giorno. Nonostante le difficoltà familiari, Harold mantenne sempre un comportamento tranquillo e collaborativo, sviluppando una forte etica del lavoro.
 
 Harold completò la sua istruzione fino all’ottavo grado all’età di 14 anni, frequentando una scuola pubblica a Ottawa e successivamente una scuola di campagna a Petawawa. Dopo aver lasciato la scuola, iniziò a lavorare per suo padre, aiutando nell’officina di famiglia e guidando i taxi. Grazie alla sua esperienza come autista, divenne abile nel maneggiare veicoli e, già in età adolescenziale, possedeva un’auto. Nonostante la sua corporatura esile, era alto solo 1,62 m e pesava 53 kg, Harold era considerato in buona salute e ottenne la classificazione A-1 alla visita medica per l’arruolamento.
 

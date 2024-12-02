@@ -2,8 +2,9 @@
 title = "Private Harold Wellington STEVENS (A106419)"
 +++
 
+#### Born on October 20, 1922, in Haysville, Ontario, Private Harold W. Stevens grew up in a modest Mennonite family in the Waterloo region. His parents, James and Magdalene Stevens, raised five sons—George, Albert, Lorne, Donald, and Harold—and one daughter, Kathleen. Harold left school at the age of 16 to help support his family, taking on various jobs, including three years making cheese boxes in a barrel factory and two years working at the Goodrich Tire Company in Kitchener as a shipper.
+<br>
 
-Born on October 20, 1922, in Haysville, Ontario, Private Harold W. Stevens grew up in a modest Mennonite family in the Waterloo region. His parents, James and Magdalene Stevens, raised five sons—George, Albert, Lorne, Donald, and Harold—and one daughter, Kathleen. Harold left school at the age of 16 to help support his family, taking on various jobs, including three years making cheese boxes in a barrel factory and two years working at the Goodrich Tire Company in Kitchener as a shipper.
 
 Though slight in build, standing at 5’ 5” and weighing 126 lbs, Harold was active in sports, enjoying softball, baseball, hockey, and even boxing and wrestling. He also had a love for music, playing the clarinet in the Waterloo Band. Despite being described as a “pleasant little fellow,” he was somewhat reserved, tending to keep to himself socially, although he had a satisfactory social adjustment. His love for movies and sports brought him some enjoyment, but he didn’t dance and didn’t associate much with girls.
 

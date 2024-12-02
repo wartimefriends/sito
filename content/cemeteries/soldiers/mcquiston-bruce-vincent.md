@@ -1,7 +1,12 @@
 +++
-title = "Bruce Vincent McQuiston, noto per il suo forte senso del dovere e dell’impegno, ha servito con distinzione nel 9° Reggimento Corazzato, British Columbia Dragoons, Royal Canadian Armoured Corps (R.C.A.C.)."
+title = "Sergente Bruce Vincent McQUISTON - K2440"
 +++
 
+#### 9th Armd. Regt., British Columbia Dragoons, R.C.A.C.
+<br>
+
+
+Bruce Vincent McQuiston, noto per il suo forte senso del dovere e dell’impegno, ha servito con distinzione nel 9° Reggimento Corazzato, British Columbia Dragoons, Royal Canadian Armoured Corps (R.C.A.C.).
 
 Nato il 13 gennaio 1920 a Penticton, British Columbia, Bruce è cresciuto in una famiglia unita con i suoi genitori, William e Dorothy, e i suoi cinque fratelli: Leslie, Charles, Marian, Mrs. R.W. Archer, e Jacqueline. Diviso tra Penticton e Vancouver, la vita di Bruce è stata plasmata sia dai legami familiari che dal desiderio di servire.
 

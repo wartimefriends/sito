@@ -1,6 +1,9 @@
 +++
-title = "Private Denneth Ashley SYMES (F35850)"
+title = "SYMES Private Denneth Ashley - F35850"
 +++
+
+#### Cape Breton Highlanders, R.C.I.C.
+<br>
 
 
 Born on May 27, 1924, in the rural farming community of Minudie, Nova Scotia, Private Denneth Ashley Symes grew up in a close-knit family. His parents, Henry and Alice Symes, raised him along with his three brothers, David, George, and Clifford, and his four sisters, Vera, Lucy Jane, and Mona. The Symes family lived a simple, hardworking life, with Denneth working on the family farm after completing his education at a one-room schoolhouse.

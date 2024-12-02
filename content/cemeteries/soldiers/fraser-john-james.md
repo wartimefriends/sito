@@ -1,12 +1,10 @@
 +++
-title = "Sergente John James FRASER"
+title = "Sergente John James FRASER - B135830"
 +++
 
+#### Reggimento Scozzese Lanark e Renfrew, R.C.I.C.
+<br>
 
-Reggimento Scozzese di Lanark e Renfrew, R.C.I.C.
-Numero di servizio: B135830
-Caduto in azione: 20 dicembre 1944, all’età di 24 anni
-Cimitero di Guerra Canadese di Villanova, Plot V, Fila B, Tomba 10
 
 John James Fraser nacque il 29 febbraio 1920 a Stellarton, Nuova Scozia, figlio di Andrew e della signora Andrew Fraser. Era il maggiore di sette figli, con tre fratelli—Duncan, Donald e Billy—e tre sorelle—Bridget, June e Casimir. I suoi genitori erano immigrati scozzesi, e l’infanzia di John fu caratterizzata da una vita familiare stabile e normale.
 

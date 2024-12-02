@@ -1,6 +1,9 @@
 +++
-title = "Soldato William Matthew LEACOCK: Una Dedizione Silenziosa al Dovere"
+title = "Soldato William Matthew LEACOCK - B143246"
 +++
+
+#### Lanark and Renfrew Scottish Regiment R.C.I.C.
+<br>
 
 
 William Matthew Leacock nacque il 20 novembre 1920 a Lorneville, Ontario, in una famiglia segnata da difficoltà. Suo padre, Matthew, morì prima della sua nascita e sua madre, Mary Elizabeth, morì nel 1934, quando William era ancora un bambino. Nonostante queste perdite precoci, William crebbe con il sostegno delle sue sorelle, Mary Jane (Minnie) Harper ed Elizabeth (Lizzie) Ashmore, entrambe sposate con famiglie proprie. Un’altra sorella, Alice, e suo fratello, Robert, erano già deceduti, aggiungendo ulteriori dolori alla sua infanzia.

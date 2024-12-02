@@ -1,10 +1,10 @@
 +++
-title = "Soldato Glen Howard GILE"
+title = "Soldato Glen Howard GILE - A103363"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
-Caduto in combattimento: 6 gennaio 1945, all’età di 22 anni
-Cimitero di Guerra di Villanova, Plot IV, Fila A, Tomba 3
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
 
 Glen Howard Gile nacque il 26 marzo 1922 a Palmerston, Ontario, da John e Olive Gile. Era uno dei sette figli della famiglia, cresciuto insieme ai suoi fratelli Gerald Ray e John Leslie e alle sorelle Beulah Beatrice, Fern Boyne, Ivy Donalda e Shirley Beth. Cresciuto nella campagna dell’Ontario, Glen ebbe un’infanzia serena, contribuendo al lavoro nella fattoria di famiglia e sviluppando le competenze che avrebbero plasmato il suo futuro.
 

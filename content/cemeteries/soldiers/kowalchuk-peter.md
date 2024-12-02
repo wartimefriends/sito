@@ -1,6 +1,12 @@
 +++
-title = "Il Soldato Peter KOWALCHUK del Reggimento Scozzese del Lanark e Renfrew, Royal Canadian Infantry Corps, era un giovane che si arruolò nell’esercito con uno spirito di avventura, una forte etica del lavoro e il desiderio di vedere il mondo."
+title = "Soldato Peter KOWALCHUK - H3709"
 +++
+
+#### Lanark and Renfrew Scottish Regt. – R.C.I.C
+<br>
+
+
+Peter KOWALCHUK era un giovane che si arruolò nell’esercito con spirito di avventura, una forte etica del lavoro e il desiderio di vedere il mondo.
 
 Nato il 28 luglio 1920 a Teulon, Manitoba, Peter era il quarto figlio di Marko (Mike) e Isabella Kowalchuk, immigrati dall’Ucraina e stabilitisi nella regione di Interlake, in Manitoba. Insieme ai suoi fratelli—Nick e Paul, e alle sorelle Nettie, Mary e Gene—Peter crebbe nella fattoria di 60 acri della famiglia, dove i genitori lavoravano instancabilmente per guadagnarsi da vivere su una terra concessa dal governo.
 

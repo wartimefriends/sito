@@ -2,12 +2,9 @@
 title = "Sergente Ivan BORATYNEC – M/16556"
 +++
 
-4th Princess Louise Dragoon Guards, R.C.I.C.
+#### 4th Princess Louise Dragoon Guards, R.C.I.C.
+<br>
 
-Villanova Canadian War Cemetery –
-Sezione V, Fila B, Tomba 4
-
-Un meccanico diventato soldato
 
 Il Sergente Ivan Boratynec nacque il 18 giugno 1917 a Mannville, Alberta, terzo di quattro figli. La sua infanzia fu segnata da resilienza e determinazione, qualità che lo avrebbero definito per tutta la vita. Ivan perse sua madre quando aveva solo otto anni, lasciando il padre, Joseph, a prendersi cura di lui e delle sue tre sorelle: Annie, Mary e Jessie.
 

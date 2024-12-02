@@ -1,8 +1,10 @@
 +++
-title = "Soldato semplice John Irving CLIFFORD - Numero di matricola B/138372"
+title = "Soldato John Irving CLIFFORD - B/138372"
 +++
 
-Compagnia D, Irish Regiment of Canada
+#### Compagnia D, Irish Regiment of Canada
+<br>
+
 
 John Irving Clifford nacque il 28 settembre 1925 a Rama, Saskatchewan. Quarto figlio di Charles James e Sabie Ester Clifford, John crebbe in una numerosa e affettuosa famiglia insieme ai suoi fratelli Gilbert, Donald e Burford, e alle sue sorelle Frances (Boucher), Betty, Janet (Bellhouse) e Ruth. La sua infanzia fu caratterizzata dalla complicità tra fratelli e dai valori inculcati dai suoi genitori laboriosi.
 

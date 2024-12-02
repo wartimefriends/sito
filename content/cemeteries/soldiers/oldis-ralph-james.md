@@ -1,7 +1,12 @@
 +++
-title = "Carrista Ralph James Oldis  matricola n° K906, nacque il 12 aprile 1918 a Vancouver, Columbia Britannica, Canada. Figlio unico di Fred e Rita Oldis, Ralph crebbe in una famiglia che affrontò le sfide della separazione, con i suoi genitori che si divisero durante la sua giovinezza. Suo padre lavorava come carrozziere a Vancouver, un mestiere che in seguito influenzò il percorso professionale di Ralph, mentre sua madre si trasferì a Calgary, diventando la signora J. Dunn."
+title = "Carrista Ralph James OLDIS - K906"
 +++
 
+#### 9th Regg. Corazzato, British Columbia Dragoons, R.C.A.C
+<br>
+
+
+Ralph James Oldis nacque il 12 aprile 1918 a Vancouver, Columbia Britannica, Canada. Figlio unico di Fred e Rita Oldis, Ralph crebbe in una famiglia che affrontò le sfide della separazione, con i suoi genitori che si divisero durante la sua giovinezza. Suo padre lavorava come carrozziere a Vancouver, un mestiere che in seguito influenzò il percorso professionale di Ralph, mentre sua madre si trasferì a Calgary, diventando la signora J. Dunn.
 
 Ralph frequentò la scuola fino all’ottavo grado, lasciandola all’età di 16 anni. Nonostante la conclusione precoce della sua istruzione formale, era noto per la sua condotta normale durante gli anni scolastici. Giovane attivo e amante dell’aria aperta, apprezzava il nuoto, il golf e la caccia—attività che mettevano in risalto il suo spirito avventuroso e le sue capacità fisiche.
 

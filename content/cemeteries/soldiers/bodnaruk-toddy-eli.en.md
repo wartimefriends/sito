@@ -2,8 +2,9 @@
 title = "Lieutenant Toddy Eli BODNARUK"
 +++
 
-Lanark and Renfrew Regiment R.C.I.C.
-Villanova War Cemetery - Il A 5
+#### Lanark and Renfrew Regiment R.C.I.C.
+<br>
+
 
 
 Born on February 11, 1912, in Edmonton, Alberta, Toddy Eli Bodnaruk was a man of discipline, courage, and commitment. Standing 5’8½” tall and weighing 185 pounds, with blonde hair, blue eyes, and a medium complexion, Toddy embodied the strength and determination that defined his life. A devoted family man, he was married to Agnes Caroline and was the proud father of a son, Jack, and a daughter, Gwen.

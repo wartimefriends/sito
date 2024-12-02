@@ -1,7 +1,12 @@
 +++
-title = "Private Jack Ensely Fox MITCHELL, a soldier of the Westminster Regiment (Motors) of the Royal Canadian Infantry Corps, embodied dedication and bravery in the face of war."
+title = "MITCHELL Private Jack Ensely Fox - B134809"
 +++
 
+#### Westminster Regiment (Motors) R.C.I.C.
+<br>
+
+
+Private Jack Ensely Fox MITCHELL, a soldier of the Westminster Regiment (Motors) of the Royal Canadian Infantry Corps, embodied dedication and bravery in the face of war.
 Born on October 19, 1922, in Toronto, Ontario, Jack grew up in a family that understood hardship and resilience. The youngest of four children, he was raised by his father, George Ensley, after his mother, Margaret Craig Bain, passed away when he was still young. His siblings, William, Frank, and Mary Isobel, were his steadfast companions. His brother Frank was also serving overseas with the Queen’s Own Rifles, inspiring Jack to follow in his footsteps.
 
 Jack’s early life was marked by a blend of hard work and ambition. After finishing eighth grade and completing a year at technical high school, he ventured into various trades, gaining skills and experience along the way. He worked as a printer’s apprentice, earning $13 a week at Livingstone Press in Toronto, and later as a plater’s helper at Hees Window Blinds, where he earned $18 weekly. Jack also spent time in mixed farming and as a machine operator in the hardwood flooring industry, roles that kept him close to his roots and instilled in him a strong work ethic. He enjoyed hobbies like reading fiction and was known for his quiet, pleasant demeanor, which endeared him to his colleagues and family alike. In his free time, he loved roller-skating, fishing, swimming, and baseball—showing his affinity for both the indoors and outdoors.

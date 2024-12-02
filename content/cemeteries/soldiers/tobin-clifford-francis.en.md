@@ -1,7 +1,12 @@
 +++
-title = "Lieutenant Clifford Francis TOBIN, regimental number 3485, served with the 5th Armored Regiment, 8th Princess Louise’s (New Brunswick) Hussars, Royal Canadian Armoured Corps."
+title = "TOBIN Lieutenant Clifford Frances - 3485"
 +++
 
+#### 5th Armd. Regt., 8th Princess Louise's Hussars, R.C.A.C.
+<br>
+
+
+Lieutenant Clifford Francis TOBIN, regimental number 3485, served with the 5th Armored Regiment, 8th Princess Louise’s (New Brunswick) Hussars, Royal Canadian Armoured Corps. 
 He was born on November 20, 1916, in Youngstown, Alberta, and was tragically killed in action on January 4, 1945, at the age of 28. Lieutenant Tobin is laid to rest in Villanova War Cemetery, Italy, in plot I B 4, a resting place that commemorates his ultimate sacrifice during World War II.
 
 Clifford came from a large and challenging family background. His mother passed away in 1936 when he was just 20 years old, leaving him and his seven siblings to grow up in a broken home. Clifford was the eighth child in the family, with his surviving family consisting of his father, Harry Arthur, and a sister, Mrs. James Connolly. Despite these difficulties, he was known to be cooperative and fair, and his demeanor served him well both in civilian life and later in his military career.

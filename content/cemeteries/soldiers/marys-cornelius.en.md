@@ -1,7 +1,12 @@
 +++
-title = "Private Cornelius MARYS, a young farmer from Wallaceburg, Ontario, was born on March 16, 1924, to Cornelius and Gertrude Marys. Raised in a family of five with Dutch roots, Cornelius was the eldest of his siblings, including brothers Joseph, William, and Johannus, and a sister, Lena Emory, who lived in St. Thomas, Ontario. Known as a quiet, hard-working youth, Cornelius had left school at 14 after completing the seventh grade. He spent much of his young life working on mixed farms, where he earned a modest wage of $20 per week and gained valuable experience in agriculture and animal management, particularly with horses."
+title = "MARYS Private Cornelius - A106198"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+Cornelius MARYS, a young farmer from Wallaceburg, Ontario, was born on March 16, 1924, to Cornelius and Gertrude Marys. Raised in a family of five with Dutch roots, Cornelius was the eldest of his siblings, including brothers Joseph, William, and Johannus, and a sister, Lena Emory, who lived in St. Thomas, Ontario. Known as a quiet, hard-working youth, Cornelius had left school at 14 after completing the seventh grade. He spent much of his young life working on mixed farms, where he earned a modest wage of $20 per week and gained valuable experience in agriculture and animal management, particularly with horses.
 
 Cornelius’s early ambitions were practical and straightforward. He planned to return to farming after the war and hoped to secure employment as a truck driver, a natural progression from his labor work at Webster Air Equipment in London, Ontario, where he had spent three months manufacturing truck parts. 
 He enjoyed playing baseball, taking up the position of third baseman, and found simple pleasures in adventure stories and movies. Though he was quiet and somewhat shy in social settings, he longed to try dancing, yet remained slightly reticent. 

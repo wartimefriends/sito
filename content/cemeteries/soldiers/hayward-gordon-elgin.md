@@ -1,6 +1,9 @@
 +++
-title = "Cavaliere Gordon Elgin HAYWARD"
+title = "Cavaliere Gordon Elgin HAYWARD - A103911"
 +++
+
+#### 3rd Armd. Recce. Regt., G. G. H. G., R.C.A.C.
+<br>
 
 
 Gordon Elgin Hayward era un uomo di determinazione tranquilla, intelligenza e lealtà. 

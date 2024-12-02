@@ -1,7 +1,12 @@
 +++
-title = "Il soldato Cornelius Marys, un giovane agricoltore di Wallaceburg, Ontario, nacque il 16 marzo 1924 da Cornelius e Gertrude Marys. Cresciuto in una famiglia di cinque persone con radici olandesi, Cornelius era il maggiore dei suoi fratelli, tra cui i fratelli Joseph, William e Johannus, e una sorella, Lena Emory, che viveva a St. Thomas, Ontario. Conosciuto come un giovane tranquillo e laborioso, Cornelius aveva lasciato la scuola a 14 anni dopo aver completato la settima classe. Trascorse gran parte della sua giovane vita lavorando in fattorie miste, dove guadagnava un modesto stipendio di 20 dollari a settimana e acquisì una preziosa esperienza nell'agricoltura e nella gestione degli animali, in particolare con i cavalli."
+title = "Soldato Cornelius MARYS - A106198"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+Cornelius Marys, un giovane agricoltore di Wallaceburg, Ontario, nacque il 16 marzo 1924 da Cornelius e Gertrude Marys. Cresciuto in una famiglia di cinque persone con radici olandesi, Cornelius era il maggiore dei suoi fratelli, tra cui i fratelli Joseph, William e Johannus, e una sorella, Lena Emory, che viveva a St. Thomas, Ontario. Conosciuto come un giovane tranquillo e laborioso, Cornelius aveva lasciato la scuola a 14 anni dopo aver completato la settima classe. Trascorse gran parte della sua giovane vita lavorando in fattorie miste, dove guadagnava un modesto stipendio di 20 dollari a settimana e acquisì una preziosa esperienza nell'agricoltura e nella gestione degli animali, in particolare con i cavalli.
 
 Le prime ambizioni di Cornelio erano pratiche e dirette. Aveva in programma di tornare all'agricoltura dopo la guerra e sperava di assicurarsi un impiego come camionista, una progressione naturale dal suo lavoro presso la Webster Air Equipment a London, Ontario, dove aveva trascorso tre mesi a produrre parti di camion. 
 Gli piaceva giocare a baseball, in posizione di terza base e trovava semplici piaceri nelle storie d'avventura e nei film. Sebbene fosse tranquillo e un po' timido in contesti sociali, desiderava provare a ballare, ma rimaneva leggermente reticente. 

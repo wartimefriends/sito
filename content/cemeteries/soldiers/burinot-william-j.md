@@ -1,8 +1,10 @@
 +++
-title = "Soldato semplice William J. BURINOT - Numero di matricola F5326"
+title = "Soldato semplice William J. BURINOT - F5326"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
 
 William J. Burinot nacque il 28 ottobre 1919 a Glace Bay, in Nuova Scozia. Figlio di William e Mary (Sehl) Burinot, crebbe in una famiglia unita e affettuosa sull’isola di Scateria, a Cape Breton. Insieme ai suoi due fratelli, Thomas Leo e Basil Andrew, e alle sue cinque sorelle, Catherine, Annie, Elizabeth, Dorothy ed Evangeline, William visse un’infanzia felice, circondato dall’amore e dal sostegno dei suoi cari.
 

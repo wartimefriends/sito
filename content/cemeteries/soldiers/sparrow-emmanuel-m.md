@@ -1,7 +1,12 @@
 +++
-title = "Il Sergente Maggiore di Compagnia Emmanuel Markus SPARROW nacque il 25 dicembre 1920 a Glace Bay, Cape Breton, Nuova Scozia. Primo di dieci figli di Cecil John e Helen Josephine Sparrow, crebbe a Reserve Mines, una piccola cittadina mineraria, e frequentò la chiesa cattolica locale con la famiglia. Dopo aver completato la nona classe a 16 anni, iniziò a lavorare con il padre, un medico, svolgendo vari lavori occasionali. Prima di arruolarsi, Emmanuel sperava di seguire le orme del padre e diventare un medico."
+title = "Sergente furiere di Compagnia Emmanuel M.  SPARROW"
 +++
 
+#### Cape Breton Highlanders, R.C.I.C.
+<br>
+
+
+Emmanuel Markus SPARROW nacque il 25 dicembre 1920 a Glace Bay, Cape Breton, Nuova Scozia. Primo di dieci figli di Cecil John e Helen Josephine Sparrow, crebbe a Reserve Mines, una piccola cittadina mineraria, e frequentò la chiesa cattolica locale con la famiglia. Dopo aver completato la nona classe a 16 anni, iniziò a lavorare con il padre, un medico, svolgendo vari lavori occasionali. Prima di arruolarsi, Emmanuel sperava di seguire le orme del padre e diventare un medico.
 
 Alto 173 cm, con un peso di 70 kg e occhi azzurri, Emmanuel era atletico e appassionato di sport come nuoto, softball e calcio. Spinto dal senso del dovere, si arruolò nell’esercito il 14 ottobre 1939, all’età di 18 anni, unendosi ai Cape Breton Highlanders, Compagnia B, poco dopo lo scoppio della Seconda Guerra Mondiale.
 

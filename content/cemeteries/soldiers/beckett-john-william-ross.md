@@ -1,8 +1,10 @@
 +++
-title = "Caporale Lance John William Ross BECKETT"
+title = "Caporale John William Ross BECKETT"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
 
 John William Ross Beckett nacque il 25 novembre 1923 in una fattoria a Effingham, Ontario, una comunità fondata dai suoi antenati Beckett. Ottavo di undici figli di Levi R. e Olive A. Beckett, John crebbe in una famiglia affiatata e laboriosa composta da tre fratelli e otto sorelle. Tra i fratelli, sviluppò un legame particolarmente profondo con la sorella Lena, una delle gemelle più giovani, che ricordò con affetto il tempo trascorso insieme.
 

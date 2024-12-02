@@ -2,7 +2,9 @@
 title = "Lance Corporal Donald Leroy BATES"
 +++
 
-Lanark and Renfrew Scottish Regiment R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment R.C.I.C.
+<br>
+
 
 Lance Corporal Donald Leroy Bates was born on April 8, 1921, in Glanford Station, Ontario, to John Stanley and Hilda Valeria Bates. Raised on a family farm, Donald grew up alongside his brother, Ralph Warren, and sisters, Hana Florence and Joyce Mildred. 
 His childhood was shaped by the rhythms of rural life, instilling in him a strong work ethic and a sense of responsibility that would later define his military career.

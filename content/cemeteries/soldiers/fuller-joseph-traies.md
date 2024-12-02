@@ -2,9 +2,9 @@
 title = "Caporale Joseph Traies FULLER"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
-Caduto in combattimento: 13 dicembre 1944, all’età di 19 anni
-Cimitero di Guerra di Villanova, Plot VI, Fila B, Tomba 3
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
 
 Joseph Traies Fuller nacque il 18 febbraio 1925 a Kingsville, Ontario, da Eva Traies e Frederick John Fuller. Dopo la morte del padre nel 1932, Eva si occupò dei nove figli lavorando come cuoca in un ristorante. Nonostante le difficoltà, i Fuller erano una famiglia unita e amorevole. Joseph aveva quattro fratelli—Frederick, Edward, Norman e Douglas (che servì nella Marina Reale Canadese)—e tre sorelle: Lena (Taylor), Margaret e Maude. Un altro fratello, Lennard, era morto prematuramente.
 

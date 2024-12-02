@@ -1,11 +1,10 @@
 +++
-title = "Warrant Corporal James Wilfred Fountain"
+title = "Warrant Corporal James Wilfred Fountain - B/24421"
 +++
 
-Irish Regiment of Canada, C Company
-Service Number: B/24421
-Killed in Action: December 20, 1944, Age 22
-Villanova Canadian War Cemetery, Plot III, Row A, Grave 9
+#### Irish Regiment of Canada, C Company
+<br>
+
 
 James Wilfred Fountain was born on May 3, 1922, in Sharon, Ontario, to Wilfred and Ella May Fountain. He was the youngest of four children, with an older brother, Herbert Roswall, and two sisters, Vera Myrtle and Ethel May. James grew up in a close-knit family, but his life was marked by the loss of his mother, who passed away on October 27, 1943.
 

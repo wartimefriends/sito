@@ -1,7 +1,12 @@
 +++
-title = "Thomas Turnbull del Lanark and Renfrew Scottish Regiment, Royal Canadian Infantry Corps (R.C.I.C.), fu ucciso in azione il 14 dicembre 1944 durante la Campagna d’Italia nella Seconda Guerra Mondiale. È sepolto nel Villanova War Cemetery, Settore VI, Fila C, Tomba 9."
+title = "Private Thomas TURNBULL - B8088"
 +++
 
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
+
+Thomas Turnbull del Lanark and Renfrew Scottish Regiment, Royal Canadian Infantry Corps (R.C.I.C.), fu ucciso in azione il 14 dicembre 1944 durante la Campagna d’Italia nella Seconda Guerra Mondiale. È sepolto nel Villanova War Cemetery, Settore VI, Fila C, Tomba 9.
 
 Nato a South Dumfries, Ontario, il 19 febbraio 1920, Thomas crebbe in una famiglia numerosa. Era il quinto figlio di Orval e Lulu Turnbull e aveva molti fratelli, tra cui Bruce, Howard, Roy, e le sorelle Dorothy, Jean, Mildred, Betty, Joyce e Mary. Alcune delle sue sorelle erano sposate e vivevano a Trenton e Burwash, in Ontario.
 

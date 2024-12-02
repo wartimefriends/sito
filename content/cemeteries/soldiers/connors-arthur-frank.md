@@ -2,9 +2,9 @@
 title = "Soldato Arthur Frank CONNORS - F51061"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
 
-Un Figlio Devoto e un Soldato Coraggioso
 
 Arthur Frank Connors nacque il 21 luglio 1921 a Halifax, Nuova Scozia. Cresciuto nella comunità affiatata di Spryfield, nella contea di Halifax, Arthur visse in una famiglia laboriosa con i suoi genitori, Frank e Mary Connors, i due fratelli, Charles e J. Ronald, e la sorella, Belle Oxner.
 

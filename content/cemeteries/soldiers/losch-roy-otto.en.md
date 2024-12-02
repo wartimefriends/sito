@@ -1,6 +1,12 @@
 +++
-title = "Private Roy Otto LOSCH of the Perth Regiment, Royal Canadian Infantry Corps, was a young man from Kitchener, Ontario, whose journey from a small-town rubber worker to a frontline soldier reflects the quiet resilience of many who served in World War II."
+title = "LOSCH Private Roy Otto - A89273"
 +++
+
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+Private Roy Otto LOSCH of the Perth Regiment, Royal Canadian Infantry Corps, was a young man from Kitchener, Ontario, whose journey from a small-town rubber worker to a frontline soldier reflects the quiet resilience of many who served in World War II. 
 
 Born on June 19, 1923, Roy grew up in a Lutheran family with his father, Robert, who worked on a fox farm, and his mother, Ida. He had two sisters, Mrs. Bignell, who resided in Kitchener, and Dorothy.
 

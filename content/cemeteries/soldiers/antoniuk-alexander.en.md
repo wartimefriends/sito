@@ -2,10 +2,8 @@
 title = "L. Cpl. Alexander ANTONIUK - M56867"
 +++
 
-4th P.L.D.G. R.C.I.C.
-KIA December 31, 1944
-Villanova War Cemetery
-II A 8
+#### 4th P.L.D.G. R.C.I.C.
+<br>
 
 Lance Corporal Alexander Antoniuk was born on February 19, 1924, in Vilna, Alberta, Canada. The son of John and Dora Antoniuk, Alex grew up on a farm with his five siblings. His early years were marked by hardship; he lost his father when he was just six years old. Three years later, his mother remarried, but the marriage ended in separation by the time Alex was twelve. Despite these challenges, Alex developed into a robust and earnest young man, deeply connected to the rural life of Alberta.
 

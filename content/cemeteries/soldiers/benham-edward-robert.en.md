@@ -1,9 +1,10 @@
 +++
-title = "BENHAM B145400"
+title = "Private Edward Robert BENHAM-B145400"
 +++
 
-Private Edward Robert
-Lanark and Renfrew Regiment
+#### Lanark and Renfrew Regiment
+<br>
+
 
 Edward Robert Benham was born on January 8, 1918, in Toronto, Ontario, to Walter and Gertrude Benham. He was one of seven siblings, with two brothers, Walter and Fred, and five sisters, Mrs. Bell, Mrs. Payne, Mrs. Tuller, Mrs. Snider, and Betty. 
 Edward grew up in a rural community where his family was deeply rooted in farming, a way of life that shaped his strong work ethic and steady demeanor.

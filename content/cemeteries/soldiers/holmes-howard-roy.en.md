@@ -1,9 +1,13 @@
 +++
-title = "Trooper Howard Roy HOLMES: A Quiet Determination in Service"
+title = "Trooper Howard Roy HOLMES - B137317"
 +++
 
+#### 3rd Armoured Reconnaissance Regiment, G.G.H.G., R.C.A.C.
+<br>
 
-Trooper Howard Roy Holmes, Service Number B137317, served with the 3rd Armoured Reconnaissance Regiment, Governor General’s Horse Guards, of the Royal Canadian Armoured Corps. 
+
+Trooper Howard Roy Holmes, served with the 3rd Armoured Reconnaissance Regiment, Governor General’s Horse Guards, of the Royal Canadian Armoured Corps. 
+
 Born on June 14, 1920, in Owen Sound, Ontario, Howard was the eldest of four siblings and grew up in a family marked by hardship and resilience. His father, Elmer Roy Holmes, and mother, Helen Ada Holmes, separated when he was just six years old, and Howard was subsequently raised by his grandmother.
 
 Howard completed his education through Grade 8, leaving school at 16 to work and contribute to his family. He found steady employment as a farm laborer in the Georgian Bay District, gaining extensive experience in mixed farming and working with horses. Farming became his passion, and he aspired to one day own his own farm. Before enlisting, he earned $10 a week with room and board, demonstrating his strong work ethic and dedication.

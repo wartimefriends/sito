@@ -1,9 +1,11 @@
 +++
-title = "Soldato James Stanley HOWARD: Una Vita di Servizio e Sacrificio"
+title = "Soldato James Stanley HOWARD - B/63030"
 +++
 
+#### Irish Regiment of Canada
+<br>
 
-Il Soldato James Stanley Howard, matricola B/63030, prestò servizio con l’Irish Regiment of Canada durante la Seconda Guerra Mondiale. 
+
 Nato il 13 luglio 1924 a Howland Township, nel distretto di Manitoulin, Ontario, James era il secondo di quattordici figli della famiglia di John e Lula May Howard. Cresciuto in una famiglia numerosa e unita, James condivideva la sua casa con i suoi cinque fratelli—Alfred John, Wilbert, Lawrence, George William e Leonard Russell—e le sue otto sorelle—Frances Eleanor, Justina, Dorothy Jean, Doris Margaret, Rita Jacqueline, Maude Marie e Betty Jane.
 
 James trascorse i primi anni della sua vita nella fattoria di famiglia, dove sviluppò una forte etica del lavoro e una passione per la lettura e la caccia. Descritto come un giovane ben formato, con un carattere piacevole e stabile, James era noto per la sua personalità entusiasta. Dopo aver completato l’ottavo anno scolastico, lasciò la scuola a 15 anni per contribuire al sostentamento familiare. Trovò lavoro come minatore e operaio in una fonderia presso l’International Nickel Company a Sudbury, Ontario, dove svolgeva compiti generali con impegno e serietà.

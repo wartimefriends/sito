@@ -1,7 +1,12 @@
 +++
-title = "Private James Kenneth McCLURE was born on May 15, 1920, in Norville, Ontario. Growing up as the eldest of three boys, he faced early challenges, with his father, William Alexander, passing away when James was only 15 months old. Raised by his mother, Edna, in Sarnia, Ontario, James had two brothers: Donald Leonard, who was later killed in Sicily in 1943, and John William Alex. He also had a half-brother, Edward Leland Ivinson, who served with the U.S. Navy."
+title = "McCLURE Private James Kenneth - A28723"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+James Kenneth McCLURE was born on May 15, 1920, in Norville, Ontario. Growing up as the eldest of three boys, he faced early challenges, with his father, William Alexander, passing away when James was only 15 months old. Raised by his mother, Edna, in Sarnia, Ontario, James had two brothers: Donald Leonard, who was later killed in Sicily in 1943, and John William Alex. He also had a half-brother, Edward Leland Ivinson, who served with the U.S. Navy.
 
 James’s early education took him to Grade 8, with a brief period in Grade 9. Although he had high scholastic potential, he left school due to a lack of interest in studies. Afterward, he spent five years farming, eventually managing a 200-acre farm for two years. In search of better financial prospects, he worked as a deckhand on a Great Lakes freight boat with Canada Steamship Lines, with plans to return to farming someday.
 

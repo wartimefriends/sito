@@ -1,8 +1,9 @@
 +++
-title = "Soldato Antoine Philip BOURGET - Numero di matricola L/103659"
+title = "Soldato Antoine Philip BOURGET - L/103659"
 +++
 
-4th Princess Louise Dragoon Guards, Corpo di Fanteria Reale Canadese
+#### 4th Princess Louise Dragoon Guards
+<br>
 
 Nato l’11 giugno 1921 a Storthoaks, Saskatchewan, Antoine Philip Bourget crebbe in una famiglia di agricoltori laboriosi. Quarto di nove figli, di Alfred e Rose Bourget. I suoi fratelli erano Wilfred, che prestò servizio oltremare con l’Esercito Canadese, Leopold, Armand e Henri, oltre alle sorelle Jeanne (Smith), Aurore (Belva) ed Helene.
 

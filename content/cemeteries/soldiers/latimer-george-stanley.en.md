@@ -1,7 +1,12 @@
 +++
-title = "Private George Stanley LATIMER, a member of the Irish Regiment of Canada, was a young man who gave his life in service during World War II. Born on August 25, 1925, in Georgetown, Ontario, George grew up in a close-knit family with his father, Donald, his mother, Tryphosa, who passed away in October 1939, and his siblings—brothers Ronald and Douglas, and sister Joan."
+title = "Private George Stanley LATIMER - B46828"
 +++
 
+#### Irish Regiment of Canada, R.C.I.C
+<br>
+
+
+George Stanley LATIMER, a member of the Irish Regiment of Canada, was a young man who gave his life in service during World War II. Born on August 25, 1925, in Georgetown, Ontario, George grew up in a close-knit family with his father, Donald, his mother, Tryphosa, who passed away in October 1939, and his siblings—brothers Ronald and Douglas, and sister Joan. 
 His early years were shaped by the challenges of the Great Depression, which placed financial strain on the family and limited George’s educational opportunities.
 
 George attended school in Georgetown, completing Grade 8 and part of Grade 9 before leaving at the age of 15 to help support his family. He found work locally, first at a porcelain clay press in Georgetown, then molding fire bricks, and finally at Acton Tannery, where he spent a year and a half brushing leather. His jobs were physically demanding but helped him develop a strong work ethic and practical skills.

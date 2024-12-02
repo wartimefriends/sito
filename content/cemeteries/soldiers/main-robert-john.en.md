@@ -1,7 +1,12 @@
 +++
-title = "Private Robert John MAIN was born on December 6, 1924, in Ocean Falls, British Columbia, to parents Robert and Susan. Growing up in a working-class family, Robert experienced a modest and somewhat challenging upbringing. His father was a boilermaker, and his brother worked in shipyards, which was a familiar setting for Robert as well. In his youth, he worked various odd jobs, including positions in a box factory, cannery, and as a pin boy in a bowling alley. Later, he found more steady work as a laborer at the North Vancouver shipyards, holding on during construction—a job that spoke to his strength and resilience."
+title = "MAIN Private Robert John - K48884"
 +++
 
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
+
+Private Robert John MAIN was born on December 6, 1924, in Ocean Falls, British Columbia, to parents Robert and Susan. Growing up in a working-class family, Robert experienced a modest and somewhat challenging upbringing. His father was a boilermaker, and his brother worked in shipyards, which was a familiar setting for Robert as well. In his youth, he worked various odd jobs, including positions in a box factory, cannery, and as a pin boy in a bowling alley. Later, he found more steady work as a laborer at the North Vancouver shipyards, holding on during construction—a job that spoke to his strength and resilience.
 
 Robert’s early life wasn’t easy, and he struggled with formal education. He attended South Westminster Public School but left with only a Grade 5 education. Known to be a poor student, he was eventually expelled after a physical altercation with a teacher. School didn’t hold his interest, and he had no inclination toward sports or academic activities. He preferred simpler pleasures—he was an avid swimmer, enjoyed bowling and hunting, and passed time with comic books, radio shows, and heavy smoking. His life was marked by a restlessness and a lack of direction, yet he possessed a strong work ethic and good health, standing at 5’10¼” and weighing 150 pounds.
 

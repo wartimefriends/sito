@@ -1,6 +1,9 @@
 +++
-title = "La Vita e il Servizio del Soldato Roy Joseph Schaffer"
+title = "Soldato Roy Joseph Schaffer – L/10247"
 +++
+
+#### Lanark and Renfrew Scottish Regt., R.C.I.C.
+<br>
 
 
 Il soldato Roy Joseph Schaffer, membro del Lanark and Renfrew Scottish Regiment del Corpo di Fanteria Reale Canadese (R.C.I.C.), ha servito il Canada con dedizione fino alla tragica fine della sua vita in azione il 13 dicembre 1944, durante la Seconda Guerra Mondiale. È ricordato con onore presso il Cimitero di Guerra di Villanova in Italia, dove riposa nella sezione VII, fila C, tomba 6.

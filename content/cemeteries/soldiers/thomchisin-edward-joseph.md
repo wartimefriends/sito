@@ -1,7 +1,12 @@
 +++
-title = "Edward Joseph T(H)OMCHISHIN, numero di matricola B/143468, nacque il 22 giugno 1924 a Oakburn, Manitoba. Aveva 20 anni quando fu ucciso in azione il 4 gennaio 1945 nell’area di San Alberto."
+title = "Soldato Edward Joseph THOMCHISIN– B/143468"
 +++
 
+#### B Company, Irish regiment of Canada, R.C.I.C.
+<br>
+
+
+Edward Joseph T(H)OMCHISHIN, numero di matricola B/143468, nacque il 22 giugno 1924 a Oakburn, Manitoba. Aveva 20 anni quando fu ucciso in azione il 4 gennaio 1945 nell’area di San Alberto.
 Al momento della sua morte, Edward stava prestando servizio con la “B” Compagnia del Reggimento Irlandese del Canada in Italia. Ora riposa nel Villanova Canadian War Cemetery in Italia, nel settore I, fila A, tomba 6.
 
 Edward crebbe in una grande famiglia unita. Era il quinto di sette figli nati dai suoi genitori, Michael e Mary Thomchishin. Aveva tre fratelli — Bernard, James e Alfred — e tre sorelle — Caroline, Francis e Anne. La sua famiglia si trasferì da Oakburn a Toronto quando Edward aveva solo due anni.

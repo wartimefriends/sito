@@ -1,7 +1,12 @@
 +++
-title = "Il tenente Clifford Francis TOBIN, numero di reggimento 3485, prestò servizio con il 5º Reggimento Corazzato, 8º Ussari della Principess Luise (New Brunswick), Royal Canadian Armoured Corps."
+title = "Tenente Clifford Frances TOBIN - 3485"
 +++
 
+#### 5° Regg. Corazzato, 8th Princess Louise's Hussars, R.C.A.C.
+<br>
+
+
+Il tenente Clifford Francis TOBIN, numero di reggimento 3485, prestò servizio con il 5º Reggimento Corazzato, 8º Ussari della Principess Luise (New Brunswick), Royal Canadian Armoured Corps. 
 Nacque il 20 novembre 1916 a Youngstown, Alberta, e fu tragicamente ucciso in azione il 4 gennaio 1945, all'età di 28 anni. Il tenente Tobin è sepolto nel cimitero di guerra di Villanova, in Italia, nel lotto I B 4, un luogo di riposo che commemora il suo estremo sacrificio durante la seconda guerra mondiale.
 
 Clifford proveniva da un contesto familiare numeroso e difficile. Sua madre morì nel 1936 quando aveva solo 20 anni, lasciando lui e i suoi sette fratelli a crescere in una famiglia distrutta. Clifford era l'ottavo figlio della famiglia, con la sua famiglia sopravvissuta composta da suo padre, Harry Arthur, e una sorella, la signora James Connolly. Nonostante queste difficoltà, era noto per essere collaborativo e leale, e il suo comportamento gli fu utile sia nella vita civile che nella successiva carriera militare.

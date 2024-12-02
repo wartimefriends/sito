@@ -2,9 +2,9 @@
 title = "Soldato Melvin Kenneth FISHER"
 +++
 
-Perth Regiment, R.C.I.C.
-Caduto in combattimento: 20 dicembre 1944, all’età di 22 anni
-Cimitero di Guerra di Villanova, Plot IV, Fila A, Tomba 3
+#### Perth Regiment, R.C.I.C.
+<br>
+
 
 Melvin Kenneth Fisher nacque il 3 febbraio 1922 a Inwood, Ontario, da Archie e Flora Fisher. Primogenito di quattro fratelli, crebbe in una famiglia modesta insieme ai suoi due fratelli, Keith e Joseph, e alla sorella Doris. Cresciuto a Sarnia, Ontario, la sua infanzia fu segnata dal duro lavoro e dal senso di responsabilità, specialmente come maggiore dei fratelli.
 

@@ -1,6 +1,9 @@
 +++
-title = "The Story of Private Frederick Arthur Smith: A Life of Service and Sacrifice"
+title = "SMITH Private Frederick Arthur - A11766"
 +++
+
+#### Perth Regiment R.C.I.C.
+<br>
 
 
 Frederick Arthur Smith was born on July 4, 1913, in Stratford, Ontario, into a large family that would shape much of his life. He was one of the many children of Henry Thomas and Elizabeth Sarah Smith, growing up with five brothers—George, Harry, Alfred, William, and Victor—and three sisters—Lizzie, Lulu, and Lily. Tragically, two of his siblings, Joyce and Bobby, passed away at a young age. The Smith family was deeply rooted in their community, adhering to the values of the Church of England.

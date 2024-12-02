@@ -1,6 +1,12 @@
 +++
-title = "Il Soldato Joseph Edmond Russell LACELLE, membro dei Cape Breton Highlanders del Royal Canadian Infantry Corps, era un giovane che servì il suo paese con resilienza silenziosa e determinazione."
+title = "Soldato Joseph Edmond Russell LACELLE - B144460"
 +++
+
+#### Cape Breton Highlanders, R.C.I.C.
+<br>
+
+
+Joseph Edmond Russell LACELLE, membro dei Cape Breton Highlanders del Royal Canadian Infantry Corps, era un giovane che servì il suo paese con resilienza silenziosa e determinazione. 
 
 Nato il 25 ottobre 1924 a Mattawa, Ontario, Joseph, noto come Russell, crebbe in una numerosa famiglia del Nord Ontario. Suo padre, Joseph Lacelle, lavorava come carpentiere, mentre sua madre, Louise, si occupava della numerosa famiglia. 
 Russell era il secondo di nove figli, tra cui i fratelli Arnold, Joseph, Roy, René e John, e le sorelle Lorraine, Liola, Jean e May. Nonostante le difficoltà economiche, la famiglia fornì un’educazione salda e amorevole, radicata in forti valori e resilienza.

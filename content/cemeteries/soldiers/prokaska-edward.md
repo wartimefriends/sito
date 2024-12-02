@@ -1,6 +1,9 @@
 +++
-title = "La Vita e il Servizio del Sergente Edward PROKASKA"
+title = "Sergente Edward PROKASKA -- B/78956"
 +++
+
+#### A Company – Irish Regiment of Canada, R.C.I.C.
+<br>
 
 
 Il Sergente Edward Prokaska, del Reggimento Irlandese del Canada, è ricordato come un soldato devoto e capace, che servì con coraggio e lealtà fino alla sua morte in Italia il 12 dicembre 1944, a soli 23 anni. 

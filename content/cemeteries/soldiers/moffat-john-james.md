@@ -1,7 +1,12 @@
 +++
-title = "Il tenente John James MOFFAT prestava servizio nella Compagnia A del Reggimento Irlandese del Canada."
+title = "Tenente John JamesMOFFAT"
 +++
 
+#### A Company – Irish Regiment of Canada
+<br>
+
+
+Il tenente John James MOFFAT prestava servizio nella Compagnia A del Reggimento Irlandese del Canada. 
 Nato il 1° dicembre 1920 a Winnipeg, Manitoba, John aveva 24 anni al momento della sua morte. Era alto 1,76 m e pesava 64 kg, con carnagione chiara, occhi color nocciola e capelli castano scuro. 
 Era membro della Chiesa d’Inghilterra ed era celibe.
 

@@ -1,6 +1,9 @@
 +++
-title = "Private Hugh Courtney GRAHAM"
+title = "Private Hugh Courtney GRAHAM - A64159"
 +++
+
+#### Perth Regiment - R.C.I.C.
+<br>
 
 
 Hugh Courtney Graham’s story is one of dedication, resilience, and sacrifice. 
@@ -54,6 +57,7 @@ For god knew best -but this I know-
 That my heart went with you, when
 The "Ump" called go !
 
-Written In Memory Of My Old Pal And Buddy, Hughie Graham
-Killed In Action 20, 1944 Italy. *S/Sgt. Harry Richardson
+S/Sgt. Harry Richardson
 
+Written In Memory Of My Old Pal And Buddy, Hughie Graham
+Killed In Action 20, 1944 Italy. 

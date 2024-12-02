@@ -1,6 +1,9 @@
 +++
-title = "The Story of Private Robert Walter Smith: A Soldier’s Journey"
+title = "SMITH Private Robert Walter - B134320"
 +++
+
+#### Westminster Regiment (Motors), R.C.I.C.
+<br>
 
 
 Private Robert Walter Smith was born on October 17, 1922, in North Sydney, Nova Scotia. Growing up in a supportive family, Robert was the son of Stephen and Winnifred Smith, with one sister, Mrs. Annette Howard. He had a normal home life, but the responsibilities of family life weighed heavily on him. At the age of 15, he left school to help support his parents, marking the beginning of his journey into the workforce.

@@ -2,9 +2,9 @@
 title = "Soldato William Thomas FAWCETT"
 +++
 
-Reggimento di Perth, R.C.I.C.
-Caduto in Azione: 20 dicembre 1944, Età 28 anni
-Cimitero di Guerra di Villanova, Settore IV, Fila B, Tomba 10
+#### Reggimento Perth, R.C.I.C.
+<br>
+
 
 William Thomas Fawcett nacque il 19 ottobre 1916 a Mitchell, Ontario, da Thomas e Mary Elizabeth Fawcett. Il più giovane di quattro fratelli, William crebbe insieme ai suoi fratelli Edward E. e Frederick C. e a sua sorella, la signora Lillian Harper. Nato in una fattoria, l’infanzia di William fu plasmata dalla vita rurale e dalle responsabilità che essa comportava. Tuttavia, i suoi primi anni furono segnati dalla tragedia: perse il padre quando aveva solo quattro anni.
 

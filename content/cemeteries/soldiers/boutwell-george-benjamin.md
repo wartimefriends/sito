@@ -2,10 +2,9 @@
 title = "Caporale George Benjamin BOUTWELL - K42746"
 +++
 
-Westminster Regiment (Motors) R.C.I.C.
-VII-A-4
+#### Westminster Regiment (Motors) R.C.I.C.
+<br>
 
-Una vita di servizio, sacrificio e famiglia
 
 Nato il 18 settembre 1919 a Salmon Arm, nella Columbia Britannica, George Benjamin Boutwell crebbe in una famiglia unita ma segnata da difficoltà. Quarto di cinque figli, la sua infanzia fu caratterizzata da perdite e resilienza. Sua madre, Gertrude Florence Buchan, morì quando George aveva solo 18 mesi, lasciando il padre, George Leslie Boutwell, a crescere i figli da solo. A 12 anni, George vide entrare nella sua vita una matrigna, quando suo padre si risposò, portando una certa stabilità a un’infanzia segnata da difficoltà.
 

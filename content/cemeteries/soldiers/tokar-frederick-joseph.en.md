@@ -1,7 +1,12 @@
 +++
-title = "Frederick Joseph Tokar was born on February 14, 1924, in Pembroke, Ontario. He grew up in South Porcupine, a small town in NORTHERN Ontario, where he lived with his parents, Frederick and Mabel Tokar, and his sister, Marie. A Roman Catholic by faith, Frederick came from a modest background and showed early promise as a diligent and hardworking young man."
+title = "TOKAR Private Frederick Joseph - B144632"
 +++
 
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
+
+Frederick Joseph Tokar was born on February 14, 1924, in Pembroke, Ontario. He grew up in South Porcupine, a small town in NORTHERN Ontario, where he lived with his parents, Frederick and Mabel Tokar, and his sister, Marie. A Roman Catholic by faith, Frederick came from a modest background and showed early promise as a diligent and hardworking young man.
 
 Frederick completed Grade 8 before leaving school to enter the workforce. Over the years, he gained varied experience working as a floor contractor’s helper, an apprentice mechanic at the South Porcupine Airport, and a clerk at the Canadian National Railway (C.N.R.) Express Office, where he checked parcels and wrote statements. Despite the challenges of the Great Depression, he demonstrated responsibility and perseverance, earning a steady living in difficult times. The C.N.R. promised him employment after the war, and he had expressed a personal interest in pursuing work as a mechanic, though this dream would never come to fruition.
 

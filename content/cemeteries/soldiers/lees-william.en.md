@@ -1,9 +1,13 @@
 +++
-title = "Private William LEES: A Life of Dedication and Sacrifice"
+title = "Private William LEES - H100646"
 +++
 
+#### 4th Princess Louise Dragoon Guards, R.C.A.C.
+<br>
 
-Private William Lees, Service Number H100646, served with the 4th Princess Louise Dragoon Guards of the Royal Canadian Armoured Corps. 
+
+Private William Lees, Service Number H100646, served with the 4th Princess Louise Dragoon Guards of the Royal Canadian Armoured Corps.
+
 Born on February 15, 1917, in Winnipeg, Manitoba, William lived a life marked by quiet dedication and responsibility. His father, William Sr., passed away when he was young, leaving William as the sole support for his mother, Clara. With no siblings, William shouldered the weight of family responsibilities early in life.
 
 William attended school until Grade 9, completing part of Grade 10 before leaving at 17 to enter the workforce. His first job was as a grocery store clerk at Goodman’s Grocery in Winnipeg, where he worked for six years. Later, he found employment as a warehouse shipper’s helper and assistant shipper for Walter Woods Ltd., a wholesale hardware company. Known for his reliability and pleasant demeanor, William was promised a position at Walter Woods upon his return from the war, with aspirations to work as a freight checker for the Canadian National Railway (C.N.R.).

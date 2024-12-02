@@ -2,9 +2,9 @@
 title = "Private James Edwin FOSTER"
 +++
 
-Westminster Regiment (Motors), R.C.I.C.
-Killed in Action: December 20, 1944, Age 33
-Villanova War Cemetery, Plot IV, Row B, Grave 5
+#### Westminster Regiment (Motors), R.C.I.C.
+<br>
+
 
 James Edwin Foster was born on October 21, 1911, in Mervin, Saskatchewan, to Joseph and Jane Foster. Raised on a farm in northern Saskatchewan, James grew up in a hardworking family with strong roots in English and Scottish heritage. The eldest of three children, he had two sisters: Kitty Jane Brown of Turtleford, SK, and Ada Mary Butcher of North Battleford, SK.
 

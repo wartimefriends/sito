@@ -1,6 +1,9 @@
 +++
-title = "The Life and Service of Lance Corporal Homer Gilbert SCHLEIHAUF"
+title = "SCHLEIHAUF Lance Corporal Homer Gilbert - C63591"
 +++
+
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
 
 
 Lance Corporal Homer Gilbert Schleihauf served with honor as a member of the Lanark and Renfrew Scottish Regiment of the Royal Canadian Infantry Corps. Known for his amiable personality and dedication, Homer’s life was one of loyalty, service, and sacrifice.
@@ -15,7 +18,12 @@ Following his enlistment, Homer’s journey began in Canada, where he served unt
 
 By October 27, 1943, Homer was deployed to Italy, where he would join the grueling campaigns in some of the most intense battlegrounds of the Second World War. On October 26, 1944, his regiment was redesignated as the Lanark and Renfrew Scottish Regiment, a unit that soon saw extensive action in the Italian theater. As a Lance Corporal, Homer proved his dedication and leadership within his unit, showing a steadfast commitment to his comrades and mission.
 
-Tragically, on December 13, 1944, Homer’s service came to a heartbreaking end. He was killed in action at age 24 during fierce fighting in Italy, as his regiment engaged in one of many critical operations in the region. Homer Gilbert Schleihaus was laid to rest at the Villanova War Cemetery, where he lies in Plot VII, Row C, Grave 3, his memory enshrined among the ranks of fellow soldiers who gave their lives for their country.
+Tragically, on December 13, 1944, Homer’s service came to a heartbreaking end. He was killed in action at age 24 during fierce fighting in Italy, as his regiment engaged in one of many critical operations in the region.
+
+According to the Lanarks war diary they “Were near Naviglio Osteria in the area around Prati, Ravenna. Here the B-Company came under a heavy counter attack at 07.30 hrs in the morning causing many casualties. An hour later the counter attack didn't make any progress and appeared to be dying out. Casualties were coming in all day.”. 
+It is most likely that Homer was one of the casualties.
+
+Homer Gilbert Schleihaus was laid to rest at the Villanova War Cemetery, where he lies in Plot VII, Row C, Grave 3, his memory enshrined among the ranks of fellow soldiers who gave their lives for their country.
 
 Lance Corporal Schleihaus’s legacy is one of courage, humility, and selflessness. His story lives on through his son, John, and the many family members and friends who remember him as a beloved husband, father, and comrade. 
 His service to Canada remains a testament to the countless young men and women who answered the call of duty during World War II.

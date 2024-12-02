@@ -1,6 +1,9 @@
 +++
-title = "Rifleman HERRING, Douglas Stanley - 6852201- 1st Battalion, King’s Royal Rifle Corps (UK)"
+title = "Rifleman HERRING, Douglas Stanley – 6852201"
 +++
+
+#### 1st Battalion, King’s Royal Rifle Corps (UK)
+<br>
 
 
 Douglas Stanley was born in 1917 in Hammersmith, London. 

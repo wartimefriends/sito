@@ -2,9 +2,9 @@
 title = "Trooper Norman L. CAMERON - B134620"
 +++
 
-3rd Armoured Regiment, Governor General’s Horse Guards, R.C.A.C.
+#### 3rd Armoured Regiment, Governor General’s Horse Guards, R.C.A.C.
+<br>
 
-A Young Life of Promise and Sacrifice
 
 Trooper Norman L. Cameron was born on June 8, 1923, in Regina, Saskatchewan, into a loving and hardworking family. He was the second of five children born to William L. and Eva May Cameron, with one brother, Donald, and three sisters, including Mrs. David Johnson, Marion, and Helen. Raised on his family’s farm in St. Ann’s, Ontario, Norman’s upbringing was grounded in the values of diligence and community.
 

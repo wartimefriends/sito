@@ -2,9 +2,9 @@
 title = "Sergente John David CRUICKSHANK, M.M. - K74189"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
 
-Un Coraggioso Leader e un Eroe Decorato
 
 John David Cruickshank nacque il 10 gennaio 1921 a Caithness, British Columbia. Figlio maggiore di David e Lilian Cruickshank, John crebbe a Erie, BC, insieme al fratello minore Gordon. Allevato nella fattoria di famiglia, John sviluppò un forte senso del dovere, una grande resilienza e un’etica del lavoro esemplare.
 

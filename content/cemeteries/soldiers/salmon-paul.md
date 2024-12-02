@@ -1,9 +1,14 @@
 +++
-title = "La Vita e il Servizio del Soldato Jean Paul SALMON"
+title = "Soldato Jean Paul SALMON - D77946"
 +++
 
+#### C Company – Irish Regt. Of Canada, R.C.I.C
+<br>
 
-Il soldato Jean Paul Salmon, membro devoto del Reggimento Reale di Montreal, è ricordato per il suo coraggio e il sacrificio supremo reso al proprio paese. Nato il 24 gennaio 1918 a Montreal, Quebec, Paul era un giovane di corporatura media, alto circa un metro e settanta, con occhi grigi e capelli castani. Cresciuto in una famiglia cattolica affiatata, era il terzo di quattro figli di Alfred e Marie, e aveva due sorelle, Laurette e Jeanette, e un fratello, Marcel.
+
+Il soldato Jean Paul Salmon, membro devoto del Reggimento Reale di Montreal, è ricordato per il suo coraggio e il sacrificio supremo reso al proprio paese. 
+
+Nato il 24 gennaio 1918 a Montreal, Quebec, Paul era un giovane di corporatura media, alto circa un metro e settanta, con occhi grigi e capelli castani. Cresciuto in una famiglia cattolica affiatata, era il terzo di quattro figli di Alfred e Marie, e aveva due sorelle, Laurette e Jeanette, e un fratello, Marcel.
 
 Durante la giovinezza, Paul completò otto anni di scuola pubblica prima di iniziare a lavorare come venditore per la Cone Ltd., un’azienda specializzata in coni gelato, dove rimase per cinque anni. A 24 anni, in un periodo di grande incertezza e responsabilità, decise di arruolarsi nell’esercito il 5 giugno 1942 a South Montreal, spinto da un forte senso del dovere per servire il Canada durante i difficili giorni della Seconda Guerra Mondiale.
 

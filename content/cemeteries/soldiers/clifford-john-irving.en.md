@@ -1,8 +1,10 @@
 +++
-title = "Private John Irving CLIFFORD - service number B/138372"
+title = "Private John Irving CLIFFORD - B/138372"
 +++
 
-D Company, Irish Regiment of Canada
+#### D Company, Irish Regiment of Canada
+<br>
+
  
 John Irving Clifford was born on September 28, 1925, in Rama, Saskatchewan. The fourth child of Charles James and Sabie Ester Clifford, John grew up in a large and loving family alongside his brothers Gilbert, Donald, and Burford, and his sisters Frances (Boucher), Betty, Janet (Bellhouse), and Ruth. His childhood was shaped by the camaraderie of siblings and the values instilled in him by his hardworking parents.
 

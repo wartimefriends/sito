@@ -1,8 +1,13 @@
 +++
-title = "Private William Parker THOMPSON, regimental number B143697, served with the Lanark and Renfrew Scottish Regiment of the Royal Canadian Infantry Corps."
+title = "THOMPSON Private William Parker - B143697"
 +++
 
-Born on March 8, 1924, in Hamilton, Ontario, William was just 19 years old when he was killed in action on December 13, 1944 at the Fosso Vecchio. 
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
+
+William Parker THOMPSON, regimental number B143697, served with the Lanark and Renfrew Scottish Regiment of the Royal Canadian Infantry Corps.
+Born on March 8, 1924, in Hamilton, Ontario, William was just 19 years old when he was killed in action on December 13, 1944 at the Fosso Vecchio.
 He is buried in the Villanova War Cemetery, Italy, in plot VI A 1, where his ultimate sacrifice is honored.
 
 William came from a working-class family. His father, Parker, and his mother, Ada, both lived in Hamilton, Ontario, where he resided prior to his enlistment. He had a brother, Stanley, who was stationed at Camp Borden, and a sister, Marjorie Parsons, who lived in Dauphin, Manitoba. 

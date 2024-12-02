@@ -1,6 +1,9 @@
 +++
-title = "Geniere William James KENNEDY: Una Vita di Lavoro Duro e Sacrificio"
+title = "Geniere William James KENNEDY - 015288"
 +++
+
+#### 1 Field Sqn., Royal Canadian Engineers
+<br>
 
 
 William James Kennedy, matricola 015288, prestò servizio con il 1° Squadrone Campale dei Royal Canadian Engineers. 

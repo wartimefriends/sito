@@ -1,6 +1,12 @@
 +++
-title = "Robert Ivan MULLIGAN, matricola n° B13049, ha servito nel Lanark and Renfrew Scottish Regiment, un’unità del Royal Canadian Infantry Corps (R.C.I.C.)."
+title = "Soldato Robert Ivan MULLIGAN - B13049"
 +++
+
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
+
+Robert Ivan MULLIGAN, matricola n° B13049, ha servito nel Lanark and Renfrew Scottish Regiment, un’unità del Royal Canadian Infantry Corps (R.C.I.C.). 
 
 Nato il 30 ottobre 1906 a Hartford, Ontario, Robert trascorse i suoi primi anni in una grande famiglia, quinto di sette fratelli. I suoi genitori, Dave e Jessie Elizabeth, vivevano a Waterford, Ontario, insieme ai suoi fratelli e a una sorella, Constance Elaine Robinson, che successivamente si trasferì a Buffalo, New York.
 

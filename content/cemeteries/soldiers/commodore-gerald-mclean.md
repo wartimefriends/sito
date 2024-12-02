@@ -2,9 +2,9 @@
 title = "Soldato Gerald McLean COMMODORE - B41666"
 +++
 
-4th Princess Louise Dragoon Guards, R.C.I.C.
+#### 4th Princess Louise Dragoon Guards, R.C.I.C.
+<br>
 
-Una Vita di Lavoro, Servizio e Sacrificio
 
 Il soldato Gerald McLean Commodore nacque il 2 agosto 1921 a Smiths Falls, Ontario, in una famiglia affettuosa e laboriosa. Secondo di cinque figli, Gerald crebbe con tre fratelli—Donald, Gordon e William—e una sorella, Mary, che prestò servizio nel Canadian Women’s Army Corps (CWAC) a Montreal. Cresciuto dai genitori William Charles e Lena, l’infanzia di Gerald fu descritta come felice e stabile.
 

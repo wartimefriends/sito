@@ -2,9 +2,9 @@
 title = "Private Herbert Harvey CROSS - L104151"
 +++
 
-4th Princess Louise Dragoon Guards, R.C.I.C.
+#### 4th Princess Louise Dragoon Guards, R.C.I.C.
+<br>
 
-A Life of Dedication and Sacrifice
 
 Private Herbert Harvey Cross was born on August 18, 1924, in Glenavon, Saskatchewan, into a large and loving family. The son of Harvey Thomas and Laura Beatrice Cross, Herbert was one of fourteen children, including four brothers—Gordon, Trooper Howard, Private Norman, and Gerald—and nine sisters, among them Merita (Darcey), Alma (Leech), Evelyn (Forbes), Private Jean Cross, Irene, Ruth, Iva, Eunice, and Shirley. Despite the losses of two sisters in childhood, Herbert grew up in a close-knit and supportive family environment.
 

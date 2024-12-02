@@ -1,7 +1,13 @@
 +++
-title = "Trooper Howard Francis LAUZON of the 9th Armored Regiment, British Columbia Dragoons, Royal Canadian Armoured Corps, was a young man whose life was defined by hard work, family dedication, and, ultimately, sacrifice."
+title = "Trooper Howard Francis LAUZON - C32410"
 +++
 
+#### 9th Armored Regiment, British Columbia Dragoons, R.C.A.C.
+<br>
+
+
+Howard Francis LAUZON of the 9th Armored Regiment, British Columbia Dragoons, Royal Canadian Armoured Corps, was a young man whose life was defined by hard work, family dedication, and, ultimately, sacrifice.
+ 
 Born on October 8, 1921, in Cornwall, Ontario, Howard was the fourth of eight children in a close-knit family. His father, Napoleon, and mother, Mary Louise, raised him alongside his five brothers—Harole Napoleon, Charles Henry, John Earl, William Douglas, and Robert Wesley—and two sisters, Mary Helen and Viola Marguerite. Growing up, Howard embraced his roots, a mix of British and French Canadian heritage, and was instilled with a sense of duty that would later guide his actions.
 
 Howard’s early years were marked by a strong work ethic. He left school at age 14, after completing Grade 8, and worked a series of jobs to support his family and gain experience. Over five years, he took on roles ranging from section hand on the railroad to general labor in a furniture factory and farm work. 

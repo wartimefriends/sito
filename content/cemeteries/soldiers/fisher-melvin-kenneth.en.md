@@ -2,9 +2,9 @@
 title = "Private Melvin Kenneth FISHER"
 +++
 
-Perth Regiment, R.C.I.C.
-Killed in Action: December 20, 1944, Age 22
-Villanova War Cemetery, Plot IV, Row A, Grave 3
+#### Perth Regiment, R.C.I.C.
+<br>
+
 
 Melvin Kenneth Fisher was born on February 3, 1922, in Inwood, Ontario, to Archie and Flora Fisher. The eldest of four siblings, he grew up in a modest family with two brothers, Keith and Joseph, and one sister, Doris. Raised in Sarnia, Ontario, Melvin’s early life was shaped by hard work and a sense of responsibility, especially as the oldest child.
 

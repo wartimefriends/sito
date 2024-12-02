@@ -1,7 +1,11 @@
 +++
-title = "Lance Corporal George William STEPHENS (Service No. W66349)"
+title = "STEPHENS L/Cpl. George William - W66349"
 +++
 
+#### Irish Regiment of Canada, R.C.I.C.
+<br>
+
+HQs Coy (Medical Section) Att. to A Company
 
 Born on September 23, 1909, in Belfast, Northern Ireland, George William Stephens was a spirited and determined individual who would ultimately sacrifice his life in service during the Second World War. At 5 feet 5 inches tall and 147 pounds, with light brown hair, blue eyes, and a medium complexion, George was known for his confident and sincere demeanor. Raised in a large family, he was the fourth of six children of George William Stephens Sr., a government employee who passed away in 1933, and Emma Rebecca Stephens. His siblings included three brothers, John Albert, Hugh Sidney, and Herbert Andrew, and two sisters, Laura Isabel and another sister who was married. Despite being single, George supported his mother, Emma, who lived with him in Burnaby, British Columbia, and was partly dependent on him.
 George pursued his education through one year of high school before starting his career. He ran a small grocery and confectionery shop known as the Midway Store in Burnaby. This role as a storekeeper built a foundation of responsibility and resilience, yet George sought a greater purpose. He had also served previously in the 2nd Battalion, Westminster Regiment, a part of the Reserve Army, where he gained early military experience.

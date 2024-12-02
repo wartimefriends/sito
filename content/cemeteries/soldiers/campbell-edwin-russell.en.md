@@ -2,9 +2,9 @@
 title = "Private Edwin Russell CAMPBELL - L57720"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
 
-A Modest Life Devoted to Duty
 
 Private Edwin Russell Campbell was born on March 16, 1919, in Eston, Saskatchewan, the fourth of seven children in a family weathering the hardships of the Great Depression. His father, William Edward Lorne, left the family in 1930, leaving Edwin’s mother, Lillian May, to care for her children in Lacadena, Saskatchewan. Edwin grew up with four brothers—Frederick Lorne, Everett Francis, John Peter, and Leslie William—and two sisters, Mrs. Vernon Maguire and Mildred May.
 

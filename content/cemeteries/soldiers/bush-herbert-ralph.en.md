@@ -2,7 +2,9 @@
 title = "Gunner Herbert Ralph BUSH – L57842"
 +++
 
-2 Public Relations Group, Royal Canadian Artillery
+#### 2 Public Relations Group, Royal Canadian Artillery
+<br>
+
 
 Herbert Ralph Bush was born on September 25, 1904, in Belleville, Ontario. His early years were shaped by adversity, having been raised in an orphanage after losing his parents. His father, William, passed away at an unknown date, and his mother, Mabel Moon, died in October 1936. Herbert’s only sibling, his brother Clifford, had been untraceable since 1927, when he was last known to be serving with the Royal Canadian Mounted Police in Regina.
 

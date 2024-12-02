@@ -1,8 +1,10 @@
 +++
-title = "Private Antoine Philip BOURGET - service number L/103659"
+title = "Private Antoine Philip BOURGET - L/103659"
 +++
 
-4th Princess Louise Dragoon Guards, Royal Canadian Infantry Corps
+#### 4th Princess Louise Dragoon Guards, R. C. I. C.
+<br>
+
 
 Born on June 11, 1921, in Storthoaks, Saskatchewan, Antoine grew up in a hardworking farming family. He was the fourth of nine children born to Alfred and Rose Bourget. His siblings included brothers Wilfred, who served overseas with the Canadian Army, Leopold, Armand, and Henri, as well as sisters Jeanne (Smith), Aurore (Belva), and Helene.
 

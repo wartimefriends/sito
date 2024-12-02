@@ -2,9 +2,9 @@
 title = "Private Arthur Frank CONNORS - F51061"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
 
-A Dedicated Son and Soldier
 
 Private Arthur Frank Connors was born on July 21, 1921, in Halifax, Nova Scotia. Raised in the close-knit community of Spryfield, Halifax County, Arthur grew up in a hardworking family with his parents, Frank and Mary Connors, two brothers, Charles and J. Ronald, and a sister, Belle Oxner.
 

@@ -2,9 +2,9 @@
 title = "Private Ernie Batiste GEORGE"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
-Killed in Action: December 13, 1944, Age 26
-Villanova War Cemetery, Plot VI, Row C, Grave 6
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
 
 Ernie Batiste George was born on August 25, 1917, in Oliver, British Columbia, on the Inkameep Indian Reserve. He was the son of Chief Narcisse George and Victoria George, part of a large family with five brothers—Edward, Charlie, John, Henry, and Francis—and two sisters, Theresa and Irene. Raised on his father’s mixed farm, Ernie grew up in a happy and supportive environment, surrounded by alfalfa fields, livestock, and the rich cultural traditions of his Indigenous heritage.
 
@@ -17,7 +17,8 @@ Ernie enlisted in the Canadian Army on April 1, 1941, in Penticton, BC, motivate
 As a member of the Inkameep Indian Reserve, Ernie represented the proud tradition of Indigenous soldiers who answered the call to arms during the Second World War. Indigenous Canadians, with their expertise in hunting and handling firearms, were particularly valued in the military. 
 Ernie’s niece, Pauline Armstrong, described him as a natural leader—strong, proud, and humble, with a voice that commanded attention and respect. She recalled his decision to serve, stating, “He wanted to fight for his country. It was his country. Everyone was there fighting for the same cause: to stop Hitler.”
 
-On December 13, 1944, during operations near Villanova, Italy, Private Ernie Batiste George was killed in action in a farmer’s field. His death marked the loss of a courageous and dedicated soldier who gave his life in the fight for freedom. He was 26 years old.
+On December 13, 1944, during operations near Villanova, Italy, Private Ernie Batiste George was killed in action in a farmer’s field. His death marked the loss of a courageous and dedicated soldier who gave his life in the fight for freedom. 
+He was 26 years old.
 
 Ernie was laid to rest in Villanova War Cemetery, where his grave honors his sacrifice. His legacy lives on through the stories of his family and the enduring pride of the Osoyoos Indian Band, whose members remember him as a symbol of strength and service.
 

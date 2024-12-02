@@ -1,6 +1,9 @@
 +++
-title = "Private Maximilian GOLKA"
+title = "Private Maximilian GOLKA – B43676"
 +++
+
+#### 4th Princess Louise Dragoon Guards - R.C.I.C.
+<br>
 
 
 Maximilian Golka’s life is a story of resilience, hard work, and ultimate sacrifice, emblematic of the dedication of those who served during the Second World War. Born on January 27, 1912, in Killaloe, Ontario, Maximilian grew up in a large, close-knit family. The son of Thomas and Mary Golka, he was one of 17 siblings, including five brothers—Philip, Benedict, Bronislocea, Sylvester, and Alexander—and eight sisters—Helen, Frances, Elizabeth, Laura, Stella, Cathleen, Agnes, and Mary Theresa. Four of his siblings died young, and the family’s struggles were compounded by poverty, which required all the children to contribute to the family farm from a young age.

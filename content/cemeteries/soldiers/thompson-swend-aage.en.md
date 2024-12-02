@@ -1,6 +1,12 @@
 +++
-title = "Private Swend Aage THOMPSON was born on February 26, 1912, in Bronderslee Aastrup, Denmark, a country that would eventually fall under Nazi occupation."
+title = "THOMPSON Private Swend Aage - M3234"
 +++
+
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
+
+Swend Aage THOMPSON was born on February 26, 1912, in Bronderslee Aastrup, Denmark, a country that would eventually fall under Nazi occupation.
 
 At the time of his enlistment, he was living in Canmore, Alberta, working as both a farmer and lumberjack. Though single, Swend had a strong connection to his family, particularly his Uncle Carl Peterson, who resided in Hayter, Alberta. 
 His parents, Christen and Anna, remained in occupied Denmark, and Swend had not heard from them since the invasion, according to his uncle. 

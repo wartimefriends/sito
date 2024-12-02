@@ -1,9 +1,10 @@
 +++
-title = "Caporale Charles Richard Patrick GREGG"
+title = "Caporale Charles Richard Patrick GREGG - 7948243"
 +++
 
-Numero di servizio 7948243
-7th Queen’s Own Hussars – Royal Armoured Corps
+#### 7th Queen’s Own Hussars – Royal Armoured Corps
+<br>
+
 
 Charles Richard Patrick Gregg era il figlio più giovane di Robert Bonthron e Muriel Agnes Gregg.
 Nato a Bournemouth, in Gran Bretagna, nel 1919, la famiglia si trasferì successivamente nel centro di Londra, a Flanders Mansion, 24 di Bedford Park. Quando Patrick aveva circa nove anni, la famiglia emigrò a Buenos Aires, in Argentina. Partirono l’11 ottobre 1928 a bordo del piroscafo “Avila” della Blue Star Line.

@@ -1,6 +1,11 @@
 +++
-title = "Soldato Earl William GOSLIN"
+title = "Soldato Earl William GOSLIN - M104002"
 +++
+
+#### Westminster Regiment (Motors) R.C.I.C.
+<br>
+
+
 
 
 La vita del soldato Earl William Goslin riflette un percorso di resilienza, determinazione e sacrificio estremo.

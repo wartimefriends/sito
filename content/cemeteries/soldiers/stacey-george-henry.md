@@ -1,7 +1,12 @@
 +++
-title = "George Henry STACEY nacque il 10 dicembre 1919 nel comune di Dover, Ontario. Era il maggiore di tre figli, aveva due fratelli più giovani: Percy Garnet, che servì nella Marina Mercantile, e Arthur Roy. I suoi genitori, Roy Hall e Hilda Ella, si separarono nel 1935, quando George era ancora un giovane adolescente."
+title = "Soldato George Henry STACEY - A3303"
 +++
 
+#### 4th Princess Louise Dragoon Guards, R.C.A.C.
+<br>
+
+
+George Henry STACEY nacque il 10 dicembre 1919 nel comune di Dover, Ontario. Era il maggiore di tre figli, aveva due fratelli più giovani: Percy Garnet, che servì nella Marina Mercantile, e Arthur Roy. I suoi genitori, Roy Hall e Hilda Ella, si separarono nel 1935, quando George era ancora un giovane adolescente.
 
 All’età di 13 anni, George lasciò la scuola, spiegando di essere “stufo” dell’istruzione formale. Nonostante l’abbandono precoce, rimase attivo nello sport, eccellendo nel pattinaggio, nuoto, calcio (come difensore) e softball, giocando nel ruolo di interbase. Aveva un approccio pratico al lavoro, occupandosi di vari lavori come manovale per imprese edili, lavorando nella costruzione, pittura e, occasionalmente, nell’agricoltura nella zona di Chatham, Ontario. Dopo la guerra, sognava di gestire un piccolo ristorante o di lavorare come meccanico d’auto.
 

@@ -1,7 +1,12 @@
 +++
-title = "Robert Walter SMITH nacque il 17 ottobre 1922 a North Sydney, Nuova Scozia. Cresciuto in una famiglia affettuosa, Robert era figlio di Stephen e Winnifred Smith e aveva una sorella, Annette Howard. La sua vita familiare era normale, ma fin da giovane si sentiva il peso delle responsabilità familiari. A 15 anni, abbandonò la scuola per contribuire economicamente, segnando così l’inizio del suo percorso nel mondo del lavoro."
+title = "Soldato Robert Walter SMITH - B134320"
 +++
 
+#### Westminster Regiment (Motors), R.C.I.C.
+<br>
+
+
+Robert Walter SMITH nacque il 17 ottobre 1922 a North Sydney, Nuova Scozia. Cresciuto in una famiglia affettuosa, Robert era figlio di Stephen e Winnifred Smith e aveva una sorella, Annette Howard. La sua vita familiare era normale, ma fin da giovane si sentiva il peso delle responsabilità familiari. A 15 anni, abbandonò la scuola per contribuire economicamente, segnando così l’inizio del suo percorso nel mondo del lavoro.
 
 Le prime esperienze lavorative di Robert includono due anni come fattorino presso Carrolli’s Groceries, dal 1937 al 1939. In seguito, lavorò per tre anni e mezzo come ispettore d’acciaio presso la Steel Company of Canada a Hamilton. Il suo ultimo impiego prima dell’arruolamento fu come gruista, anche se solo per un mese. Durante la sua giovinezza, Robert si distinse nei Sea Cadets, dove raggiunse il grado di marinaio capo e divenne il capo tamburino.
 

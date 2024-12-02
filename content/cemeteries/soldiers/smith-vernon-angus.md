@@ -1,6 +1,9 @@
 +++
-title = "La Storia del Soldato Vernon Angus Smith: Il Viaggio di un Giovane Soldato"
+title = "Soldato Vernon Angus SMITH - B38058"
 +++
+
+#### Westminster Regiment (Motors), R.C.I.C.
+<br>
 
 
 Vernon Angus Smith nacque il 9 febbraio 1921 a Brantford, Ontario, in una famiglia numerosa e laboriosa. Come figlio maggiore di Edwin e Ada L. Smith, crebbe con la responsabilità di prendersi cura dei suoi cinque fratelli — John E., James M., Donald C., e William E. — e delle sue tre sorelle — Mildred A., Jeanette S., e Myrtle A. Cresciuto in una famiglia devota dell’Esercito della Salvezza, Vernon fu educato con valori di dedizione, fede e perseveranza.

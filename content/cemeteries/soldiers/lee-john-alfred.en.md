@@ -1,6 +1,12 @@
 +++
-title = "Private John Alfred LEE, a member of the Perth Regiment in the Royal Canadian Infantry Corps, was a man of resilience, dedication, and strength."
+title = "Private John Alfred LEE - A31133"
 +++
+
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+John Alfred LEE, Perth Regiment in the Royal Canadian Infantry Corps, was a man of resilience, dedication, and strength. 
 
 Born on November 16, 1918, in Moose Jaw, Saskatchewan, John was raised in challenging circumstances. His mother, Edna, passed away when he was a baby, and his father moved to Pontiac, Michigan, leaving John and his two sisters, Elsie and Edith, to grow up with a sense of independence and self-reliance. Despite this early loss, John’s childhood was marked by the strong bond he shared with his sisters, particularly Edith, who would go on to serve with the Royal Canadian Ordnance Corps in England during the war.
 

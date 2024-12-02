@@ -1,8 +1,10 @@
 +++
-title = "12 gennaio 1945"
+title = "Geniere Keith Mabin McLEAN - B22926"
 +++
 
-I fratelli condividono una tomba in Italia.
+#### Royal Canadian Engineers
+<br>
+
 
 Keith Mabin McLEAN è nato da Alex e Louise May McLean il 27 novembre 1921 a Tomstown, Ontario. 
 Lavorava come agricoltore a Temiskaming, Ontario, quando scelse di recarsi a Toronto per arruolarsi nei Royal Canadian Engineers il 15 ottobre 1941 (anche suo fratello Alan si arruolò nel RCE e prestò servizio nell'Europa nordoccidentale). Il Sapper Kieth McLean arrivò nel Regno Unito il 19 aprile 1942 e si qualificò come pioniere del Gruppo C nel febbraio 1943.

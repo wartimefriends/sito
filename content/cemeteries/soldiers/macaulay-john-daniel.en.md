@@ -1,7 +1,12 @@
 +++
-title = "John Daniel MacAULAY was born on February 25, 1907, in Sydney, Cape Breton, Nova Scotia. The son of John Stephen and Elizabeth MacAulay, John was one of seven children in a large, tight-knit family. Growing up in Sydney, he shared his childhood with his brother, Merritt Eldon, and his five sisters—Florence, Gladys, Jean, and Ada, all of whom were spread out across the Maritimes."
+title = "MACAULAY Private John Daniel - F89249"
 +++
 
+#### Westminster Regiment (Motors) R.C.I.C.
+<br>
+
+
+John Daniel MacAULAY was born on February 25, 1907, in Sydney, Cape Breton, Nova Scotia. The son of John Stephen and Elizabeth MacAulay, John was one of seven children in a large, tight-knit family. Growing up in Sydney, he shared his childhood with his brother, Merritt Eldon, and his five sisters—Florence, Gladys, Jean, and Ada, all of whom were spread out across the Maritimes.
 
 Leaving school at the age of 12 after completing Grade 7, John embarked on a life of hard work. His early years were spent helping on his uncle’s mixed farm in Prince Edward Island, where he gained valuable skills and an enduring work ethic. In 1925, he moved on to work as a melter’s helper for Dominion Iron and Steel Corporation, a demanding role that honed his physical resilience. By 1931, John had found his true calling as a barber. He established his own business in Sydney, Nova Scotia, working as a self-employed barber for nearly a decade. Known for his pleasant personality and quiet manner, he developed a loyal clientele and looked forward to the idea of expanding his business after the war.
 

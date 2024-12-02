@@ -1,7 +1,12 @@
 +++
-title = "William Lorne TRIMBLE served with the Perth Regiment of the Royal Canadian Infantry Corps during World War II."
+title = "TRIMBLE Private William Lorne - A118143"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+William Lorne TRIMBLE served with the Perth Regiment of the Royal Canadian Infantry Corps during World War II. 
 Born on March 24, 1915, in Windsor, Ontario, he was 31 years old when he was killed in action on December 20, 1944, at the S bend along via Chiara. 
 His final resting place is in the Villanova War Cemetery, at plot IV B I.
 

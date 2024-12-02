@@ -1,7 +1,12 @@
 +++
-title = "Il Soldato Earl MARKS nacque il 28 agosto 1917 a Cannington, Ontario, e crebbe in una famiglia con forti legami con la comunità. Era il quarto figlio di Archibald John (deceduto) e Ellen Ethel Marks, che successivamente si risposò e andò a vivere a Beaverton, Ontario. Earl aveva un rapporto stretto con sua madre, che si era risposata con il fratello del suo defunto padre, e la sua famiglia includeva un fratello, Alfred William, e due sorellastre, Mrs. Van Slyck e Mrs. Calderone."
+title = "Soldato Earl MARKS - B68982"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+Earl MARKS nacque il 28 agosto 1917 a Cannington, Ontario, e crebbe in una famiglia con forti legami con la comunità. Era il quarto figlio di Archibald John (deceduto) e Ellen Ethel Marks, che successivamente si risposò e andò a vivere a Beaverton, Ontario. Earl aveva un rapporto stretto con sua madre, che si era risposata con il fratello del suo defunto padre, e la sua famiglia includeva un fratello, Alfred William, e due sorellastre, Mrs. Van Slyck e Mrs. Calderone.
 
 Earl lasciò la scuola dopo aver completato il grado 10 in un programma tecnico, dove studiava architettura. Fu costretto a lasciare la scuola per sostenere la madre vedova, dimostrando un senso di responsabilità e dovere che avrebbe poi caratterizzato il suo servizio militare. 
 Earl svolse vari lavori, tra cui assistente carpentiere, fattorino per una pasticceria, autista privato, e successivamente come assistente spedizioniere nel reparto lana presso la Canada Packers Ltd., dove guadagnava $30 a settimana. Il suo sogno era diventare un giorno un meccanico di motori, ma la vita lo portò in una direzione diversa quando fu chiamato a servire il suo paese.

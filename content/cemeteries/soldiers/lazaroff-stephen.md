@@ -1,10 +1,12 @@
 +++
-title = "Soldato Stephen LAZAROFF: Una Vita di Servizio e Sacrificio"
+title = "Soldato Stephen LAZAROFF -  851770"
 +++
 
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
 
-Il Soldato Stephen Lazaroff, matricola 851770, prestò servizio nel Lanark and Renfrew Scottish Regiment del Royal Canadian Infantry Corps. 
-Nato il 2 marzo 1922 a Toronto, Ontario, Stephen crebbe come quinto di dieci figli in una numerosa famiglia macedone-canadese. I suoi genitori, Sotir, venditore di carbone, e Trena, lavorarono duramente per sostenere i loro figli, i quali contribuirono tutti al benessere della famiglia. Anche i suoi fratelli George e Sam prestarono servizio nell’esercito canadese, mentre le sue sorelle Olga, Helen, Mary e Sophie aiutarono a mantenere la casa.
+
+Stephen Lazaroff, nato il 2 marzo 1922 a Toronto, Ontario, crebbe come quinto di dieci figli in una numerosa famiglia macedone-canadese. I suoi genitori, Sotir, venditore di carbone, e Trena, lavorarono duramente per sostenere i loro figli, i quali contribuirono tutti al benessere della famiglia. Anche i suoi fratelli George e Sam prestarono servizio nell’esercito canadese, mentre le sue sorelle Olga, Helen, Mary e Sophie aiutarono a mantenere la casa.
 
 Stephen frequentò la scuola fino alla quinta elementare, lasciandola presto per aiutare economicamente la famiglia. Nonostante la sua limitata istruzione formale, sviluppò un forte senso del dovere lavorando come assistente panettiere presso Charles Yeast Donuts e come cameriere presso Paul’s Lunch a Toronto. Conosciuto per il suo carattere allegro e atletico, Stephen amava la ginnastica e il baseball, anche se non sapeva nuotare. Sebbene avesse affrontato alcune difficoltà durante la sua giovinezza, tra cui comportamenti ribelli, maturò diventando una persona affidabile e laboriosa.
 

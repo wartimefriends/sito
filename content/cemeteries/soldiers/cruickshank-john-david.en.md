@@ -1,10 +1,11 @@
 +++
-title = "Lance Sergeant John David CRUICKSHANK, M.M. - K74189"
+title = "L/Sergeant John David CRUICKSHANK, M.M. - K74189"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
 
-A Courageous Leader and Decorated Hero
+
 John David Cruickshank was born on January 10, 1921, in Caithness, British Columbia. The eldest son of David and Lilian Cruickshank, John grew up in Erie, BC, with his younger brother, Gordon. Raised on the family farm, John’s upbringing instilled in him a strong work ethic, resilience, and a deep sense of duty.
 
 John attended high school through Grade 10, leaving at the age of 16 to work and support his family. His hobbies included woodworking and blacksmithing, reflecting his practical nature and skill with tools. An avid sportsman, John excelled in swimming, hockey -playing as left wing, and softball, center field.

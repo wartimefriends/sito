@@ -1,7 +1,12 @@
 +++
-title = "Private Raymond Joseph VINCE was born on April 27, 1925, in Waterford, Ontario. He enlisted in the Canadian Army during World War II on January 8, 1944, in Toronto, Ontario, joining the Perth Regiment of the Royal Canadian Infantry Corps (R.C.I.C.)."
+title = "VINCE Private Raymond Joseph - B157751"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+Raymond Joseph VINCE was born on April 27, 1925, in Waterford, Ontario. He enlisted in the Canadian Army during World War II on January 8, 1944, in Toronto, Ontario, joining the Perth Regiment of the Royal Canadian Infantry Corps (R.C.I.C.). 
 Tragically, Raymond was killed in action on December 20, 1944, during the Italian Campaign, a part of the Allies’ effort to push the Axis forces out of Italy. He is buried in the Villanova War Cemetery in Italy, Plot IV, Row C, Grave 5.
 
 At the time of his enlistment, Raymond was 18 years old, standing 5’7” and weighing 124 pounds. He had a youthful energy and enthusiasm, with dreams of becoming a paratrooper. He was married to Violet May Vince, and they had a son, Allan David, born in April 1944, just a few months before Raymond was deployed overseas. His wife and child resided in Simcoe, Ontario. Raymond came from a large family, with two brothers, James and John, and six sisters: Margaret June, Marion Rose, Florence Adamay, Lena Katharine, Jean Ruth, and Ruby Marie. His parents were Fred and Ethel Vince, and they lived in Parry Sound, Ontario, near Otter Lake Station.

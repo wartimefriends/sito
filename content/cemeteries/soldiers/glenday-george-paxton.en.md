@@ -1,6 +1,9 @@
 +++
-title = "Lance Corporal George Paxton GLENDAY"
+title = "Lance Corporal George Paxton GLENDAY - D77830"
 +++
+
+#### 4th Princess Louise Dragoon Guards R.C.I.C.
+<br>
 
 
 George Paxton Glenday’s life is a testament to reliability, dedication, and quiet strength, reflecting the qualities of a man who served his country with distinction during the Second World War. 

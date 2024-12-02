@@ -1,6 +1,9 @@
 +++
-title = "Caporale Alvin Lloyd LEHMAN: Una Forza Silenziosa al Servizio"
+title = "Caporale Alvin Lloyd LEHMAN - B/135969"
 +++
+
+#### C Company – Irish Regiment of Canada
+<br>
 
 
 Alvin Lloyd Lehman nacque il 1º maggio 1923 a Stouffville, Ontario, il secondo figlio di Wesley Albert e Arvilla Laurena Lehman. Cresciuto in una famiglia affettuosa con i suoi due fratelli, John Wesley e Bruce Stanley, Alvin sviluppò un forte senso di responsabilità e impegno. Suo fratello maggiore, John Wesley, prestò servizio militare nel 1º Battaglione degli Argyll and Sutherland Highlanders. La vita di Alvin fu profondamente influenzata dalla sua fede, come membro della United Church, e dal suo amore per le attività all’aperto, come il pattinaggio, il nuoto e la caccia. Si distinse anche negli sport scolastici, giocando in difesa nell’hockey e come interno nel baseball.

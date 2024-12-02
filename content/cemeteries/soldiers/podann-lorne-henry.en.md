@@ -1,6 +1,9 @@
 +++
-title = "The Life and Service of Private Lorne Henry PODANN"
+title = "PODANN Private Lorne Henry - A64791"
 +++
+
+#### Perth Regiment, R.C.I.C.
+<br>
 
 
 Private Lorne Henry Podann, a young soldier with the Perth Regiment of the Royal Canadian Infantry Corps, served his country with quiet resolve and dedication until his life was tragically cut short in Italy on December 20, 1944. 

@@ -2,7 +2,9 @@
 title = "Private John Lloyd Russell BRADLEY - service number C121373"
 +++
 
-Lanark and Renfrew Scottish Regiment, Royal Canadian Infantry Corps. 
+#### Lanark and Renfrew Scottish Regiment, Royal Canadian Infantry Corps.
+<br>
+
 
 Born on September 9, 1924, in Ottawa, Ontario, John was the eldest of four children in a loving family. His parents, William John and Margaret Lillian Bradley, raised John alongside his three younger sisters: Lillian Alethea, Maureen Ruth, and Beverley Ann. A caring and responsible older brother, John set an example for his siblings through his quiet determination and dedication.
 

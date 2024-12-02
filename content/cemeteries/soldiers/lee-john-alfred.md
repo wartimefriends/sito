@@ -1,6 +1,12 @@
 +++
-title = "Il Soldato John Alfred LEE, membro del Reggimento di Perth del Royal Canadian Infantry Corps, era un uomo di resilienza, dedizione e forza."
+title = "Private John Alfred LEE - A31133"
 +++
+
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+Il Soldato John Alfred LEE, membro del Reggimento Perth del Royal Canadian Infantry Corps, era un uomo di resilienza, dedizione e forza. 
 
 Nato il 16 novembre 1918 a Moose Jaw, Saskatchewan, John crebbe in circostanze difficili. Sua madre, Edna, morì quando lui era ancora un bambino e suo padre si trasferì a Pontiac, Michigan, lasciando John e le sue due sorelle, Elsie ed Edith, a crescere con un forte senso di indipendenza e autosufficienza. Nonostante questa perdita precoce, l’infanzia di John fu segnata dal profondo legame con le sue sorelle, in particolare Edith, che in seguito avrebbe servito nel Royal Canadian Ordnance Corps in Inghilterra durante la guerra.
 

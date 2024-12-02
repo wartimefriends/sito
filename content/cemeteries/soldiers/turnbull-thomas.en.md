@@ -1,7 +1,12 @@
 +++
-title = "Private Thomas TURNBULL of the Lanark and Renfrew Scottish Regiment, Royal Canadian Infantry Corps (R.C.I.C.), was killed in action on December 14, 1944, during the Italian Campaign in World War II. He is buried at the Villanova War Cemetery, Plot VI, Row C, Grave 9."
+title = "TURNBULL Private Thomas - B8088"
 +++
 
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
+
+Private Thomas TURNBULL of the Lanark and Renfrew Scottish Regiment, Royal Canadian Infantry Corps (R.C.I.C.), was killed in action on December 14, 1944, during the Italian Campaign in World War II. He is buried at the Villanova War Cemetery, Plot VI, Row C, Grave 9.
 
 Born in South Dumfries, Ontario, on February 19, 1920, Thomas grew up in a large family. He was the fifth child of Orval and Lulu Turnbull, and he had several siblings, including Bruce, Howard, Roy, and sisters Dorothy, Jean, Mildred, Betty, Joyce, and Mary. Some of his sisters were married and living in Trenton and Burwash, Ontario.
 

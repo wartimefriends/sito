@@ -2,7 +2,9 @@
 title = "Private William J. BURINOT – F5326"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
 
 William J. Burinot was born on October 28, 1919, in Glace Bay, Nova Scotia. The son of William and Mary (Sehl) Burinot, William was raised in a close-knit family on Scateria Island, Cape Breton. He grew up alongside his two brothers, Thomas Leo and Basil Andrew, and five sisters, Catherine, Annie, Elizabeth, Dorothy, and Evangeline. William’s childhood was described as happy, filled with love and support from his family.
 

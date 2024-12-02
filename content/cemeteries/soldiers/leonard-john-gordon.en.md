@@ -1,7 +1,12 @@
 +++
-title = "John Gordon LEONARD, known fondly as “Jackie” among family and friends, was a young man of strong character and quiet dedication."
+title = "L/Corporal John Gordon Leonard - H70488"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+John Gordon LEONARD, known fondly as “Jackie” among family and friends, was a young man of strong character and quiet dedication. 
 Born on February 24, 1919, in Carman, Manitoba, and raised in nearby Sperling, he was part of a large family with five brothers—Roy, Henry, Alfred, Donald, and James—and seven sisters: Kathryn, Dorothy, Marie, Betty, Vera, Phyllis, and Roseann. As the fifth child in a household of thirteen, John grew up with a deep sense of family and community, sharing in the daily responsibilities of rural life.
 
 With only a Grade 3 education, John spent his youth working on the family farm, developing an affinity for farm machinery and learning the skills needed to handle vehicles of all types, including light trucks, farm tractors, and even tracked vehicles. Known for his helpful nature, John often pitched in to support neighboring farms during the busy harvest seasons, becoming a trusted and valued member of his community. Despite his limited schooling, he was naturally inclined toward mechanics, though his main interest was in driving, a skill that eventually led him to work as a truck driver.

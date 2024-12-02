@@ -1,10 +1,10 @@
 +++
-title = "Soldato David John EDLUND"
+title = "Soldato David John EDLUND - K66797"
 +++
 
-Cape Breton Highlanders, R.C.I.C.
-Deceduto per Ferite: 4 gennaio 1945, età 20 anni
-Cimitero di Guerra di Villanova, Settore I, Fila C, Tomba 10
+#### Cape Breton Highlanders, R.C.I.C.
+<br>
+
 
 David John Edlund nacque il 9 maggio 1924 a Prince Rupert, British Columbia, figlio di Albert John e Florence Edlund. Il più giovane di una famiglia mista, David aveva due sorelle, Thelma M. Thody e Iris Mae, una sorellastra, Christina Bendall, e un fratellastro, Ernest Edward, di cui non si conoscevano i contatti. Cresciuto a Burns Lake, BC, David visse un’infanzia in cui suo padre lavorava come tecnico delle linee per il Servizio Telegrafico del Governo, mentre sua madre si occupava della casa.
 

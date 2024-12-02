@@ -1,7 +1,14 @@
 +++
-title = "Private Robert Ivan MULLIGAN, service number B13049, served in the Lanark and Renfrew Scottish Regiment, a unit of the Royal Canadian Infantry Corps (R.C.I.C.). Born on October 30, 1906, in Hartford, Ontario, Robert spent his early years in a large family as the fifth of seven siblings. His parents, Dave and Jessie Elizabeth, lived in Waterford, Ontario, along with his brothers and one sister, Constance Elaine Robinson, who later moved to Buffalo, New York."
+title = "MULLIGAN Private Robert Ivan - B13049"
 +++
 
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
+
+Private Robert Ivan MULLIGAN, service number B13049, served in the Lanark and Renfrew Scottish Regiment, a unit of the Royal Canadian Infantry Corps (R.C.I.C.). 
+
+Born on October 30, 1906, in Hartford, Ontario, Robert spent his early years in a large family as the fifth of seven siblings. His parents, Dave and Jessie Elizabeth, lived in Waterford, Ontario, along with his brothers and one sister, Constance Elaine Robinson, who later moved to Buffalo, New York.
 
 Growing up in a small farming community, Robert left school after the eighth grade at age 14. His career began in mixed farming, primarily in Peace River, Alberta, where he worked from 1921 to 1939. His long-term goal was to own a farm himself, though he held various other jobs over the years. He enjoyed the outdoors and was passionate about sports, particularly hunting, fishing, and softball, where he often played third base.
 

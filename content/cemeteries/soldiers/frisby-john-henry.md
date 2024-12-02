@@ -2,9 +2,9 @@
 title = "Tenente John Henry FRISBY"
 +++
 
-Westminster Regiment (Motors), R.C.I.C.
-Caduto in combattimento: 28 dicembre 1944, all’età di 32 anni
-Cimitero di Guerra di Villanova, Plot I, Fila B, Tomba 1
+#### Westminster Regiment (Motors), R.C.I.C.
+<br>
+
 
 John Henry Frisby nacque il 28 marzo 1912 a Leicester, Hinckley, in Inghilterra, da Charles Wetstone e Mary Elizabeth Frisby. Cresciuto in una fattoria, John acquisì cinque anni di esperienza nell’allevamento di bestiame da latte prima di intraprendere una carriera come fiorista. 
 Dopo essere emigrato in Canada, si stabilì a Langley Prairie, British Columbia, dove lavorò per 14 anni come caporeparto presso la Langley Greenhouses Ltd. Sebbene eccellesse in orticoltura, John coltivava il sogno di diventare carpentiere dopo la guerra, ispirato dalla sua passione per la lavorazione del legno.

@@ -1,6 +1,10 @@
 +++
-title = "Sergeant Fred William TAYLOR (A58162)"
+title = "TAYLOR Sergeant Fred William - A58162"
 +++
+
+#### Cape Breton Highlanders, R.C.I.C.
+<br>
+
 
 Born on April 26, 1919, in St. Thomas, Ontario, Fred William Taylor grew up in a close-knit family. He was the son of Fred Borman and Harriet Ann Taylor and had two brothers, Frank Edgar and John Lauchlin. Frank was a policeman, John was an Airman and Fred joined the Army. His family had also endured the loss of his sister, Muriel Irene, who passed away in 1921. At the time of his enlistment, Fred was living in Watford, Ontario, and working as a laborer for a chicken buyer. His ambition was to become a traffic officer.
 

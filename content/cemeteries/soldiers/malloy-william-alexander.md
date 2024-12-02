@@ -1,7 +1,12 @@
 +++
-title = "La storia di William Alexander MALLOY è una storia di coraggio, di sacrificio e di una vita dedicata al servizio in mezzo alle sfide della guerra."
+title = "Soldato William Alexander MALLOY - F/2969"
 +++
 
+#### C Company – Irish Regiment of Canada, R.C.I.C.
+<br>
+
+
+La storia di William Alexander MALLOY è una storia di coraggio, di sacrificio e di una vita dedicata al servizio in mezzo alle sfide della guerra. 
 Nato in una famiglia modesta, William è cresciuto con valori di duro lavoro, resilienza e lealtà, qualità che in seguito avrebbero definito il suo viaggio militare e il suo estremo sacrificio.
 
 Come molti giovani della sua generazione, William rispose alla chiamata a servire durante la Seconda Guerra Mondiale. Si arruolò con determinazione, lasciandosi alle spalle le comodità familiari di casa per unirsi a innumerevoli altri nella lotta per un mondo migliore. Le sue ragioni per arruolarsi nell'esercito erano radicate nel senso del dovere e nella volontà di difendere il suo paese, anche a costo di grandi rischi personali.

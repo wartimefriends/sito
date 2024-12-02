@@ -2,10 +2,9 @@
 title = "Corporal George Benjamin BOUTWELL - K42746"
 +++
 
-Westminster Regiment (Motors) R.C.I.C.
-VII-A-4
+#### Westminster Regiment (Motors) R.C.I.C.
+<br>
 
-A Life of Service, Sacrifice, and Family
 
 Born on September 18, 1919, in Salmon Arm, British Columbia, George Benjamin Boutwell grew up in a close-knit yet tumultuous family. The fourth of five children, George’s early life was marked by loss and resilience. 
 His mother, Gertrude Florence Buchan, passed away when George was just 18 months old, leaving his father, George Leslie Boutwell, to raise the family. 

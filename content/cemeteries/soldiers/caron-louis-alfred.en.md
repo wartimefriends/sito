@@ -2,7 +2,9 @@
 title = "Private Louis Alfred CARON - B/ 149569"
 +++
 
-D Company, Irish Regiment of Canada
+#### D Company, Irish Regiment of Canada
+<br>
+
 
 Louis Alfred Caron was born on July 14, 1919, in Timmins, Ontario, to Alfred and Marie Caron. The second of five children, Louis grew up in a tight-knit family with his siblings—Charles Eugene, Mary Bianche (later Larkin), and Rita. 
 A medium-complexioned young man with dark brown hair and brown eyes, Louis was known for his clean appearance, well-groomed style, and warm personality.

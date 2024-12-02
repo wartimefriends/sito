@@ -1,9 +1,12 @@
 +++
-title = "Private Kenneth Herbert JONES: A Life of Determination and Sacrifice"
+title = "Private Kenneth Herbert JONES"
 +++
 
+#### Lanark and Renfrew Scottish Regiment R.C.I.C.
+<br>
 
-Private Kenneth Herbert Jones was born on February 13, 1920, in Port Hope, Ontario, the only son of Thomas Herbert and Annie Elizabeth Jones. Kenneth grew up in a modest household; his father worked as a caretaker and gravedigger for the local cemetery. His childhood was marked by the loss of his younger sister, who passed away at age 16, leaving Kenneth as the family’s sole surviving child. Despite this, Kenneth maintained a lively, adventurous spirit that would define his life.
+
+Kenneth Herbert Jones was born on February 13, 1920, in Port Hope, Ontario, the only son of Thomas Herbert and Annie Elizabeth Jones. Kenneth grew up in a modest household; his father worked as a caretaker and gravedigger for the local cemetery. His childhood was marked by the loss of his younger sister, who passed away at age 16, leaving Kenneth as the family’s sole surviving child. Despite this, Kenneth maintained a lively, adventurous spirit that would define his life.
 
 Kenneth completed Grade 8 but struggled in school, disliking lessons and finding academic life challenging. However, he possessed a natural aptitude for mechanics and was known as a talented, self-taught mechanic. Before enlisting, Kenneth worked as a grinder for Nicolson File Co. from 1939 to 1941, developing practical skills and a strong work ethic.
 

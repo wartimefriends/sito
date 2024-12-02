@@ -1,7 +1,12 @@
 +++
-title = "Private William Jack RICHARDSON was born on February 17, 1921, in St. Marys, Ontario, to John Alfred and Minnie Alice Richardson. As the eldest of three siblings, he grew up with a strong sense of family and responsibility, sharing his early years with his brother, Robert Percival, and two sisters, Irene Lorrain and Evelyn Audrey. Known for his fair complexion, blue eyes, and brown hair, William stood 5 feet 7 1/2 inches tall and weighed a solid 165 pounds, embodying the quiet strength and resilience typical of his generation."
+title = "RICHARDSON Private William Jack - A11792"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+William Jack RICHARDSON was born on February 17, 1921, in St. Marys, Ontario, to John Alfred and Minnie Alice Richardson. As the eldest of three siblings, he grew up with a strong sense of family and responsibility, sharing his early years with his brother, Robert Percival, and two sisters, Irene Lorrain and Evelyn Audrey. Known for his fair complexion, blue eyes, and brown hair, William stood 5 feet 7 1/2 inches tall and weighed a solid 165 pounds, embodying the quiet strength and resilience typical of his generation.
 
 William’s early life was grounded in simplicity and hard work. He attended school until the age of 14, completing grade 10 before deciding to leave and enter the workforce to help support his family. His employment history reflected his work ethic and adaptability: he delivered milk for H. Sparling Dairy in St. Marys from 1937 to 1940, and later worked as a laborer at Adams Wagon Works in Brantford, earning a respectable $50 a week. A young man of action, he enjoyed outdoor activities such as hunting and fishing, and on the hockey rink, he played forward, channeling his energy into the sport he loved.
 

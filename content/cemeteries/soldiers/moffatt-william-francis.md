@@ -1,7 +1,12 @@
 +++
-title = "Il Soldato William Francis MOFFATT, numero di matricola L61701, prestò servizio con il Lanark and Renfrew Scottish Regiment del Royal Canadian Corps."
+title = "Soldato William Francis MOFFATT - L61701"
 +++
 
+#### Lanark and Renfrew Scottish Regiment ,R.C.I.C.
+<br>
+
+
+Il Soldato William Francis MOFFATT, numero di matricola L61701, prestò servizio con il Lanark and Renfrew Scottish Regiment del Royal Canadian Corps.
 Nato il 13 febbraio 1922 a Fleming, Saskatchewan, William aveva 23 anni quando perse tragicamente la vita in azione il 14 dicembre 1944. È sepolto presso il Villanova War Cemetery in Italia.
 
 William crebbe in una famiglia numerosa, figlio di Duncan Hector e Jean. Aveva sei fratelli—Hector, Vernon, Gerald (che prestava anch’egli servizio oltremare), Carl, Gordon e Archie—e quattro sorelle: la signora W. Jackson, Mae, Irene e Winnifred.

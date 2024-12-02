@@ -1,6 +1,9 @@
 +++
-title = "Vivian Penrose Jessop TAYLOR (B63259), MM"
+title = "Sergente Vivian Penrose Jessop TAYLOR (B63259), MM"
 +++
+
+#### 4th Princess Louise Dragoon Guards R.C.A.C.
+<br>
 
 
 Nato il 9 febbraio 1922 a Parry Sound, Ontario, Vivian Penrose Jessop Taylor è cresciuto in una famiglia con forti valori radicati. Era il figlio più giovane di George Henry e Leo Jessop e aveva tre fratelli, Leopold, Dennis e Hal, oltre a tre sorelle, Yvonne Jackson, Mrs. Daintry McGonigue e Zoe. Suo fratello Hal risultò disperso in azione nel 1943 durante un volo sopra il Mediterraneo.

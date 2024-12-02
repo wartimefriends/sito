@@ -1,6 +1,9 @@
 +++
-title = "Soldato Herbert Thomas GIBSON"
+title = "Soldato Herbert Thomas GIBSON - B17775"
 +++
+
+#### Lanark and Renfrew Scottish Regiment R.C.I.C.
+<br>
 
 
 La vita di Herbert Thomas Gibson riflette la storia di un giovane pieno di energia, ambizione e desiderio di servire il proprio paese, nonostante le sfide personali affrontate lungo il cammino.

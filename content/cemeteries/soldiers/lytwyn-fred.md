@@ -1,7 +1,12 @@
 +++
-title = "Il caporale Fred LYTWYN, membro della compagnia ‘A’ del reggimento dei Perth, Royal Canadian Infantry Corps, era un giovane la cui vita fu tragicamente interrotta negli ultimi mesi della seconda guerra mondiale."
+title = "Lytwyn Lance Corporal Fred - A102225"
 +++
 
+#### "A" Coy., Perth Regiment R.C.I.C.
+<br>
+
+
+Il caporale Fred LYTWYN, membro della compagnia ‘A’ del reggimento dei Perth, Royal Canadian Infantry Corps, era un giovane la cui vita fu tragicamente interrotta negli ultimi mesi della seconda guerra mondiale. 
 Ufficialmente indicato come 17enne al momento della sua morte il 20 dicembre 1944, l'età effettiva di Fred era più vicina ai 26 anni, una discrepanza che parla delle complessità e delle sfide affrontate da molti giovani della sua epoca. 
 Riposa nel cimitero di guerra di Villanova, in Italia, testimone silenzioso del coraggio e della determinazione che hanno definito la sua breve ma incisiva vita.
 La sua tomba è stata adottata molti anni fa dalla famiglia Benedetti di Bagnacavallo e il testimone è stato passato alle figlie ed ora alle nipoti. 

@@ -2,7 +2,9 @@
 title = "Private Miro George BARTKO:"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
 
 Private Miro George Bartko was born on August 29, 1923, in Sokal, Saskatchewan (though his attestation papers suggest 1920). The son of Dmytro and Bessie Bartko, he grew up in a large family alongside his three brothers—William, Orest, and Walter—and four sisters—Emily, Jean, Anne Rose, and Sylvia. Raised in a close-knit farming community, 
 Miro attended Dunwell School but left after completing Grade 8, setting out to work as a truck driver, a role he held for four years before enlisting.

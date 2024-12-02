@@ -1,7 +1,12 @@
 +++
-title = "Tenente Robert Whyte PATTERSON nacque il 1º marzo 1917 a Stratford, Ontario, Canada. Figlio di Lucinda Patterson e del defunto Harry M. Patterson, presidente della Stratford Brass Company, crebbe in una famiglia che valorizzava l’impegno comunitario e il duro lavoro. Affettuosamente conosciuto come “Bob”, incarnò queste qualità per tutta la sua vita."
+title = "Tenente Robert Whyte PATTERSON"
 +++
 
+#### Perth Regt., R.C.I.C.
+<br>
+
+
+Robert Whyte PATTERSON nacque il 1º marzo 1917 a Stratford, Ontario, Canada. Figlio di Lucinda Patterson e del defunto Harry M. Patterson, presidente della Stratford Brass Company, crebbe in una famiglia che valorizzava l’impegno comunitario e il duro lavoro. Affettuosamente conosciuto come “Bob”, incarnò queste qualità per tutta la sua vita.
 
 Bob frequentò la Avon Public School e la Stratford Collegiate-Vocational Institute, distinguendosi non solo come studente diligente ma anche come atleta eccezionale. Praticò hockey, rugby e basket per le squadre scolastiche, partecipando alle competizioni della Western Ontario Secondary Schools Association. La sua passione per lo sport proseguì nell’età adulta, dove rimase attivo in varie discipline.
 

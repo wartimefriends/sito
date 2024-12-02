@@ -1,6 +1,9 @@
 +++
-title = "La Vita e il Servizio del Soldato John Sinclair"
+title = "Soldato John Sinclair - D10155"
 +++
+
+#### Lanark and Renfrew Regiment, R.C.I.C.
+<br>
 
 
 Il soldato John Sinclair, membro del reggimento Lanark e Renfrew del Royal Canadian Infantry Corps (R.C.I.C.), servì il suo paese con coraggio, fino a quando la sua vita venne tragicamente spezzata in battaglia il 6 gennaio 1945, all’età di 38 anni. John Sinclair riposa al Villanova War Cemetery, in Italia, nella tomba I-A-3, dove il suo sacrificio è commemorato ancora oggi.

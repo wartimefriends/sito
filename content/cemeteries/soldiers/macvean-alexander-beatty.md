@@ -1,7 +1,12 @@
 +++
-title = "Alexander Beatty MacVEAN nacque il 2 maggio 1917 a Greenock, in Scozia, in una famiglia profondamente legata alle tradizioni marittime. Suo padre, Murdoch C. MacVean, era un ingegnere navale, una carriera che probabilmente influenzò i primi anni di vita di Alexander vicino al mare."
+title = "Soldato Alexander B. MacVEAN, - F44734"
 +++
 
+#### Cape Breton Highlander, R.C.I.C.
+<br>
+
+
+Alexander Beatty MacVEAN nacque il 2 maggio 1917 a Greenock, in Scozia, in una famiglia profondamente legata alle tradizioni marittime. Suo padre, Murdoch C. MacVean, era un ingegnere navale, una carriera che probabilmente influenzò i primi anni di vita di Alexander vicino al mare. 
 Nel 1924, quando Alexander aveva sette anni, la sua famiglia emigrò in Canada, stabilendosi a Pictou, Nuova Scozia. Questo nuovo inizio in Canada avrebbe plasmato la sua giovinezza e il suo futuro.
 
 Alexander era uno di nove fratelli, in una famiglia che incarnava resilienza e adattabilità. Suo fratello, Murdoch Jr., servì nella Royal Canadian Naval Reserve, e aveva sei sorelle sparse tra il Canada, gli Stati Uniti e il Regno Unito. Alexander affrontò una perdita significativa in giovane età quando suo fratello Peter morì nel 1928. Nonostante queste difficoltà, completò gli studi fino all’undicesimo grado alla Pictou Academy prima di interrompere la sua istruzione formale.

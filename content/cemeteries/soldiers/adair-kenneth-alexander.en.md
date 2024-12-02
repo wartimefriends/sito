@@ -2,9 +2,9 @@
 title = "Private Kenneth Alexander ADAIR - Service Number: A22993"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
 
-Perth Regiment, R.C.I.C.
-Killed in Action: December 20, 1944, Italy
 
 Kenneth Alexander Adair was born on April 16, 1922, in London, Ontario. 
 He grew up in a large family of seven children—three brothers and three sisters—in a household that valued hard work and perseverance. Kenneth’s father, Frank Roy Adair, and mother, Dorothy Stockdale Adair, instilled in their children a strong sense of duty and resilience, qualities that would later shape Kenneth’s path in life.

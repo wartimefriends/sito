@@ -2,7 +2,9 @@
 title = "Soldato John Lloyd Russell BRADLEY - Numero di matricola C121373"
 +++
 
-Lanark and Renfrew Scottish Regiment, Corpo di Fanteria Reale Canadese
+#### Lanark and Renfrew Scottish Regiment, Corpo di Fanteria Reale Canadese
+<br>
+
 
 Nato il 9 settembre 1924 a Ottawa, Ontario, John Lloyd Russell Bradley era il maggiore di quattro figli in una famiglia amorevole. I suoi genitori, William John e Margaret Lillian Bradley, crebbero John insieme alle sue tre sorelle minori: Lillian Alethea, Maureen Ruth e Beverley Ann. Come fratello maggiore, John si distinse per il suo senso di responsabilità e la sua determinazione silenziosa, dando un esempio positivo ai suoi fratelli.
 

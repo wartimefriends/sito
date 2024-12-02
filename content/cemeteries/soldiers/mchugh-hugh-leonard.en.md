@@ -1,7 +1,12 @@
 +++
-title = "Lance Sergeant Hugh Leonard McHUGH was born on June 25, 1913, in St. George, New Brunswick. By the time of his enlistment, he was living in nearby St. Stephen, NB, working as a candy maker for Ganong Bros., a well-known chocolate company where he served as a chocolate mixer and finisher. Hugh, who left school at the age of 15 after completing seven years of public schooling, was remembered as a cooperative, reliable, and good-humored individual. At 5’9” and weighing 140 pounds, with striking blue eyes, he embodied a spirit of commitment and responsibility."
+title = "McHUGH Lance Sergeant Hugh Leonard - G357"
 +++
 
+#### "A" Sqn., 5th Armd. Regt., 8th Princess Louise's Hussars, R.C.A.C
+<br>
+
+
+Hugh Leonard McHUGH was born on June 25, 1913, in St. George, New Brunswick. By the time of his enlistment, he was living in nearby St. Stephen, NB, working as a candy maker for Ganong Bros., a well-known chocolate company where he served as a chocolate mixer and finisher. Hugh, who left school at the age of 15 after completing seven years of public schooling, was remembered as a cooperative, reliable, and good-humored individual. At 5’9” and weighing 140 pounds, with striking blue eyes, he embodied a spirit of commitment and responsibility.
 
 Though dedicated to his trade, Hugh felt a deeper calling, rooted in a sense of duty, which led him to enlist in the Canadian Army on August 6, 1940. 
 He joined the 4th Canadian Motorcycle Regiment, later serving with the 8th Princess Louise’s (New Brunswick) Hussars, a unit of the Royal Canadian Armoured Corps. Known to friends and family as a man of principle and strong character, he demonstrated his loyalty by leaving the comforts of home and the familiar environment of New Brunswick to serve his country in times of great uncertainty.

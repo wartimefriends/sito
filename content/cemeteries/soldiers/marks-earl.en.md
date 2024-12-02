@@ -1,7 +1,12 @@
 +++
-title = "Private Earl MARKS was born on August 28, 1917, in Cannington, Ontario, and raised in a family with strong ties to the community. He was the fourth child of Archibald John (deceased) and Ellen Ethel Marks, who later remarried and lived in Beaverton, Ontario. Earl had a close relationship with his mother, who remarried his late father’s brother, and his family included one brother, Alfred William, and two half-sisters, Mrs. Van Slyck and Mrs. Calderone."
+title = "MARKS Private Earl - B68982"
 +++
 
+#### Perth Regiment, R.C.I.C.
+<br>
+
+
+Earl MARKS was born on August 28, 1917, in Cannington, Ontario, and raised in a family with strong ties to the community. He was the fourth child of Archibald John (deceased) and Ellen Ethel Marks, who later remarried and lived in Beaverton, Ontario. Earl had a close relationship with his mother, who remarried his late father’s brother, and his family included one brother, Alfred William, and two half-sisters, Mrs. Van Slyck and Mrs. Calderone.
 
 Earl left school after completing Grade 10 in a technical program, where he studied architecture. He had to leave school early to help support his widowed mother, demonstrating a sense of responsibility and duty that would later mark his military service. Earl took on various jobs, including work as a carpenter’s helper, a delivery boy, a private chauffeur, and later as an assistant shipper in the wool department at Canada Packers Ltd., where he earned $30 a week. His dream was to one day become a motor mechanic, but life took him in a different direction when he was called to serve his country.
 

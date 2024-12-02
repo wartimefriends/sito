@@ -1,6 +1,10 @@
 +++
-title = "Soldato Maximilian GOLKA"
+title = "Soldato Maximilian GOLKA – B43676"
 +++
+
+#### 4th Princess Louise Dragoon Guards - R.C.I.C.
+<br>
+
 
 
 La vita di Maximilian Golka è una storia di resilienza, duro lavoro e sacrificio estremo, emblematica della dedizione di coloro che hanno servito durante la Seconda Guerra Mondiale.

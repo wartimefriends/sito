@@ -2,9 +2,9 @@
 title = "Soldato Frederick Samuel FOUGERE"
 +++
 
-Lanark and Renfrew Scottish Regiment, R.C.I.C.
-Caduto in combattimento: 13 dicembre 1944, all’età di 25 anni
-Cimitero di Guerra di Villanova, Plot VI, Fila C, Tomba 5
+#### Lanark and Renfrew Scottish Regiment, R.C.I.C.
+<br>
+
 
 Frederick Samuel Fougere nacque il 29 marzo 1919 a Halifax, Nuova Scozia, da Samuel e Kathleen Fougere. Secondo di nove figli, Frederick crebbe in una famiglia numerosa e vivace, con due fratelli—Thomas J. e William A.—e sei sorelle: Eileen, Mae, Lola, Kathleen, Elizabeth ed Helen. La sua infanzia rifletteva le sfide e le opportunità modeste del tempo, con un forte focus sul lavoro e sul sostegno familiare.
 

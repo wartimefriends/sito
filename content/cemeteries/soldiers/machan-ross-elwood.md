@@ -1,7 +1,12 @@
 +++
-title = "Ross Elwood MACHAN nacque il 21 luglio 1922 a Monkton, Ontario, in una famiglia numerosa e molto unita. Cresciuto in una comunità rurale, Ross fu allevato dai suoi genitori, James Edward e Jane Matilda, insieme ai suoi quattro fratelli e cinque sorelle. La vita nella fattoria di famiglia a Listowel instillò in Ross una forte etica del lavoro e un apprezzamento per il lavoro manuale. Da giovane, lavorò in vari lavori all’aperto e successivamente trovò un impiego come operaio e aiutante spedizioniere alla McCarthy’s Milling Co. a Streetsville, Ontario."
+title = "Sergente Ross Elwood MACHAN - B71143"
 +++
 
+#### C I, 4th Princess Louise Dragoon Guards, R.C.A.C.
+<br>
+
+
+Ross Elwood MACHAN nacque il 21 luglio 1922 a Monkton, Ontario, in una famiglia numerosa e molto unita. Cresciuto in una comunità rurale, Ross fu allevato dai suoi genitori, James Edward e Jane Matilda, insieme ai suoi quattro fratelli e cinque sorelle. La vita nella fattoria di famiglia a Listowel instillò in Ross una forte etica del lavoro e un apprezzamento per il lavoro manuale. Da giovane, lavorò in vari lavori all’aperto e successivamente trovò un impiego come operaio e aiutante spedizioniere alla McCarthy’s Milling Co. a Streetsville, Ontario. 
 Anche se lasciò la scuola dopo aver completato l’ottavo grado, Ross dimostrò un’intelligenza naturale e un desiderio di imparare, qualità che gli sarebbero state utili negli anni a venire.
 
 Il 1° settembre 1942, all’età di 20 anni, Ross si arruolò nell’esercito canadese a Toronto, Ontario. Come molti giovani della sua generazione, sentì il richiamo di servire durante un periodo di conflitto globale e si unì al Canadian Armoured Corps (CAC) con la speranza di dare un contributo significativo. La sua scheda militare indica che era ambizioso, dedicato e adattabile. Descritto come di “buona presenza” e dall’aspetto “giovanile” ma “piuttosto leggero”, Ross possedeva comunque un’intelligenza superiore alla media e la determinazione per diventare un ottimo soldato.

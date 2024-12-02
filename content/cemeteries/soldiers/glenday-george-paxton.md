@@ -1,6 +1,9 @@
 +++
-title = "Caporale George Paxton GLENDAY"
+title = "Caporale George Paxton GLENDAY - D77830"
 +++
+
+#### 4th Princess Louise Dragoon Guards R.C.I.C.
+<br>
 
 
 La vita di George Paxton Glenday è una testimonianza di affidabilità, dedizione e forza silenziosa, qualità che hanno caratterizzato un uomo che ha servito il suo paese con distinzione durante la Seconda Guerra Mondiale.
