@@ -1,5 +1,6 @@
 +++
 title = "Soldato René J. LACASSE - C58518"
+permalink = "/cemeteries/soldiers/lacasse-rene%CC%81-j"
 +++
 
 #### Reggimento Perth, R.C.I.C.
