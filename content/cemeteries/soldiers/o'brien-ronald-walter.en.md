@@ -1,5 +1,6 @@
 +++
 title = "O'BRIEN Lance Corporal Ronald Walter - C70450"
+aliases = "en/cemeteries/soldiers/o'brien-ronald-walter"
 +++
 
 #### 4th Princess Louise Dragoon Guards, R.C.A.C.

@@ -1,5 +1,6 @@
 +++
-title = "Coaporale Ronald Walter O'BRIEN - C70450"
+title = "Caporale Ronald Walter O'BRIEN - C70450"
+aliases = "/cemeteries/soldiers/o'brien-ronald-walter"
 +++
 
 #### 4th Princess Louise Dragoon Guards, R.C.A.C.
