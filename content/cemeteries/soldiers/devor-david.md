@@ -17,7 +17,7 @@ A marzo 1944, raggiunse il fronte italiano, un teatro tra i più impegnativi del
 
 Nel dicembre 1944, il reggimento si trovava presso il fiume Munio, impegnato in operazioni cruciali per superare le difese tedesche lungo il fiume Senio. 
 Il 20 dicembre 1944, durante un violento bombardamento, David perse la vita all’età di soli 20 anni.
-David fu sepolto al Villanova Canadian War Cemetery, in Italia, nel Settore II, Fila A, Tomba 4. La sua tomba è un tributo solenne a un giovane che ha dato la sua vita per la libertà.
+David fu sepolto al Villanova Canadian War Cemetery, in Italia, nel Settore III, Fila A, Tomba 4. La sua tomba è un tributo solenne a un giovane che ha dato la sua vita per la libertà.
 
 La sua storia riflette i sacrifici di tanti giovani soldati che, nonostante sfide personali e dubbi, si alzarono in piedi per servire il loro Paese in un momento di grande bisogno. 
 Il viaggio di David, da artigiano del legno a St. Catharines fino alle rive del Fosso Munio, è una testimonianza di dovere, coraggio e resilienza.

@@ -16,7 +16,7 @@ After initial service in Canada from May to December 1943, David was deployed to
 
 The regiment’s efforts in Italy were pivotal but perilous, involving intense combat and relentless artillery fire. By December 1944, David’s unit was stationed near the Munio River, engaged in operations as part of the broader effort to breach German defenses along the Senio River. On December 20, 1944, during a period of heavy shellfire, David was killed in action at just 20 years of age.
 
-Private David Devor was laid to rest in Villanova Canadian War Cemetery in Italy, Plot II, Row A, Grave 4. His grave serves as a solemn tribute to a young man who gave his life in the pursuit of freedom.
+Private David Devor was laid to rest in Villanova Canadian War Cemetery in Italy, Plot III, Row A, Grave 4. His grave serves as a solemn tribute to a young man who gave his life in the pursuit of freedom.
 
 David’s story reflects the sacrifices made by so many young soldiers who, despite personal challenges and doubts, rose to serve their country during a time of great need. His journey, from a woodworker in St. Catharines to the banks of the Munio River, is a testament to duty, courage, and resilience. Though his life was tragically brief, his sacrifice remains a poignant reminder of the cost of war and the enduring legacy of those who fought for a better future.
 
