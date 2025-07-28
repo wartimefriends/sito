@@ -3,7 +3,7 @@ title= "Rosalia Fantoni"
 +++
 
 
-Rosalia Fantoni (Villanova di Bagnacavallo) ha insegnato per oltre vent’anni nella Scuola Elementare. Laureatasi nel 1975 presso l’università agli studi di Urbino, ha prestato servizio in qualità di Direttore Didattico dal 1984 al 1994. Conclusa l’esperienza scolastica è impegnata nella vita sociale della sua comunità, nello specifico nel Consiglio di Frazione di Villanova, di cui è presidente. E’ Presidente dell’Università per Adulti di Lugo.
+Rosalia Fantoni (Villanova di Bagnacavallo) ha insegnato per oltre vent’anni nella Scuola Elementare. Laureatasi nel 1975 presso l’università agli studi di Urbino, ha prestato servizio in qualità di Direttore Didattico dal 1984 al 1994. Conclusa l’esperienza scolastica è stata impegnata nella vita sociale della sua comunità, nello specifico nel Consiglio di Frazione di Villanova, di cui è stata presidente. Ci ha lasciato nel 2021.
 
 #CASA LONTANO DA CASA
 L’autrice testimonia, con calore e partecipazione, l’intensità del felice rapporto stabilitosi fra le truppe canadesi e la popolazione di Villanova di Bagnacavallo nel corso delle tragiche vicende belliche. Un legame forte che si è mantenuto negli anni fino ad oggi ed ha superato i confini delle generazioni coinvolte nella guerra.
