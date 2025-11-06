@@ -3,6 +3,9 @@ title= "Borgo Giacconi"
 +++
 
 
+![Borgo Giacconi](/images/friends/giacconi.jpg)
+
+
 **Prefazione**
 
 È nelle pieghe più riposte della storia, nei luoghi accessori che accade l’essenziale: ciò che definisce e qualifica l’umano. Laddove il rimbombo dei vasti, rovinosi eventi del male arriva avvolto da un torpore d’irrealtà, e più nitide sono le presenze dei singoli, ognuno con la propria eresia di speranza, con la propria tenace innocenza.
@@ -13,10 +16,12 @@ Nei personaggi di questo racconto vi è un’umanità che accade seriamente: l�
 Calore della solidarietà, che accende torce nelle cupezze di atroci eventi: luce degli occhi buoni, che fissano in volto il male, senza cedervi, perché sanno il minuscolo appiglio: l’eterno, immobile amore.
 Il racconto di Ferroni, scritto con la grazia della precisione e dell’affetto, è pieno di simboli delicatissimi, che narrano il reale significando la perpetua tutela dell’invisibile: c’è un punto, sembra dire il narratore, al centro del nostro cuore, dove siamo liberi, anche se affamati, impauriti, tenuti in catene. È dove decidiamo di non odiare, di non cedere al lavorìo della morte che radica lentissima in quanto non porgiamo, spogliandoci di tutto. Già angeli, gli affranti che perseverano nel bene sono fortezze di carità: si fanno offerta, elargita salvezza, come il pane spezzato di Cristo.
 
-Isabella Bignozzi
+_Isabella Bignozzi_
+
 
 **Borgo Giacconi**
- _la Cantina di Piazza Nuova, Bagnacavallo(Ra), sabato11 - Osteria del Sole(Bo), venerdì 17 gennaio 2025_
+_la Cantina di Piazza Nuova, Bagnacavallo(Ra), sabato11 - Osteria del Sole(Bo), venerdì 17 gennaio 2025_
+
 
 I ragazzi del Perth, dell’Irish e infine del Lanark and Renfrew Scottish Regiment, provenendo da sud-est, arrivarono inizialmente nella casa di Luciano, lungo Via Canala, da dove, solo poche ore prima, se ne erano andati i tedeschi che la occupavano, creando un silenzio surreale, dove tutto il mondo taceva nell’incertezza del momento.
 Presi da fretta e terrore non si erano neppure preoccupati di cancellare quella sorta di grande carta topografica, abbozzata a matita sulla parete e presto cancellata e sostituita dalle annotazioni dei canadesi.
