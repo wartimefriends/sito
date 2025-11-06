@@ -20,6 +20,7 @@ _Isabella Bignozzi_
 
 
 **Borgo Giacconi**
+
 _la Cantina di Piazza Nuova, Bagnacavallo(Ra), sabato11 - Osteria del Sole(Bo), venerdì 17 gennaio 2025_
 
 
