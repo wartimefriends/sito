@@ -21,3 +21,5 @@ Take Autostrada A 14, Bologna –Ancona, and branch off to Ravenna. Turn left al
 <a href="/images/files/Cimitero di villanova 3.jpg"  target=_blank><img src="/images/files/Cimitero di villanova 3.jpg" alt="Foto Villanova 3" width="370" height="247"></a><br>
 <hr>
 <center><b><a href="/docs/Villanova.pdf" > GRAVE DATABASE </a></b>
+<hr>
+<center><b><a href="/en/cemeteries/soldiers/home/" > BIOGRAPHIES of buried soldiers</a></b>
