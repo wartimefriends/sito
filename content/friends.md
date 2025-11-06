@@ -15,3 +15,4 @@ Questa pagina contiene racconti, biografie e altro ancora di amici conosciuti du
 - [Gino Farnetti](/friends/gino_farnetti/)
 - [Gen. Antonio Li Gobbi](/friends/aligobbi/)
 - [Francesco Argnani](/friends/francesco_argnani)
+- [Daniele Ferroni](/friends/daniele_ferroni)
