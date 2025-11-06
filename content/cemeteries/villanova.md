@@ -18,3 +18,7 @@ Prendete l’autostrada A 14 direzione Bologna-Ancona, seguite la diramazione A1
 <a href="/images/files/Cimitero di villanova 3.jpg"  target=_blank><img src="/images/files/Cimitero di villanova 3.jpg" alt="Foto Villanova 3" width="370" height="247"></a><br>
 <hr>
 <center><b><a href="/docs/Villanova.pdf" > DATABASE Caduti</a></b>
+<hr>
+[BIOGRAFIE dei soldati sepolti nel cimitero](/cemeteries/soldiers/home/)
+
+
