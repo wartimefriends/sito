@@ -19,6 +19,5 @@ Prendete l’autostrada A 14 direzione Bologna-Ancona, seguite la diramazione A1
 <hr>
 <center><b><a href="/docs/Villanova.pdf" > DATABASE Caduti</a></b>
 <hr>
-[BIOGRAFIE dei soldati sepolti nel cimitero](/cemeteries/soldiers/home/)
-
+<center><b><a href="/cemeteries/soldiers/home/" > BIOGRAFIE dei soldati sepolti nel cimitero</a></b>
 
