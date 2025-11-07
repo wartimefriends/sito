@@ -2,6 +2,15 @@
 title= "articoli"
 +++
 
+
+[L'oggetto della memoria, da Il Resto del Carlino del 2-11-2021](</docs/art 2-11-2025 Oggetto della memoria Carlino.pdf>)
+
+[In una sacca l'ultima traccia del soldato McDonald, da Repubblica del 1-11-2025](</docs/art 1-11-2025 Repubblica.pdf>)
+
+[Ritrovata la sacca di un soldato canadese caduto durante la Liberazione, da RavennaeDintorni del 29-10-2025](</docs/art 29-10-2025 Russi.pdf>)
+
+[L'uomo dei due mondi, da Editoriale Oggi del 19-8-2025](</docs/art 19-8-2025 Editoriale OGGI.pdf>)
+
 [Che Dio abbia in gloria quei canadesi, da Arminum Anno XXX - N. 4 - Agosto - Settembre - Ottobre 2023](</docs/Che Dio abbia un gloria quei canadesi.pdf>)
 
 [La visita della figlia del soldato canadese.., da Corriere di Romagna del 17-9-2023](</docs/art visita della figlia del soldato 17-9-2023.jpg>)
