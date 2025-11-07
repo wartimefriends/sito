@@ -8,6 +8,7 @@ title= "Borgo Giacconi"
 
 
 **Preface**
+
 It is in the most hidden folds of history, in the peripheral places, that the essential happens, what defines and qualifies the human.
 Where the echoes of vast, ruinous events of evil come cloaked in a torpor of unreality, the presences of individuals stand out more clearly, each with their own heresy of hope, with their own tenacious innocence.
 Daniele Ferroin knows how to depict this suspended atmosphere, a marginal scenario, bent under the crashes of war and marked by arduous days, dense with waiting between opposing offensive plans penciled onto walls. Between shots in the wind, deadly snipers embedded in ditches, lifeless bodies wrapped in tarps. Everything rendered in chiaroscuro with the infinite tenderness of childhood, with the miracle of help, of an outstretched hand in the cold.
