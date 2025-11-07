@@ -3,16 +3,21 @@ title= "Il Santo"
 +++
 
 
+
+![Il Santo](/images/friends/IlSanto.jpg)
+
+
 **Prefazione:**
 
 La prima domanda che mi è venuta in mente appena ho terminato di leggere il racconto di Daniele Ferroni è stata:
 cosa ha spinto un bravo fotografo a scrivere questo racconto di guerra? Ho pensato all'atmosfera pesante e irrespirabile che stiamo attraversando, la guerra in Ucraina con il pericolo dell'atomica, la striscia di Gaza e altre guerre di cui non sappiamo niente, ma non per questo meno tragiche e cruenti, che si svolgono ogni giorno in giro per il mondo. Tutto questo può senz'altro avere influito, magari inconsciamente, nel nostro autore. Oppure l'amore per la sua terra nel periodo della seconda guerra mondiale, là, sulle rive del fiume Lamone in questi ultimi tempi tragicamente esondato mettendo a dura prova la popolazione e lo stesso Daniele come in tempi di guerra se non di più. Poi ho pensato ai Canadesi. Ce n'erano molti, mi raccontava mio padre, anche a Cesenatico, brava gente che cercava di dare il meglio aiutando e spesso sfamando i miei concittadini ormai allo stremo. Il Santo era uno di loro e mi è sembrato sacrosanto cercare di tramandarne la memoria. 
 Al di là dei motivi che possono avere spinto Daniele a scrivere, questo breve racconto mi sembra molto pulito, credibile e interessante. Penso che dovrebbe essere letto nelle scuole per trasmettere ai giovani il significato nefando della guerra e l'amore per la vita.
 
-Stefano Simoncelli, aprile 2025
+_Stefano Simoncelli, aprile 2025_
 
 
 **Il Santo**
+
 _in viaggio verso Zurigo, giovedì 22 agosto, Kehl - Baden (Svizzera), venerdì 23 agosto - Villanova B.c, giovedì 29 agosto 2024_
 
 Di certo Marina non lo sapeva che quella casa nascondeva tante storie e fra queste quella del Santo, quando in quel lontano maggio del 1976 venne a fotografare le braccianti, intente a raccogliere fagiolini, per il suo progetto “Noi, altre. Immagini e storie di donne”.  Il loro ridere e il cantare, chinate nel lavoro, riportava pace in quel luogo che aveva visto tante giovani vite spezzate dall’odio della guerra.

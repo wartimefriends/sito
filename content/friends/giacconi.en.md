@@ -3,6 +3,10 @@ title= "Borgo Giacconi"
 +++
 
 
+
+![Borgo Giacconi](/images/friends/giacconi.jpg)
+
+
 **Preface**
 It is in the most hidden folds of history, in the peripheral places, that the essential happens, what defines and qualifies the human.
 Where the echoes of vast, ruinous events of evil come cloaked in a torpor of unreality, the presences of individuals stand out more clearly, each with their own heresy of hope, with their own tenacious innocence.

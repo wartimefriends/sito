@@ -2,6 +2,7 @@
 title= "The Saint"
 +++
 
+![Il Santo](/images/friends/IlSanto.jpg)
 
 **Foreword**
 
@@ -12,12 +13,13 @@ Or perhaps it was his love for his homeland during the Second World War — ther
 Then I thought of the Canadians. My father used to tell me there were many of them in Cesenatico too — good people who tried to give their best, helping and often feeding my fellow townspeople who were by then on the verge of starvation. “The Saint” was one of them, and it seemed only right to me to help preserve their memory.
 Whatever reasons may have led Daniele to write this story, I find it clean, credible, and compelling. I believe it should be read in schools, to help young people understand the horror of war and the importance of loving life.
 
-Stefano Simoncelli, April 2025
+_Stefano Simoncelli, April 2025_
 
 
 **The Saint**
 
-On the way to Zurich, Thursday, August 22 – Kehl - Baden (Switzerland), Friday, August 23 – Villanova B.c., Thursday, August 29, 2024
+_On the way to Zurich, Thursday, August 22 – Kehl - Baden (Switzerland), Friday, August 23 – Villanova B.c., Thursday, August 29, 2024_
+
 Marina certainly didn’t know that this house held so many stories, including that of the Saint when in that distant May of 1976 she came to take photographs of the female farmworkers picking green beans for her project: We, Others. Images and Stories of Women. Their laughter and singing, bent over their work, restored peace to a place that had seen so many young lives cut short by the hatred of war.
 It was December 1944. The Allied troops were slowly moving up the peninsula, liberating it town by town from the Nazi-Fascist occupiers.
 Within the British Eighth Army, the Canadian regiments were proving their worth throughout Romagna, particularly in the area between Highway SS 16 and the railway line connecting Russi to Castelbolognese, across the rural districts of Bagnacavallo and Russi, and along the natural trenches formed by the Naviglio Canal, the Lamone River, and the ditches north and south of them - natural defenses that continuously hindered their advance.
