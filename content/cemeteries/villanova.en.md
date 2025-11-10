@@ -22,4 +22,4 @@ Take Autostrada A 14, Bologna –Ancona, and branch off to Ravenna. Turn left al
 <hr>
 <center><b><a href="/docs/Villanova.pdf" > GRAVE DATABASE </a></b>
 <hr>
-<center><b><a href="/en/cemeteries/soldiers/home/" > BIOGRAPHIES of buried soldiers</a></b>
+<center><b><a href="/en/cemeteries/soldiers/home/" >Biographies of the soldiers buried in this Cemetery</a></b>

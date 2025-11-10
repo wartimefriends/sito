@@ -2,6 +2,8 @@
 title= "Press & News in English"
 +++
 
+[Dusty duffel bag found in Italy..., from CBC, Nov 2nd 2025](</docs/art_Dusty_duffel_bag.pdf>)
+
 [Professor Healy and the partisans](</docs/Professor Healy and the partisans.pdf>)
 
 [Gino Farnetti: A Child of War](</docs/AChildOfWar.jpg>)
