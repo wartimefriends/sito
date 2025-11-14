@@ -7,7 +7,7 @@ It is supported by its members and by those who consider their work important. Y
 
 Donations and membership fees can be sent by bank transfer to:
 
-    Wartimefriends Associazione culturale di promozione sociale
+    Wartimefriends Associazione culturale
     Via Donizetti 13
     48012 Bagnacavallo (RA)
     CF: 91021130397
