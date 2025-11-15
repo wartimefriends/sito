@@ -1,5 +1,5 @@
 +++
-title= "Viaggio di vita e guerra"
+title= "Viaggio di Vita e Guerra"
 +++
 
 <br>
