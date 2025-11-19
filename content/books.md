@@ -8,3 +8,4 @@ title= "Libri e pubblicazioni"
 <img src="/images/files/Copertina_gino.jpg" border="1" bordercolor="black" width="97" height="139"> | <b><a href="/books/bambinodivisa/">Il Bambino in divisa</a></b>
 <img src="/images/files/Poems_Massey.jpg" border="1" bordercolor="black" width="97" height="139"> | <b><a href="/books/massey/">Poems di Mert Massey</a></b>
 <img src="/images/files/CopertinaBagnacavalloWWII.jpg" border="1" bordercolor="black" width="97" height="139"> | <b><a href="/books/bagnacavalloWWII/">La Seconda Guerra Mondiale a Bagnacavallo</a></b>
+<img src="/images/Libro_John_Thurlby.jpg" border="1" bordercolor="black" width="97" height="139"> | <b><a href="/books/Thurlby/">Viaggio di Vita e Guerra</a></b>
