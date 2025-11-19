@@ -3,9 +3,9 @@ title= "articoli"
 +++
 
 
-[Diari e letteredai lager tedeschi, da Il Tirreno del 7-11-2021](</docs/art Il Tirreno 7-11-2025.pdf>)
+[Diari e letteredai lager tedeschi, da Il Tirreno del 7-11-2025](</docs/art Il Tirreno 7-11-2025.pdf>)
 
-[L'oggetto della memoria, da Il Resto del Carlino del 2-11-2021](</docs/art 2-11-2025 Oggetto della memoria Carlino.pdf>)
+[L'oggetto della memoria, da Il Resto del Carlino del 2-11-2025](</docs/art 2-11-2025 Oggetto della memoria Carlino.pdf>)
 
 [In una sacca l'ultima traccia del soldato McDonald, da Repubblica del 1-11-2025](</docs/art 1-11-2025 Repubblica.pdf>)
 

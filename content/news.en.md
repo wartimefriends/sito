@@ -5,7 +5,7 @@ title= "Press & News in English"
 
 [Dusty duffel bag found in Italy..., from CBC, Nov 2nd 2025](</docs/art_Dusty_duffel_bag.pdf>)
 
-[History uncovered..., from Cape Breton Post, Oct 30th 2025](</docs/aart 31-10-2025 History uncovered.pdf>)
+[History uncovered..., from Cape Breton Post, Oct 30th 2025](</docs/art 31-10-2025 History uncovered.pdf>)
 
 [Professor Healy and the partisans](</docs/Professor Healy and the partisans.pdf>)
 
