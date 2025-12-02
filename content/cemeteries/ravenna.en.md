@@ -15,7 +15,7 @@ Among those buried in the cemetery are 33 men of the Jewish Infantry Brigade Gro
 <a href="/images/files/Cimitero_Piangipane3.jpg"  target=_blank><img src="/images/files/Cimitero_Piangipane3.jpg" alt="Foto Ravenna 3" width="370" height="247"></a><br>
 <br><hr><br>
 
-<iframe width="640" height="360" src="https://www.cbc.ca/player/play/video/9.6964040"   frameborder="0" allowfullscreen></iframe>
+<iframe src="//www.cbc.ca/i/phoenix/player/syndicate/?sourceId=9.6964040" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 <br><hr><br>
 
