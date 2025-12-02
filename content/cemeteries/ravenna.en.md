@@ -14,5 +14,10 @@ Among those buried in the cemetery are 33 men of the Jewish Infantry Brigade Gro
 <i>The cemetery lies on a communal road 1 kilometre south of SS16 from Ravenna to Ferrara near the village of Piangipane in the Commune and Province of Ravenna. The turning from the main road is at the 143 kilometres stone, 12 kilometres west of Ravenna. The turning is marked with a CWGC sign and a road marked “Piangipane 4 kilometres” Continue along the minor road until a further CWGC sign is seen. The entrance to the cemetery is located on the left hand side of the road. </i><br>
 <a href="/images/files/Cimitero_Piangipane3.jpg"  target=_blank><img src="/images/files/Cimitero_Piangipane3.jpg" alt="Foto Ravenna 3" width="370" height="247"></a><br>
 <br><hr><br>
+
+<iframe width="640" height="360" src="https://www.cbc.ca/player/play/video/9.6964040"   frameborder="0" allowfullscreen></iframe>
+
+<br><hr><br>
+
 <center><b><a href="/images/files/Ravenna.pdf" > GRAVE DATABASE </a></b>
 <br><hr><br>

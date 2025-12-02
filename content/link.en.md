@@ -6,25 +6,15 @@ title= "links"
   
 [Museo della Battaglia del Senio-Istituto Storico della Resistenza](http://www.istoricora.it/ "Istituto Storico")
 
-[Museo Virtuale della Resistenza](www.memoranea.it) 
-
 [Imperial War Museum](http://www.iwm.org.uk/)
-
-[Canadian Heroes](http://cdnheroes.ca/)
-
-[Veterans Affairs of Canada](http://www.vac-acc.gc.ca/general/)
 
 [The Italian Campaign / CBS Archives](http://archives.cbc.ca/war_conflict/second_world_war/topics/1471-9856/)
 
 [Stan Scislowski](http://carol_fus.tripod.com/army_hero_meetstan.html)
 
-[Gordon Bannerman](http://gordiebannerman.com/)
-
 [Fred Cederberg](http://www.capebretonmilitaryhistory.com/collections/personal-profile-collections/cederberg-john-frederic-fred/)
 
 [BBC - WW2 People's War](http://www.bbc.co.uk/ww2peopleswar/)
-
-[Australian War Memorial](http://cas.awm.gov.au/film/F02063/)
 
 [National Library of New Zealand](http://www.natlib.govt.nz/en/using/2atl.html)
 
@@ -32,21 +22,13 @@ title= "links"
 
 [Canadian War Museum](https://www.warmuseum.ca)  
 
-[Libraries and Archives of Canada](www.bac-lac.gc.ca)
-
-[Italy Star Association](www.italystarassociation.org.uk)
-
-[University of Manitoba Library and Archive Collections](www.digitalcollections.lib.umanitoba.ca)
-
-[Royal Regiment of Canada Association](https://www.rregtc-assoc.org)
-
 [Kingsmill - CA](https://themilitarymuseums.ca/mmural/101-150/107/m107.html?fbclid=IwAR0FpuArMVtkH-uZnY4hq4WaOuaS2J173pV4biZsy27m1fW9QIjaIzl6uOs)
 
 [Monte San Martino Trust](https://msmtrust.org.uk)
 
 [WW2 Escape Lines Memorial Society](https://ww2escapelines.co.uk/)
 
-[Commonwealth War Graves](www.cwgc.org) 
+[Commonwealth War Graves](https://www.cwgc.org/) 
 
 [Lord Strathcona’s Horse](https://www.strathconas.ca)
 
@@ -62,7 +44,7 @@ title= "links"
 
 [Loyal Edmonton Regiment Military Museum](https://www.lermuseum.org)
  
-[49th Battalion, The Loyal Edmonton Regiment Association](www.49thbnassociation.ca)
+[49th Battalion, The Loyal Edmonton Regiment Association](https://loyaleddies.com/)
 
 [Perth Regiment of Canada](https://www.perthregiment.ca) 
 
