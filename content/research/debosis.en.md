@@ -58,6 +58,8 @@ Francesca del Rio, tortured by the nazis near Reggio Emilia
 15 US Soldiers of Italian origin murdered by the nazis (OSS Operation Ginny II>)
 
 
+**[Meet the woman uncovering and sharing stories of unknown WWII Allied soldiers ](https://youtu.be/J2TW-D0ic-c?si=7QXbyle2MHo4CghJ)**  
+CBS Saturday Morning meets a woman who has made it her life's work to uncover and share the stories of the more than 500 unnamed WWII Allied soldiers buried in an Italian cemetery.
 
 
 
