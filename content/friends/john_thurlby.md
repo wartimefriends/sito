@@ -44,4 +44,5 @@ John è morto il 20 febbraio 2010 a Stone, pochi giorni dopo il suo 86.mo comple
 
 <BR>
 
-<iframe width="640" height="360" src="https://youtu.be/gpmXN-zM8Tc" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=gpmXN-zM8Tc" frameborder="0" allowfullscreen></iframe>
+
