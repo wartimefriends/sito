@@ -49,6 +49,4 @@ To our great regret, John Thurlby died on  February 20th 2010, a few days after 
 
 <a href="/images/files/BBC Radio Stoke.mp3" >BBC Radio Stoke interview   </a>  <img src="/images/files/radio.gif"></a> 
 
-<BR>
-
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=JuPBWw_MGik" frameborder="0" allowfullscreen></iframe>
+<li><a href="https://www.youtube.com/watch?v=JuPBWw_MGik">John Thurlby and Bagnacavallo - 1945</a></li><br>

@@ -2,6 +2,7 @@
 title= "Press & News in English"
 +++
 
+[A Visit to Campo PG 53, from msmtrust.org.uk, Jan 21st 2026](</docs/art Campo PG 53.pdf>)
 
 [Dusty duffel bag found in Italy..., from CBC, Nov 2nd 2025](</docs/art_Dusty_duffel_bag.pdf>)
 

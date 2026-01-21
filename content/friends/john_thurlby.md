@@ -42,7 +42,7 @@ John è morto il 20 febbraio 2010 a Stone, pochi giorni dopo il suo 86.mo comple
 
 <li><a href="/friends/interview/">Intervista ai veterani John Thurlby e Alan Corlett Woods</a></li><br>
 
-<BR>
+<li><a href="https://www.youtube.com/watch?v=gpmXN-zM8Tc">John Thurlby e Bagnacavallo</a></li><br>
 
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=gpmXN-zM8Tc" frameborder="0" allowfullscreen></iframe>
+
 
