@@ -15,3 +15,5 @@ He loves photographing farmyard animals, poets, and friends.
 <img src="/images/friends/libro_BorgoGiacconi.jpg" border="1" bordercolor="black" width="97" height="139"> | <b><a href="/en/friends/giacconi/">Borgo Giacconi</a></b>
 <hr>
 <img src="/images/friends/libro_IlSanto.jpg" border="1" bordercolor="black" width="97" height="139"> | <b><a href="/en/friends/ilsanto/">The Saint</a></b>
+<hr>
+<img src="/images/friends/libro_Capodanno1944.jpg" border="1" bordercolor="black" width="97" height="139"> | <b><a href="/en/friends/capodanno44/">Il Santo</a></b>
