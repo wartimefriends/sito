@@ -16,4 +16,4 @@ He loves photographing farmyard animals, poets, and friends.
 <hr>
 <img src="/images/friends/libro_IlSanto.jpg" border="1" bordercolor="black" width="97" height="139"> | <b><a href="/en/friends/ilsanto/">The Saint</a></b>
 <hr>
-<img src="/images/friends/libro_Capodanno1944.jpg" border="1" bordercolor="black" width="97" height="139"> | <b><a href="/en/friends/capodanno44/">Il Santo</a></b>
+<img src="/images/friends/libro_Capodanno1944.jpg" border="1" bordercolor="black" width="97" height="139"> | <b><a href="/en/friends/capodanno44/">New Year's Day</a></b>
