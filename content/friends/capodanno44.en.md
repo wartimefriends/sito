@@ -1,5 +1,5 @@
 +++
-title= "New Year’s Day 
+title= "New Year’s Day"
 +++
 
 
@@ -50,4 +50,3 @@ The bystanders looked at him in silence—he was standing in the middle of the s
 In the days that followed, from January 3 to 7, the Germans counterattacked fiercely, at points breaking through Allied lines near the church of the Abbadesse, then at the double bend of Via Chiara, near the Quercioli mill, and at Conventello along Via Basilica.
 It was in those days that John gave his young life for the freedom of those who now write and remember him.
 Little Roberto also saw him lying on the ground, composed as if asleep, the  familiar smile still on his lips. He lay beside others, between the old well and that loggia that had witnessed their joy at Christmas and New Year’s.
-
