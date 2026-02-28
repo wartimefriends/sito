@@ -1,0 +1,31 @@
++++
+title= "Stan Scislowski"
++++
+
+![Stanley Scislovski](/images/friends/FotoStan.JPG)
+
+
+**Not All of Us Were Brave**
+This is the story of a young man’s journey through World War II. It covers a wide cross section of the strengths and weaknesses of young men not attuned to killing, and not mentally prepared to face the horror of seeing their close friends die violent deaths in battle. The story is about the hopes, the prayers, the fears, the daily miseries and even the lighter moments that the aspiring heroes of the Perth Regiment experienced on the Italian front as part of 11th Infantry Brigade, 5th Canadian Armoured Division.
+
+As the title suggests, from his first battle inoculation Private Stan Scislowski realizes he is not destined for the heroic role to which he once aspired. His fears affect him deeply: his burning dream of returning home a national hero becomes more and more improbable, and his attempts to come to terms with his un-heroic nature make the war as much a mental battle as a physical one. His story is much like that of the overwhelming number of Canadians who found themselves in the cauldron of war, serving their country with all the strength they could find, even when that strength was fading fast.
+
+Not All of Us Were Brave focuses not on the heroes, but on the ordinary soldiers who endured the mud, the misery, the ever-present fear, the inspiration, and the degradation. The narrative holds nothing back: the dirty linen is aired along with the clean; the light is shown alongside the dark. It shows what war is all about.
+
+
+![Not All of Us Were Brave](/images/friends/NotAllofUsWereBrave.JPG)
+
+
+_Stanley Scislowski_ was born in Windsor, Ontario on September 13, 1923 and lived in that city all his life. He is a veteran of the Perth Regiment, and fought on the Italian front until an injury put him out of action.  He returned home after the war, got married and fathered six children. 
+
+Very soon, after getting established, Stan began researching and writing accounts of his experience in the Army.
+With other Veterans, Stan made several trips to Italy to examine the old battlefields and honour his fallen comrades. 
+His extensive knowledge of the Italian campaign is very apparent in his book “Not All of Us Were Brave” 
+A member of the Royal Canadian Legion, Branch 594, Scislowski has been editor of the Branch bulletin for 32 years.
+
+Stan passed away May 15, 2007 at 94 of age.
+
+
+![Stan and Red Joe](/images/friends/Stan_and_Red_Joe.JPG)
+
+![Riding on Stan's memories](https://youtu.be/VNhovMCmlPg)

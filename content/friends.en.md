@@ -12,6 +12,7 @@ Friends met during our researches, with some of their stories, biographies and m
 - [Enrico Barattoni](/en/friends/enrico_barattoni/)
 - [Fred Cederberg](/en/friends/fred_cederberg/)
 - [Gordon Bannerman](/en/friends/gordon_bannerman/)
+- [Stan Scislowski](/en/friends/stan_scislowski/)
 - [Gino Farnetti](/en/friends/gino_farnetti/)
 - [Gen. Antonio Li Gobbi](/en/friends/aligobbi/)
 - [Daniele Ferroni](/en/friends/daniele_ferroni)
