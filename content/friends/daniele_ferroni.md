@@ -15,5 +15,5 @@ Ama fotografare gli animali dell’aia, i poeti e gli Amici.
 <hr>
 <img src="/images/friends/libro_IlSanto.jpg" border="1" bordercolor="black" width="97" height="139"> | <b><a href="/friends/ilsanto/">Il Santo</a></b>
 <hr>
-<img src="/images/friends/libro_Capodanno1944.jpg" border="1" bordercolor="black" width="97" height="139"> | <b><a href="/friends/capodanno44/">Il Santo</a></b>
+<img src="/images/friends/libro_Capodanno1944.jpg" border="1" bordercolor="black" width="97" height="139"> | <b><a href="/friends/capodanno44/">Capodanno 1944</a></b>
 
