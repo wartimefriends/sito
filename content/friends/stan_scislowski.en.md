@@ -14,7 +14,7 @@ A member of the Royal Canadian Legion, Branch 594, Scislowski has been editor of
 Stan passed away May 15, 2007 at 94 of age.
 <br>
 
-<img src="/images/friends/NotAllofUsWereBrave.JPG" width="125" height="169" title="Not All of Us Were Brave">
+<img src="/images/friends/NotAllofUsWereBrave.JPG" width="200" height="300" title="Not All of Us Were Brave">
 
 
 **Not All of Us Were Brave**
@@ -24,6 +24,9 @@ As the title suggests, from his first battle inoculation Private Stan Scislowski
 
 Not All of Us Were Brave focuses not on the heroes, but on the ordinary soldiers who endured the mud, the misery, the ever-present fear, the inspiration, and the degradation. The narrative holds nothing back: the dirty linen is aired along with the clean; the light is shown alongside the dark. It shows what war is all about.
 <br>
+
 <img src="/images/friends/Stan_and_Red_Joe.JPG"  title="Stan and Red Joe">
+Stan and Red Joe
+
 <br>
-<li><a href="https://www.youtube.com/watch?v=VNhovMCmlPg">Riding on Stan's memories</a></li><br>
+<li><a href="https://www.youtube.com/watch?v=VNhovMCmlPg">Video: Riding on Stan's memories</a></li><br>
