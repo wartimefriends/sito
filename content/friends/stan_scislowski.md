@@ -26,9 +26,9 @@ Non tutti eravamo coraggiosi non si concentra sugli eroi, ma sui soldati comuni 
 
 <img src="/images/friends/Stan_and_Red_Joe.JPG"  title="Stan and Red Joe">
 Stan insiema a Red Joe
-
+<br>
 <br>
 <a href="/images/friends/Scislowski_Carlino.pdf">Articolo del Resto del Carlino</a>
-
 <br>
-<li><a href="https://www.youtube.com/watch?v=Y3Qe3EOsNDg">Video: Riding on Stan's memories</a></li><br>
+<br>
+<a href="https://www.youtube.com/watch?v=Y3Qe3EOsNDg">Video: Riding on Stan's memories</a>
