@@ -23,21 +23,17 @@ This is the story of a young man’s journey through World War II. It covers a w
 As the title suggests, from his first battle inoculation Private Stan Scislowski realizes he is not destined for the heroic role to which he once aspired. His fears affect him deeply: his burning dream of returning home a national hero becomes more and more improbable, and his attempts to come to terms with his un-heroic nature make the war as much a mental battle as a physical one. His story is much like that of the overwhelming number of Canadians who found themselves in the cauldron of war, serving their country with all the strength they could find, even when that strength was fading fast.
 
 Not All of Us Were Brave focuses not on the heroes, but on the ordinary soldiers who endured the mud, the misery, the ever-present fear, the inspiration, and the degradation. The narrative holds nothing back: the dirty linen is aired along with the clean; the light is shown alongside the dark. It shows what war is all about.
-<br>
-<br>
-<a href="/images/friends/Stan_and_Red_Joe.JPG" target=_blank><img src="/images/friends/Stan_and_Red_Joe.JPG"  title="Stan and Red Joe">
-Stan and Red Joe
-<br>
-<br>
-<a href="/images/friends/TELEGRAPH.pdf" target=_blank><img src="/images/friends/TELEGRAPH.pdf" title="Telegram"></a>
-<br>
-<br>
-<a href="/images/friends/We _will_Remember.jpeg" target=_blank><img src="/images/friends/We _will_Remember.jpeg" title="We will Remember..."></a>
-<br>
-<br>
-<a href="/images/friends/Night_Guard.jpeg" target=_blank><img src="/images/friends/Night_Guard.jpeg" title="Night Guard at the Front"></a>
-<br>
-<br>
+
+
+[Stan and Red Joe](/images/friends/Stan_and_Red_Joe.JPG)
+
+[Telegram](/images/friends/TELEGRAPH.pdf)
+
+[We will Remember](/images/friends/We _will_Remember.jpeg)
+
+[Night Guard at the Front](/images/friends/Night_Guard.jpeg)
+
+
 <a href="https://www.youtube.com/watch?v=VNhovMCmlPg">Video: Riding on Stan's memories</a>
 
 
