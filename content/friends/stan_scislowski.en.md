@@ -38,7 +38,6 @@ Stan and Red Joe
 <a href="/images/friends/Night_Guard.jpeg" target=_blank><img src="/images/friends/Night_Guard.jpeg" title="Night Guard at the Front"></a>
 <br>
 <br>
-<br>
 <a href="https://www.youtube.com/watch?v=VNhovMCmlPg">Video: Riding on Stan's memories</a>
 
 
