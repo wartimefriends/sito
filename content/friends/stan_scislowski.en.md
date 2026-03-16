@@ -29,9 +29,9 @@ Not All of Us Were Brave focuses not on the heroes, but on the ordinary soldiers
 
 [Telegram](/images/friends/TELEGRAPH.pdf)
 
-[We will Remember](/images/friends/We _will_Remember.jpeg)
-
 [Night Guard at the Front](/images/friends/Night_Guard.jpeg)
+
+[We will Remenber](/images/friends/We_will_Remember.jpeg)
 
 
 <a href="https://www.youtube.com/watch?v=VNhovMCmlPg">Video: Riding on Stan's memories</a>
